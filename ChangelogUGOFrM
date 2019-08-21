@@ -1,0 +1,136 @@
+Uncle Genny’s 100% Organic & Free-Range Modpack
+-------------------------------------------------------------------------------
+Modlist and changelog
+January 20, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2838
+
+-- Added Mods --
+----------------
+Actually Additions (by Ellpeck)
+AppleSkin (by squeek502)
+Aroma1997Core (by Aroma1997)
+Aroma1997s Dimensional World (by Aroma1997)
+AutoRegLib (by Vazkii_)
+Baubles (by Azanor13)
+Better Advancements (by way2muchnoise)
+BetterFps (by Guichaguri)
+BiblioCraft (by JDSinclair)
+Biome Bundle (by mc_pitman)
+Bookshelf (by DarkhaxDev)
+Chisel (by tterrag1098)
+Clumps (by Jaredlll08)
+CodeChicken Lib 1.8.+ (by covers1624)
+CoFH Core (by TeamCoFH)
+CoFH World (by TeamCoFH)
+Colossal Chests (by kroeser)
+Common Capabilities (by kroeser)
+ConnectedTexturesMod (by tterrag1098)
+Content Creator Integration (by iChun)
+Controlling (by Jaredlll08)
+Cooking for Blockheads (by BlayTheNinth)
+Corail Tombstone (by Corail_31)
+Cosmetic Armor Reworked (by ZLainSama)
+Crafting Tweaks (by BlayTheNinth)
+CraftTweaker (by Jaredlll08)
+Culinary Construct (by theillusivec4)
+Cyclic (by Lothrazar)
+Cyclops Core (by kroeser)
+Dark Utilities (by DarkhaxDev)
+Decocraft2 (by RazzleberryFox)
+Deep Mob Learning (by IterationFunk)
+Deep Resonance (by McJty)
+Ding (by iChun)
+ElecCore (by Elec332)
+Ender IO (by CrazyPants_MC)
+Ender Utilities (by masa_)
+EnderCore (by tterrag1098)
+Extra Utilities (by RWTema)
+Extreme Reactors (by ZeroNoRyouki)
+Farming for Blockheads (by BlayTheNinth)
+Fast Leaf Decay (by olafskiii)
+Flat Colored Blocks (by AlgorithmX2)
+FoamFix for Minecraft (by asiekierka)
+Furnus (by KidsDontPlay)
+Hatchery (by GenDeathrow)
+Hunting Dimension (by DarkhaxDev)
+Hwyla (by TehNut)
+iChunUtil (by iChun)
+Improved Backpacks (by DreenDex)
+Industrial Foregoing (by Buuz135)
+Integrated Crafting (by kroeser)
+Integrated Dynamics (by kroeser)
+Integrated Terminals (by kroeser)
+Integrated Tunnels (by kroeser)
+Inventory Tweaks (by Kobata)
+Iron Backpacks (by gr8pefish)
+Just Enough Items (JEI) (by mezz)
+Just Enough Resources (JER) (by way2muchnoise)
+LimeLib (by KidsDontPlay)
+MalisisCore (by Ordinastie)
+MalisisDoors (by Ordinastie)
+McJtyLib (by McJty)
+MCMultiPart (by amadornes)
+ModTweaker (by Jaredlll08)
+More Overlays (by FeldiM245)
+Morph (by iChun)
+Morpheus (by Quetzi)
+Mouse Tweaks (by YaLTeR97)
+MrCrayfish's Furniture Mod (by Mr_Crayfish)
+MTLib (by Jaredlll08)
+Nature's Compass (by ChaosTheDude)
+Open Terrain Generator (OTG) (by team_otg)
+OpenBlocks (by OpenMods)
+OpenModsLib (by OpenMods)
+Ore Excavation (by Funwayguy)
+Pam's HarvestCraft (by MatrexsVigil)
+Patchouli (by Vazkii_)
+PizzaCraft (by tiviacz1337)
+Placebo (by Shadows_of_Fire)
+Practical Logistics 2 (by Ollie_Lansdell)
+PTRLib (by RazzleberryFox)
+Quark (by Vazkii_)
+Random Things (by lumien231)
+Redstone Flux (by TeamCoFH)
+Resource Loader (by lumien231)
+RFTools (by McJty)
+RFTools Control (by McJty)
+RFTools Power (by McJty)
+Shadowfacts' Forgelin (by shadowfactsmc)
+Simple Generators (by ValkyrieofNight)
+Simple Storage Network (by Lothrazar)
+SimpleHarvest (by TehNut)
+Sonar Core (by Ollie_Lansdell)
+Tesla Core Lib (by Face_of_Cat)
+The Midnight (by cipher_zero_x)
+Thermal Dynamics (by TeamCoFH)
+Thermal Expansion (by TeamCoFH)
+Thermal Foundation (by TeamCoFH)
+Toast Control (by Shadows_of_Fire)
+Traveller's Backpack (by tiviacz1337)
+Tropicraft (by Cojomax99)
+UniDict (by WanionCane)
+ValkyrieLib (by ValkyrieofNight)
+WanionLib (by WanionCane)
+Xaero's Minimap (by xaero96)
+Xaero's World Map (by xaero96)
+XL Food Mod (by mariot7)
+Xtones (by TehNut)
+ZeroCore (by ZeroNoRyouki)
+
+-- Config Changes --
+--------------------
+splash.cfg
+	nicer colors
+xaerominimap.cfg
+	updateNotification:false
+
+-- Script Changes --
+--------------------
+Scripts:
+	Added displayNames.zs
+
+-- Assets Changes --
+--------------------
+Added Bee gif to Mojang screen
