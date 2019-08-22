@@ -150,3 +150,20 @@ xaerominimap.cfg
 	lockNorth:true
 	showBiome:true
 	Moved to Top Right
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+January 22, 2019
+-------------------------------------------------------------------------------
+
+-- Added Mods --
+----------------
+CraftPresence (by cdagaming)
+
+
+-- Config Changes --
+--------------------
+craftpresence.cfg
+	set clientID
+	set icons to tomislav art
