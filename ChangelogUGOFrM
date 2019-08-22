@@ -134,3 +134,19 @@ Scripts:
 -- Assets Changes --
 --------------------
 Added Bee gif to Mojang screen
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+January 21, 2019
+-------------------------------------------------------------------------------
+
+
+-- Config Changes --
+--------------------
+cfm.cfg (Crayfish's Furniture Mod)
+	B:welcome_message=false
+xaerominimap.cfg
+	lockNorth:true
+	showBiome:true
+	Moved to Top Right
