@@ -1,5 +1,5 @@
 /*
-	Organic Free-Range Display Names change script.
+	100% Organic Free-Range Display Names change script.
 */
 
 import crafttweaker.item.IItemStack;
@@ -14,6 +14,8 @@ static displayNameChange as string[IItemStack] = {
 	<harvestcraft:spagettiandmeatballsitem>: "Mom's Spaghetti n Meatballs"
 };
 
+
+// Do NOT edit below this line //
 
 //	Loop to change Item Display names
 for item, displayName in displayNameChange {
