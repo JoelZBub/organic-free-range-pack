@@ -138,7 +138,7 @@ Added Bee gif to Mojang screen
 
 -------------------------------------------------------------------------------
 Modlist and changelog
-January 21, 2019
+August 21, 2019
 -------------------------------------------------------------------------------
 
 
@@ -154,7 +154,7 @@ xaerominimap.cfg
 
 -------------------------------------------------------------------------------
 Modlist and changelog
-January 22, 2019
+August 22, 2019
 -------------------------------------------------------------------------------
 
 -- Added Mods --
@@ -167,3 +167,55 @@ CraftPresence (by cdagaming)
 craftpresence.cfg
 	set clientID
 	set icons to tomislav art
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+August 27, 2019
+-------------------------------------------------------------------------------
+
+-- Added Mods --
+----------------	
+Akashic Tome (by Vazkii_)
+Custom Main Menu (by lumien231)
+Initial Inventory (by Jaredlll08)
+Phosphor (by jellysquid_)
+stimmedcow: NoMoreRecipeConflict (by Oliv1er)
+
+
+-- Removed Mods --
+--------------------
+Actually Additions (by Ellpeck)
+Aroma1997Core (by Aroma1997)
+Aroma1997s Dimensional World (by Aroma1997)
+Cooking for Blockheads (by BlayTheNinth)
+Corail Tombstone (by Corail_31)
+Dark Utilities (by DarkhaxDev)
+Decocraft2 (by RazzleberryFox)
+Deep Resonance (by McJty)
+ElecCore (by Elec332)
+EnderCore (by tterrag1098)
+Ender IO (by CrazyPants_MC)
+Extreme Reactors (by ZeroNoRyouki)
+Farming for Blockheads (by BlayTheNinth)
+Industrial Foregoing (by Buuz135)
+Iron Backpacks (by gr8pefish)
+Pam's HarvestCraft (by MatrexsVigil)
+PTRLib (by RazzleberryFox)
+RFTools Control (by McJty)
+Tesla Core Lib (by Face_of_Cat)
+Xtones (by TehNut)
+ZeroCore (by ZeroNoRyouki)
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+Removed Harvestcraft references
+
+
+-- Asset Changes --
+-------------------
+
