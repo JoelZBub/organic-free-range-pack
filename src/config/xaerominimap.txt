@@ -4,7 +4,7 @@ updateNotification:false
 settingsButton:false
 allowWrongWorldTeleportation:false
 #INGAME SETTINGS (DO NOT EDIT!)
-minimap:true
+minimap:false
 caveMaps:1
 caveZoom:2
 showPlayers:true
