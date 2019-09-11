@@ -221,8 +221,86 @@ Removed Harvestcraft references
 -- Asset Changes --
 -------------------
 
--- Updateed Mods --
+-- Updated Mods --
 -------------------
 Cyclic (by Lothrazar)
 Ender Utilities (by masa_)
 Xaero's Minimap (by xaero96)
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 10, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2847
+
+-- Added Mods --
+----------------	
+Atum 2 (by Shadowclaimer)
+Bewitchment (by sunconure11)
+Bountiful (by ejektaflex)
+Cannibalism (by SoraZodia)
+Coffee Spawner (by Ruuubi)
+Corpse (by EuhDawson)
+Cravings (by DarkhaxDev)
+DaVincis Vessels (by darkevilmac)
+Dragon Mounts 2 (by TheRPGAdventurer101)
+Dynamic Surroundings (by OreCruncher)
+Edible Bugs (by eractnodi)
+Fossils and Archeology Revival (by FossilsRevival)
+Guide-API (by TehNut, Tombenpotter)
+Inventory Pets (by Purplicious_Cow)
+Mechanical Soldiers (by The_Fireplace)
+Misty World (by Liahim85)
+Mowzie's Mobs (by BobMowzie)
+Nomadic Tents (by skyjay1)
+Overlord (by The_Fireplace)
+Rats (by alex1the1666)
+Redstone Guages and Switches (by wilechaote)
+Secret Rooms Mod (by AbrarSyed,Pricea1)
+Signposts (by Gollorum)
+Simply Cats (by Mnesikos)
+Sound Filters (by Tmtravlr)
+Stupid Things (by Furgl)
+Swan Boats (by SoggyStache)
+Sync (by iChun)
+Taco Tuesday (by Kashdeya)
+TekTopia (by TangoTek)
+Tiny Mob Farm (by davidmaamoaix)
+Trail Mix (by iChun)
+Vampirism (by maxanier)
+
+-- Updated Mods --
+-------------------
+CodeChicken Lib (3.2.3.357 to (3.2.3.358)
+Culinary Construct (1.3.3 to 1.3.3.1)
+Cyclic (1.19.15 to 1.19.16)
+Integrated Dynamics (1.0.18 to 1.1.0)
+Integrated Terminals (1.0.9 to 1.0.10)
+Xaero's Minimap (1.17.7 to 1.17.9)
+Xaero's World Map (1.4.7 to 1.4.9)
+
+
+-- Removed Mods --
+--------------------
+Flat Colored Blocks
+Improved Backpacks
+Simple Harvest
+XL Food Mod
+
+
+-- Config Changes --
+--------------------
+fossil.cfg
+	I:"Lair of Darkness Dimension ID"=-25
+		(fixes Dim ID conflict with The Midnight)
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+
