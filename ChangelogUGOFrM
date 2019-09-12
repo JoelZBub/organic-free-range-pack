@@ -253,6 +253,7 @@ Guide-API (by TehNut, Tombenpotter)
 Inventory Pets (by Purplicious_Cow)
 Mechanical Soldiers (by The_Fireplace)
 Misty World (by Liahim85)
+MovingWorld (by darkevilmac)
 Mowzie's Mobs (by BobMowzie)
 Nomadic Tents (by skyjay1)
 Overlord (by The_Fireplace)
@@ -304,3 +305,47 @@ fossil.cfg
 -- Asset Changes --
 -------------------
 
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 11-12, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2847
+
+-- Mod Freezes --
+-----------------
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------	
+
+
+-- Updated Mods --
+-------------------
+Simple Storage Network (1.7.8 to 1.7.9)
+Xaero's Minimap (1.17.9 to 1.18)
+
+-- Removed Mods --
+--------------------
+Ding!
+
+
+-- Config Changes --
+--------------------
+dsurround.cfg
+	B:"Damage Popoffs"=false
+	I:"Morning Fog Chance"=2 (1 in 2 chance)
+	B:"Enable Online Version Check"=false
+	B:"Armor Sound"=false
+	B:"Enable Biomes Sounds"=false
+	B:"Equip Sound"=false
+	B:"Jump Sound"=false
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
