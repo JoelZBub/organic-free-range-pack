@@ -454,3 +454,24 @@ remove and hide iChisel <chisel:chisel_hitech:0>
 added uncle_splash.txt file 
 added placeholder Main Menu art
 added Fliquid Powergy texture for Sips (by darkphan)
+
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 20, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2847
+
+-- Mod Freezes --
+-----------------
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+
+-- Removed Mods --
+--------------------
+Nomadic Tents
+
+
