@@ -3,21 +3,11 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
-            "alignment" : "top_center"
-        },
-        
-        "edition":
-        {
-            "image" : "custommainmenu:textures/gui/edition.png",
-            "posX" : -49,
-            "posY" : 67,
-            "width" : 128,
-            "height" : 16,
+            "image" : "custommainmenu:textures/gui/UncleGennyTitle.png",
+            "posX" : -267,
+            "posY" : -5,
+            "width" : 535,
+            "height" : 147,
             "alignment" : "top_center"
         }
     },
@@ -153,19 +143,19 @@
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : 70,
+            "posX" : 250,
+            "posY" : 112,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+            "texts" : "file:custommainmenu:texts/uncle_splash.txt"
         },
         
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "custommainmenu:scrn/8008.png",
             "animate" : true,
             "animationSpeed" : 1,
-            "blur" : true,
+            "blur" : false,
             "gradient" : true
         }
     }

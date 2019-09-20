@@ -14,6 +14,7 @@ static hiddenItems as IItemStack[] = [
 
 static removeItems as IIngredient[] = [
 //	<mod:itemname:meta>
+	<chisel:chisel_hitech:0>
 ];
 
 

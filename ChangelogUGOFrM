@@ -349,3 +349,108 @@ dsurround.cfg
 
 
 -- Asset Changes --
+-------------------
+
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 19, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2847
+
+-- Mod Freezes --
+-----------------
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------	
+Advanced Inventory Management (by Schlaubaer22)
+Bamboozled (by InsomniaKitten)
+Better Animals Plus (by Cybercatt5555, ist_meow)
+BetterPortals (by Johni702)
+Blockcraftery (by EpicSquid319)
+Capsule (by Lythom)
+Cavern 2 (by Kegare0127)
+Charset Immersion (by asiekierka)
+CharsetLib
+Clarity (by EpicSquid319)
+Click Machine (by Shadows_of_Fire)
+Cubic Villager (by a1lic)
+Enchantment Descriptions (by DarkhaxDev)
+Extra Golems (by skyjay1)
+Glassential (by Lykrast)
+GlowingCocoa (by leopardengruen)
+Inspirations (by KnightMiner)
+Iron Chests (by ProgWML6)
+JustEnoughIDs (by Runemoro)
+lemonlib (by Lemonszz)
+LightningCraft (by SBlectric)
+Mantle (by mDiyo)
+MineTraps (by XxRexRaotixX)
+More Player Models (by Noppes_)
+MrCrayfish's Gun Mod (by MrCrayfish)
+MrCrayfish's Vehicle Mod (by MrCrayfish)
+MysticalLib (by EpicSquid319)
+Obfuscate (by MrCrayfish)
+Pam's Squid Milking (by pamharvestcraft)
+Pirates (by spectre0987)
+Shear Madness (by AtomicBlom)
+Sips (by codewarrior0)
+Slide'em ALL (by CweLTH)
+Soviet Labs Mod (by legendgamerowner)
+Statues:Rechiseled (by Lemonszz)
+The Disenchanter Mod (ipelon)
+The Erebus (by vadis365)
+The Magic Mirror (by tboshoven)
+Thermal Golems Addon (byskyjay1)
+ThermalLogistics (by Astavie)
+Uncle G's Glass (by SoggyStache, JoelZeBub)
+Unlimited Chisel Works (by asiekierka)
+
+
+
+-- Updated Mods --
+-------------------
+Atum 2 (2.0.13 to 2.0.14)
+Redstone Gauges and Switches (1.1.8-b1 to b2)
+Shadowfacts' Forgelin (1.8.3 to 1.8.4)
+Xaero's Minimap (1.18 to 1.18.1)
+Xaero's World Map (1.4.9 to 1.4.10.1)
+
+
+-- Removed Mods --
+--------------------
+Biome Bundle 
+OTG
+
+
+-- Config Changes --
+--------------------
+cravings.cfg
+	S:cravingUnsatisfied <
+     > [default: [minecraft:speed, 6000], [minecraft:haste, 6000], [minecraft:regeneration, 100, 2]]
+inventorypets.cfg
+	B:"Show Names of Fan Suggestors"=false
+    B:"Show Update Message"=false
+mainmenu.cfg (Custom Main Manu)
+	Changed splash texts location
+MorePlayerModels.cfg
+	EnableUpdateChecker=false
+vampirism/balance/
+	general.cfg
+		I:hunter_camp_density=16 [default=8]
+
+-- Script Changes --
+--------------------
+remove and hide iChisel <chisel:chisel_hitech:0>
+
+
+
+-- Asset Changes --
+-------------------
+added uncle_splash.txt file 
+added placeholder Main Menu art
+added Fliquid Powergy texture for Sips (by darkphan)
