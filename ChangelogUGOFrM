@@ -474,4 +474,10 @@ PizzaCraft 1.4.5 (Release)
 --------------------
 Nomadic Tents
 
+-- Config Changes --
+--------------------
+OpenBlocks.cfg
+	B:grave=false
+	B:infoBook=false
+
 
