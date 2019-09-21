@@ -480,4 +480,16 @@ OpenBlocks.cfg
 	B:grave=false
 	B:infoBook=false
 
+fossils.cfg
+	# List of Dimension IDs to spawn Fossil and Permafrost ores in
+    I:all < 17 >
 
+ValkyrieLib/main.cfg
+	B:first_login_guide_spawn=false
+
+akashictome.cfg
+	S:"Whitelisted Items" <
+		stupidthings:item_catalog >
+
+integrateddynamics.cfg
+	B:on_the_dynamics_of_integration.obtainOnSpawn=false
