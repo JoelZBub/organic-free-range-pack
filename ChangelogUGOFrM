@@ -482,7 +482,8 @@ OpenBlocks.cfg
 
 fossils.cfg
 	# List of Dimension IDs to spawn Fossil and Permafrost ores in
-    I:all < 17 >
+    	I:all < 17 >
+	B:genTropicraftInOverworld=false
 
 ValkyrieLib/main.cfg
 	B:first_login_guide_spawn=false
@@ -493,3 +494,19 @@ akashictome.cfg
 
 integrateddynamics.cfg
 	B:on_the_dynamics_of_integration.obtainOnSpawn=false
+
+Guide-API/Guide-API.cfg
+	B:"cyclicmagic:guide"=false
+	B:"overlord:overlord_guide"=false
+	B:"vampirism:guide"=false
+
+erebus.cfg
+	B:"Block O' Bones Inventory Save"=false
+
+corpse.cfg
+	B:only_owner_access=true
+
+-- Script Changes --
+--------------------
+Created Akashic Tome Script
+Created Initial Inventory Script to give Akashic Tome
