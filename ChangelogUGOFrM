@@ -459,7 +459,7 @@ added Fliquid Powergy texture for Sips (by darkphan)
 
 -------------------------------------------------------------------------------
 Modlist and changelog
-Sept 20, 2019
+Sept 20-21, 2019
 -------------------------------------------------------------------------------
 
 Forge Version: 14.23.5.2847
@@ -469,6 +469,16 @@ Forge Version: 14.23.5.2847
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
+-- Added Mods --
+----------------
+Default World Generator (by ezterry)
+InControl (by McJty)
+
+-- Updated Mods --
+-------------------
+Rats (2.0.0 to 3.0.0)
+Redstone Gauges and Switches (1.1.8-b2 to 1.1.8)
+Simply Cats (0.0.1.2 to 0.0.2.1)
 
 -- Removed Mods --
 --------------------
@@ -505,6 +515,9 @@ erebus.cfg
 
 corpse.cfg
 	B:only_owner_access=true
+
+delete Simply Cats old version file
+delete and regen Rats config	
 
 -- Script Changes --
 --------------------
