@@ -1,0 +1,45 @@
+# We don't want Mods on github
+src/mods/
+
+# Curseforge stuff
+src/.curseclient
+src/minecraftinstance.json
+
+# MC files we don't need here
+/src/.mixin.out/*
+/src/fonts/
+/src/logs/
+/src/patchouli-books/
+/src/resourcepacks/
+/src/mods/
+/src/saves/
+/src/server-resource-packs/
+/src/tv-cache/
+/src/valkyrielib/
+/src/XaeroWorldMap/
+/src/XaeroWaypoints/
+/src/crafttweaker.log
+/src/options.txt
+/src/patchouli_data.json
+src/screenshots/
+src/usercache.json
+src/usernamecache.json
+src/craftpresence/
+src/crash-reports/
+src/llibrary/
+src/moreplayermodels/
+src/config/InvTweaks.cfg
+src/config/MouseTweaks.cfg
+src/config/jei/bookmarks.ini
+src/config/jei/worldSettings.cfg
+src/config/jei/lookupHistory.zip
+src/config/contentcreatorintegration/
+/src/config/LagGoggles-client.cfg
+src/config/LagGoggles-server.cfg
+src/config/LagGoggles-server.cfg
+src/servers.dat
+src/encyclopedia-servers/
+src/overlordplayersquads.dat
+
+# don't push this file
+#.gitignore
