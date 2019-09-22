@@ -1,11 +1,24 @@
-{  
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/UncleGennyTitle.png",
+            "posX" : -267,
+            "posY" : -5,
+            "width" : 535,
+            "height" : 147,
+            "alignment" : "top_center"
+        }
+    },
+    
     "buttons":
     {
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -270,
-            "posY" : 128,
+            "posX" : -100,
+            "posY" : 48,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -18,8 +31,8 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -270,
-            "posY" : 152,
+            "posX" : -100,
+            "posY" : 72,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -32,8 +45,8 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : -270,
-            "posY" : 186,
+            "posX" : -100,
+            "posY" : 96,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -46,8 +59,8 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : -270,
-            "posY" : 222,
+            "posX" : -100,
+            "posY" : 132,
             "width" : 98,
             "height" : 20,
             "action" : 
@@ -60,8 +73,8 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : -168,
-            "posY" : 222,
+            "posX" : 2,
+            "posY" : 132,
             "width" : 98,
             "height" : 20,
             "action" : 
@@ -73,8 +86,8 @@
         "language":
         {
             "text" : "",
-            "posX" : -346,
-            "posY" : 222,
+            "posX" : -124,
+            "posY" : 132,
             "width" : 20,
             "height" : 20,
             "action" : 
@@ -87,8 +100,8 @@
         "refresh":
         {
             "text" : "",
-            "posX" : -324,
-            "posY" : 222,
+            "posX" : -154,
+            "posY" : 132,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
@@ -130,17 +143,20 @@
     {
         "splash-text":
         {
-            "posX" : 80,
-            "posY" : 54,
+            "posX" : 250,
+            "posY" : 112,
             "color" : -256,
-            "alignment" : "top_left",
+            "alignment" : "top_center",
             "texts" : "file:custommainmenu:texts/uncle_splash.txt"
         },
         
-        "background":
+        "panorama":
         {
-            "image" : "custommainmenu:scrn/TempTitle.jpg",
-            "mode" : "fill"
+            "images" : "custommainmenu:scrn/8008.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : true
         }
     }
 }

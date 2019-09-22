@@ -490,9 +490,11 @@ OpenBlocks.cfg
 	B:grave=false
 	B:infoBook=false
 
-fossils.cfg
+fossil.cfg
 	# List of Dimension IDs to spawn Fossil and Permafrost ores in
     	I:all < 17 >
+
+tropicraft.cfg	
 	B:genTropicraftInOverworld=false
 
 ValkyrieLib/main.cfg
@@ -523,3 +525,65 @@ delete and regen Rats config
 --------------------
 Created Akashic Tome Script
 Created Initial Inventory Script to give Akashic Tome
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 22, 2019
+-------------------------------------------------------------------------------
+
+Forge Version: 14.23.5.2847
+
+-- Mod Freezes --
+-----------------
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+Default Options (by BlayTheNinth)
+FastFurnace (by Shadows_of_Fire)
+ItemZoom (by mezz)
+LagGoggles (by Terminator_NL) - Installed for Alpha/Beta testing
+LootTweaker (by Daomephsta)
+Sampler (by sfPlayer1) - Installed for Alpha/Beta testing 
+Surge (by DarkhaxDev)
+Vampirism Integrations (by maxanier) - Adds WAILA Compat
+
+-- Updated Mods --
+-------------------
+Integrated Terminals (1.0.10 to 1.0.11)
+
+
+-- Removed Mods --
+--------------------
+
+
+-- Config Changes --
+--------------------
+Default Settings
+	resolved some keybind conflicts
+	set some default GUI options
+		GUI scale to 'Normal' until custommainmenu configs done for all GUI scales
+		Music at OFF until we get music assets from E-Lie
+		Realms Notifications off
+		Snooper off
+		Auto-Jump off
+foamfix.cfg
+	client
+		B:initOptions=false
+integrateddynamics.cfg
+	B:general.versionChecker=false
+integratedterminals.cfg
+	B:general.versionChecker=false
+integratedtunnels.cfg
+	B:general.versionChecker=false
+
+-- Script Changes --
+--------------------
+Refactor script locations
+	added mods folder
+
+-- Asset Changes --
+-------------------
+Added Title-Temp Image (by Dash_Kardash and Tomislav)
