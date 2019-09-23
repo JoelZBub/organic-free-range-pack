@@ -41,5 +41,7 @@ src/servers.dat
 src/encyclopedia-servers/
 src/overlordplayersquads.dat
 
+
 # don't push this file
-#.gitignore
+.gitignore
+Uncle Genny.code-workspace

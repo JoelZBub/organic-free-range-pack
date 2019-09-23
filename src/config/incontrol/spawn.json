@@ -1,1 +1,8 @@
-[]
+[
+    {
+      "mob": ["fossil:fossil.nautilus", "fossil:fossil.alligator_gar"],
+      "dimension": 0,
+      "onjoin": true,
+      "result": "deny"
+    }
+]
