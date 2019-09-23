@@ -5,7 +5,7 @@
         {
             "image" : "custommainmenu:textures/gui/alpha.png",
             "posX" : -40,
-            "posY" : -90,
+            "posY" : 90,
             "width" : 355,
             "height" : 137,
             "alignment" : "center"
@@ -117,7 +117,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "Â§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,

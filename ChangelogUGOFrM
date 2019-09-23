@@ -532,10 +532,10 @@ Modlist and changelog
 Sept 22, 2019
 -------------------------------------------------------------------------------
 
-Forge Version: 14.23.5.2847
 
 -- Mod Freezes --
 -----------------
+Forge - 14.23.5.2838
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
@@ -572,6 +572,9 @@ Default Settings
 foamfix.cfg
 	client
 		B:initOptions=false
+incontrol
+	spawn.cfg
+		block fossil nautilus and ghar in overworld		
 integrateddynamics.cfg
 	B:general.versionChecker=false
 integratedterminals.cfg
@@ -588,3 +591,7 @@ Refactor script locations
 -------------------
 Added Title-Temp Image (by Dash_Kardash and Tomislav)
 Added "Alpha Build" Overlay
+
+-- Other Changes --
+-------------------
+Roll Back Forge to 14.23.5.2838 (possible fix for some water mob over-spawning)
