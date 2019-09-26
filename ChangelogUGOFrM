@@ -561,6 +561,22 @@ TekTopia
 
 -- Config Changes --
 --------------------
+cravings.cfg
+	B:applyUnsatisfiedEffects=false
+	S:cravingSatisfied <
+		minecraft:strength, 6000
+        minecraft:jump_boost, 6000
+        minecraft:resistance, 6000
+        minecraft:fire_resistance, 6000
+        minecraft:water_breathing, 6000
+        minecraft:invisibility, 6000
+        minecraft:night_vision, 6000
+        minecraft:saturation, 6000
+        minecraft:luck, 6000
+        minecraft:slow_falling, 6000
+		>
+cubicvillager.cfg
+	I:IdleSound_Chance=-1
 Default Settings
 	resolved some keybind conflicts
 	set some default GUI options
@@ -574,13 +590,49 @@ foamfix.cfg
 		B:initOptions=false
 incontrol
 	spawn.cfg
-		block fossil nautilus and ghar in overworld		
+		block fossil nautilus and ghar in overworld
+inspirations.cfg
+	B:mulch=false
+	S:fires <
+		minecraft:magma
+        cfm:fire_pit_on
+        vampirism:fire_place
+        cyclicmagic:fire_dark
+        midnight:miasma_surface
+		>
+	B:barometer=false
+	S:crook=false
+	B:northCompass=false
+	B:photometer=false
+	B:milkSquids=true
+		I:cooldown=1
+	B:pipe=false
 integrateddynamics.cfg
 	B:general.versionChecker=false
 integratedterminals.cfg
 	B:general.versionChecker=false
 integratedtunnels.cfg
 	B:general.versionChecker=false
+midnight.cfg
+	B:allow_lightning_damage=true
+	I:rift_spawn_rarity=2500
+	I:rifter_spawn_rarity=5000
+quark.cfg
+	B:"Auto jump hotkey"=false
+	B:"Show invalid slots"=false
+	B:"Enable Conversion to Vanilla Chests"=true
+    B:"Rename vanilla chests to Oak (Trapped) Chest"=false
+	D:"Chance to Poison"=0.2
+	B:"Endermen anti cheese"=false
+	I:"Clusters generated per dragon death tick"=8
+	Frogs:
+		I:"Spawn Weight"=20
+	B:"Enable Curse"=false
+simplycats-1.12.2-0.0.2.1.config
+	I:"Cats in Area Breeding Limit"=6
+	D:"Wander Area Limit"=200.0
+toastcontrol.cfg
+	B:"Disable All Vanilla"=true
 
 -- Script Changes --
 --------------------
