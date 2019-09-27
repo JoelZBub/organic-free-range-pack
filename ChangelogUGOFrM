@@ -561,6 +561,69 @@ TekTopia
 
 -- Config Changes --
 --------------------
+Default Settings
+	resolved some keybind conflicts
+	set some default GUI options
+		GUI scale to 'Normal' until custommainmenu configs done for all GUI scales
+		Music at OFF until we get music assets from E-Lie
+		Realms Notifications off
+		Snooper off
+		Auto-Jump off
+foamfix.cfg
+	client
+		B:initOptions=false
+incontrol
+	spawn.cfg
+		block fossil nautilus and ghar in overworld
+integrateddynamics.cfg
+	B:general.versionChecker=false
+integratedterminals.cfg
+	B:general.versionChecker=false
+integratedtunnels.cfg
+	B:general.versionChecker=false
+
+-- Script Changes --
+--------------------
+Refactor script locations
+	added mods folder
+
+-- Asset Changes --
+-------------------
+Added Title-Temp Image (by Dash_Kardash and Tomislav)
+Added "Alpha Build" Overlay
+
+-- Other Changes --
+-------------------
+Roll Back Forge to 14.23.5.2838 (possible fix for some water mob over-spawning)
+
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 23-26, 2019
+-------------------------------------------------------------------------------
+
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+MrCrayfish's Gun Mod - 0.14.0 (compat issue with Corpse on newer versions)
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+-- Removed Mods --
+--------------------
+
+
+-- Config Changes --
+--------------------
 cravings.cfg
 	B:applyUnsatisfiedEffects=false
 	S:cravingSatisfied <
@@ -577,20 +640,12 @@ cravings.cfg
 		>
 cubicvillager.cfg
 	I:IdleSound_Chance=-1
-Default Settings
-	resolved some keybind conflicts
-	set some default GUI options
-		GUI scale to 'Normal' until custommainmenu configs done for all GUI scales
-		Music at OFF until we get music assets from E-Lie
-		Realms Notifications off
-		Snooper off
-		Auto-Jump off
-foamfix.cfg
-	client
-		B:initOptions=false
-incontrol
-	spawn.cfg
-		block fossil nautilus and ghar in overworld
+custommainmenu
+	added mainmenu configs for all GUI scales	
+fossil.cfg
+	B:"Custom Main Menu"=false
+ichunutil.cfg
+	I:versionNotificationFrequency=0 (default: 2)
 inspirations.cfg
 	B:mulch=false
 	S:fires <
@@ -606,13 +661,9 @@ inspirations.cfg
 	B:photometer=false
 	B:milkSquids=true
 		I:cooldown=1
-	B:pipe=false
-integrateddynamics.cfg
-	B:general.versionChecker=false
-integratedterminals.cfg
-	B:general.versionChecker=false
-integratedtunnels.cfg
-	B:general.versionChecker=false
+	B:pipe=false		
+openblocks
+	B:storeContents=false
 midnight.cfg
 	B:allow_lightning_damage=true
 	I:rift_spawn_rarity=2500
@@ -636,14 +687,11 @@ toastcontrol.cfg
 
 -- Script Changes --
 --------------------
-Refactor script locations
-	added mods folder
+
 
 -- Asset Changes --
 -------------------
-Added Title-Temp Image (by Dash_Kardash and Tomislav)
-Added "Alpha Build" Overlay
+Temp Title png for Main menu (alpha.png)
 
 -- Other Changes --
 -------------------
-Roll Back Forge to 14.23.5.2838 (possible fix for some water mob over-spawning)
