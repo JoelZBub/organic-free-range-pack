@@ -641,7 +641,13 @@ cravings.cfg
 cubicvillager.cfg
 	I:IdleSound_Chance=-1
 custommainmenu
-	added mainmenu configs for all GUI scales	
+	added mainmenu configs for all GUI scales
+cyclicmagic.cfg
+	B:AirCharm=false
+	B:"Merchant Almanac"=false
+	B:PumpAndPipes=false
+	B:UncraftingGrinder=false
+	B:cable_wireless=false
 fossil.cfg
 	B:"Custom Main Menu"=false
 ichunutil.cfg
