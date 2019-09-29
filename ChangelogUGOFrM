@@ -645,7 +645,8 @@ custommainmenu
 fossil.cfg
 	B:"Custom Main Menu"=false
 ichunutil.cfg
-	I:versionNotificationFrequency=0 (default: 2)
+	I:versionNotificationFrequency=0 [default: 2]
+	I:versionNotificationTypes=2 [default: 0]
 inspirations.cfg
 	B:mulch=false
 	S:fires <
@@ -692,6 +693,67 @@ toastcontrol.cfg
 -- Asset Changes --
 -------------------
 Temp Title png for Main menu (alpha.png)
+
+-- Other Changes --
+-------------------
+
+-------------------------------------------------------------------------------
+Modlist and changelog
+Sept 27-28, 2019
+-------------------------------------------------------------------------------
+
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+MrCrayfish's Gun Mod - 0.14.0 (compat issue with Corpse on newer versions)
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+TOP Addons (by DrManganese)
+The One Probe (by McJty)
+
+-- Updated Mods --
+-------------------
+Extra Golems (7.1.5 to 7.1.6)
+Ore Excavation (1.4.410 to 1.4.143)
+Simply Cats (0.0.2.1 to 0.0.2.2)
+Xaero's Minimap (1.18.1 to 1.18.2)
+
+-- Removed Mods --
+--------------------
+HWYLA
+
+-- Config Changes --
+--------------------
+betterportals.cfg
+	I:"Enhanced third-party transfer duration"=5 [default:10]
+clickmachine.cfg
+	B:"Uses RF"=true
+midnight.cfg
+	I:rift_spawn_rarity=1500
+	I:rifter_spawn_rarity=2000	
+simplycats-1.12.2-0.0.2.1.config - Rmoved
+simplycats-1.12.2-0.0.2.2.config
+	I:"Cats in Area Breeding Limit"=6
+	D:"Wander Area Limit"=200.0
+theoneprobe.cfg
+	S:boxBorderColor=0
+	S:boxFillColor=0
+	I:boxLeftX=-1
+	I:boxThickness=0
+	I:needsProbe=0
+	B:spawnNote=false
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
 
 -- Other Changes --
 -------------------
