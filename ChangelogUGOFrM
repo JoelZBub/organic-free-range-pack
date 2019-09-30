@@ -671,6 +671,8 @@ inspirations.cfg
 	B:pipe=false		
 openblocks
 	B:storeContents=false
+MorePlayerModels.cfg
+	Tooltips=0
 midnight.cfg
 	B:allow_lightning_damage=true
 	I:rift_spawn_rarity=2500
