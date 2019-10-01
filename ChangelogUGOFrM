@@ -610,18 +610,6 @@ MrCrayfish's Gun Mod - 0.14.0 (compat issue with Corpse on newer versions)
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
--- Added Mods --
-----------------
-
-
--- Updated Mods --
--------------------
-
-
--- Removed Mods --
---------------------
-
-
 -- Config Changes --
 --------------------
 cravings.cfg
@@ -693,16 +681,11 @@ simplycats-1.12.2-0.0.2.1.config
 toastcontrol.cfg
 	B:"Disable All Vanilla"=true
 
--- Script Changes --
---------------------
-
-
 -- Asset Changes --
 -------------------
 Temp Title png for Main menu (alpha.png)
 
--- Other Changes --
--------------------
+
 
 -------------------------------------------------------------------------------
 Modlist and changelog
@@ -739,104 +722,6 @@ betterportals.cfg
 	I:"Enhanced third-party transfer duration"=5 [default:10]
 clickmachine.cfg
 	B:"Uses RF"=true
-cyclicmagic.cfg
-	B:cable_wireless=false
-	B:card_location=false
-	B:AirCharm=true
-	B:AutoCrafter=false
-	B:AutomatedUser=false
-	B:BlockPlacer=false
-	B:BlockRandomizer=false
-	B:BlockRotator=false
-	B:BrushScythe=false
-	B:BucketBlocks=false
-	B:BuilderBlock=false
-	B:ChaosSiren=false
-	B:ControlledMiner=false
-	B:CyclicWand=false
-	B:DynamiteMining=false
-	B:DynamiteSafe=false
-	B:"Emerald Gear"=false
-	B:EnchantExcavation=false
-	B:EnderBlaze=false
-	B:EnderDungeonFinder=false
-	B:EnderLightning=false
-	B:EnderSnow=false
-	B:EnderWater=false
-	B:EntityDetector=false
-	B:EvokerFang=false
-	B:ExchangeScepters=false
-	B:FluidMilk=false
-	B:FluidPoison=false
-	B:GlowingHelmet=false
-	B:HarvestScythe=false
-	B:HarvesterBlock=false
-	B:HorseFood=false
-	B:Hydrator=false
-	B:ItemCollector=false
-	B:MagicMissile=false
-	B:MagnetBlock=false
-	B:MinerBlock=false
-	B:NetherbrickTools=false
-	B:PasswordTrigger=false
-	B:PatternReplicator=false
-	B:PeatFeature=false
-	B:PistonScepter=false
-	B:PotionBlindness=false
-	B:PotionBounce=false
-	B:PotionButterDropItems=false
-	B:PotionEnder=false
-	B:PotionFrostWalker=false
-	B:PotionHealthBoost=false
-	B:PotionLevitation=false
-	B:PotionLuck=false
-	B:PotionMagnet=false
-	B:PotionResistance=false
-	B:PotionSaturation=false
-	B:PotionSlowfall=false
-	B:PotionSnow=false
-	B:PotionSwimSpeed=false
-	B:PotionWaterwalk=false
-	B:PotionWither=false
-	B:Potionhaste=false
-	B:Prospector=false
-	B:PurpleArmor=false
-	B:SandstoneTools=false
-	B:ShearingBlock=false
-	B:SlimeConveyor=false
-	B:SpawnDetector=false
-	B:SwordsFrostEnder=false
-	B:TreeScythe=false
-	B:WaterFroster=false
-	B:WaterSplasher=false
-	B:WaterSpreader=false
-	B:auto_packager=false
-	B:block_forester=false
-	B:block_library=false
-	B:crystallized_amber=false
-	B:crystallized_obsidian=false
-	B:dehydrator=false
-	B:dropper_exact=false
-	B:fire_starter=false
-	B:fluid_amber=false
-	B:fluid_biomass=false
-	B:fluid_crystal=false
-	B:fluid_drain=false
-	B:fluid_placer=false
-	B:heart_toxic=false
-	B:imbuer=false
-	B:laser_cannon=false
-	B:melter=false
-	B:robot_spawner=false
-	B:screen_target=false
-	B:sign_editor=false
-	B:slingshot=false
-	B:solidifier=false
-	B:target=false
-	B:water_candle=false
-	B:wireless_transmitter=false
-	B:EnderBombs=false
-	B:searchspawner=false
 midnight.cfg
 	I:rift_spawn_rarity=1500
 	I:rifter_spawn_rarity=2000	
@@ -852,46 +737,50 @@ theoneprobe.cfg
 	I:needsProbe=0
 	B:spawnNote=false
 
--- Script Changes --
---------------------
 
 
--- Asset Changes --
--------------------
-
-
--- Other Changes --
--------------------
 
 -------------------------------------------------------------------------------
-Modlist and changelog
-Sept 27-28, 2019
+Changelog
+Sept 29-30, 2019
 -------------------------------------------------------------------------------
 
 
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
-MrCrayfish's Gun Mod - 0.14.0 (compat issue with Corpse on newer versions)
+Fossils & Archeology Revival - 8.0.2 
+	(Crashing in other pack on 8.0.3)
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
 -- Added Mods --
 ----------------
-
+Better Invalid Session (by kmecpp)
+ReAuth (by TechnicianLP)
+SwingThroughGrass (by exidex)
 
 -- Updated Mods --
 -------------------
-
+Cyclic (1.19.16 to 1.19.17)
+More Player Models (to 29Sep19)
+UniDict (2.9.2 to 2.9.3)
 
 -- Removed Mods --
 --------------------
-
+Better Portals (Removed for now until Lag is stomped)
+MrCrayfish's Gun Mod
+Squid Milking
 
 -- Config Changes --
 --------------------
 capsule.cfg
 	Removed minecraft:mob_spawner from S:excludedBlocks <>
+cavern/general.cfg
+	general
+		B:versionNotify=false
+commoncapabilities.cfg
+	B:general.versionChecker=false	
 cyclicmagic.cfg
 	B:cable_wireless=false
 	B:card_location=false
@@ -990,10 +879,54 @@ cyclicmagic.cfg
 	B:wireless_transmitter=false
 	B:EnderBombs=false
 	B:searchspawner=false
+cyclopscore.cfg
+	B:general.versionChecker=false	
+jei.cfg
+	search
+		S:colorSearchMode=REQUIRE_PREFIX
+loottweaker.cfg
+	B:deprecationWarnings=false
+MineTraps.cfg
+	B:activateUpdateChecker=false
+mowziesmobs.cfg
+	I:"Wroughtnaut Spawn Rate"=60 [default=40]
+rats.cfg
+	I:"Pied Piper Spawn Weight"=4
+	I:"Rat Spawn Weight"=20	
+	I:"Rat Upgrade Delay"=1100
+stupidthings.cfg
+	general
+		B:Acid=false
 tropicraft.cfg
 	B:genTropicraftEIHInOverworld=false
 	B:genTropicraftFlowersInOverworld=false
-	B:genTropicraftInOverworld=true
+	B:genTropicraftInOverworld=true		
+
+
+-------------------------------------------------------------------------------
+Changelog
+Sept 30- , 2019
+-------------------------------------------------------------------------------
+
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+-- Removed Mods --
+--------------------
+
+
+-- Config Changes --
+--------------------
 
 
 -- Script Changes --
@@ -1003,6 +936,9 @@ tropicraft.cfg
 -- Asset Changes --
 -------------------
 
+
+-- Other Changes --
+-------------------
 
 -- Other Changes --
 -------------------
