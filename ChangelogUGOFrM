@@ -890,6 +890,8 @@ PizzaCraft 1.4.5 (Release)
 
 -- Config Changes --
 --------------------
+capsule.cfg
+	Removed minecraft:mob_spawner from S:excludedBlocks <>
 cyclicmagic.cfg
 	B:cable_wireless=false
 	B:card_location=false
