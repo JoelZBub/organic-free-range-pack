@@ -184,3 +184,7 @@ key.itemzoom.zoom.in
 key.itemzoom.zoom.out
 Profile GUI
 key.secretroomsmod.oneWayface
+MPM 4
+MPM 5
+key.toggleLiquids
+key.toggleVisible

@@ -53,12 +53,6 @@ key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.chestSort:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.toggleAutojump:48:NONE
 key_quark.keybind.lockBuilding:37:NONE
 key_key.cavern.miningAssist:47:NONE
 key_key.cavern.miningRecords:88:NONE
@@ -78,15 +72,14 @@ key_key.erebus.poweredglide:35:NONE
 key_key.erebus.beetleram:19:NONE
 key_key.erebus.beetlemine:56:NONE
 key_key.fart.desc:34:NONE
-key_key.aim:56:NONE
-key_key.reload:19:NONE
-key_key.unload:22:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE
 key_MPM 1:44:NONE
 key_MPM 2:47:NONE
 key_MPM 3:48:NONE
+key_MPM 4:0:NONE
+key_MPM 5:0:NONE
 key_MPM Camera:56:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
@@ -137,16 +130,11 @@ key_key.dragon.breath:19:NONE
 key_key.dragon.cancelhover:48:NONE
 key_key.dragon.projectile:45:NONE
 key_key.dragon.followYaw:49:NONE
-key_key.dragon.lockY:50:NONE
+key_key.dragon.lockY:0:NONE
 key_key.dragon.f7:65:NONE
 key_key.dragon.boost:29:NONE
 key_key.dragon.dismount:45:NONE
 key_key.dragon.down:56:NONE
-key_waila.keybind.wailaconfig:82:NONE
-key_waila.keybind.wailadisplay:79:NONE
-key_waila.keybind.liquid:80:NONE
-key_waila.keybind.recipe:81:NONE
-key_waila.keybind.usage:75:NONE
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_key.integratedterminals.terminal.tab.next:15:NONE
@@ -160,7 +148,9 @@ key_key.itemzoom.toggle:44:SHIFT
 key_key.itemzoom.hold:0:NONE
 key_key.itemzoom.zoom.in:0:NONE
 key_key.itemzoom.zoom.out:0:NONE
-key_keybind.mask_inventory:50:NONE
+key_key.toggleLiquids:38:NONE
+key_key.toggleVisible:0:NONE
+key_keybind.mask_inventory:0:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
