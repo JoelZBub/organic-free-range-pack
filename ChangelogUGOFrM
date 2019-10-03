@@ -959,3 +959,52 @@ displaynames.zs
 -------------------
 Removed M key from Dragon Mounts
 Removed M key from Inventory Mask
+
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.2.0 
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+		Changelog  
+		Oct 2  , 2019
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Fossils & Archeology Revival - 8.0.2 
+	(Crashing in other pack on 8.0.3)
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+-- Removed Mods --
+--------------------
+Pam's Squid Milking
+
+
+-- Config Changes --
+--------------------
+vampirism/balance/general.cfg
+	B:zombie_ignore_vampire=false [default=true]
+rats.cfg
+	B:"Rats Spawn Like Monsters"=false
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------

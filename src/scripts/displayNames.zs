@@ -15,10 +15,7 @@ static displayNameChange as string[IItemStack] = {
 	<inventorypets:cow_pet:0>: "Cow-see-um Pet",
 	<minecraft:chicken:0>: "Pecker Meat",
 	<minecraft:cooked_chicken:0>: "Cooked Pecker Meat",
-	<minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:chicken"}}): "Spawn Pecker",
-	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker",
-	<thermalexpansion:morb>.withTag({Generic: 1 as byte, id: "minecraft:chicken"}): "Morb (Pecker)",
-	<travellersbackpack:travellers_backpack:28>: "Traveller's PeckerPack"
+	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker"
 };
 
 

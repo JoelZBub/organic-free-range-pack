@@ -40,7 +40,7 @@ src/config/LagGoggles-server.cfg
 src/servers.dat
 src/encyclopedia-servers/
 src/overlordplayersquads.dat
-
+src/.ReAuth.cfg
 
 # don't push this file
 .gitignore
