@@ -1,0 +1,8158 @@
+[
+  {
+    "energy": 12000,
+    "id": "mist:oak_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_mahogany"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1012"
+  },
+  {
+    "energy": 2000,
+    "id": "cavern:perverted_log3"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_wood_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1111"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner3"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:poplar_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1214"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:snow_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:wood_labshelf_down"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks12"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks12"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_balsam"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:s_tree_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_114"
+  },
+  {
+    "energy": 4000,
+    "id": "quark:tallow"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_109"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_wood_stairs"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke113"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_silver_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:willow_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch6"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_83"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:giant_lily_pad"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_purple_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_24"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_crate"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce9"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke2"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_wood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:spruce_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen5"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_116"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:oak_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle6"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_115"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:oak_block11"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:birch_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner13"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_913"
+  },
+  {
+    "energy": 6000,
+    "id": "sonarcore:reinforceddirtbrickgate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:fire_pit_on"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_12"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks13"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_412"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:acacia_stairs"
+  },
+  {
+    "energy": 4000,
+    "id": "integrateddynamics:menril_door"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_middle_pink"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:ghastly_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_cyan_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_wood_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_15"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_42"
+  },
+  {
+    "energy": 4000,
+    "id": "stupidthings:improved_wood_hoe"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:t_tree_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_135"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_stair"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:aspen_branch3"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_red"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_asper"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_10"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_leaves2"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:acacia_block13"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_table_outdoor"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:a_tree_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_148"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke114"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_slab"
+  },
+  {
+    "energy": 640000,
+    "id": "thermalfoundation:storage_resource1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_spruce"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke"
+  },
+  {
+    "energy": 4000,
+    "id": "soviet:wood_door_into_item"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal112"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_wood_slab"
+  },
+  {
+    "energy": 4000,
+    "id": "fossil:palm_door_item"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:spruce_trapdoor"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:jungle_button"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal5"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_asper"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_balsam"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal19"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:birch_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_711"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_82"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_57"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia6"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:mahogany_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen8"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_49"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock7"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:palm_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_914"
+  },
+  {
+    "energy": 320000,
+    "id": "quark:charcoal_block"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink15"
+  },
+  {
+    "energy": 2000,
+    "id": "cavern:perverted_log1"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:bamboo_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_03"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_yellow"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_blue"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool3"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab1"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock10"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal14"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_414"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:bamboo_torch"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:spruce_button"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_112"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal110"
+  },
+  {
+    "energy": 6000,
+    "id": "rats:rat_crafting_table"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_41"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch7"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_dried_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch14"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool13"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:deadbush"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_spruce"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner14"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:plank1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_bamboo"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks5"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock6"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jungle_fence_gate"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:aspen_branch6"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_oak_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_log"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke14"
+  },
+  {
+    "energy": 6000,
+    "id": "davincisvessels:crate_wood"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_014"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_gray"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_varnished"
+  },
+  {
+    "energy": 6000,
+    "id": "secretroomsmod:secret_wooden_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_pressure_plate"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:acacia_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "hatchery:pen"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_69"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_fence_reinforced"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal11"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:acacia_fence_gate"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal21"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1414"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_blue_stairs"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:oak_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame9"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter10"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal2"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:bedside"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell_acacia"
+  },
+  {
+    "energy": 4000,
+    "id": "bewitchment:yew_door"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_leaves1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter12"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal115"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal18"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal16"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink12"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:silo_roof"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_planks"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:snow_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostoak"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks5"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:aspen_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia3"
+  },
+  {
+    "energy": 320000,
+    "id": "minecraft:coal_block"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia7"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch10"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom3"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_marshwood"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_159"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:beetroot_seeds"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_small_green"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_baobab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_313"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_wood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:soundbox"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce2"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_bookshelf4"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter5"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:spectreplank"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_gray"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_158"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_911"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:spruce_door"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:pine_block"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:willow_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostacacia"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_19"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_144"
+  },
+  {
+    "energy": 2000,
+    "id": "openblocks:scaffolding"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_147"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bench"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia9"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:s_tree_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostoak"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:willow_branch6"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:pine_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostspruce"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen9"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_15"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_0"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia10"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:melon_seeds"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame14"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_white_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter13"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal111"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_planks_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_75"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest_trap3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_610"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_91"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell_jungle"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_blue"
+  },
+  {
+    "energy": 6000,
+    "id": "davincisvessels:seat"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_chair"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_green_stairs"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke111"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame1"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:thatch_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_22"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1110"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1514"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak9"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia8"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "secretroomsmod:secret_trapped_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle5"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle5"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_gray_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:bamboo_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_door"
+  },
+  {
+    "energy": 5760,
+    "id": "bamboozled:bamboo_bundle1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal3"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_white"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_013"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:poplar_branch9"
+  },
+  {
+    "energy": 320000,
+    "id": "mist:bio_shale_block"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_hat"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink10"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_light_blue"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1512"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:s_tree_block"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner5"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 8000,
+    "id": "pizzacraft:pizza_board"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_26"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_gray"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet4"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:birch_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom4"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 32000,
+    "id": "minecraft:coal1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink2"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_137"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_acacia_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:pirate_chest"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:aspen_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:aspen_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_marshwood"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool1"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:s_tree_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch2"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:tallgrass1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame6"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_014"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:snow_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks7"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_810"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:noteblock"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_birch"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_crate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_58"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock14"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks11"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak4"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal21"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_lime"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom12"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_balsam"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_77"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_110"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak8"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:bowl"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:spinning_wheel"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_door"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce6"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_07"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal111"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:wood_labshelf_upper_break"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_mahogany"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:paper_lantern1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:chute"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak10"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jungle_boat"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "sonarcore:reinforceddirtgate"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch13"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:ghastly_log"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1014"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_baobab"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:sovietlamp_cracked"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_black"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:acacia_block"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:willow_branch9"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:a_tree_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:willow_block"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_white"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:ghastly_rail"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1411"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal15"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle12"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_pink_stairs"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_214"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:oak_block"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:spruce_step"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_orange"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:acacia_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_39"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke10"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_145"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:lift_down"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_97"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_purple_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:wood_labshelf_upper"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:slab2"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke7"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_trapdoor"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke21"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_93"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke12"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:palm_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:a_tree_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 4000,
+    "id": "fossil:calamites_door_item"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke5"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_middle_blau"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_94"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_714"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter1"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_pressure_plate"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:poplar_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_87"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:variant_sapling"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool6"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest_trap"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:oak_branch6"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:poplar_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_813"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_birch_slab"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:t_tree_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_fence"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves3"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_ladder"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink8"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink9"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia9"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1513"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log21"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_green"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_011"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer15"
+  },
+  {
+    "energy": 4000,
+    "id": "soviet:wood_door_item"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal7"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_outdoor"
+  },
+  {
+    "energy": 32000,
+    "id": "mist:bio_shale"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_wood_stairs"
+  },
+  {
+    "energy": 4000,
+    "id": "minecraft:wooden_sword"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_104"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:dark_oak_boat"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_leaves3"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:oak_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch3"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_white"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_01"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_green_slab"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke13"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:acacia_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_green"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_131"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_85"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal5"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_planks_slab"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_cyan"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_79"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_dark_oak"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:birch_step"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:chest"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_varnished"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak10"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:acacia_button"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_114"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:rail"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_white"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_014"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:spruce_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:barrel"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce8"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_baobab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_014"
+  },
+  {
+    "energy": 4000,
+    "id": "minecraft:wooden_shovel"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:birch_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_marshwood"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke115"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood5"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke8"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke6"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_5"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak7"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_spruce_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:birch_stairs"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_red"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak8"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_51"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_811"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal10"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool4"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:soviettable"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce8"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce4"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_player"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_cracked_door"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:pine_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_oak"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:waterlily"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:modern_window"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:pine_step"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1112"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostacacia"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke110"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "cubicvillager:villager_block_n"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle9"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_spruce_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:grand_chair_bottom"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_table"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:grandmas_shoes_mushroom_block"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal14"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_items"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_bamboo"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal113"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_013"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:poplar_block"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:s_tree_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch11"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:acacia_door"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_yellow_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_hat"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame15"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks10"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_brick_cracked_brick_door"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:poplar_step"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:bundle"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_73"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter8"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:s_tree_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_014"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_wood"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_light_blue_slab"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:birch_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_stairs_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostbirch"
+  },
+  {
+    "energy": 4000,
+    "id": "inventorypets:nugget_coal"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:birch_slab"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:birch_button"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks3"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_items_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_812"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak6"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks14"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling5"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_153"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_ladder"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:sign"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_713"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_blue_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_146"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_133"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_44"
+  },
+  {
+    "energy": 6000,
+    "id": "culinaryconstruct:sandwich_station"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock5"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:pine_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_117"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool14"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest_trap2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_acacia"
+  },
+  {
+    "energy": 64000,
+    "id": "thermalfoundation:material802"
+  },
+  {
+    "energy": 64000,
+    "id": "thermalfoundation:material892"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_rotten"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:spruce_block"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:pine_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:bulb_fungus_hat"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_door"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_011"
+  },
+  {
+    "energy": 2960,
+    "id": "tropicraft:slab3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce7"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_silver"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:acacia_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_mahogany"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_orange_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak3"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:oak_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_32"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_136"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_oak_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:oak_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_33"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_07"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:s_tree_branch6"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_brown"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_105"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 4000,
+    "id": "pizzacraft:pizza_burnt_shield"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak7"
+  },
+  {
+    "energy": 6000,
+    "id": "vampirism:fire_place"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_101"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame12"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_6"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_37"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:aspen_step"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "lightningcraft:wood_log"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_birch_open"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_014"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_stairs"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:palm_door"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak12"
+  },
+  {
+    "energy": 6000,
+    "id": "rats:rattrap"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:pine_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jungle_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak14"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_red_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_011"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_154"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_56"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_74"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:birch_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock13"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_102"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:dark_oak_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:paper_lantern"
+  },
+  {
+    "energy": 6000,
+    "id": "minetraps:chest_bomb"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark5"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_wood_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner12"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 2960,
+    "id": "tropicraft:slab4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_152"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_asper"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal11"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:paper"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:bulb_fungus_stem"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool9"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:spruce_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_111"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_45"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:trapped_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner7"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_slant_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_hatch"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce6"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:acacia_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle11"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:capstan"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:oak_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:dark_oak_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:soviet_box"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_cypress"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia5"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_138"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen14"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_block"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_mobs_reinforced"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal114"
+  },
+  {
+    "energy": 4000,
+    "id": "blockcraftery:editable_door"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool5"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_oak_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:tv"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer10"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal14"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark3"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_small_pink"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal11"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks10"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom9"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "vampirism:hunter_table"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_scorched"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_jungle"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:t_tree_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_rotten"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak3"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:poplar_branch6"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_pink"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:oak_step"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner10"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "sonarcore:reinforcedstonebrickgate"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_cypress"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:specialchest1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_silver"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_143"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:stick"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:poplar_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink6"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:snow_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "tinymobfarm:wood_farm"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:dark_oak_pressure_plate"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal1"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves2"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke112"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_outer_corner_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce9"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_baobab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_mahogany"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:aspen_block"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_011"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_011"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_04"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool10"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_9"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal13"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:sarcastic_czech_mushroom_block"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_balsam_resinless"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks14"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:toaster"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:birch_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box_acacia"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:oak_block4"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_07"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_21"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:thatch_stairs_fuzzy"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_nether_brick"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:spinning_wheel"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak1"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_fence"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:snow_branch9"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:snow_block"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner1"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:willow_block4"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_106"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_brick_small_door"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_814"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_yellow"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_dried_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_151"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_07"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom10"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_wood"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_512"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:tree_bottom"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_612"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1013"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner15"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_stem"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate_dark_oak"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:aspen_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:modern_window_leaf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch6"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest_trap1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_pink"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_window"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1213"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_white"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_oak"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke17"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer3"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:hollow_log"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_jungle"
+  },
+  {
+    "energy": 320000,
+    "id": "thermalfoundation:storage_resource"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_76"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:spectrelog"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool10"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal1"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:spruce_fence"
+  },
+  {
+    "energy": 4000,
+    "id": "bewitchment:elder_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool9"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_stem"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:acacia_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_stairs"
+  },
+  {
+    "energy": 2000,
+    "id": "cavern:perverted_log"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_98"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool4"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_log"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner8"
+  },
+  {
+    "energy": 160000,
+    "id": "mist:filter_coal_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate_jungle"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_lime"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke15"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_wood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame8"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:birch_block"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_149"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak6"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_black"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_red"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_block_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:acacia_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_113"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak7"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_log"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_yellow"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_green"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_119"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_pink_slab"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:a_tree_branch6"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke16"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_acacia_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:jungle_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1311"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:spruce_block7"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:variant_sapling1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter7"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:log1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_72"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal12"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_rotten"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal12"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wooden_button"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_brown_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_07"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:pine_block7"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke14"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak4"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak3"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_log"
+  },
+  {
+    "energy": 6000,
+    "id": "enderutilities:floor1"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_pink"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak12"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_magenta_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_mobs"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:bamboo_pipe_extract"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:willow_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_player_reinforced"
+  },
+  {
+    "energy": 8000,
+    "id": "pizzacraft:pizza_burnt"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal15"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_09"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal6"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_lime"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_scorched"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jungle_fence"
+  },
+  {
+    "energy": 4000,
+    "id": "soviet:ralling_door_item"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks4"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia14"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink3"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_jungle_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_413"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_141"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_magenta"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_0"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_155"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_212"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner11"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle2"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal10"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_99"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:willow_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_yellow_slab"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_orange"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_139"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jungle_door"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:poplar_block13"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:spruce_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1312"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:kaizers_fingers_mushroom_block"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_trap_door_reinforced"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_78"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_129"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:snow_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce3"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "mowziesmobs:painted_acacia"
+  },
+  {
+    "energy": 4000,
+    "id": "bewitchment:juniper_door"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_bamboo"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle10"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_black"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_912"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:t_tree_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_118"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle7"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log2"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal14"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:a_tree_stairs"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke1"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:log"
+  },
+  {
+    "energy": 480000,
+    "id": "thermalfoundation:material1024"
+  },
+  {
+    "energy": 32000,
+    "id": "minecraft:coal"
+  },
+  {
+    "energy": 2960,
+    "id": "lightningcraft:slab_block3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_silver"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:dutch_cap_mushroom_block"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_134"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_wood"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_gray_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_125"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter4"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak5"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal13"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_7"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:tableside"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_all_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_132"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:dark_capped_mushroom_block"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_07"
+  },
+  {
+    "energy": 400,
+    "id": "mist:mulch"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_white"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_92"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_dark_oak_slab"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:a_tree_step"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_312"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:bamboo_extender"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:boat_sling"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_varnished"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal113"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1113"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:ceiling_fan"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock4"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:aspen_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet15"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia8"
+  },
+  {
+    "energy": 6000,
+    "id": "vampirism:church_altar"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_scorched"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_311"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:birch_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:birch_branch3"
+  },
+  {
+    "energy": 24000,
+    "id": "mist:sapropel1"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:spruce_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak5"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_310"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_14"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_38"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_28"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_asper"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bedside_cabinet_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_cyan"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box_jungle"
+  },
+  {
+    "energy": 4000,
+    "id": "pizzacraft:pizza_board_shield"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest_trap4"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_013"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:boat"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_128"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:slab1"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:spruce_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_marshwood"
+  },
+  {
+    "energy": 4000,
+    "id": "bewitchment:cypress_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:coffee_table_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell_dark_oak"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool12"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet10"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:daylight_detector"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter6"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_scorched"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:microwave"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:aspen_block4"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:poplar_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:a_tree_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_sliding_door"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform1"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink7"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal115"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_4"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_fence"
+  },
+  {
+    "energy": 4000,
+    "id": "soviet:airlock_door_item"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_dark_oak_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks15"
+  },
+  {
+    "energy": 10000,
+    "id": "cfm:item_log"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:mahogany_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_wood_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak5"
+  },
+  {
+    "energy": 6000,
+    "id": "rats:rat_hole"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_purple"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:aspen_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:plank"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:bow"
+  },
+  {
+    "energy": 6000,
+    "id": "openblocks:drawing_table"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1313"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_wood"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal7"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal3"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_white"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_purple"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool12"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:a_tree_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_jungle_open"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink13"
+  },
+  {
+    "energy": 960,
+    "id": "pizzacraft:paper_mass"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_varnished"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool6"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer5"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_inner_corner"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_36"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:blockofsticks1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink14"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood2"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_brown"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_157"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:reed_block_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1412"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_fence_gate"
+  },
+  {
+    "energy": 4000,
+    "id": "minecraft:wooden_hoe"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_scorched"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:spruce_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_3"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chopping_board"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostbigoak"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal12"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks6"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom5"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostspruce"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_81"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_planks_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks5"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1413"
+  },
+  {
+    "energy": 6000,
+    "id": "pirates:ghastly_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:palm_fence_gate"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:pine_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:palm_hatch"
+  },
+  {
+    "energy": 16000,
+    "id": "pizzacraft:pizza_box"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_107"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal15"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:pine_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_trap_door"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_108"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:acacia_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_pressure_plate_all"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal110"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1212"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:birch_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:chunk_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool11"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:a_tree_block"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_6"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer14"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_67"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_12"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:poplar_block11"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:birch_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_62"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle8"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_white_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:dark_oak_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_011"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:willow_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter14"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_48"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_acacia_open"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_710"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_log"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce5"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostbirch"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal16"
+  },
+  {
+    "energy": 4000,
+    "id": "soviet:hermodoor_item"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_06"
+  },
+  {
+    "energy": 12800,
+    "id": "mist:t_tree_block"
+  },
+  {
+    "energy": 6000,
+    "id": "integrateddynamics:menril_planks_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce10"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_eucalyptus"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_65"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_614"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter9"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_red_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom8"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_green"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool11"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:sifter"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_open"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_84"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak8"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_64"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_cyan_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:birch_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_cabinet_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_86"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:spruce_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "enderutilities:floor"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:willow_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom11"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal18"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_127"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "davincisvessels:marker"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:wood_labshelf_down_break"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "cubicvillager:villager_block_trade"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_314"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:white_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "integrateddynamics:drying_basin"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:reed_block_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_fence"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:t_tree_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_210"
+  },
+  {
+    "energy": 3600,
+    "id": "mist:mulch_block"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle14"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:s_tree_slab"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_sapling1"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet5"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_35"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter3"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:oak_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_142"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1410"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia5"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak1"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:t_tree_step"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_spruce_open"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_103"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:wooden_pressure_plate"
+  },
+  {
+    "energy": 48000,
+    "id": "mist:peat1"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:snow_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:bogshroom_stem"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_cypress"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_96"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_712"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak5"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak11"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_marshwood"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:tallgrass2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:tv_stand"
+  },
+  {
+    "energy": 6000,
+    "id": "integrateddynamics:menril_log_filled"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:poplar_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_spruce"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:willow_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_brown"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:light_switch_off"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_slab_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_8"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak13"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:poplar_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:reed_block"
+  },
+  {
+    "energy": 2000,
+    "id": "pizzacraft:red_cloth"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_balsam"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_dark_oak_stairs"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_leaves"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_910"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen10"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_birch_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1011"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_113"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:oak_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame2"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:snow_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:fishing_rod"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:a_tree_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak4"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock8"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_08"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke11"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_89"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-oak6"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle2"
+  },
+  {
+    "energy": 6000,
+    "id": "secretroomsmod:secret_light_detector"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet12"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_7"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:wooden_door"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:spruce_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_planks3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_27"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_112"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1510"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle1"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:bamboo_bridge"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_06"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks7"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:s_tree_step"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_61"
+  },
+  {
+    "energy": 6000,
+    "id": "mowziesmobs:painted_acacia_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_47"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark2"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:acacia_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_07"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_baobab"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_magenta"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_black_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:pine_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1314"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_23"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:slab_planks_asper"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke2"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:a_tree_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_16"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:s_tree_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_07"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch4"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_asper"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:t_tree_trunk"
+  },
+  {
+    "energy": 4000,
+    "id": "tropicraft:bamboo_door"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_55"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_planks"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal13"
+  },
+  {
+    "energy": 7200,
+    "id": "overlord:rallying_horn"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_planks_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks8"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_fence_gate"
+  },
+  {
+    "energy": 48000,
+    "id": "minecraft:blaze_rod"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_log"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_71"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:bogshroom_hat"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_mahogany"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_126"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia4"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:birch_boat"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen13"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_middle_green"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_fence_gate"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal17"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:willow_step"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostjungle"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_123"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock11"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_bamboo"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_17"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:snow_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer12"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:yew_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:mahogany_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_fence"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal8"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch12"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer9"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce11"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia12"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle13"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:specialchest"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:log_bamboo"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:poplar_trunk"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet14"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:white_gate"
+  },
+  {
+    "energy": 2000,
+    "id": "quark:dark_oak_button"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:park_bench_spruce"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:acacia_step"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:spruce_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:spruce_boat"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "sonarcore:reinforcedstonegate"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:spruce_branch9"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_sapling3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:bar_stool14"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:pine_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "integrateddynamics:menril_log"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:s_tree_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:vine"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:jungle_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks13"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:table_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-dark-oak14"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_9"
+  },
+  {
+    "energy": 8000,
+    "id": "minecraft:torch"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_lime_slab"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal1"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_brick_carved_door"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_07"
+  },
+  {
+    "energy": 6000,
+    "id": "openblocks:ladder"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal2"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:oak_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke4"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_brown_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:blockofsticks"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_59"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_66"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_011"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:nether_brick_fence_gate"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_01"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:a_tree_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_jungle_wall"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:carved_wood3"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink4"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:bamboo_nerd_pole"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_411"
+  },
+  {
+    "energy": 6000,
+    "id": "hatchery:feeder"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockbigpostjungle"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_light_blue"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_light_blue"
+  },
+  {
+    "energy": 6000,
+    "id": "bamboozled:bamboo_planks1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer8"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_03"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool5"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_black_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_silver_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:sovietlamp"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_rotten"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:calamites_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_slant"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_sapling2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce14"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_04"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom14"
+  },
+  {
+    "energy": 6000,
+    "id": "dragonmounts:pileofsticks"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen4"
+  },
+  {
+    "energy": 6000,
+    "id": "lightningcraft:wood_plank"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:crafting_table"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:nightshroom_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_outer_corner"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_scorched"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_122"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:t_tree_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_drawer13"
+  },
+  {
+    "energy": 6000,
+    "id": "vampirism:blood_sieve"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:elder_fence_gate"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:aspen_stairs"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke19"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_29"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet2"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:spruce_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_18"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:birch_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke13"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:birch_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_156"
+  },
+  {
+    "energy": 3360,
+    "id": "mist:t_tree_branch6"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_fence"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:snow_step"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_orange"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:soviet_window"
+  },
+  {
+    "energy": 2000,
+    "id": "cavern:perverted_log2"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_log"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_wood"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce5"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal114"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_dark_oak"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:t_tree_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:ancient_wood_pillar"
+  },
+  {
+    "energy": 4000,
+    "id": "blockcraftery:editable_door_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch9"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet7"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wheat_seeds"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:snow_block13"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_oak9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle4"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool15"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_magenta_slab"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab4"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks15"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_coffee_table"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_jungle"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_bookshelf"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1211"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_rotten"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_43"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_jungle9"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_4"
+  },
+  {
+    "energy": 80000,
+    "id": "mist:filter_coal_block12"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen12"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:aspen_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_marshwood"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:acacia_boat"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_46"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_jungle_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:banner"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:crate_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:a_tree_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:bamboo_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch"
+  },
+  {
+    "energy": 2000,
+    "id": "fossil:palm_sapling"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:willow_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink5"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal1"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_lime_stairs"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal19"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_01"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_010"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_fence"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_121"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_014"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_inner_corner_reinforced"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:stereo"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_54"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_25"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal2"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_124"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_mahogany"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-jungle1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1010"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dark_willow_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:acacia_trunk"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:snow_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_fence_gate"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:acacia_block11"
+  },
+  {
+    "energy": 6000,
+    "id": "secretroomsmod:secret_chest"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:willow_block7"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_10"
+  },
+  {
+    "energy": 16000,
+    "id": "thermalfoundation:material832"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_31"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks_light_blue_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:dark_oak_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_52"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "leopardengruen37:block_cocoa_lantern_small_blau"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:custom_chest1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1114"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame10"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_trapdoor"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:glowshroom_stalk_main"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_34"
+  },
+  {
+    "energy": 6000,
+    "id": "atum:deadwood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce4"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:leaves21"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_brick_chiseled_door"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_011"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:limestone_brick_large_door"
+  },
+  {
+    "energy": 6000,
+    "id": "cavern:mirage_bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "blockcraftery:editable_wall_reinforced"
+  },
+  {
+    "energy": 12400,
+    "id": "mist:birch_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_spruce1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_511"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_014"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_53"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform4"
+  },
+  {
+    "energy": 6000,
+    "id": "lightningcraft:under_plank_stairs"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal4"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_cypress"
+  },
+  {
+    "energy": 320000,
+    "id": "mist:filter_coal_block"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1511"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_8"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks4"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal12"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:t_tree_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_5"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_baobab"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet13"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_111"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:cypress_wood_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks4"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:dyeingmachine"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:door_rotten"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_213"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame11"
+  },
+  {
+    "energy": 2400,
+    "id": "mist:aspen_branch"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:pumpkin_seeds"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke12"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:blinds_dark_oak_open"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter11"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1210"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch5"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:worktable"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_blue"
+  },
+  {
+    "energy": 4000,
+    "id": "atum:deadwood_door"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_balsam"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_mossbark"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_63"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "signpost:blockpostbigoak"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:s_tree_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:spruce_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:fence_gate_cypress"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_chest"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:dark_oak_door"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal112"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_514"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:acacia_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_2"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_14"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:birch_door"
+  },
+  {
+    "energy": 6000,
+    "id": "davincisvessels:anchorpoint"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:jukebox"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_oak"
+  },
+  {
+    "energy": 1280,
+    "id": "minecraft:carpet9"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks8"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dewshroom_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_fence_acacia"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 240000,
+    "id": "mist:filter_coal_block4"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia6"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_012"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_0"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:pine_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:snow_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:drum"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter_sink1"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen2"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_door"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_613"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_acacia4"
+  },
+  {
+    "energy": 4000,
+    "id": "minecraft:wooden_axe"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_0"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:door_bell_birch"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_05"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak6"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:dead_wood_planks"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:acacia_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "secretroomsmod:secret_pressure_plate"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:sifter"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_211"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen15"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:pine_block13"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke18"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf2"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:ladder"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:bark_acacia_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "mist:spruce_trunk"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom1"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal17"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_410"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:deadwood_stick"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_birch7"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia2"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_coal6"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom13"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:wool2"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:bookshelf_darkoak9"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_03"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_stem"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:vertical_stained_planks2"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:fence"
+  },
+  {
+    "energy": 6000,
+    "id": "minetraps:fall_trap"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:platform5"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:stained_planks5"
+  },
+  {
+    "energy": 640,
+    "id": "cavern:perverted_sapling"
+  },
+  {
+    "energy": 2000,
+    "id": "pizzacraft:cardboard"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:stained_planks_orange_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_02"
+  },
+  {
+    "energy": 320000,
+    "id": "chisel:block_charcoal8"
+  },
+  {
+    "energy": 8960,
+    "id": "mist:t_tree_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch5"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_88"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:upgraded_gate_birch"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:t_tree_branch9"
+  },
+  {
+    "energy": 2960,
+    "id": "quark:reed_block_slab"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:planks3"
+  },
+  {
+    "energy": 2960,
+    "id": "minecraft:wooden_slab5"
+  },
+  {
+    "energy": 6000,
+    "id": "soviet:soviet_window_leaf"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_513"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:a_tree_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch4"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_08"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:desk_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_611"
+  },
+  {
+    "energy": 6000,
+    "id": "bewitchment:juniper_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame5"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:log3"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:carpeted_trapdoor_magenta"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:chair_dark_oak"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_011"
+  },
+  {
+    "energy": 2000,
+    "id": "mist:s_tree_branch3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce12"
+  },
+  {
+    "energy": 6000,
+    "id": "huntingdim:frame"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_95"
+  },
+  {
+    "energy": 12000,
+    "id": "mist:s_tree_block8"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_spruce"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen6"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:digital_clock12"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_cyan"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:viridshroom_hat"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:palm_stick"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf1"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bamboozled_bamboo_planks_012"
+  },
+  {
+    "energy": 32000,
+    "id": "mist:filter_coal"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_birch_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_09"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_510"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1310"
+  },
+  {
+    "energy": 6000,
+    "id": "minecraft:painting"
+  },
+  {
+    "energy": 16000,
+    "id": "thermalfoundation:material833"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:counter2"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:silo_supports"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen11"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:cabinet_kitchen7"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_02"
+  },
+  {
+    "energy": 6000,
+    "id": "pizzacraft:pizza_board_1"
+  },
+  {
+    "energy": 6000,
+    "id": "integrateddynamics:menril_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_atum_deadwood_planks_014"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf3"
+  },
+  {
+    "energy": 6000,
+    "id": "randomthings:customworkbench"
+  },
+  {
+    "energy": 6000,
+    "id": "quark:bark_spruce_stairs"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:modern_bed_bottom15"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:photo_frame3"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-acacia3"
+  },
+  {
+    "energy": 2000,
+    "id": "minecraft:sapling3"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_05"
+  },
+  {
+    "energy": 4000,
+    "id": "minecraft:wooden_pickaxe"
+  },
+  {
+    "energy": 2960,
+    "id": "mist:acacia_branch9"
+  },
+  {
+    "energy": 6000,
+    "id": "cfm:mail_box_birch"
+  },
+  {
+    "energy": 640000,
+    "id": "chisel:block_coal_coke9"
+  },
+  {
+    "energy": 1280,
+    "id": "atum:linen_carpet_pink"
+  },
+  {
+    "energy": 6000,
+    "id": "erebus:stairs_cypress"
+  },
+  {
+    "energy": 6000,
+    "id": "tropicraft:bundle1"
+  },
+  {
+    "energy": 6000,
+    "id": "midnight:shadowroot_crafting_table"
+  },
+  {
+    "energy": 2000,
+    "id": "atum:linen_purple"
+  },
+  {
+    "energy": 6000,
+    "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_68"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-birch9"
+  },
+  {
+    "energy": 6000,
+    "id": "inspirations:bookshelf"
+  },
+  {
+    "energy": 6000,
+    "id": "fossil:palm_planks"
+  },
+  {
+    "energy": 6000,
+    "id": "chisel:planks-spruce1"
+  }
+]

@@ -1011,6 +1011,9 @@ InControl
 		Added rules for Rats mobs in Misty World and Fossils mobs in Overworld
 rats.cfg
 	B:"Rats Spawn Like Monsters"=false
+Simplegenerators/main.cfg
+	culinary
+		B:enable_json_table=true [default=false]
 vampirism/balance/general.cfg
 	B:zombie_ignore_vampire=false [default=true]
 
