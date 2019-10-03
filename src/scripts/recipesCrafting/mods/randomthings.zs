@@ -13,6 +13,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<randomthings:soundbox>,
+<randomthings:blockofsticks>
 ];
 
 /*
@@ -46,6 +48,24 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+<randomthings:soundbox> : {
+		"randomthings_soundbox" : [
+			[
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+	   			[<ore:plankWood>, <randomthings:soundpattern>, <ore:plankWood>],
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+			]
+		]
+	},
+<randomthings:blockofsticks> : {
+		"randomthings_blockofsticks" : [
+			[
+	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+	   			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
+			]
+		]
+	}
 };
 
 static mirroredRecipes as IIngredient[][][][IItemStack] = {

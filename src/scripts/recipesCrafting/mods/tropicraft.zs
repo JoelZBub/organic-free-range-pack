@@ -13,6 +13,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<tropicraft:sifter>
 ];
 
 /*
@@ -46,6 +47,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+<tropicraft:sifter> : {
+		"tropicraft_sifter" : [
+			[
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+	   			[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>],
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+			]
+		]
+	}
 };
 
 static mirroredRecipes as IIngredient[][][][IItemStack] = {

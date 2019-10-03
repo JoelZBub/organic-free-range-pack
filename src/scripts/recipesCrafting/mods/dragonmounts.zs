@@ -13,6 +13,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<dragonmounts:pileofsticks>,
+<dragonmounts:diamond_shears>
 ];
 
 /*
@@ -34,6 +36,23 @@ static shapedRecipes as IIngredient[][][][IItemStack] = {
   			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	]	*/
+<dragonmounts:pileofsticks> : {
+		"dragonmounts_pileofsticks" : [
+			[
+	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+	   			[<ore:stickWood>, <ore:dirt>, <ore:stickWood>],
+	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
+			]
+		]
+	},
+<dragonmounts:diamond_shears> : {
+		"dragonmounts_diamond_shears" : [
+			[
+	  			[<dragonmounts:pileofsticks>, <ore:gemDiamond>],
+	   			[<ore:gemDiamond>, null]
+			]
+		]
+	}
 };
 
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {

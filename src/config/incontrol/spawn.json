@@ -1,8 +1,19 @@
 [
-    {
-      "mob": ["fossil:fossil.nautilus", "fossil:fossil.alligator_gar"],
-      "dimension": 0,
-      "onjoin": true,
-      "result": "deny"
+    {"mob": [
+      "rats:rat",
+      "rats:illager_piper"
+    ],
+    "dimension": 69,
+    "onjoin": true,
+    "result": "deny"
+    },
+    {"mob": [
+      "fossil:fossil.nautilus",
+      "fossil:fossil.alligator_gar",
+      "fossil:fossil.sturgeon"
+    ],
+    "dimension": 0,
+    "onjoin": true,
+    "result": "deny"
     }
 ]

@@ -1,4 +1,3 @@
-#norun
 /*
 	100% Organic Free-Range Template Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
@@ -13,6 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<pizzacraft:bakeware>
 ];
 
 /*
@@ -46,6 +46,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+<pizzacraft:bakeware> : {
+		"pizzacraft_bakeware" : [
+			[
+	  			[<ore:ingotIron>, null, <ore:ingotIron>],
+	   			[null, <ore:ingotBrick>, null],
+	  			[<ore:ingotIron>, null, <ore:ingotIron>]
+			]
+		]
+	}
 };
 
 static mirroredRecipes as IIngredient[][][][IItemStack] = {

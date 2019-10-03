@@ -967,7 +967,7 @@ Removed M key from Inventory Mask
 
 -------------------------------------------------------------------------------
 		Changelog  
-		Oct 2  , 2019
+		Oct 2-3  , 2019
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -993,13 +993,39 @@ Pam's Squid Milking
 
 -- Config Changes --
 --------------------
-vampirism/balance/general.cfg
-	B:zombie_ignore_vampire=false [default=true]
+bewitchment.cfg
+	I:silverChance=0
+cannibalism.cfg
+	Removed iron and diamond from-
+	S:"Active Knife List" <>
+culinaryconstruct.cfg
+	S:"Additional Bread Items" <
+		<atum:emmer_bread>
+        <cfm:item_bread_slice>
+        <cfm:item_toast>
+	>
+InControl
+	/potentialspawn
+		Added rules for Rats mobs in Misty World and Fossils mobs in Overworld
+	/spawn
+		Added rules for Rats mobs in Misty World and Fossils mobs in Overworld
 rats.cfg
 	B:"Rats Spawn Like Monsters"=false
+vampirism/balance/general.cfg
+	B:zombie_ignore_vampire=false [default=true]
 
 -- Script Changes --
 --------------------
+Recipe Changes for the following mods:
+	Bewitchment
+	DragonMounts 2
+	Inspirations
+	MineTraps
+	PizzaCraft
+	Random Things
+	Tropicraft
+DisplayNames.zs
+	Renamed DragonMounts diamond shears to Dragon Shears for clarification
 
 
 -- Asset Changes --
