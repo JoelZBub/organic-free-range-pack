@@ -1,4 +1,3 @@
-#norun
 /*
 	100% Organic Free-Range Template Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
