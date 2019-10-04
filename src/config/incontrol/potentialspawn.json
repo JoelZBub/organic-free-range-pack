@@ -3,23 +3,6 @@
         "dimension": 69,
         "mobs": [
             {
-                "mob": "rats:rat",
-                "weight": 1,
-                "groupcountmin": 1,
-                "groupcountmax": 2
-            },
-            {
-                "mob": "rats:illager_piper",
-                "weight": 1,
-                "groupcountmin": 1,
-                "groupcountmax": 2
-            }
-        ]
-    },
-    {
-        "dimension": 69,
-        "mobs": [
-            {
                 "mob": "fossil:fossil.nautilus",
                 "weight": 1,
                 "groupcountmin": 1,
@@ -38,7 +21,6 @@
                 "groupcountmax": 2
             }
         ]
-    }
-    
+    }    
 
 ]

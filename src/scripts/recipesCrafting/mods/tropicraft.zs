@@ -1,7 +1,5 @@
 /*
-	100% Organic Free-Range Template Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	100% Organic Free-Range Tropicraft Crafting Table recipes script.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,7 +10,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<tropicraft:sifter>
+	<tropicraft:sifter>
 ];
 
 /*
@@ -22,19 +20,6 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
 ];
 
-
-/*
-    Shaped Recipes
-*/
-static shapedRecipes as IIngredient[][][][IItemStack] = {
-/*	<mod:itemname:meta> : [
-  		[
-  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>],
-   			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>],
-  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
-		]
-	]	*/
-};
 
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
@@ -46,7 +31,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<tropicraft:sifter> : {
+	<tropicraft:sifter> : {
 		"tropicraft_sifter" : [
 			[
 	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
@@ -57,14 +42,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	}
 };
 
-static mirroredRecipes as IIngredient[][][][IItemStack] = {
-/* 	<mod:itemname:meta> : [
-		[
-			[<mod:itemname:meta>, <mod:itemname:meta>],
-			[<mod:itemname:meta>, <mod:itemname:meta>]
-		]
-	]	*/
-};
 
 static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
@@ -78,13 +55,6 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 	}	*/
 };
 
-static shapelessRecipes as IIngredient[][][IItemStack] = {
-/*	<mod:itemname:meta> : [
-		[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>,
-		 <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>,
-		 <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
-		]	*/
-};
 
 static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
@@ -104,12 +74,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 	Loops to Add Recipes - Do Not 
 */
 
-// Add Shaped Recipes 
-for item, itemRecipes in shapedRecipes {
-	for recipe in itemRecipes {
-				recipes.addShaped(item, recipe);
-	}
-}
+
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {
 	for recipeName, recipesInner in itemRecipes {
@@ -123,12 +88,7 @@ for item, itemRecipes in namedShapedRecipes {
 		}				
 	}		
 }
-// Add Mirrored Recipes
-for item, itemRecipes in mirroredRecipes {
-	for recipe in itemRecipes {
-				recipes.addShapedMirrored(item, recipe);
-	}
-}
+
 // Add Named Mirrored Recipes
 for item, itemRecipes in namedMirroredRecipes {
 	for recipeName, recipesInner in itemRecipes {
@@ -143,12 +103,6 @@ for item, itemRecipes in namedMirroredRecipes {
 	}		
 }
 
-// Add Shapeless Recipes
-for item, itemRecipes in shapelessRecipes {
-	for recipe in itemRecipes {
-				recipes.addShapeless(item, recipe);
-	}
-}
 // Add Named Shapeless Recipes
 for item, itemRecipes in namedShapelessRecipes {
 	for recipeName, recipesInner in itemRecipes {

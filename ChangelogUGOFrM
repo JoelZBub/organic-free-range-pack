@@ -973,8 +973,6 @@ Removed M key from Inventory Mask
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
-Fossils & Archeology Revival - 8.0.2 
-	(Crashing in other pack on 8.0.3)
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
@@ -984,6 +982,12 @@ PizzaCraft 1.4.5 (Release)
 
 -- Updated Mods --
 -------------------
+Content Creator Integration (1.0.2 to 1.1.0)
+Fossils and Archeology (8.0.2 to 8.0.3)
+iChunUtil (7.2.1 to 7.2.2)
+Rats (3.0.0 to 3.0.1)
+WanionLib (2.2 to 2.3)
+Xaero's Minimap (1.18.2 to 1.18.3.1)
 
 
 -- Removed Mods --
@@ -1004,19 +1008,34 @@ culinaryconstruct.cfg
         <cfm:item_bread_slice>
         <cfm:item_toast>
 	>
+fossil.cfg
+	-Backed up and Re-generated new Config for mod update
+	-moved current changes to new config
+	I:"Desert Academy Rarity"=900 [default=500]
 InControl
 	/potentialspawn
-		Added rules for Rats mobs in Misty World and Fossils mobs in Overworld
+		Added rules for Fossils mobs in Overworld
 	/spawn
-		Added rules for Rats mobs in Misty World and Fossils mobs in Overworld
+		Added rules for Fossils mobs in Overworld
 rats.cfg
+	-Backed up and Re-generated new Config for mod update
+	-moved current changes to new config
+	I:"Rat Spawn Decrease"=50
 	B:"Rats Spawn Like Monsters"=false
+	I:"Blacklisted Rat Spawn Dimensions" < 69 >
+simplegenerators/generators/
+	Auto-generated json for culinary
 Simplegenerators/main.cfg
 	culinary
-		B:enable_json_table=true [default=false]
+		B:enable_json_table=true [default=false]		
 vampirism/balance/general.cfg
+	B:disable_collect_basic_version_stat=true
+	I:vampire_forest_weight=8 [default=10]
+vampirism/vampirism.cfg
 	B:zombie_ignore_vampire=false [default=true]
-
+	village_settings
+		I:village_density=30 [default: 18]
+		I:village_minimum_distance=12 [default: 6]
 -- Script Changes --
 --------------------
 Recipe Changes for the following mods:
@@ -1029,6 +1048,7 @@ Recipe Changes for the following mods:
 	Tropicraft
 DisplayNames.zs
 	Renamed DragonMounts diamond shears to Dragon Shears for clarification
+Removed unnecessary unnamed recipe scripts from template and existing scripts
 
 
 -- Asset Changes --
@@ -1037,3 +1057,4 @@ DisplayNames.zs
 
 -- Other Changes --
 -------------------
+

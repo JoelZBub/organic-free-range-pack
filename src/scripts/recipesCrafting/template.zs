@@ -24,18 +24,8 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 
 
 /*
-    Shaped Recipes
-*/
-static shapedRecipes as IIngredient[][][][IItemStack] = {
-/*	<mod:itemname:meta> : [
-  		[
-  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>],
-   			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>],
-  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
-		]
-	]	*/
-};
-
+	Named Shaped Recipes
+*/	
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -48,15 +38,10 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	}	*/
 };
 
-static mirroredRecipes as IIngredient[][][][IItemStack] = {
-/* 	<mod:itemname:meta> : [
-		[
-			[<mod:itemname:meta>, <mod:itemname:meta>],
-			[<mod:itemname:meta>, <mod:itemname:meta>]
-		]
-	]	*/
-};
 
+/*
+	Named Mirrored Recipes
+*/
 static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -69,14 +54,10 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 	}	*/
 };
 
-static shapelessRecipes as IIngredient[][][IItemStack] = {
-/*	<mod:itemname:meta> : [
-		[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>,
-		 <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>,
-		 <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
-		]	*/
-};
 
+/*
+	Named Shapeless Recipes
+*/
 static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -92,15 +73,9 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not 
+	Loops to Add Recipes - Do Not Edit
 */
 
-// Add Shaped Recipes 
-for item, itemRecipes in shapedRecipes {
-	for recipe in itemRecipes {
-				recipes.addShaped(item, recipe);
-	}
-}
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {
 	for recipeName, recipesInner in itemRecipes {
@@ -114,12 +89,7 @@ for item, itemRecipes in namedShapedRecipes {
 		}				
 	}		
 }
-// Add Mirrored Recipes
-for item, itemRecipes in mirroredRecipes {
-	for recipe in itemRecipes {
-				recipes.addShapedMirrored(item, recipe);
-	}
-}
+
 // Add Named Mirrored Recipes
 for item, itemRecipes in namedMirroredRecipes {
 	for recipeName, recipesInner in itemRecipes {
@@ -134,12 +104,6 @@ for item, itemRecipes in namedMirroredRecipes {
 	}		
 }
 
-// Add Shapeless Recipes
-for item, itemRecipes in shapelessRecipes {
-	for recipe in itemRecipes {
-				recipes.addShapeless(item, recipe);
-	}
-}
 // Add Named Shapeless Recipes
 for item, itemRecipes in namedShapelessRecipes {
 	for recipeName, recipesInner in itemRecipes {
