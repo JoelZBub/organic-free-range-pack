@@ -906,6 +906,7 @@ tropicraft.cfg
 -------------------------------------------------------------------------------
 Changelog
 Oct 1  , 2019
+Build Name / Splash Screen = Running Chicken Man
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -967,7 +968,8 @@ Removed M key from Inventory Mask
 
 -------------------------------------------------------------------------------
 		Changelog  
-		Oct 2-3  , 2019
+		Oct 2-5  , 2019
+		Build Name / Splash Screen = AFK Rat
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -978,6 +980,7 @@ PizzaCraft 1.4.5 (Release)
 
 -- Added Mods --
 ----------------
+AnotherLiquidMilkMod (by Mrbysco)
 
 
 -- Updated Mods --
@@ -1008,6 +1011,8 @@ culinaryconstruct.cfg
         <cfm:item_bread_slice>
         <cfm:item_toast>
 	>
+fartgen/general.cfg
+	I:"Every *n* second the generator, if actived, will produce a fart sound."=11 [default=7]	
 fossil.cfg
 	-Backed up and Re-generated new Config for mod update
 	-moved current changes to new config
@@ -1020,7 +1025,8 @@ InControl
 rats.cfg
 	-Backed up and Re-generated new Config for mod update
 	-moved current changes to new config
-	I:"Rat Spawn Decrease"=50
+	I:"Rat Spawn Weight"=25
+	I:"Rat Spawn Decrease"=25
 	B:"Rats Spawn Like Monsters"=false
 	I:"Blacklisted Rat Spawn Dimensions" < 69 >
 simplegenerators/generators/
@@ -1036,6 +1042,8 @@ vampirism/vampirism.cfg
 	village_settings
 		I:village_density=30 [default: 18]
 		I:village_minimum_distance=12 [default: 6]
+
+
 -- Script Changes --
 --------------------
 Recipe Changes for the following mods:
@@ -1053,8 +1061,13 @@ Removed unnecessary unnamed recipe scripts from template and existing scripts
 
 -- Asset Changes --
 -------------------
-
+AFK Rat for splash screen animation gif
 
 -- Other Changes --
 -------------------
+Disabled Rats Mod for this build - More Testing and Issue Reporting needed
 
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.2.1
+-------------------------------------------------------------------------------

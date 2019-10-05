@@ -9,7 +9,7 @@
   },
   {
     "energy": 9600,
-    "id": "mist:mushrooms_food22"
+    "id": "mist:mushrooms_food:22"
   },
   {
     "energy": 21600,
@@ -69,7 +69,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs8"
+    "id": "ediblebugs:cookedbugs:8"
   },
   {
     "energy": 151200,
@@ -117,7 +117,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:sandbugs2"
+    "id": "ediblebugs:sandbugs:2"
   },
   {
     "energy": 306000,
@@ -125,7 +125,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs3"
+    "id": "ediblebugs:cookedbugs:3"
   },
   {
     "energy": 240000,
@@ -181,7 +181,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food26"
+    "id": "mist:mushrooms_food:26"
   },
   {
     "energy": 21600,
@@ -189,7 +189,7 @@
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook4"
+    "id": "mist:mushrooms_cook:4"
   },
   {
     "energy": 21600,
@@ -205,7 +205,7 @@
   },
   {
     "energy": 4800,
-    "id": "mist:mushrooms_food12"
+    "id": "mist:mushrooms_food:12"
   },
   {
     "energy": 153600,
@@ -241,15 +241,15 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:dirtbugs1"
+    "id": "ediblebugs:dirtbugs:1"
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:sandbugs3"
+    "id": "ediblebugs:sandbugs:3"
   },
   {
     "energy": 0,
-    "id": "quark:root_flower1"
+    "id": "quark:root_flower:1"
   },
   {
     "energy": 0,
@@ -257,7 +257,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs4"
+    "id": "ediblebugs:cookedbugs:4"
   },
   {
     "energy": 288000,
@@ -297,11 +297,11 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs6"
+    "id": "ediblebugs:cookedbugs:6"
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs11"
+    "id": "ediblebugs:cookedbugs:11"
   },
   {
     "energy": 252000,
@@ -325,7 +325,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook19"
+    "id": "mist:mushrooms_coo:19"
   },
   {
     "energy": 180000,
@@ -349,11 +349,11 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:sandbugs1"
+    "id": "ediblebugs:sandbugs:1"
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook10"
+    "id": "mist:mushrooms_cook:10"
   },
   {
     "energy": 14400,
@@ -381,7 +381,7 @@
   },
   {
     "energy": 12000,
-    "id": "mist:mushrooms_food7"
+    "id": "mist:mushrooms_food:7"
   },
   {
     "energy": 7200,
@@ -413,7 +413,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:grassbugs1"
+    "id": "ediblebugs:grassbugs:1"
   },
   {
     "energy": 14400,
@@ -441,7 +441,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs1"
+    "id": "ediblebugs:cookedbugs:1"
   },
   {
     "energy": 21600,
@@ -449,7 +449,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish3"
+    "id": "tropicraft:cooked_fish:3"
   },
   {
     "energy": 21600,
@@ -485,7 +485,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish2"
+    "id": "tropicraft:cooked_fish:2"
   },
   {
     "energy": 158400,
@@ -509,7 +509,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food23"
+    "id": "mist:mushrooms_food:23"
   },
   {
     "energy": 9600,
@@ -521,7 +521,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs13"
+    "id": "ediblebugs:cookedbugs:13"
   },
   {
     "energy": 158400,
@@ -529,7 +529,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish1"
+    "id": "tropicraft:cooked_fish:1"
   },
   {
     "energy": 12000,
@@ -537,7 +537,7 @@
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish7"
+    "id": "tropicraft:raw_fish:7"
   },
   {
     "energy": 100799,
@@ -549,7 +549,7 @@
   },
   {
     "energy": 7200,
-    "id": "mist:mushrooms_food18"
+    "id": "mist:mushrooms_food:18"
   },
   {
     "energy": 9600,
@@ -569,7 +569,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:dirtbugs3"
+    "id": "ediblebugs:dirtbugs:3"
   },
   {
     "energy": 64799,
@@ -581,11 +581,11 @@
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook23"
+    "id": "mist:mushrooms_cook:23"
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food21"
+    "id": "mist:mushrooms_food:21"
   },
   {
     "energy": 86400,
@@ -593,19 +593,19 @@
   },
   {
     "energy": 57600,
-    "id": "mist:mushrooms_cook1"
+    "id": "mist:mushrooms_cook:1"
   },
   {
     "energy": 2400,
-    "id": "minecraft:fish3"
+    "id": "minecraft:fish:3"
   },
   {
     "energy": 7200,
-    "id": "mist:mushrooms_food19"
+    "id": "mist:mushrooms_food:19"
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook5"
+    "id": "mist:mushrooms_cook:5"
   },
   {
     "energy": 14400,
@@ -617,7 +617,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish6"
+    "id": "tropicraft:cooked_fish:6"
   },
   {
     "energy": 48000,
@@ -629,11 +629,11 @@
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish1"
+    "id": "tropicraft:raw_fish:1"
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:woodbugs3"
+    "id": "ediblebugs:woodbugs:3"
   },
   {
     "energy": 50400,
@@ -657,11 +657,11 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook11"
+    "id": "mist:mushrooms_cook:11"
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish2"
+    "id": "tropicraft:raw_fish:2"
   },
   {
     "energy": 153600,
@@ -681,19 +681,19 @@
   },
   {
     "energy": 19200,
-    "id": "mist:mushrooms_food2"
+    "id": "mist:mushrooms_food:2"
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish6"
+    "id": "tropicraft:raw_fish:6"
   },
   {
     "energy": 57600,
-    "id": "mist:mushrooms_cook2"
+    "id": "mist:mushrooms_cook:2"
   },
   {
     "energy": 115200,
-    "id": "minecraft:cooked_fish1"
+    "id": "minecraft:cooked_fish:1"
   },
   {
     "energy": 14400,
@@ -709,11 +709,11 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs9"
+    "id": "ediblebugs:cookedbugs:9"
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs16"
+    "id": "ediblebugs:cookedbugs:16"
   },
   {
     "energy": 14400,
@@ -725,11 +725,11 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food4"
+    "id": "mist:mushrooms_food:4"
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish5"
+    "id": "tropicraft:raw_fish:5"
   },
   {
     "energy": 172800,
@@ -745,7 +745,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs15"
+    "id": "ediblebugs:cookedbugs:15"
   },
   {
     "energy": 153600,
@@ -761,7 +761,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:woodbugs1"
+    "id": "ediblebugs:woodbugs:1"
   },
   {
     "energy": 0,
@@ -781,7 +781,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_river_fish1"
+    "id": "tropicraft:cooked_river_fish:1"
   },
   {
     "energy": 57600,
@@ -797,7 +797,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish4"
+    "id": "tropicraft:cooked_fish:4"
   },
   {
     "energy": 21600,
@@ -845,7 +845,7 @@
   },
   {
     "energy": 7200,
-    "id": "mist:mushrooms_food10"
+    "id": "mist:mushrooms_food:10"
   },
   {
     "energy": 21600,
@@ -881,7 +881,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:grassbugs3"
+    "id": "ediblebugs:grassbugs:3"
   },
   {
     "energy": 153600,
@@ -909,7 +909,7 @@
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish3"
+    "id": "tropicraft:raw_fish:3"
   },
   {
     "energy": 24000,
@@ -937,11 +937,11 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs2"
+    "id": "ediblebugs:cookedbugs:2"
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:dirtbugs2"
+    "id": "ediblebugs:dirtbugs:2"
   },
   {
     "energy": 14400,
@@ -949,7 +949,7 @@
   },
   {
     "energy": 57600,
-    "id": "mist:mushrooms_cook3"
+    "id": "mist:mushrooms_cook:3"
   },
   {
     "energy": 306000,
@@ -965,15 +965,15 @@
   },
   {
     "energy": 4800,
-    "id": "mist:mushrooms_food20"
+    "id": "mist:mushrooms_food:20"
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:woodbugs2"
+    "id": "ediblebugs:woodbugs:2"
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs14"
+    "id": "ediblebugs:cookedbugs:14"
   },
   {
     "energy": 36000,
@@ -981,7 +981,7 @@
   },
   {
     "energy": 14400,
-    "id": "mist:mushrooms_food1"
+    "id": "mist:mushrooms_food:1"
   },
   {
     "energy": 230400,
@@ -1013,7 +1013,7 @@
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook22"
+    "id": "mist:mushrooms_cook:22"
   },
   {
     "energy": 48000,
@@ -1041,7 +1041,7 @@
   },
   {
     "energy": 2400,
-    "id": "minecraft:fish2"
+    "id": "minecraft:fish:2"
   },
   {
     "energy": 153600,
@@ -1057,7 +1057,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook21"
+    "id": "mist:mushrooms_cook:21"
   },
   {
     "energy": 9600,
@@ -1093,7 +1093,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs7"
+    "id": "ediblebugs:cookedbugs:7"
   },
   {
     "energy": 240000,
@@ -1117,7 +1117,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food11"
+    "id": "mist:mushrooms_food:11"
   },
   {
     "energy": 115200,
@@ -1169,7 +1169,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs10"
+    "id": "ediblebugs:cookedbugs:10"
   },
   {
     "energy": 21600,
@@ -1181,7 +1181,7 @@
   },
   {
     "energy": 4800,
-    "id": "mist:mushrooms_food16"
+    "id": "mist:mushrooms_food:16"
   },
   {
     "energy": 306000,
@@ -1193,7 +1193,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food24"
+    "id": "mist:mushrooms_food:24"
   },
   {
     "energy": 0,
@@ -1205,7 +1205,7 @@
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook25"
+    "id": "mist:mushrooms_cook:25"
   },
   {
     "energy": 153600,
@@ -1213,11 +1213,11 @@
   },
   {
     "energy": 7200,
-    "id": "mist:mushrooms_food17"
+    "id": "mist:mushrooms_food:17"
   },
   {
     "energy": 4800,
-    "id": "minecraft:fish1"
+    "id": "minecraft:fish:1"
   },
   {
     "energy": 14400,
@@ -1225,7 +1225,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs5"
+    "id": "ediblebugs:cookedbugs:5"
   },
   {
     "energy": 129600,
@@ -1241,7 +1241,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish5"
+    "id": "tropicraft:cooked_fish:5"
   },
   {
     "energy": 28800,
@@ -1265,7 +1265,7 @@
   },
   {
     "energy": 38400,
-    "id": "tropicraft:cooked_fish7"
+    "id": "tropicraft:cooked_fish:7"
   },
   {
     "energy": 72000,
@@ -1273,7 +1273,7 @@
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook12"
+    "id": "mist:mushrooms_cook:12"
   },
   {
     "energy": 97199,
@@ -1281,7 +1281,7 @@
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_fish4"
+    "id": "tropicraft:raw_fish:4"
   },
   {
     "energy": 75600,
@@ -1321,7 +1321,7 @@
   },
   {
     "energy": 19200,
-    "id": "mist:mushrooms_food6"
+    "id": "mist:mushrooms_food:6"
   },
   {
     "energy": 57600,
@@ -1333,7 +1333,7 @@
   },
   {
     "energy": 0,
-    "id": "quark:root_flower2"
+    "id": "quark:root_flower:2"
   },
   {
     "energy": 57600,
@@ -1353,7 +1353,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook17"
+    "id": "mist:mushrooms_cook:17"
   },
   {
     "energy": 21600,
@@ -1369,7 +1369,7 @@
   },
   {
     "energy": 24000,
-    "id": "ediblebugs:grassbugs2"
+    "id": "ediblebugs:grassbugs:2"
   },
   {
     "energy": 48000,
@@ -1389,7 +1389,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook27"
+    "id": "mist:mushrooms_cook:27"
   },
   {
     "energy": 153600,
@@ -1409,7 +1409,7 @@
   },
   {
     "energy": 288000,
-    "id": "ediblebugs:cookedbugs12"
+    "id": "ediblebugs:cookedbugs:12"
   },
   {
     "energy": 153600,
@@ -1433,7 +1433,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook18"
+    "id": "mist:mushrooms_cook:18"
   },
   {
     "energy": 21600,
@@ -1497,7 +1497,7 @@
   },
   {
     "energy": 19200,
-    "id": "mist:mushrooms_food3"
+    "id": "mist:mushrooms_food:3"
   },
   {
     "energy": 0,
@@ -1545,11 +1545,11 @@
   },
   {
     "energy": 9600,
-    "id": "mist:mushrooms_food9"
+    "id": "mist:mushrooms_food:9"
   },
   {
     "energy": 43200,
-    "id": "mist:mushrooms_cook9"
+    "id": "mist:mushrooms_cook:9"
   },
   {
     "energy": 153600,
@@ -1557,7 +1557,7 @@
   },
   {
     "energy": 9600,
-    "id": "tropicraft:raw_river_fish1"
+    "id": "tropicraft:raw_river_fish:1"
   },
   {
     "energy": 21600,
@@ -1565,7 +1565,7 @@
   },
   {
     "energy": 28800,
-    "id": "mist:mushrooms_cook24"
+    "id": "mist:mushrooms_cook:24"
   },
   {
     "energy": 28800,
@@ -1589,7 +1589,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food25"
+    "id": "mist:mushrooms_food:25"
   },
   {
     "energy": 96000,
@@ -1617,7 +1617,7 @@
   },
   {
     "energy": 2400,
-    "id": "mist:mushrooms_food27"
+    "id": "mist:mushrooms_food:27"
   },
   {
     "energy": 97199,

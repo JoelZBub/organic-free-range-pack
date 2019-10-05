@@ -21,7 +21,7 @@ oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:true
-zoom:2
+zoom:0
 mapSize:-1
 entityAmount:1
 chunkGrid:-5
@@ -66,6 +66,7 @@ alwaysShowDistance:false
 playerNames:true
 showLightLevel:false
 renderLayerIndex:1
+showTime:0
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
