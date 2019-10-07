@@ -1071,3 +1071,51 @@ Disabled Rats Mod for this build - More Testing and Issue Reporting needed
 -------------------------------------------------------------------------------
 		Above this line marks all updates included in version 0.0.2.1
 -------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+		Changelog  
+		Oct 6  , 2019
+		Build Name / Splash Screen = AFK Rat
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+-- Removed Mods --
+--------------------
+LightningCraft 
+
+
+-- Config Changes --
+--------------------
+cyclicmagic.cfg
+	B:HarvestScythe=false
+TO DO:
+openblocks.cfg
+	B:storeContents=true (Be sure this is Set to False - Revert from testing)
+
+	
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+-------------------
