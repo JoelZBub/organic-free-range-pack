@@ -1100,8 +1100,15 @@ LightningCraft
 
 -- Config Changes --
 --------------------
+corpse.cfg
+	B:only_owner_access=false
 cyclicmagic.cfg
 	B:HarvestScythe=false
+InControl
+	/potentialspawn
+		Removed Cavenic & Crazy Skeletons - until issue is fixed
+	/spawn
+		Removed Cavenic & Crazy Skeletons - until issue is fixed
 TO DO:
 openblocks.cfg
 	B:storeContents=true (Be sure this is Set to False - Revert from testing)
