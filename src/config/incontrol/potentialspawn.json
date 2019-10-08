@@ -21,6 +21,22 @@
                 "groupcountmax": 2
             }
         ]
-    }    
+    },
+    {
+        "mobs": [
+            {
+                "mob": "cavern:cavenic_skeleton",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 2
+            },
+            {
+                "mob": "cavern:crazy_skeleton",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 2
+            }
+        ]
+    }        
 
 ]

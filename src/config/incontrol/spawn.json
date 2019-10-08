@@ -7,5 +7,12 @@
     "dimension": 0,
     "onjoin": true,
     "result": "deny"
+    },
+    {"mob": [
+      "cavern:cavenic_skeleton",
+      "cavern:crazy_skeleton"
+    ],
+    "onjoin": true,
+    "result": "deny"
     }
 ]
