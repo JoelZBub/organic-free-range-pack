@@ -1075,7 +1075,7 @@ Disabled Rats Mod for this build - More Testing and Issue Reporting needed
 
 -------------------------------------------------------------------------------
 		Changelog  
-		Oct 6  , 2019
+		Oct 9  , 2019
 		Build Name / Splash Screen = AFK Rat
 -------------------------------------------------------------------------------
 
@@ -1087,31 +1087,66 @@ PizzaCraft 1.4.5 (Release)
 
 -- Added Mods --
 ----------------
-
+Egg-Laying-Wool-Milk-Sow (Eierlegende Wollmilchsau) (by Fampat, stypat)
+EnergeticSheep (by kroeser)
+Fart Energy Generator (by Th3_Equalizer)
+SimpleLogic Gates (by aseikierka)
+SimpleLogic Wires (by aseikierka)
+Wall-jump (by genandnic)
 
 -- Updated Mods --
 -------------------
+Atum 2 (2.0.14 to 2.0.15)
+Dynamic Surroundings (3.5.4.3 to 3.5.5.0)
+FoamFix (0.10.5 to 0.10.7)
+JEI (4.15.0.289 to 4.15.0.291)
+MysticalLib (1.3.7 to1.3.8)
+OreLib (3.5.2.2 to 3.5.2.3)
 
 
 -- Removed Mods --
 --------------------
+Hunting Dimension
 LightningCraft 
 
 
 -- Config Changes --
 --------------------
+betteranimalsplus.cfg
+	entityshark
+		S:spawnBiomes <
+            minecraft:frozen_ocean
+            minecraft:deep_ocean
+            minecraft:ocean
+            >
+        I:weight=3 [default=4]   
 corpse.cfg
 	B:only_owner_access=false
+culinaryconstruct.cfg
+	general
+		S:"Additional Bread Items"
+			added <tt:soft_tortilla> to list
 cyclicmagic.cfg
 	B:HarvestScythe=false
+energeticsheep.cfg
+	core
+
+		B:general.versionChecker=false	
 InControl
 	/potentialspawn
 		Removed Cavenic & Crazy Skeletons - until issue is fixed
 	/spawn
 		Removed Cavenic & Crazy Skeletons - until issue is fixed
-TO DO:
 openblocks.cfg
-	B:storeContents=true (Be sure this is Set to False - Revert from testing)
+	B:storeContents=false (Revert from testing)
+theoneprobe.cfg
+	S:sortedEntityProviders
+		added golems_thermal
+	S:sortedProviders 
+		added golems
+		added golems_thermal
+WorldProvider (added to server)
+	initial config from darkphan
 
 	
 -- Script Changes --

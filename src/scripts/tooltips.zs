@@ -26,6 +26,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<hatchery:fertilized_dirt:0>: [
 		format.white("Just needs a hoe")
+	],
+	<mist:humus:0>: [
+		format.white("Not the kind made of chick peas and tahini")
 	]
 };
 
