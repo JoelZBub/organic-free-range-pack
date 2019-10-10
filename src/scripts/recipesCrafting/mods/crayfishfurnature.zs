@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Random Things Crafting Table recipes script.
+	100% Organic Free-Range MrCrayfish Furnature Mod Crafting Table recipes script.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +10,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<randomthings:soundbox>,
-	<randomthings:blockofsticks>
+<cfm:item_ink_cartridge>
 ];
 
 /*
@@ -35,34 +34,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<randomthings:soundbox> : {
-		"randomthings_soundbox" : [
+<cfm:item_ink_cartridge> : {
+		"cfm_item_ink_cartridge" : [
 			[
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-	   			[<ore:plankWood>, <randomthings:soundpattern>, <ore:plankWood>],
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+	  			[<ore:stone>, <ore:stone>, <ore:stone>],
+	   			[<ore:stone>, <ore:dyeBlack>, <ore:stone>],
+	  			[<ore:stone>, <ore:stone>, <ore:stone>]
 			]
 		]
-	},
-	<randomthings:blockofsticks> : {
-		"randomthings_blockofsticks" : [
-			[
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	   			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
-			]
-		]
-	},
-	<randomthings:diviningrod:7> : {
-		"randomthings_diviningrod_universal" : [
-			[
-	  			[<randomthings:diviningrod>, <minecraft:stick>, <randomthings:diviningrod:6>],
-				[<randomthings:diviningrod:1>, <ore:slimeball>, <randomthings:diviningrod:5>],
-				[<randomthings:diviningrod:2>, <randomthings:diviningrod:3>, <randomthings:diviningrod:4>]
-
-			]
-		]
-	}
+    }
 };
 
 
@@ -102,7 +82,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*
 	Loops to Add Recipes - Do Not Edit
 */
-
 
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {

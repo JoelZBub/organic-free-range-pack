@@ -1130,11 +1130,11 @@ cyclicmagic.cfg
 	B:HarvestScythe=false
 energeticsheep.cfg
 	core
-		B:general.versionChecker=false	
+		B:general.versionChecker=false
 InControl
-	/potentialspawn
+	\potentialspawn
 		Removed Cavenic & Crazy Skeletons - until issue is fixed
-	/spawn
+	\spawn
 		Removed Cavenic & Crazy Skeletons - until issue is fixed
 openblocks.cfg
 	B:storeContents=false (Revert from testing)
@@ -1175,13 +1175,36 @@ PizzaCraft 1.4.5 (Release)
 
 -- Config Changes --
 --------------------
+Fartgen	
+	\general.cfg
+		I:"Every *n* second the generator, if actived, will produce a fart sound."=17
+		B:"Exorcist Mode"=false
+		I:"Power generation of the generator."=20
+		S:"Sets the entity"=fampack:elwms
+MorePlayerModels.cfg
+	Compatibility=true // Supposed to fix issue with outer layer of skin, but might cause other issues
+quark.cfg
+	B:"Enderdragon scales"=false
+	B:"Dye Elytra Black"=false
+tinymobfarms.cfg
+	I:"Lasso Durability"=512
+	S:"Mob Blacklist" <golems: (all from mod)>
 vampirism/vampirism_integrations.cfg
     vampirism
         B:disable_VersionCheck=true
 
 -- Script Changes --
 --------------------
-
+mods\akashictome.zs
+	Removed LightningCraft book, changed recipe
+oredict\misc.zs	
+	added items to slimeball and black dye oredict
+Recipe changes for:
+	Mr_Crayfish Furniture Mod
+	Random Things
+	Simple Storage Network
+	Tiny Mob Farms
+	Traveller's Backpacks
 
 -- Asset Changes --
 -------------------

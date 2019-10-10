@@ -10,6 +10,12 @@ import crafttweaker.item.IIngredient;
 
 */
 
+// Slime and Dyes
+<ore:slimeball>.add(<thermalfoundation:material:833>);
+<ore:slimeball>.add(<thermalfoundation:material:832>);
+<ore:slimeball>.add(<minecraft:magma_cream>);
+<ore:dyeBlack>.add(<quark:black_ash>);
+
 
 //	Blocks
 //<ore:blockCoalCoke>.add(<mod:item:meta>);
@@ -19,7 +25,3 @@ import crafttweaker.item.IIngredient;
 //	Flowers
 //<ore:flowerRed>.add(<mod:item:meta>);
 //<ore:flowerRed>.remove(<mod:item:meta>);
-
-
-
-

@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Random Things Crafting Table recipes script.
+	100% Organic Free-Range Tiny Mob Farms Crafting Table recipes script.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +10,14 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<randomthings:soundbox>,
-	<randomthings:blockofsticks>
+<tinymobfarm:lasso>,
+<tinymobfarm:wood_farm>,
+<tinymobfarm:stone_farm>,
+<tinymobfarm:iron_farm>,
+<tinymobfarm:gold_farm>,
+<tinymobfarm:diamond_farm>,
+<tinymobfarm:emerald_farm>,
+<tinymobfarm:inferno_farm>
 ];
 
 /*
@@ -19,6 +25,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<tinymobfarm:ultimate_farm>
 ];
 
 
@@ -35,31 +42,66 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<randomthings:soundbox> : {
-		"randomthings_soundbox" : [
+<tinymobfarm:wood_farm> : {
+		"tinymobfarm_wood_farm" : [
 			[
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-	   			[<ore:plankWood>, <randomthings:soundpattern>, <ore:plankWood>],
+	  			[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>],
+	   			[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
 	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
 			]
 		]
 	},
-	<randomthings:blockofsticks> : {
-		"randomthings_blockofsticks" : [
+<tinymobfarm:stone_farm> : {
+		"tinymobfarm_stone_farm" : [
 			[
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	   			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
+	  			[<ore:stone>, <ore:blockGlass>, <ore:stone>],
+	   			[<ore:blockGlass>, <tinymobfarm:wood_farm>, <ore:blockGlass>],
+	  			[<ore:stone>, <ore:stone>, <ore:stone>]
 			]
 		]
 	},
-	<randomthings:diviningrod:7> : {
-		"randomthings_diviningrod_universal" : [
+<tinymobfarm:iron_farm> : {
+		"tinymobfarm_iron_farm" : [
 			[
-	  			[<randomthings:diviningrod>, <minecraft:stick>, <randomthings:diviningrod:6>],
-				[<randomthings:diviningrod:1>, <ore:slimeball>, <randomthings:diviningrod:5>],
-				[<randomthings:diviningrod:2>, <randomthings:diviningrod:3>, <randomthings:diviningrod:4>]
-
+	  			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:gunpowder>],
+	   			[<ore:blockGlass>, <tinymobfarm:stone_farm>, <ore:blockGlass>],
+	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]
+			]
+		]
+	},
+<tinymobfarm:gold_farm> : {
+		"tinymobfarm_gold_farm" : [
+			[
+	  			[<minecraft:blaze_rod>, <minecraft:ghast_tear>, <minecraft:magma_cream>],
+	   			[<ore:blockGlass>, <tinymobfarm:iron_farm>, <ore:blockGlass>],
+	  			[<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>]
+			]
+		]
+	},
+<tinymobfarm:diamond_farm> : {
+		"tinymobfarm_diamond_farm" : [
+			[
+	  			[<minecraft:dragon_breath>, <minecraft:skull:1>, <minecraft:ender_eye>],
+	   			[<ore:blockGlass>, <tinymobfarm:gold_farm>, <ore:blockGlass>],
+	  			[<ore:gemDiamond>, <ore:gemDiamond>, <ore:gemDiamond>]
+			]
+		]
+	},
+<tinymobfarm:emerald_farm> : {
+		"tinymobfarm_emerald_farm" : [
+			[
+	  			[<minecraft:nether_star>, <mowziesmobs:naga_fang>, <minecraft:nether_star>],
+	   			[<ore:blockGlass>, <tinymobfarm:diamond_farm>, <ore:blockGlass>],
+	  			[<ore:blockEmerald>, <ore:blockEmerald>, <ore:blockEmerald>]
+			]
+		]
+	},
+<tinymobfarm:inferno_farm> : {
+		"tinymobfarm_inferno_farm" : [
+			[
+	  			[<midnight:hunter_wing>, <erebus:materials:48>, <atum:mandibles>],
+	   			[<ore:blockGlass>, <tinymobfarm:emerald_farm>, <ore:blockGlass>],
+	  			[<minecraft:red_nether_brick>, <minecraft:elytra>, <minecraft:red_nether_brick>]
 			]
 		]
 	}
@@ -91,6 +133,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+<tinymobfarm:lasso>.withTag({}) : {
+		"tinymobfarm_lasso" : [
+			[<minecraft:lead>, <ore:gemDiamond>, <ore:enderpearl>]
+		]
+	}
 };
 
 
@@ -102,7 +149,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*
 	Loops to Add Recipes - Do Not Edit
 */
-
 
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {
