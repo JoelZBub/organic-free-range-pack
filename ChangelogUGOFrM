@@ -1130,7 +1130,6 @@ cyclicmagic.cfg
 	B:HarvestScythe=false
 energeticsheep.cfg
 	core
-
 		B:general.versionChecker=false	
 InControl
 	/potentialspawn
@@ -1149,14 +1148,43 @@ WorldProvider (added to server)
 	initial config from darkphan
 
 	
--- Script Changes --
+		Changelog  
+		Oct 10  , 2019
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Fossils & Archeology Revival - 8.0.2 
+	(Crashing in other pack on 8.0.3) 
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+-- Removed Mods --
 --------------------
 
 
 
+-- Config Changes --
+--------------------
+vampirism/vampirism_integrations.cfg
+    vampirism
+        B:disable_VersionCheck=true
+
+-- Script Changes --
+--------------------
+
+
 -- Asset Changes --
 -------------------
-
 
 
 -- Other Changes --
