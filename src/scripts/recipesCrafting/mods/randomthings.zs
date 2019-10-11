@@ -11,7 +11,8 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<randomthings:soundbox>,
-	<randomthings:blockofsticks>
+	<randomthings:blockofsticks>,
+	<randomthings:diviningrod:7>
 ];
 
 /*
