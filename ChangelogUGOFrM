@@ -1147,7 +1147,9 @@ theoneprobe.cfg
 WorldProvider (added to server)
 	initial config from darkphan
 
-	
+
+
+-------------------------------------------------------------------------------	
 		Changelog  
 		Oct 10  , 2019
 -------------------------------------------------------------------------------
@@ -1162,10 +1164,12 @@ PizzaCraft 1.4.5 (Release)
 
 -- Added Mods --
 ----------------
+ContentTweaker
 
 
 -- Updated Mods --
 -------------------
+Xaero's Minimap (1.18.3.1 to 1.18.4)
 
 
 -- Removed Mods --
@@ -1205,9 +1209,15 @@ Recipe changes for:
 	Simple Storage Network
 	Tiny Mob Farms
 	Traveller's Backpacks
+Recipe Additions for:
+	Bug Tacos
+ContentTweaker Scripts
+	Bug Tacos	
+
 
 -- Asset Changes --
 -------------------
+Added Bug Taco item textures
 
 
 -- Other Changes --
