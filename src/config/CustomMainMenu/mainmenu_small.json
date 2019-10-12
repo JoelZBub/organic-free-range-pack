@@ -152,7 +152,7 @@
         
         "background":
         {
-            "image" : "custommainmenu:scrn/TempTitle.jpg",
+            "image" : "custommainmenu:scrn/temptitle.jpg",
             "mode" : "fill"
         }
     }

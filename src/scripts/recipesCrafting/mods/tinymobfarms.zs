@@ -10,14 +10,14 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<tinymobfarm:lasso>,
-<tinymobfarm:wood_farm>,
-<tinymobfarm:stone_farm>,
-<tinymobfarm:iron_farm>,
-<tinymobfarm:gold_farm>,
-<tinymobfarm:diamond_farm>,
-<tinymobfarm:emerald_farm>,
-<tinymobfarm:inferno_farm>
+	<tinymobfarm:lasso>,
+	<tinymobfarm:wood_farm>,
+	<tinymobfarm:stone_farm>,
+	<tinymobfarm:iron_farm>,
+	<tinymobfarm:gold_farm>,
+	<tinymobfarm:diamond_farm>,
+	<tinymobfarm:emerald_farm>,
+	<tinymobfarm:inferno_farm>
 ];
 
 /*
@@ -25,7 +25,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-<tinymobfarm:ultimate_farm>
+	<tinymobfarm:ultimate_farm>
 ];
 
 
@@ -42,7 +42,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<tinymobfarm:wood_farm> : {
+	<tinymobfarm:wood_farm> : {
 		"tinymobfarm_wood_farm" : [
 			[
 	  			[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>],
@@ -51,7 +51,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:stone_farm> : {
+	<tinymobfarm:stone_farm> : {
 		"tinymobfarm_stone_farm" : [
 			[
 	  			[<ore:stone>, <ore:blockGlass>, <ore:stone>],
@@ -60,7 +60,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:iron_farm> : {
+	<tinymobfarm:iron_farm> : {
 		"tinymobfarm_iron_farm" : [
 			[
 	  			[<minecraft:rotten_flesh>, <minecraft:bone>, <minecraft:gunpowder>],
@@ -69,7 +69,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:gold_farm> : {
+	<tinymobfarm:gold_farm> : {
 		"tinymobfarm_gold_farm" : [
 			[
 	  			[<minecraft:blaze_rod>, <minecraft:ghast_tear>, <minecraft:magma_cream>],
@@ -78,7 +78,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:diamond_farm> : {
+	<tinymobfarm:diamond_farm> : {
 		"tinymobfarm_diamond_farm" : [
 			[
 	  			[<minecraft:dragon_breath>, <minecraft:skull:1>, <minecraft:ender_eye>],
@@ -87,7 +87,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:emerald_farm> : {
+	<tinymobfarm:emerald_farm> : {
 		"tinymobfarm_emerald_farm" : [
 			[
 	  			[<minecraft:nether_star>, <mowziesmobs:naga_fang>, <minecraft:nether_star>],
@@ -96,7 +96,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<tinymobfarm:inferno_farm> : {
+	<tinymobfarm:inferno_farm> : {
 		"tinymobfarm_inferno_farm" : [
 			[
 	  			[<midnight:hunter_wing>, <erebus:materials:48>, <atum:mandibles>],
@@ -133,7 +133,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<tinymobfarm:lasso>.withTag({}) : {
+	<tinymobfarm:lasso>.withTag({}) : {
 		"tinymobfarm_lasso" : [
 			[<minecraft:lead>, <ore:gemDiamond>, <ore:enderpearl>]
 		]

@@ -10,7 +10,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<cfm:item_ink_cartridge>
+	<cfm:item_ink_cartridge>
 ];
 
 /*
@@ -34,7 +34,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<cfm:item_ink_cartridge> : {
+	<cfm:item_ink_cartridge> : {
 		"cfm_item_ink_cartridge" : [
 			[
 	  			[<ore:stone>, <ore:stone>, <ore:stone>],

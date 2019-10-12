@@ -1070,13 +1070,13 @@ Disabled Rats Mod for this build - More Testing and Issue Reporting needed
 
 -------------------------------------------------------------------------------
 		Above this line marks all updates included in version 0.0.2.1
+		Build Name / Splash Screen = AFK Rat
 -------------------------------------------------------------------------------
 
 
 -------------------------------------------------------------------------------
 		Changelog  
 		Oct 9  , 2019
-		Build Name / Splash Screen = AFK Rat
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -1164,17 +1164,13 @@ PizzaCraft 1.4.5 (Release)
 
 -- Added Mods --
 ----------------
+BASE
 ContentTweaker
 
 
 -- Updated Mods --
 -------------------
 Xaero's Minimap (1.18.3.1 to 1.18.4)
-
-
--- Removed Mods --
---------------------
-
 
 
 -- Config Changes --
@@ -1220,5 +1216,100 @@ ContentTweaker Scripts
 Added Bug Taco item textures
 
 
--- Other Changes --
+
+-------------------------------------------------------------------------------	
+		Changelog  
+		Oct 12  , 2019
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Fossils & Archeology Revival - 8.0.2 
+	(Crashing in other pack on 8.0.3) 
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+Redstone Gauges and Switches - 1.1.8 (Release branch)	
+
+-- Added Mods --
+----------------
+Better Than Bunnies
+Better Than Llamas
+Blur
+Project: Vibrant Journeys
+Realistic Terrain Generation
+Traverse Legacy
+Water Strainer
+
+-- Updated Mods --
 -------------------
+Cannibalism (5.6.1 to 5.6.2)
+Content Creator Integration (1.1.0 to 1.2.0)
+WanionLib (2.3 to 2.4)
+
+
+-- Config Changes --
+--------------------
+betteranimalsplus.cfg
+	delete and regen
+	re-add previous changes
+	removed invalid biome entries
+	removed error biome
+blur.cfg
+	general
+		I:radius=8
+cmf.cfg
+	recipes for appliances by sublimiter
+dsurround.cfg
+	sound
+		D:"Thunder Volume"=7000.0 [default=10000.0]
+itemzoom.cfg
+	 B:jei.only=true
+	 I:zoom.amount=50	
+naturescompass.cfg
+	general {
+    # naturescompass.biomeBlacklist
+    S:"A list of biomes that the compass will not be able to search for. Both biome names and numerical biome IDs are accepted." <
+        A mod doesn't support extended biome IDs -- report to JEID
+     >	 		
+projectvibrantjourneys.cfg
+	master
+		B:"Building: Enable Mystical Grill"=false
+		B:"Misc: Enable Puddles"=false
+	global 
+        I:"Animals Density"=70
+        I:"End Plants Density"=50
+        I:"Fallen Leaves Density"=50
+        I:"Fallen Tree Density"=50
+        I:"Groundcover Density"=50
+        I:"Mobs Density"=70
+        I:"Nether Plants Density"=50
+        I:"Overworld Plants Density"=50
+        I:"Rocks Density"=50
+        I:"Stone Deposits Density"=50
+        I:"Twigs Density"=40
+    misc
+        B:doGrassDropSeeds=true
+        B:restrictSquidsToOceans=false
+    various other Tweaks to lower excessive gen of twigs, leaves, fallenleaves       	
+    blacklisted dimensions
+
+
+-- Script Changes --
+--------------------
+randomthings.zs
+	recipe changes
+drinkEvents.zs
+	Easter Eggs
+transposerVampirismRecipes.zs
+	added thermal expansion Transposer scripts	
+
+-- Asset Changes --
+-------------------
+added Mr Boogerpants gif
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.2.1
+		Build Name / Splash Screen = Mr Boogerpants
+-------------------------------------------------------------------------------
+

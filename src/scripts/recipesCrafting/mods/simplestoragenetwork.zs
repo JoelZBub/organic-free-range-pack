@@ -10,7 +10,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<storagenetwork:remote:3>
+	<storagenetwork:remote:3>
 ];
 
 /*
@@ -34,7 +34,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<storagenetwork:remote:3> : {
+	<storagenetwork:remote:3> : {
 		"storagenetwork_remote3" : [
 			[
 	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],

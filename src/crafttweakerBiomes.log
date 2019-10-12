@@ -1,0 +1,154 @@
+
+Biomes:
+-minecraft:ocean	Ocean
+-minecraft:plains	Plains
+-minecraft:desert	Desert
+-minecraft:extreme_hills	Extreme Hills
+-minecraft:forest	Forest
+-minecraft:taiga	Taiga
+-minecraft:swampland	Swampland
+-minecraft:river	River
+-minecraft:hell	Hell
+-minecraft:sky	The End
+-minecraft:frozen_ocean	FrozenOcean
+-minecraft:frozen_river	FrozenRiver
+-minecraft:ice_flats	Ice Plains
+-minecraft:ice_mountains	Ice Mountains
+-minecraft:mushroom_island	MushroomIsland
+-minecraft:mushroom_island_shore	MushroomIslandShore
+-minecraft:beaches	Beach
+-minecraft:desert_hills	DesertHills
+-minecraft:forest_hills	ForestHills
+-minecraft:taiga_hills	TaigaHills
+-minecraft:smaller_extreme_hills	Extreme Hills Edge
+-minecraft:jungle	Jungle
+-minecraft:jungle_hills	JungleHills
+-minecraft:jungle_edge	JungleEdge
+-minecraft:deep_ocean	Deep Ocean
+-minecraft:stone_beach	Stone Beach
+-minecraft:cold_beach	Cold Beach
+-minecraft:birch_forest	Birch Forest
+-minecraft:birch_forest_hills	Birch Forest Hills
+-minecraft:roofed_forest	Roofed Forest
+-minecraft:taiga_cold	Cold Taiga
+-minecraft:taiga_cold_hills	Cold Taiga Hills
+-minecraft:redwood_taiga	Mega Taiga
+-minecraft:redwood_taiga_hills	Mega Taiga Hills
+-minecraft:extreme_hills_with_trees	Extreme Hills+
+-minecraft:savanna	Savanna
+-minecraft:savanna_rock	Savanna Plateau
+-minecraft:mesa	Mesa
+-minecraft:mesa_rock	Mesa Plateau F
+-minecraft:mesa_clear_rock	Mesa Plateau
+-jeid:error_biome	A mod doesn't support extended biome IDs -- report to JEID
+-mist:up_meadow	Meadow
+-mist:up_forest	Forest
+-mist:up_dense_forest	Dense Forest
+-mist:up_savanna	Savanna
+-mist:up_desert	Desert
+-mist:up_dunes	Dunes
+-mist:up_snowfields	Snowfields
+-mist:up_taiga	Taiga
+-mist:up_hilly_taiga	Hilly Taiga
+-mist:up_swamp	Swampland
+-mist:up_swampy_meadow	Swampy Meadow
+-mist:up_swampy_forest	Swampy Forest
+-mist:up_jungle	Jungle
+-mist:up_jungle_edge	Jungle Edge
+-mist:up_jungle_hills	Jungle Hills
+-mist:up_lake	Lake
+-mist:up_marsh	Marsh
+-mist:up_lowland	Lowland
+-mist:up_cold_lowland	Cold Lowland
+-mist:border_plains	Plains Border
+-mist:border_desert	Desert Border
+-mist:border_cold	Cold Border
+-mist:border_swamp	Swampland Border
+-mist:border_jungle	Jungle Border
+-mist:border_down	Down Border
+-mist:separator	Border
+-mist:down	Down
+-mist:down_forest	Down Forest
+-mist:down_swamp	Down Swamp
+-mist:down_center	Down Center
+-pvj:prairie	Prairie
+-pvj:redwoods	Redwoods
+-pvj:redwood_peaks	Redwood Peaks
+-pvj:willow_swamp	Willow Swamp
+-pvj:boreal_forest	Boreal Forest
+-pvj:snowy_boreal_forest	Snowy Boreal Forest
+-pvj:aspen_grove	Aspen Grove
+-pvj:overgrown_spires	Overgrown Spires
+-pvj:blossoming_fields	Blossoming Fields
+-randomthings:spectral	Spectral
+-atum:dead_oasis	Dead Oasis
+-atum:deadwood_forest	Deadwood Forest
+-atum:dried_river	Dried River
+-atum:limestone_crags	Limestone Crags
+-atum:limestone_mountains	Limestone Mountains
+-atum:oasis	Oasis
+-atum:sand_dunes	Sand Dunes
+-atum:sand_hills	Sand Hills
+-atum:sand_plains	Sand Plains
+-erebus:underground_jungle	Underground Jungle
+-erebus:volcanic_desert	Volcanic Desert
+-erebus:subterranean_savannah	Subterranean Savannah
+-erebus:elysian_fields	Elysian Fields
+-erebus:ulterior_outback	Ulterior Outback
+-erebus:fungal_forest	Fungal Forest
+-erebus:submerged_swamp	Submerged Swamp
+-erebus:fields_sub_forest	Elysian Forest
+-erebus:petrified_forest	Petrified Forest
+-fossil:lair of darkness	anu
+-fossil:treasure	treasure
+-integrateddynamics:biome_meneglin	Meneglin
+-traverse:autumnal_woods	Autumnal Woods
+-traverse:woodlands	Woodlands
+-traverse:mini_jungle	Mini Jungle
+-traverse:meadow	Meadow
+-traverse:green_swamp	Lush Swamp
+-traverse:red_desert	Red Desert
+-traverse:temperate_rainforest	Temperate Rainforest
+-traverse:badlands	Badlands
+-traverse:mountainous_desert	Mountainous Desert
+-traverse:rocky_plateau	Rocky Plateau
+-traverse:forested_hills	Forested Hills
+-traverse:birch_forested_hills	Birch Forested Hills
+-traverse:autumnal_wooded_hills	Autumnal Wooded Hills
+-traverse:cliffs	Cliffs
+-traverse:glacier	Glacier
+-traverse:glacier_spikes	Glacier Spikes
+-traverse:snowy_coniferous_forest	Snowy Coniferous Forest
+-traverse:lush_hills	Lush Hills
+-traverse:desert_shrubland	Desert Shrubland
+-traverse:thicket	Thicket
+-traverse:arid_highland	Arid Highland
+-traverse:rocky_plains	Rocky Plains
+-vampirism:vampireforest	vampireForest
+-midnight:vigilant_forest	vigilant_forest
+-midnight:black_ridge	black_ridge
+-minecraft:void	The Void
+-midnight:deceitful_bog	deceitful_bog
+-minecraft:mutated_plains	Sunflower Plains
+-minecraft:mutated_desert	Desert M
+-minecraft:mutated_extreme_hills	Extreme Hills M
+-minecraft:mutated_forest	Flower Forest
+-minecraft:mutated_taiga	Taiga M
+-minecraft:mutated_swampland	Swampland M
+-midnight:fungi_forest	fungi_forest
+-midnight:obscured_peaks	obscured_peaks
+-midnight:warped_fields	warped_fields
+-midnight:crystal_spires	crystal_spires
+-midnight:night_plains	night_plains
+-minecraft:mutated_ice_flats	Ice Plains Spikes
+-midnight:obscured_plateau	obscured_plateau
+-midnight:phantasmal_valley	phantasmal_valley
+-midnight:runebush_grove	runebush_grove
+-midnight:hilly_vigilant_forest	hilly_vigilant_forest
+-midnight:hilly_fungi_forest	hilly_fungi_forest
+-minecraft:mutated_jungle	Jungle M
+-minecraft:mutated_jungle_edge	JungleEdge M
+-minecraft:mutated_birch_forest	Birch Forest M
+-minecraft:mutated_birch_forest_hills	Birch Forest Hills M
+-minecraft:mutated_roofed_forest	Roofed Forest M
+-minecraft:mutated_taiga_cold	Cold Taiga M

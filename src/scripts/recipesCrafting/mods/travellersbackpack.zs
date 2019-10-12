@@ -10,7 +10,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<travellersbackpack:travellers_backpack:67>
+	<travellersbackpack:travellers_backpack:67>
 ];
 
 /*
@@ -34,7 +34,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<travellersbackpack:travellers_backpack:67> : {
+	<travellersbackpack:travellers_backpack:67> : {
 		"travellersbackpack_travellers_backpack_slime" : [
 			[
 	  			[<ore:slimeball>, <ore:slimeball>, <ore:slimeball>],
