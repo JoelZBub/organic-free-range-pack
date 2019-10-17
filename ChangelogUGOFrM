@@ -1313,3 +1313,65 @@ added Mr Boogerpants gif
 		Build Name / Splash Screen = Mr Boogerpants
 -------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------	
+		Changelog  
+		Oct 12  , 2019
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Fossils & Archeology Revival - 8.0.2 
+	(Crashing in other pack on 8.0.3) 
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-
+Redstone Gauges and Switches - 1.1.8 (Release branch)	
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+Bewitchment
+
+
+
+-- Config Changes --
+--------------------
+InControl
+	\potentialspawn
+		Added rules for Vampirism, Removed rules for Cavenic Skeletons
+	\potentialspawn
+		Added rules for Vampirism, Removed rules for Cavenic Skeletons
+RFTools\rftools.cfg
+	Disabled Spawner recipe for Ender Dragon
+	Added Spawner recipe for Vampire Baron and Caveman
+tinymobfarms.cfg
+	S:"Mob Blacklist" <
+        minecraft:iron_golem >
+tropicraft.cfg
+	B:genOverworldPalmsInBeachOnly=true
+vampirism.cfg
+	 B:bat_mode_in_end=true
+
+
+-- Script Changes --
+--------------------
+Added recipes for Bamboozled and Vampirism
+Set Bewitchment recipe script to #norun in case mod is readded later
+	
+
+-- Asset Changes --
+-------------------
+
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.2.2
+		Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+

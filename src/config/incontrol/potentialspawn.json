@@ -1,6 +1,6 @@
 [
     {
-        "dimension": 69,
+        "dimension": 0,
         "mobs": [
             {
                 "mob": "fossil:fossil.nautilus",
@@ -22,21 +22,16 @@
             }
         ]
     },
+    
     {
+        "structure": "Mansion",
         "mobs": [
             {
-                "mob": "cavern:cavenic_skeleton",
-                "weight": 1,
-                "groupcountmin": 1,
-                "groupcountmax": 2
-            },
-            {
-                "mob": "cavern:crazy_skeleton",
+                "mob": "vampirism:vampire_baron",
                 "weight": 1,
                 "groupcountmin": 1,
                 "groupcountmax": 2
             }
         ]
-    }        
-
+    }
 ]
