@@ -1409,7 +1409,7 @@ Set Bewitchment recipe script to #norun in case mod is readded later
 -------------------
 capsule/starters
     starter_rv.nbt - added
-    traveller's 
+    traveller's_base.nbt - removed 
 
 
 
