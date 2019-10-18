@@ -1157,8 +1157,6 @@ WorldProvider (added to server)
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
-Fossils & Archeology Revival - 8.0.2 
-	(Crashing in other pack on 8.0.3) 
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 
@@ -1225,8 +1223,6 @@ Added Bug Taco item textures
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
-Fossils & Archeology Revival - 8.0.2 
-	(Crashing in other pack on 8.0.3) 
 PizzaCraft 1.4.5 (Release)
 	server crash on 2.0.16.16 beta -issue reported-
 Redstone Gauges and Switches - 1.1.8 (Release branch)	
@@ -1315,49 +1311,92 @@ added Mr Boogerpants gif
 
 -------------------------------------------------------------------------------	
 		Changelog  
-		Oct 12  , 2019
+		Oct 13-17, 2019
+		Build Name / Splash Screen = Watermarked Flamingo
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
-Fossils & Archeology Revival - 8.0.2 
-	(Crashing in other pack on 8.0.3) 
 PizzaCraft 1.4.5 (Release)
-	server crash on 2.0.16.16 beta -issue reported-
-Redstone Gauges and Switches - 1.1.8 (Release branch)	
+	server crash on 2.0.16.16 beta -issue reported-	
 
 -- Added Mods --
 ----------------
-
+BetterOffhand (by panoskj) 
+Birds Nests (by cleverpanda714)
+Building Gadgets (by Direwolf20, Lumous, Phylogeny)
+Despawning Spawners (by Buuz135)
+Dynamic Dynamos (by unascribed)
+Flamingos (by Vexatos, asie)
+JER Ore Integration (byAx1eum)
+Midnight Rifting Machine (by dabbingeevee)
+Rainbow Oak Trees (by csb987)
+Simple Mob Radar (by tfarecnim)
+XP From Harvest (by RealGecko)
 
 -- Updated Mods --
 -------------------
-
+Chisel (0.2.1.35 to 1.0.0.42)
+Connected Textures Mod [CTM] (0.3.3.22 to 1.0.0.29)
+Fart Energy Generator [cowgen] (0.1.0 to 0.1.1) 
+FoamFix (0.10.7 to 0.10.8)
+JustEnoughIDs (1.0.3-44 to 1.0.3-48)
+Unlimited Chisel Works (0.2.4 to 0.3.0)
+Xaero's Minimap - (1.18.4 to 1.18.5.3)
 
 --- Removed Mods ---
 --------------------
 Bewitchment
-
+Practical Logistics 2
+Redstone Gauges and Switches
+Sonar Core
 
 
 -- Config Changes --
 --------------------
+culinaryconstruct.cfg
+    general
+         S:"Additional Bread Items" 
+            added <vampirism:garlic_bread>
+dragonmounts.cfg
+    blacklist all dimensions but overworld
+energeticsheep.cfg
+    mob
+        S:energetic_sheep.powerBreedingItems <
+            contenttweaker:hard_bug_taco
+            minecraft:chorus_fruit
+            integrateddynamics:menril_berries
+            tt:redstone_taco
+        >
+fossil.cfg
+    B:"Dino Block Breaking"=false [default=true]
+    I:"Fossil Dig Site Rarity"=1200 [default: 900]
+    I:"Tarpit Dig Site Rarity"=1000 [default: 900]
+    B:"Machines require Redstone Flux(RF)"=true [default=false]
 InControl
 	\potentialspawn
 		Added rules for Vampirism, Removed rules for Cavenic Skeletons
 	\potentialspawn
 		Added rules for Vampirism, Removed rules for Cavenic Skeletons
+projectvibrantjourneys.cfg
+    master
+        B:"Building: Enable Mystical Grill"=true
+        B:"Structures: Enable Structures"=false  		
 RFTools\rftools.cfg
 	Disabled Spawner recipe for Ender Dragon
 	Added Spawner recipe for Vampire Baron and Caveman
 tinymobfarms.cfg
 	S:"Mob Blacklist" <
         minecraft:iron_golem >
+travellersbackpack.cfg
+    general
+        B:backpackDeathPlace=false [default=true]
 tropicraft.cfg
 	B:genOverworldPalmsInBeachOnly=true
-vampirism.cfg
-	 B:bat_mode_in_end=true
+vampirism/vampirism.cfg
+    general
+        B:bat_mode_in_end=true
 
 
 -- Script Changes --
@@ -1368,10 +1407,9 @@ Set Bewitchment recipe script to #norun in case mod is readded later
 
 -- Asset Changes --
 -------------------
+capsule/starters
+    starter_rv.nbt - added
+    traveller's 
 
 
--------------------------------------------------------------------------------
-		Above this line marks all updates included in version 0.0.2.2
-		Build Name / Splash Screen = TBD
--------------------------------------------------------------------------------
 
