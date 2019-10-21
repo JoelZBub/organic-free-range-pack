@@ -86,7 +86,7 @@ val scale_armor_set = mods.SetEffect.newSet()
 
 // 	Hexcite Armor Set
 val hexcite_armor_set = mods.SetEffect.newSet()
-		.setName("Scale_Armor_Set")
+		.setName("Hexcite_Armor_Set")
 		.withHead(<cavern:hexcite_helmet:0>)
 		.withChest(<cavern:hexcite_chestplate:0>)
 		.withLegs(<cavern:hexcite_leggings:0>)
