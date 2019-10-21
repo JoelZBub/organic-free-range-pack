@@ -3,6 +3,7 @@ ignoreUpdate:0
 updateNotification:false
 settingsButton:false
 allowWrongWorldTeleportation:false
+differentiateByServerAddress:true
 #INGAME SETTINGS (DO NOT EDIT!)
 minimap:true
 caveMaps:1
@@ -17,7 +18,7 @@ showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:true
@@ -43,7 +44,7 @@ compassOverWaypoints:false
 showBiome:true
 showEntityHeight:true
 showFlowers:true
-keepWaypointNames:false
+keepWaypointNames:true
 waypointsDistance:0.0
 waypointsDistanceMin:0.0
 waypointTp:tp
@@ -66,7 +67,7 @@ alwaysShowDistance:false
 playerNames:true
 showLightLevel:false
 renderLayerIndex:1
-showTime:0
+showTime:2
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false

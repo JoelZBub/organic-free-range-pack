@@ -1413,3 +1413,105 @@ capsule/starters
 
 
 
+-------------------------------------------------------------------------------	
+		Changelog  
+		Oct 18-20, 2019
+		Build Name / Splash Screen = Watermarked Flamingo
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-	
+
+
+-- Added Mods --
+----------------
+Set Effect (by Lemonszz)
+
+
+-- Updated Mods --
+-------------------
+Corpse (1.0.4 to 1.0.5)
+Cyclopse Core (1.5.0 to 1.5.1)
+integrated Terminials (1.0.11 to 1.0.12)
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+blur.cfg
+	general
+		I:radius=5 
+cfm.cfg
+	recipe-api 
+    	S:custom-recipes
+    		removed bewitchment items
+    		removed theoneprobe items
+    		fixed typos
+    		added some pizzacraft clothing to washing machine
+defaultoptions
+	resolved some keybinds conflicts		
+MorePlayerModels.cfg
+	EnableBackItem=false
+	HeadWearType=0
+midnight.cfg
+	monster_spawn_rate=8 [default=1]
+projectvibrantjourneys.cfg - Regnerated Defult config and re-configured from scratch -
+	master
+		B:"Structures: Enable Structures"=false
+	misc
+		B:doGrassDropSeeds=true
+		B:restrictSquidsToOceans=false
+	global {
+         I:"Animals Density"=80
+        I:"End Plants Density"=50
+        I:"Fallen Leaves Density"=50
+        I:"Fallen Tree Density"=60
+        I:"Groundcover Density"=70
+        I:"Mobs Density"=80
+        I:"Nether Plants Density"=60
+        I:"Overworld Plants Density"=70
+        I:"Rocks Density"=50
+        I:"Stone Deposits Density"=50
+        I:"Twigs Density"=60		
+randomthings.cfg
+	internals
+    	I:SpectreID=70
+travellersbackpack.cfg
+    general
+        B:backpackDeathPlace=true [default=true] [reverted to default]
+
+
+-- Script Changes --
+--------------------
+akashictome.zs
+	removed bewitchment, lightningcraft and practical logistics 
+armorSets.zs
+	mummy_armor_set
+	bamboo_armor_set
+	rockshroom_armor_set
+	scale_armor-set
+	hexcite-armor_set
+items.zs
+	pirate_hat	
+bamboozled.zs
+	fixed typo in recipe name
+initialinventory.zs
+	removed bewitchment, lightningcraft and practical logistics
+recipesHideRemoveJEI.zs
+	<randomthings:timeinabottle:0>,
+	<randomthings:eclipsedclock:0>,
+	<theoneprobe:probe:0>,
+	<theoneprobe:creativeprobe:0>,
+	<theoneprobe:probenote:0>,
+	<theoneprobe:diamond_helmet_probe:0>,
+	<theoneprobe:gold_helmet_probe:0>,
+	<theoneprobe:iron_helmet_probe:0>
+
+
+-- Asset Changes --
+-------------------

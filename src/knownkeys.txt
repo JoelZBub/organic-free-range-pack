@@ -188,3 +188,13 @@ MPM 4
 MPM 5
 key.toggleLiquids
 key.toggleVisible
+key.simplemobradar.scroll
+walljump.key.walljump
+key.settings_menu
+key.range
+key.undo
+key.anchor
+key.fuzzy
+key.connected_area
+key.rotate_mirror
+key.material_list

@@ -14,7 +14,15 @@ static hiddenItems as IItemStack[] = [
 
 static removeItems as IIngredient[] = [
 //	<mod:itemname:meta>
-	<chisel:chisel_hitech:0>
+	<chisel:chisel_hitech:0>,
+	<randomthings:timeinabottle:0>,
+	<randomthings:eclipsedclock:0>,
+	<theoneprobe:probe:0>,
+	<theoneprobe:creativeprobe:0>,
+	<theoneprobe:probenote:0>,
+	<theoneprobe:diamond_helmet_probe:0>,
+	<theoneprobe:gold_helmet_probe:0>,
+	<theoneprobe:iron_helmet_probe:0>
 ];
 
 

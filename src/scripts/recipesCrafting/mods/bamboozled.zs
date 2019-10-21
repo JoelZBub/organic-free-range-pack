@@ -35,7 +35,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		]
 	}	*/
 <bamboozled:salt_ore> : {
-		"bamboozled:salt_ore" : [
+		"bamboozled_salt_ore" : [
 			[
 	  			[<bamboozled:salt_pile>, <bamboozled:salt_pile>, <bamboozled:salt_pile>],
 	   			[<bamboozled:salt_pile>, <bamboozled:salt_pile>, <bamboozled:salt_pile>]

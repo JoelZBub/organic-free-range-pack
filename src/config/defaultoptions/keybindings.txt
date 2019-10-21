@@ -31,8 +31,11 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
-key_key.changeAccess:21:NONE
-key_keybind.baublesinventory:48:NONE
+key_key.changeAccess:23:NONE
+key_keybind.baublesinventory:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -51,21 +54,18 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_key.cavern.miningAssist:47:NONE
-key_key.cavern.miningRecords:88:NONE
+key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:46:NONE
 key_key.death_history:0:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_key.davincis.up:45:NONE
 key_key.davincis.down:44:NONE
 key_key.davincis.brake:46:NONE
-key_key.davincis.align:13:NONE
+key_key.davincis.align:12:NONE
 key_key.davincis.decompile:43:NONE
 key_key.davincis.shipinv:37:NONE
-key_enderutilities.key.activate_unselected:34:NONE
+key_enderutilities.key.activate_unselected:0:NONE
 key_enderutilities.key.togglemode:34:NONE
 key_key.erebus.glide:34:NONE
 key_key.erebus.poweredglide:35:NONE
@@ -75,17 +75,18 @@ key_key.fart.desc:34:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE
-key_MPM 1:44:NONE
-key_MPM 2:47:NONE
-key_MPM 3:48:NONE
+key_MPM 1:0:NONE
+key_MPM 2:0:NONE
+key_MPM 3:0:NONE
 key_MPM 4:0:NONE
 key_MPM 5:0:NONE
-key_MPM Camera:56:NONE
+key_MPM Camera:0:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:47:NONE
+key_key.simplemobradar.scroll:42:NONE
 key_key.toastcontrol.clear:36:CONTROL
 key_keys.vampirism.action:19:NONE
 key_keys.vampirism.suck:47:NONE
@@ -95,6 +96,7 @@ key_keys.vampirism.blood_potion_crafting:48:CONTROL
 key_keys.vampirism.action1:2:ALT
 key_keys.vampirism.action2:3:ALT
 key_key.horn:35:NONE
+key_walljump.key.walljump:42:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -106,6 +108,14 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_key.settings_menu:34:NONE
+key_key.range:19:NONE
+key_key.undo:22:NONE
+key_key.anchor:35:NONE
+key_key.fuzzy:0:NONE
+key_key.connected_area:0:NONE
+key_key.rotate_mirror:0:NONE
+key_key.material_list:50:NONE
 key_key.cofh.multimode:47:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
@@ -127,7 +137,7 @@ key_key.keyWheel:19:NONE
 key_key.keyExtraCraftin:46:NONE
 key_key.keySkills:37:NONE
 key_key.dragon.breath:19:NONE
-key_key.dragon.cancelhover:48:NONE
+key_key.dragon.cancelhover:0:NONE
 key_key.dragon.projectile:45:NONE
 key_key.dragon.followYaw:49:NONE
 key_key.dragon.lockY:0:NONE
@@ -141,7 +151,7 @@ key_key.integratedterminals.terminal.tab.next:15:NONE
 key_key.integratedterminals.terminal.tab.previous:15:SHIFT
 key_key.integratedterminals.terminal.craftinggrid.clearplayer:46:NONE
 key_key.integratedterminals.terminal.craftinggrid.clearstorage:46:SHIFT
-key_key.integratedterminals.terminal.craftinggrid.balance:48:NONE
+key_key.integratedterminals.terminal.craftinggrid.balance:0:NONE
 key_key.categories.naming:49:NONE
 key_invtweaks.key.sort:19:NONE
 key_key.itemzoom.toggle:44:SHIFT
@@ -157,18 +167,18 @@ key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
 key_keys.travellersBackpack.inventory:48:NONE
 key_keys.travellersBackpack.toggle_tank:49:NONE
-key_gui.xaero_minimap_settings:21:CONTROL
+key_gui.xaero_minimap_settings:21:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
-key_gui.xaero_instant_waypoint:78:NONE
+key_gui.xaero_instant_waypoint:22:NONE
 key_gui.xaero_toggle_slime:0:NONE
 key_gui.xaero_toggle_grid:0:NONE
 key_gui.xaero_toggle_waypoints:0:NONE
 key_gui.xaero_toggle_map:36:NONE
 key_gui.xaero_enlarge_map:44:NONE
-key_gui.xaero_waypoints_key:22:NONE
-key_gui.xaero_zoom_in:23:NONE
-key_gui.xaero_zoom_out:24:NONE
-key_gui.xaero_new_waypoint:48:NONE
+key_gui.xaero_waypoints_key:0:NONE
+key_gui.xaero_zoom_in:51:NONE
+key_gui.xaero_zoom_out:52:NONE
+key_gui.xaero_new_waypoint:0:NONE
 key_gui.xaero_display_all_sets:0:NONE
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:27:NONE

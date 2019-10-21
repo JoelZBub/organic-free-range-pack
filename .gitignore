@@ -15,6 +15,7 @@ src/minecraftinstance.json
 /src/saves/
 /src/server-resource-packs/
 /src/tv-cache/
+/src/photo-frame-cache/
 /src/valkyrielib/
 /src/XaeroWorldMap/
 /src/XaeroWaypoints/
@@ -41,6 +42,7 @@ src/servers.dat
 src/encyclopedia-servers/
 src/overlordplayersquads.dat
 src/.ReAuth.cfg
+src/config/projectvibrantjourneys_custom_backup.cfg
 
 # don't push this file
 .gitignore

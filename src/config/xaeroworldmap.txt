@@ -10,4 +10,5 @@ terrainDepth:true
 footsteps:true
 flowers:true
 compression:false
-globalVersion:1
+coordinates:true
+globalVersion:3
