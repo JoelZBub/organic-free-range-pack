@@ -10,14 +10,26 @@
   "result": "deny"
   },
   {
+    "mob": ["vampirism:vampire", "vampirism:advanced_vampire", "vampirism:vampire_baron"],
+    "block": "vampirism:cursed_earth",
+    "result": "allow"
+  },
+  {
     "structure": "Mansion",
     "mob": "vampirism:vampire_baron",
     "maxcount": 3,
     "result": "allow"
   },
   {
-    "mob": ["vampirism:vampire", "vampirism:advanced_vampire", "vampirism:vampire_baron"],
-    "block": "vampirism:cursed_earth",
+    "mob": ["vampirism:vampire"],
+    "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
+    "maxcount": 20,
+    "result": "allow"
+  },
+  {
+    "mob": "vampirism:advanced_vampire",
+    "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
+    "maxcount": 2,
     "result": "allow"
   },
   {

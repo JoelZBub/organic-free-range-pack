@@ -22,6 +22,30 @@
             }
         ]
     },
+    {
+        "dimension": 0,
+        "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
+        "mobs": [
+                {
+                    "mob": "vampirism:vampire",
+                    "weight": 5,
+                    "groupcountmin": 1,
+                    "groupcountmax": 2 
+                }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
+        "mobs": [
+                {
+                    "mob": "vampirism:advanced_vampire",
+                    "weight": 1,
+                    "groupcountmin": 1,
+                    "groupcountmax": 1
+                }
+        ]
+    },
     
     {
         "structure": "Mansion",

@@ -34,8 +34,8 @@ val bamboo_armor_set = mods.SetEffect.newSet()
 		.withChest(<erebus:bamboo_chestplate:0>)
 		.withLegs(<erebus:bamboo_leggings:0>)
 		.withFeet(<erebus:bamboo_boots:0>)
-		.addEffect(<potion:cyclic:potion.swimspeed>.makePotionEffect(100, 1))
-		.addEffect(<potion:cyclic:potion.waterwalk>.makePotionEffect(100, 1))
+		// .addEffect(<potion:cyclic:potion.swimspeed>.makePotionEffect(100, 1))
+		// .addEffect(<potion:cyclic:potion.waterwalk>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:water_breathing>.makePotionEffect(100, 1))
 		.setIgnoreNBT()
 		.register();
@@ -53,7 +53,7 @@ val rockshroom_armor_set = mods.SetEffect.newSet()
 		.withChest(<midnight:rockshroom_chestplate:0>)
 		.withLegs(<midnight:rockshroom_leggings:0>)
 		.withFeet(<midnight:rockshroom_boots:0>)
-		.addEffect(<potion:minecraft:night_vision>.makePotionEffect(100, 0))
+		.addEffect(<potion:minecraft:night_vision>.makePotionEffect(400, 0))
 		.addEffect(<potion:vampirism:disguise_as_vampire>.makePotionEffect(100, 0))
 		.setIgnoreNBT()
 		.register();
@@ -71,7 +71,7 @@ val scale_armor_set = mods.SetEffect.newSet()
 		.withChest(<tropicraft:scale_chestplate:0>)
 		.withLegs(<tropicraft:scale_leggings:0>)
 		.withFeet(<tropicraft:scale_boots:0>)
-		.addEffect(<potion:randomthings:immbue_poison>.makePotionEffect(100, 1))
+		.addEffect(<potion:randomthings:imbue_poison>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:jump_boost>.makePotionEffect(100, 1))
 		.addEffect(<potion:mowziesmobs:poison_resist>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:fire_resistance>.makePotionEffect(100, 0))
@@ -91,7 +91,7 @@ val hexcite_armor_set = mods.SetEffect.newSet()
 		.withChest(<cavern:hexcite_chestplate:0>)
 		.withLegs(<cavern:hexcite_leggings:0>)
 		.withFeet(<cavern:hexcite_boots:0>)
-		.addEffect(<potion:cyclic:potion.magnet>.makePotionEffect(100, 1))
+		// .addEffect(<potion:cyclic:potion.magnet>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:haste>.makePotionEffect(100, 1))
 		.addEffect(<potion:randomthings:imbue_experience>.makePotionEffect(100, 1))
 		.setIgnoreNBT()
@@ -101,3 +101,20 @@ val hexcite_armor_set = mods.SetEffect.newSet()
 <cavern:hexcite_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
 <cavern:hexcite_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
 <cavern:hexcite_boots:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue")); 
+
+// 	Danger Zone Armor Set
+val danger_zone_armor_set = mods.SetEffect.newSet()
+		.setName("Danger_Zone_Armor_Set")
+		.withHead(<erebus:rhino_exoskeleton_helmet:0>)
+		.withChest(<mist:niobium_chestplate:0>)
+		.withLegs(<fossil:shin_leggings:0>)
+		.withFeet(<midnight:tenebrum_boots:0>)
+		.addEffect(<potion:minecraft:regeneration>.makePotionEffect(100, 2))
+		.addEffect(<potion:minecraft:saturation>.makePotionEffect(100, 0))
+		.setIgnoreNBT()
+		.register();
+
+<erebus:rhino_exoskeleton_helmet:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<mist:niobium_chestplate:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<fossil:shin_leggings:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<midnight:tenebrum_boots:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));

@@ -16,7 +16,9 @@ static displayNameChange as string[IItemStack] = {
 	<minecraft:chicken:0>: "Pecker Meat",
 	<minecraft:cooked_chicken:0>: "Cooked Pecker Meat",
 	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker",
-	<dragonmounts:diamond_shears>: "Dragon Shears"
+	<dragonmounts:diamond_shears>: "Dragon Shears",
+	<cyclicmagic:battery>: "Battery",
+	<cfm:toilet>: "Throne"
 };
 
 

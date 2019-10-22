@@ -29,8 +29,14 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<mist:humus:0>: [
 		format.white("Not the kind made of chick peas and tahini")
+	],
+	<erebus:portal_activator>: [
+		format.red("If you don't make two, that's your own fault")
 	]
 };
+
+// Shift Tooltips
+<erebus:portal_activator>.addShiftTooltip(format.gold("Seriously, take an extra with you"));
 
 
 // Do NOT edit below this line //
