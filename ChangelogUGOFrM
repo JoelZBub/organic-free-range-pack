@@ -1515,3 +1515,47 @@ recipesHideRemoveJEI.zs
 
 -- Asset Changes --
 -------------------
+
+
+-------------------------------------------------------------------------------	
+		Changelog  
+		Oct 21-22 , 2019
+		Build Name / Splash Screen = Watermarked Flamingo
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-	
+
+
+-- Added Mods --
+----------------
+Block Drops (JEI Addon) (by KidsDontPlay) 
+Inventory Sorter (by cpw)
+Thermal Innovation (by TeamCoFH)
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+Inventory Tweaks
+
+
+
+-- Config Changes --
+--------------------
+
+
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
