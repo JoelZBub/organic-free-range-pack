@@ -1454,7 +1454,10 @@ cfm.cfg
     		fixed typos
     		added some pizzacraft clothing to washing machine
 defaultoptions
-	resolved some keybinds conflicts		
+	resolved some keybinds conflicts
+InControl
+	/potentialspawn and /spawn
+		Set vampires to spawn in only Vampire Forest, Roofed Forests, and Swamps		
 MorePlayerModels.cfg
 	EnableBackItem=false
 	HeadWearType=0
@@ -1484,6 +1487,15 @@ randomthings.cfg
 travellersbackpack.cfg
     general
         B:backpackDeathPlace=true [default=true] [reverted to default]
+Vampirism/vampirism.cfg
+	S:sundamage_disabled_biomes <
+        vampirism:vampireforest
+        minecraft:swampland
+        minecraft:roofed_forest
+        pvj:willow_swamp
+        minecraft:mutated_swampland
+        minecraft:mutated_roofed_forest
+     >
 
 
 -- Script Changes --
@@ -1496,6 +1508,7 @@ armorSets.zs
 	rockshroom_armor_set
 	scale_armor-set
 	hexcite-armor_set
+	danger-zone-armor-set
 items.zs
 	pirate_hat	
 bamboozled.zs
@@ -1511,6 +1524,17 @@ recipesHideRemoveJEI.zs
 	<theoneprobe:diamond_helmet_probe:0>,
 	<theoneprobe:gold_helmet_probe:0>,
 	<theoneprobe:iron_helmet_probe:0>
+displayNames.zs
+	Name changes for Cyclic Battery and CFM Toilet
+oreDict/misc.zs
+	added Misty World clay to clay oredict
+recipesCrafting/mods/quark.zs
+	added recipe for Slime in a BucketBlocks
+recipesFurnace - added template
+	/ediblebugs.zs
+		Changed funace output for termite clay to termite brick
+tooltips.zs
+	Added tooltips for Erebus Portal Activator
 
 
 -- Asset Changes --

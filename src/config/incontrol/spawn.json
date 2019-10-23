@@ -24,13 +24,13 @@
     "mob": ["vampirism:vampire"],
     "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
     "maxcount": 20,
-    "result": "allow"
+    "result": "default"
   },
   {
     "mob": "vampirism:advanced_vampire",
     "biome": ["Swampland", "Roofed Forest", "Willow Swamp", "Swampland M", "Roofed Forest M"],
     "maxcount": 2,
-    "result": "allow"
+    "result": "default"
   },
   {
     "mob": ["vampirism:vampire", "vampirism:advanced_vampire", "vampirism:vampire_baron"],
