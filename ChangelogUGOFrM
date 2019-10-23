@@ -1539,6 +1539,9 @@ Thermal Innovation (by TeamCoFH)
 
 -- Updated Mods --
 -------------------
+Chisel (1.0.0.42 to 1.0.0.44)
+CraftPresence (1.5.5 to 1.5.6)
+Vampirism (1.5.4 to 1.5.5)
 
 
 --- Removed Mods ---
@@ -1554,8 +1557,11 @@ Inventory Tweaks
 
 -- Script Changes --
 --------------------
-
-
+oreDict/misc.zs
+	<ore:coconut>.add(<pvj:coconut:0>);
+	<ore:coconut>.add(<tropicraft:coconut:0>);
+armorSets.zs
+	fixed cyclicmagic error/typo
 
 -- Asset Changes --
 -------------------
