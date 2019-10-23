@@ -1,10 +1,10 @@
-import crafttweaker.data.IData;
-
 /*	
 	100% Organic Free-Range Armor Sets Effects Script
 	This script adds effects when a complete set of armor is worn 
 	It utilizes Set Effect mod and CraftTweaker
 */
+
+import crafttweaker.data.IData;
 
 //	Atum Mummy Armor Set
 val mummy_armor_set = mods.SetEffect.newSet()
@@ -34,8 +34,8 @@ val bamboo_armor_set = mods.SetEffect.newSet()
 		.withChest(<erebus:bamboo_chestplate:0>)
 		.withLegs(<erebus:bamboo_leggings:0>)
 		.withFeet(<erebus:bamboo_boots:0>)
-		// .addEffect(<potion:cyclic:potion.swimspeed>.makePotionEffect(100, 1))
-		// .addEffect(<potion:cyclic:potion.waterwalk>.makePotionEffect(100, 1))
+		.addEffect(<potion:cyclicmagic:potion.swimspeed>.makePotionEffect(100, 1))
+		.addEffect(<potion:cyclicmagic:potion.waterwalk>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:water_breathing>.makePotionEffect(100, 1))
 		.setIgnoreNBT()
 		.register();
@@ -91,7 +91,7 @@ val hexcite_armor_set = mods.SetEffect.newSet()
 		.withChest(<cavern:hexcite_chestplate:0>)
 		.withLegs(<cavern:hexcite_leggings:0>)
 		.withFeet(<cavern:hexcite_boots:0>)
-		// .addEffect(<potion:cyclic:potion.magnet>.makePotionEffect(100, 1))
+		.addEffect(<potion:cyclicmagic:potion.magnet>.makePotionEffect(100, 1))
 		.addEffect(<potion:minecraft:haste>.makePotionEffect(100, 1))
 		.addEffect(<potion:randomthings:imbue_experience>.makePotionEffect(100, 1))
 		.setIgnoreNBT()
