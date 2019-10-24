@@ -1605,8 +1605,11 @@ recipesHideRemoveJEI
 	<arcademod:invisible:0>
 tooltips.zs
 	added ShiftToolTips loop
-
 tropicraft.zs
 	added ore:coconut to PinaColada and CoconutBomb recipes
 
 
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.3.0
+		Build Name / Splash Screen = Watermarked Flamingo
+-------------------------------------------------------------------------------
