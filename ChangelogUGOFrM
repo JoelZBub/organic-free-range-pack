@@ -1429,7 +1429,7 @@ PizzaCraft 1.4.5 (Release)
 -- Added Mods --
 ----------------
 Set Effect (by Lemonszz)
-
+The Disenchanter Mod (by impelon)
 
 -- Updated Mods --
 -------------------
@@ -1532,6 +1532,7 @@ PizzaCraft 1.4.5 (Release)
 
 -- Added Mods --
 ----------------
+Arcade Mod (by TheSuperHB50)
 Block Drops (JEI Addon) (by KidsDontPlay) 
 Inventory Sorter (by cpw)
 Thermal Innovation (by TeamCoFH)
@@ -1539,9 +1540,14 @@ Thermal Innovation (by TeamCoFH)
 
 -- Updated Mods --
 -------------------
+Cannibalism (5.6.2 to 5.6.3)
 Chisel (1.0.0.42 to 1.0.0.44)
+Content Creator Integration ( 1.2.0 to 1.2.1)
 CraftPresence (1.5.5 to 1.5.6)
+The Disenchanter Mod (1.5 to 1.6**)
 Vampirism (1.5.4 to 1.5.5)
+Xaero's Minimap (1.18.5.3 to 1.18.6)
+Xaero's World Map (1.4.10.1 to 1.5)
 
 
 --- Removed Mods ---
@@ -1552,16 +1558,31 @@ Inventory Tweaks
 
 -- Config Changes --
 --------------------
-
-
+arcademod.cfg
+	B:disableUpdateNotification=true
+fossil.cfg
+	B:"Generate Desert Academies"=false
+	B:"Generate Fossil Dig Sites"=false
 
 -- Script Changes --
 --------------------
+armorSets.zs
+	fixed cyclicmagic error/typo
+displaynames.zs
+	<arcademod:coin:0>: "Arcade Token"
+	script cleanup	
 oreDict/misc.zs
 	<ore:coconut>.add(<pvj:coconut:0>);
 	<ore:coconut>.add(<tropicraft:coconut:0>);
-armorSets.zs
-	fixed cyclicmagic error/typo
+recipesCrafting/mods/arcademod.zs
+	tweaked coin recipes
+recipesHideRemoveJEI
+	<arcademod:coin_pusher:0>,
+	<arcademod:invisible:0>
+tooltips.zs
+	added ShiftToolTips loop
 
--- Asset Changes --
--------------------
+tropicraft.zs
+	added ore:coconut to PinaColada and CoconutBomb recipes
+
+

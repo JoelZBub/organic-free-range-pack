@@ -10,6 +10,8 @@ import crafttweaker.item.IItemStack;
 
 static hiddenItems as IItemStack[] = [
 //	<mod:itemname:meta>
+	<arcademod:coin_pusher:0>,
+	<arcademod:invisible:0>
 ];
 
 static removeItems as IIngredient[] = [

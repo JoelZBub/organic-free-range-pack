@@ -7,6 +7,10 @@ import crafttweaker.item.IItemStack;
 // Items and new Display Names we want for them.
 static displayNameChange as string[IItemStack] = {
 	//<modid:itemid:0>: "Display Name",
+	<arcademod:coin:0>: "Arcade Token",
+	<cfm:toilet:0>: "Throne",
+	<cyclicmagic:battery:0>: "Battery",
+	<dragonmounts:diamond_shears:0>: "Dragon Shears",
 	<hatchery:chicken_feed:0>: "Pecker Food",
 	<hatchery:chickenmanure:0>: "Pecker Poop",
 	<hatchery:feeder:0>: "Pecker Feeder",
@@ -15,10 +19,7 @@ static displayNameChange as string[IItemStack] = {
 	<inventorypets:cow_pet:0>: "Cow-see-um Pet",
 	<minecraft:chicken:0>: "Pecker Meat",
 	<minecraft:cooked_chicken:0>: "Cooked Pecker Meat",
-	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker",
-	<dragonmounts:diamond_shears>: "Dragon Shears",
-	<cyclicmagic:battery>: "Battery",
-	<cfm:toilet>: "Throne"
+	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker"
 };
 
 

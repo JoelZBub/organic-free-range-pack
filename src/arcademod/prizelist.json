@@ -1,0 +1,40 @@
+{
+  "prizes": [
+    {
+      "item": "arcademod:plushie",
+      "cost": 5,
+      "data": 0,
+      "nbt": {
+        "Mob": 0
+      }
+    },
+    {
+      "item": "arcademod:plushie",
+      "cost": 3,
+      "data": 0,
+      "nbt": {
+        "Mob": 1
+      }
+    },
+    {
+      "item": "minecraft:diamond",
+      "cost": 128
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "cost": 64
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "cost": 96
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "cost": 16
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "cost": 32
+    }
+  ]
+}

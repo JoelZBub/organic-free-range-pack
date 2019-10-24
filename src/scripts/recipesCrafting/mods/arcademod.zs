@@ -1,5 +1,7 @@
+#norun
 /*
-	100% Organic Free-Range Tropicraft Crafting Table recipes script.
+	100% Organic Free-Range Arcace Mod Crafting Table recipes script.
+	This script is for adding and removing recipes by mod.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,10 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<tropicraft:sifter:0>,
-	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 10 as byte}], Color: 15724527, DrinkID: 6 as byte}),
-	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 9 as byte}], Color: 15724527, DrinkID: 6 as byte}),
-	<tropicraft:coconut_bomb:0>
+	<arcademod:coin:0>
 ];
 
 /*
@@ -25,8 +24,8 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 
 
 /*
-	Add Recipes
-*/
+	Named Shaped Recipes
+*/	
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -37,27 +36,12 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<tropicraft:coconut_bomb:0> : {
-		"tropicraft_coconut_bomb" : [
-			[
-	  			[null, <ore:gunpowder>, null],
-	  			[<ore:gunpowder>, <ore:coconut>, <ore:gunpowder>],
-	  			[null, <ore:gunpowder>, null]
-			]
-		]
-	},
-	<tropicraft:sifter> : {
-		"tropicraft_sifter" : [
-			[
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-	   			[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>],
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
-			]
-		]
-	}
 };
 
 
+/*
+	Named Mirrored Recipes
+*/
 static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -71,22 +55,25 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 };
 
 
+/*
+	Named Shapeless Recipes
+*/
 static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 10 as byte}], Color: 15724527, DrinkID: 6 as byte}) : {
-		"tropicraft_pina_colada_coconut_pineapple_cubes" : [
-			[<ore:coconut>, <tropicraft:pineapple_cubes:0>, <tropicraft:bamboo_mug:0>]
+	<arcademod:coin:0> : {
+		"arcademod_coin_nuggets" : [
+			[<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]
 		]
 	},
-	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 9 as byte}], Color: 15724527, DrinkID: 6 as byte}) : {
-		"tropicraft_pina_colada_full_ingredients" : [
-			[<ore:coconut>, <tropicraft:pineapple:0>, <tropicraft:bamboo_mug>]
+	<arcademod:coin:0> : {
+		"arcademod_coin_thermal_coin" : [
+			[<thermalfoundation:coin:1>]
 		]
-	}		
+	}
 };
 
 
@@ -96,9 +83,8 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not 
+	Loops to Add Recipes - Do Not Edit
 */
-
 
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {
