@@ -198,3 +198,12 @@ key.fuzzy
 key.connected_area
 key.rotate_mirror
 key.material_list
+Up
+Down
+Left/Back
+Right
+Select
+Jump
+key.inventorysorter.itemin
+key.inventorysorter.sort
+key.inventorysorter.itemout

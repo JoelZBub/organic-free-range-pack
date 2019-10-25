@@ -42,6 +42,7 @@ src/servers.dat
 src/encyclopedia-servers/
 src/overlordplayersquads.dat
 src/.ReAuth.cfg
+src/.splashes
 src/config/projectvibrantjourneys_custom_backup.cfg
 
 # don't push this file
