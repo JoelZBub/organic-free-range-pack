@@ -12,7 +12,7 @@ import crafttweaker.entity.IEntityLivingBase;
 
 // Give effect after drinking a drink
 events.onEntityLivingUseItemFinish(function(event as crafttweaker.event.EntityLivingUseItemEvent.Finish){
-var bdubsdrink = <cfm:item_drink>.withTag({HealAmount: 0, Colour: [4, 133, 40] as int[], Name: "Bdubs Special"});
+var bdubsdrink = <cfm:item_drink>.withTag({HealAmount: 0, Colour: [4, 133, 40] as int[], Name: "Bdubs EMERALD WARS Drink"});
 	if bdubsdrink.matches(event.item) {
 		event.player.executeCommand("effect @s minecraft:nausea 600");
 		event.player.executeCommand("effect @s minecraft:slowness 600 3");
