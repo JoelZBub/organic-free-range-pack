@@ -1649,7 +1649,7 @@ Charset Lib (0.5.6.3 to 0.5.6.4)
 
 -- Config Changes --
 --------------------
-betteranimalmodels.cfg
+betteranimalsplus.cfg
 	entitycoyote
 		removed non-desert biomes
 		lowered spawn weight and maxGoup
@@ -1657,6 +1657,34 @@ capsule.cfg
 	balancing
 		S:overridableBlocks
 			added pvj groundcover
+cavern/general.cfg
+	general
+		 S:miningPoints <
+	        glowstone,2
+	        oreAquamarine,2
+	        oreCoal,1
+	        oreDiamond,5
+	        oreEmerald,3
+	        oreGold,1
+	        oreHexcite,4
+	        oreIron,1
+	        oreLapis,3
+	        oreMagnite,1
+	        oreQuartz,2
+	        oreRandomite,2
+	        oreRedstone,2
+	        minecraft:lit_redstone_ore,2
+	        oreCopper,1
+	        oreTin,1
+	        oreSilver,1
+	        oreLead,1
+	        oreAluminum,1
+	        oreNickel,1
+	        orePlatinum,2
+	        oreIridium,2
+	        oreMithril,1
+	        oreClathrateRedstone,1
+     	>
 cfm.cfg
 	recipe-api 
     	S:custom-recipes
