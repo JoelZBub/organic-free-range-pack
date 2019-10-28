@@ -23,12 +23,13 @@ import crafttweaker.item.IIngredient;
 // 	Planks 
 //<ore:plankWood>.add(<mod:item:meta>);
 //<ore:plankWood>.remove(<mod:item:meta>);
+<ore:plankBamboo>.add(<tropicraft:bundle:1>);
 
 //	Slabs
 //<ore:slabWood>.add(<mod:item:meta>);
 //<ore:slabWood>.remove(<mod:item:meta>);
 
-//	Stairs.add(<mod:item:meta>);
+//	Stairs
 //<ore:stairWood>.add(<mod:item:meta>);
 //<ore:stairWood>.remove(<mod:item:meta>);
 

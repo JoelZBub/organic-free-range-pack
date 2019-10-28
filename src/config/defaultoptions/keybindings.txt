@@ -39,7 +39,6 @@ key_Right:205:NONE
 key_Select:28:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
@@ -60,6 +59,7 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
 key_key.cavern.miningAssist:47:NONE
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:46:NONE
@@ -79,8 +79,8 @@ key_key.erebus.beetleram:19:NONE
 key_key.erebus.beetlemine:56:NONE
 key_key.fart.desc:34:NONE
 key_key.inventorysorter.itemin:-200:NONE
-key_key.inventorysorter.sort:-98:NONE
 key_key.inventorysorter.itemout:-201:NONE
+key_key.inventorysorter.sort:-98:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE

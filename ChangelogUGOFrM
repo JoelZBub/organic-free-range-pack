@@ -1590,11 +1590,15 @@ fossil.cfg
 
 -- Script Changes --
 --------------------
+akashictome.zs
+	added missing entries
 armorSets.zs
 	fixed cyclicmagic error/typo
 displaynames.zs
 	<arcademod:coin:0>: "Arcade Token"
 	script cleanup	
+initialinventory.zs
+	added missing entries to akashic tome 
 oreDict/misc.zs
 	<ore:coconut>.add(<pvj:coconut:0>);
 	<ore:coconut>.add(<tropicraft:coconut:0>);
@@ -1610,6 +1614,66 @@ tropicraft.zs
 
 
 -------------------------------------------------------------------------------
-		Above this line marks all updates included in version 0.0.3.0
+		Above this line marks all updates included in version 0.0.3.1
 		Build Name / Splash Screen = Watermarked Flamingo
 -------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------	
+		Changelog
+		Oct 24- , 2019
+		Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+PizzaCraft 1.4.5 (Release)
+	server crash on 2.0.16.16 beta -issue reported-	
+
+
+-- Added Mods --
+----------------
+Emojicord
+
+
+
+-- Updated Mods --
+-------------------
+Charset Lib (0.5.6.3 to 0.5.6.4)
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+betteranimalmodels.cfg
+	entitycoyote
+		removed non-desert biomes
+		lowered spawn weight and maxGoup
+capsule.cfg
+	balancing
+		S:overridableBlocks
+			added pvj groundcover
+cfm.cfg
+	recipe-api 
+    	S:custom-recipes
+    		added more changes by sublimiter
+cyclicmagic.cfg
+	B:"Emerald Gear"=true
+mist.cfg
+	removed cobblestone from campfire.
+xpfromharvest.cfg
+	B:"Simple Harvest"=true [default=false]
+
+
+-- Script Changes --
+--------------------
+oreDict/woodMaterials
+	add tropicraft bamboo bundle as plankBamboo
+
+
+-- Asset Changes --
+-------------------
