@@ -35,11 +35,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		]
 	}	*/
 	<clickmachine:auto_clicker> : {
-		"string_for_recipe_name" : [
+		"clickmachine_auto_clicker" : [
 			[
-	  			[<midnight:suavis>, <midnight:suavis>, <midnight:suavis>],
-	   			[<midnight:suavis>, <midnight:dark_pearl>, <midnight:suavis>],
-	  			[<midnight:suavis>, <midnight:bloomcrystal_rock>, <midnight:suavis>]
+	  			[<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>],
+	   			[<minecraft:stone:3>, <midnight:dark_pearl>, <minecraft:stone:3>],
+	  			[<minecraft:stone:3>, <cavern:cave_block:3>, <minecraft:stone:3>]
 			]
 		]
 	}		

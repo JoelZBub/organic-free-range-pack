@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Random Things Crafting Table recipes script.
+	100% Organic Free-Range openblocks recipes
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,10 +10,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<randomthings:soundbox>,
-	<randomthings:blockofsticks>,
-	<randomthings:diviningrod:7>,
-	<randomthings:blockbreaker>
+	<openblocks:block_breaker>,
+	<openblocks:block_placer>
 ];
 
 /*
@@ -37,41 +35,22 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<randomthings:soundbox> : {
-		"randomthings_soundbox" : [
+	<openblocks:block_breaker> : {
+		"openblocks_block_breaker" : [
 			[
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-	   			[<ore:plankWood>, <randomthings:soundpattern>, <ore:plankWood>],
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+	  			[<minecraft:cobblestone>, <minecraft:iron_pickaxe>, <minecraft:cobblestone>],
+	   			[<minecraft:cobblestone>, <midnight:dark_pearl>, <minecraft:cobblestone>],
+	  			[<minecraft:cobblestone>, <minecraft:cobblestone>, <minecraft:cobblestone>]
 			]
 		]
 	},
-	<randomthings:blockofsticks> : {
-		"randomthings_blockofsticks" : [
-			[
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	   			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
-			]
-		]
-	},
-	<randomthings:diviningrod:7> : {
-		"randomthings_diviningrod_universal" : [
-			[
-	  			[<randomthings:diviningrod>, <minecraft:stick>, <randomthings:diviningrod:6>],
-				[<randomthings:diviningrod:1>, <ore:slimeball>, <randomthings:diviningrod:5>],
-				[<randomthings:diviningrod:2>, <randomthings:diviningrod:3>, <randomthings:diviningrod:4>]
-
-			]
-		]
-	},
-	<randomthings:blockbreaker> : {
-		"randomthings_blockbreaker" : [
+	<openblocks:block_placer> : {
+		"openblocks_block_placer" : [
 			[
 	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>],
-	   			[<minecraft:diamond_pickaxe>, <midnight:dark_pearl>, <minecraft:cobblestone>],
+	   			[<minecraft:piston>, <midnight:dark_pearl>, <minecraft:cobblestone>],
 	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>]
-			]
+			]	
 		]
 	}
 };
@@ -113,7 +92,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*
 	Loops to Add Recipes - Do Not Edit
 */
-
 
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {
