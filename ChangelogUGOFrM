@@ -1620,7 +1620,7 @@ tropicraft.zs
 
 -------------------------------------------------------------------------------	
 		Changelog
-		Oct 24- , 2019
+		Oct 24-31 , 2019
 		Build Name / Splash Screen = TBD
 -------------------------------------------------------------------------------
 
@@ -1657,6 +1657,7 @@ capsule.cfg
 	balancing
 		S:overridableBlocks
 			added pvj groundcover
+			removed bewitchment blocks
 cavern/general.cfg
 	general
 		 S:miningPoints <
@@ -1693,15 +1694,84 @@ cyclicmagic.cfg
 	B:"Emerald Gear"=true
 mist.cfg
 	removed cobblestone from campfire.
+quark.cfg
+	B:"Right click harvest"=false 
+walljump.cfg
+	general
+		B:allowReClinging=true [default=false]
 xpfromharvest.cfg
 	B:"Simple Harvest"=true [default=false]
 
 
 -- Script Changes --
 --------------------
+armorSets.zs
+	extended effecty times to avoid expiration warning flash
 oreDict/woodMaterials
 	add tropicraft bamboo bundle as plankBamboo
 
+
+-- Asset Changes --
+-------------------
+
+
+
+
+-------------------------------------------------------------------------------	
+		Changelog
+		Nov 1-9 , 2019
+		Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+
+
+-- Added Mods --
+----------------
+Stuff A Sock In It (by DarkhaxDev)
+
+
+-- Updated Mods --
+-------------------
+Building Gadgets (2.7.3 to 2.7.4)
+Cyclic (1.19.17 to 1.19.18)
+Dynamic Surroundings (3.5.5.0 to 3.6.0.1)
+Fart Energy Generator (cowgen) (0.1.1 to 0.1.2)
+LagGoggles (4.8 to 4.9)
+MysticalLib (1.3.8 to 1.4.0)
+Nature's Compass (1.5.1 to 1.6.0)
+OreLib (3.5.2.3 to 3.6.0.1)
+PizzaCraft (1.4.5 to 2.0.17.17)
+TOP Addons (1.11.0 to 1.12.0)
+Xaero's Minimap (1.18.6 to 1.18.7)
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+backup and re-gen fartgen config (Major Version Bump)
+backup and re-gen PizzaCraft config (Major Version Bump)
+morph.cfg
+	clientonly
+		I:disableMorphAcquisitionAnimation=1
+orelib.cfg
+	logging
+		B:enableVersionCheck=false
+
+-- Script Changes --
+--------------------
+clickmachine.zs
+	added custom autoclicker recipe (sublimiter)
+openblocks.zs
+	added custom block breaker recipe (sublimiter)
+	added custom block placer recipe (sublimiter)
+randomthings.zs
+	added custom block breaker recipe (sublimiter)
 
 -- Asset Changes --
 -------------------
