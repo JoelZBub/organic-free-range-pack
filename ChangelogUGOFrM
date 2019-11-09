@@ -1756,6 +1756,22 @@ Xaero's Minimap (1.18.6 to 1.18.7)
 --------------------
 backup and re-gen fartgen config (Major Version Bump)
 backup and re-gen PizzaCraft config (Major Version Bump)
+fartgen/general.cfg
+	S:"Entities Config"
+        fampack:elwms;40;false
+        minecraft:cow;20;false
+        minecraft:chicken;5;false
+        minecraft:donkey;10;false
+        minecraft:horse;10;false
+        minecraft:llama;10;false
+        minecraft:mooshroom;20;false
+        minecraft:mule;10;false
+        minecraft:ocelot;5;false
+        minecraft:pig;15;false
+        minecraft:polar_bear;25;false
+        minecraft:sheep;5;false
+        minecraft:wolf;5;false
+	I:"Every *n* second the generator, if actived, will produce a fart sound."=17
 morph.cfg
 	clientonly
 		I:disableMorphAcquisitionAnimation=1
@@ -1772,6 +1788,8 @@ openblocks.zs
 	added custom block placer recipe (sublimiter)
 randomthings.zs
 	added custom block breaker recipe (sublimiter)
+tooltips.zs
+	added tips for fartgen about animals and output
 
 -- Asset Changes --
 -------------------

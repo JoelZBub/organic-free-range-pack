@@ -47,7 +47,10 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 	] */
 	<erebus:portal_activator>: [
 		format.gold("Seriously, take an extra with you")
-	]	
+	],
+	<fartgen:generator> : [
+		format.gray("Egg-Laying-Wool-Milk-Sow - 40 rf/t\nCow - 20 rf/t\nChicken - 5 rf/t\nDonkey - 10 rf/t\nHorse - 10 rf/t\nLlama - 10 rf/t\nMooshroom - 20 rf/t\nMule - 10 rf/t\nOcelot - 5 rf/t\nPig - 15 rf/t\nPolar Bear - 25 rf/t\nSheep - 5 rf/t\nWolf - 5 rf/t")
+	]
 };
 
 // Do NOT edit below this line //
