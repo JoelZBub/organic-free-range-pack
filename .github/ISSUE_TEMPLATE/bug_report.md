@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Mod Name] A thing does some other thing when a thing is ."
+title: "[Mod Name] A thing does some other thing when a thing is doing something."
 labels: ''
 assignees: ''
 
@@ -16,7 +16,7 @@ Steps to reproduce the behavior. (What were you doing when this happened) :
 2.
 3.
 4.
- ...
+More steps...
 
 **Expected behavior**
 Replace this sentence with a clear and concise description of what you expected to happen.
