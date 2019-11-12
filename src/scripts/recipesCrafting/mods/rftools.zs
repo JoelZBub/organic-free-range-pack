@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range Simple Storage Network Crafting Table recipes script.
+	100% Organic Free-Range RFTools Crafting Table recipes script.
+	This script is for adding and removing recipes for RFTools.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +11,9 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<rftools:coalgenerator:0>,
+	<rftools:endergenic:0>,
+	<rftools:storage_scanner:0>
 ];
 
 /*
@@ -34,27 +36,34 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 			]
 		]
-	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	}	*/	
+	<rftools:coalgenerator:0> : {
+		"rftools_coalgenerator" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
-
+	  			[<minecraft:coal:0>, <minecraft:redstone_torch:0>, <minecraft:coal:0>],
+	  			[<cavern:cave_item:1>, <rftools:machine_frame:0>, <cavern:cave_item:1>],
+	  			[<minecraft:coal:0>, <minecraft:redstone_torch:0>, <minecraft:coal:0>]
 			]
 		]
 	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
+	<rftools:endergenic:0> : {
+		"rftools_endergenic" : [
 			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
-
+	  			[<minecraft:diamond>, <minecraft:ender_pearl>, <minecraft:diamond>],
+	  			[<minecraft:ender_pearl>, <rftools:machine_frame>, <minecraft:ender_pearl>],
+	  			[<minecraft:diamond>, <cavern:cave_item:1>, <minecraft:diamond>]
 			]
 		]
-	}
+	},
+	<rftools:storage_scanner:0> : {
+		"rftools_storage_scanner" : [
+			[
+	  			[<minecraft:redstone_torch:0>, <minecraft:ender_pearl:0>, <minecraft:redstone_torch:0>],
+	   			[<tropicraft:coral:2>, <rftools:machine_frame:0>, <tropicraft:coral:2>],
+	  			[<minecraft:redstone_torch:0>, <minecraft:ender_pearl:0>, <minecraft:redstone_torch:0>]
+			]
+		]
+	}	
 };
 
 

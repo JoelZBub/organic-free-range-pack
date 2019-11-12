@@ -1793,3 +1793,65 @@ tooltips.zs
 
 -- Asset Changes --
 -------------------
+
+
+
+-------------------------------------------------------------------------------	
+		Changelog
+		Nov 10-12 , 2019
+		Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+
+
+-- Added Mods --
+----------------
+
+
+
+-- Updated Mods --
+-------------------
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+inspirations.cfg
+	building
+		bookshelf
+			dinopedia [added to list of keywords]
+
+
+-- Script Changes --
+--------------------
+aim.zs
+	new recipe for fart generator
+	new recipe for solar generator
+fartgen.zs
+	new recipe for generator
+hatchery.zs
+	new recipe for methane digester generator
+rftools.zs
+	new recipe for coal generator
+	new recipe for endergenic generator
+	new recipe for storage scanner
+simplegenerators.zs
+	new recipes for all simple generators
+simplestoragenetwork.zs
+	new recipe for storage network master
+recipesHideRemoveJEI.zs
+	hide the one probe goggles (bauble)
+thermallogistics.zs
+	new recipe for terminal
+
+
+-- Asset Changes --
+-------------------

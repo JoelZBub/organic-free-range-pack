@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range Simple Storage Network Crafting Table recipes script.
+	100% Organic Free-Range Advanced Inventory Management Crafting Table recipes script.
+	This script is for adding and removing recipes for Advanced Inventory Management.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<aim:generator:0>,
+	<aim:solargenerator:0>
 ];
 
 /*
@@ -35,23 +36,21 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	<aim:generator:0> : {
+		"aim_generator" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
-
+	  			[<aim:craftingcomponent:2>, <cavern:cave_block:3>, <aim:craftingcomponent:2>],
+	  			[<aim:craftingcomponent:2>, <ore:blockCoal>, <aim:craftingcomponent:2>],
+	  			[<ore:dustRedstone>, <aim:networkcable:0>, <ore:dustRedstone>]
 			]
 		]
 	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
+	<aim:solargenerator:0> : {
+		"aim_solargenerator" : [
 			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
-
+	  			[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
+	  			[<ore:blockLapis>, <cavern:cave_block:3>, <ore:blockLapis>],
+	  			[<aim:craftingcomponent:2>, <aim:networkcable>, <aim:craftingcomponent:2>]
 			]
 		]
 	}

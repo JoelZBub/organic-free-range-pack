@@ -44,7 +44,8 @@ src/overlordplayersquads.dat
 src/.ReAuth.cfg
 src/.splashes
 src/config/projectvibrantjourneys_custom_backup.cfg
-
+src/emojicord/history.json
+src/emojicord/cache/
 # don't push this file
 .gitignore
 Uncle Genny.code-workspace

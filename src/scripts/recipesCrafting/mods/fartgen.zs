@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range Simple Storage Network Crafting Table recipes script.
+	100% Organic Free-Range Fart Energy Generator Crafting Table recipes script.
+	This script is for adding and removing recipes for Fart Energy Generator.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<fartgen:generator:0>
 ];
 
 /*
@@ -35,26 +35,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	<fartgen:generator:0> : {
+		"<fartgen_generator>" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
-
+	  			[null, null, null],
+	   			[<minecraft:glass_pane:0>, <minecraft:iron_bars:0>, null],
+	  			[<cavern:cave_block:3>, <minecraft:heavy_weighted_pressure_plate:0>, <minecraft:heavy_weighted_pressure_plate:0>]
 			]
 		]
-	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
-			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
-
-			]
-		]
-	}
+	}	
 };
 
 

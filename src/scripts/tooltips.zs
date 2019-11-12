@@ -34,9 +34,11 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<minecraft:cooked_chicken:0>: [
 		format.white("What is Chicken?")
 	],
-	
 	<mist:humus:0>: [
 		format.white("Not the kind made of chick peas and tahini")
+	],
+	<tropicraft:coral:2>: [
+		format.white("Big Braim Energy!")
 	]	
 };
 

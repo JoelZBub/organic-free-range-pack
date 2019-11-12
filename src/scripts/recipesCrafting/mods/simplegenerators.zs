@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range Simple Storage Network Crafting Table recipes script.
+	100% Organic Free-Range Simple Generators Crafting Table recipes script.
+	This script is for adding and removing recipes for Simple Generators.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +11,14 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<simplegenerators:combustion_simple:0>,
+	<simplegenerators:culinary_simple:0>,
+	<simplegenerators:ender_simple:0>,
+	<simplegenerators:fluid_combustion_simple:0>,
+	<simplegenerators:geothermal_simple:0>,
+	<simplegenerators:nether_simple:0>,
+	<simplegenerators:soul_simple:0>,
+	<simplegenerators:turbine_simple:0>
 ];
 
 /*
@@ -35,26 +42,78 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	<simplegenerators:combustion_simple:0> : {
+		"simplegenerators_combustion_simple" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
-
+	  			[<ore:stone>, <ore:ingotIron>, <ore:stone>],
+	   			[<ore:ingotIron>, <minecraft:furnace:0>, <ore:ingotIron>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
 			]
 		]
 	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
+	<simplegenerators:culinary_simple:0> : {
+		"simplegenerators_culinary_simple" : [
 			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
-
+	  			[<ore:stone>, <minecraft:flint_and_steel:0>, <ore:stone>],
+	   			[<minecraft:iron_hoe:0>, <minecraft:furnace:0>, <minecraft:fishing_rod:0>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
 			]
 		]
-	}
+	},
+	<simplegenerators:ender_simple:0> : {
+		"simplegenerators_ender_simple" : [
+			[
+	  			[<ore:stone>, <minecraft:ender_pearl:0>, <ore:stone>],
+	   			[<minecraft:ender_pearl:0>, <minecraft:furnace:0>, <minecraft:ender_pearl:0>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
+			]
+		]
+	},
+	<simplegenerators:fluid_combustion_simple:0> : {
+		"simplegenerators_fluid_combustion_simple" : [
+			[
+	  			[<ore:stone>, <minecraft:cauldron:0>, <ore:stone>],
+	   			[<ore:ingotGold>, <simplegenerators:combustion_simple:0>, <ore:ingotGold>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
+			]
+		]
+	},
+	<simplegenerators:geothermal_simple:0> : {
+		"simplegenerators_geothermal_simple" : [
+			[
+	  			[<ore:stone>,  <minecraft:cauldron:0>, <ore:stone>],
+	   			[<minecraft:magma:0>, <minecraft:furnace:0>, <minecraft:magma:0>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
+			]
+		]
+	},
+	<simplegenerators:nether_simple:0> : {
+		"simplegenerators_nether_simple" : [
+			[
+	  			[<minecraft:soul_sand:0>, <minecraft:skull:1>, <minecraft:soul_sand:0>],
+	   			[<minecraft:skull:1>, <minecraft:furnace:0>, <minecraft:skull:1>],
+	  			[<minecraft:soul_sand:0>, <cavern:cave_block:3>, <minecraft:soul_sand:0>]
+			]
+		]
+	},
+	<simplegenerators:soul_simple:0> : {
+		"simplegenerators_soul_simple" : [
+			[
+	  			[<ore:stone>, <minecraft:diamond_block:0>, <ore:stone>],
+	   			[<minecraft:skull:1>, <minecraft:furnace:0>, <minecraft:skull:1>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
+			]
+		]
+	},
+	<simplegenerators:turbine_simple:0> : {
+		"simplegenerators_turbine_simple" : [
+			[
+	  			[<ore:stone>, <minecraft:cauldron:0>, <ore:stone>],
+	  			[<ore:blockIron>, <minecraft:furnace:0>, <ore:blockIron>],
+	  			[<ore:stone>, <cavern:cave_block:3>, <ore:stone>]
+			]
+		]
+	}	
 };
 
 

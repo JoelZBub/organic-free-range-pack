@@ -21,10 +21,11 @@ static removeItems as IIngredient[] = [
 	<randomthings:eclipsedclock:0>,
 	<theoneprobe:probe:0>,
 	<theoneprobe:creativeprobe:0>,
-	<theoneprobe:probenote:0>,
 	<theoneprobe:diamond_helmet_probe:0>,
 	<theoneprobe:gold_helmet_probe:0>,
-	<theoneprobe:iron_helmet_probe:0>
+	<theoneprobe:iron_helmet_probe:0>,
+	<theoneprobe:probe_goggles:0>,
+	<theoneprobe:probenote:0>
 ];
 
 

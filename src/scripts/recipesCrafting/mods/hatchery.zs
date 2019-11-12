@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range Simple Storage Network Crafting Table recipes script.
+	100% Organic Free-Range Hatchery Crafting Table recipes script.
+	This script is for adding and removing recipes for Hatchery.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,8 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<hatchery:digester_generator:0>
 ];
 
 /*
@@ -35,26 +35,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	<hatchery:digester_generator:0> : {
+		"hatchery_digester_generator" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
-
+	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
+	   			[<minecraft:piston:0>, <cavern:cave_block:3>, <minecraft:bucket:0>],
+	  			[<ore:ingotIron>, null, <ore:ingotIron>]
 			]
 		]
-	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
-			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
-
-			]
-		]
-	}
+	}	
 };
 
 
