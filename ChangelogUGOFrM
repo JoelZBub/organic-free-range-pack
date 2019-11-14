@@ -1824,10 +1824,15 @@ Forge - 14.23.5.2838
 
 -- Config Changes --
 --------------------
+cofh/World
+	04_fossils.json - added fossil ores to Atum generation
+despawningspawners.cfg
+	I:maxSpawnerSpawns=100
 inspirations.cfg
 	building
 		bookshelf
 			dinopedia [added to list of keywords]
+
 
 
 -- Script Changes --
@@ -1851,7 +1856,10 @@ recipesHideRemoveJEI.zs
 	hide the one probe goggles (bauble)
 thermallogistics.zs
 	new recipe for terminal
+tooltips.zs
+	added tips for finding Fossils and Permafrost
 
 
 -- Asset Changes --
 -------------------
+Atum-themed textures for Fossil Ore and Premafrost

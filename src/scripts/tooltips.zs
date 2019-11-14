@@ -39,7 +39,16 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<tropicraft:coral:2>: [
 		format.white("Big Braim Energy!")
-	]	
+	],
+	<fossil:fossil> : [
+		format.white("Found in the land of Atum")
+	],
+	<fossil:permafrost> : [
+		format.white("Found in the depths of Atum")
+	],
+	<erebus:portal_activator> : [
+		format.red("You need two of these!")
+	]
 };
 
 // Shift Tooltips
@@ -47,7 +56,7 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 /*	<mod:id:meta>: [
 		format.color("String")
 	] */
-	<erebus:portal_activator>: [
+	<erebus:portal_activator> : [
 		format.gold("Seriously, take an extra with you")
 	],
 	<fartgen:generator> : [

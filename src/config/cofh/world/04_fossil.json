@@ -1,0 +1,51 @@
+{
+	"priority": 100000,
+	"populate": {
+	
+		"fossil": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "fossil:fossil"
+				},
+				"material": "atum:limestone",
+				"cluster-size": 2
+			},
+			"cluster-count": 8,
+			"min-height": 20,
+			"max-height": 64,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					17
+				]
+			}
+        },
+		"permafrost": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "fossil:permafrost"
+				},
+				"material": "atum:limestone",
+				"cluster-size": 4
+			},
+			"cluster-count": 4,
+			"min-height": 0,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					17
+				]
+			}
+        }
+        
+	}
+}
