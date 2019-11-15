@@ -1798,7 +1798,7 @@ tooltips.zs
 
 -------------------------------------------------------------------------------	
 		Changelog
-		Nov 10-12 , 2019
+		Nov 10-14 , 2019
 		Build Name / Splash Screen = TBD
 -------------------------------------------------------------------------------
 
@@ -1814,7 +1814,14 @@ Forge - 14.23.5.2838
 
 -- Updated Mods --
 -------------------
-
+Capsule (3.2.103 to 3.3.7)
+Dynamic Surroundings (3.6.0.1 to 3.6.0.2)
+Extra Golems (7.1.6 to 7.1.7)
+Fart Energy Generator (cowgen) (0.1.2 to 0.2.0)
+JEI (4.15.0.291 to 4.15.0.292)
+Thermal Logistics (0.2-26 to 0.2-27)
+Xaero's Minimap (1.18.7 to 1.18.8)
+Xaero's World Map (1.5 to 1.5.0.1)
 
 
 --- Removed Mods ---
@@ -1824,6 +1831,9 @@ Forge - 14.23.5.2838
 
 -- Config Changes --
 --------------------
+capsule.cfg
+    backup and allow regen config
+    add previous changes to new config
 cofh/World
 	04_fossils.json - added fossil ores to Atum generation
 despawningspawners.cfg
@@ -1863,3 +1873,5 @@ tooltips.zs
 -- Asset Changes --
 -------------------
 Atum-themed textures for Fossil Ore and Premafrost
+splash.properties
+    added more splash text
