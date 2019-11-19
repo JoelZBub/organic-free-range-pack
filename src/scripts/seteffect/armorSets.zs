@@ -54,7 +54,6 @@ val rockshroom_armor_set = mods.SetEffect.newSet()
 		.withLegs(<midnight:rockshroom_leggings:0>)
 		.withFeet(<midnight:rockshroom_boots:0>)
 		.addEffect(<potion:minecraft:night_vision>.makePotionEffect(400, 0))
-		.addEffect(<potion:vampirism:disguise_as_vampire>.makePotionEffect(200, 0))
 		.setIgnoreNBT()
 		.register();
 

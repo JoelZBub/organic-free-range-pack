@@ -39,6 +39,7 @@ key_Right:205:NONE
 key_Select:28:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
@@ -59,7 +60,6 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
 key_key.cavern.miningAssist:47:NONE
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:46:NONE
@@ -78,9 +78,9 @@ key_key.erebus.poweredglide:35:NONE
 key_key.erebus.beetleram:19:NONE
 key_key.erebus.beetlemine:56:NONE
 key_key.fart.desc:34:NONE
-key_key.inventorysorter.itemin:-200:NONE
-key_key.inventorysorter.itemout:-201:NONE
 key_key.inventorysorter.sort:-98:NONE
+key_key.inventorysorter.itemout:-201:NONE
+key_key.inventorysorter.itemin:-200:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE
@@ -97,13 +97,6 @@ key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:47:NONE
 key_key.simplemobradar.scroll:42:NONE
 key_key.toastcontrol.clear:36:CONTROL
-key_keys.vampirism.action:19:NONE
-key_keys.vampirism.suck:47:NONE
-key_keys.vampirism.select_skills:25:NONE
-key_keys.vampirism.vision:49:NONE
-key_keys.vampirism.blood_potion_crafting:48:CONTROL
-key_keys.vampirism.action1:2:ALT
-key_keys.vampirism.action2:3:ALT
 key_key.horn:35:NONE
 key_walljump.key.walljump:42:NONE
 key_key.jei.toggleOverlay:24:CONTROL

@@ -1,0 +1,32 @@
+{  
+   "clap_praise_lord":{  
+      "item":"minecraft:beetroot",
+      "filename":"elybeatmaker_clap_praise_lord",
+      "name":"Clap & Praise the Lord by elybeatmaker",
+      "meta":0
+   },
+   "dancing_in_chair":{  
+      "item":"minecraft:beetroot",
+      "filename":"elybeatmaker_dancing_in_chair",
+      "name":"Dancing in My Chair by elybeatmaker",
+      "meta":0
+   },
+   "doin_the_work":{  
+      "item":"minecraft:beetroot",
+      "filename":"elybeatmaker_doin_the_work",
+      "name":"B-Team Doin' the Work by elybeatmaker",
+      "meta":0
+   },
+    "nether_brick":{  
+      "item":"minecraft:beetroot",
+      "filename":"elybeatmaker_nether_brick",
+      "name":"Nether Brick by elybeatmaker",
+      "meta":0
+   },
+    "summertime_logs":{  
+      "item":"minecraft:beetroot",
+      "filename":"elybeatmaker_summertime_logs",
+      "name":"Summertime Logs by elybeatmaker",
+      "meta":0
+   }
+}
