@@ -19,7 +19,12 @@ static displayNameChange as string[IItemStack] = {
 	<inventorypets:cow_pet:0>: "Cow-see-um Pet",
 	<minecraft:chicken:0>: "Pecker Meat",
 	<minecraft:cooked_chicken:0>: "Cooked Pecker Meat",
-	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker"
+	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker",
+	<yoyos:diamond_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
+	<yoyos:gold_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
+	<yoyos:iron_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
+	<yoyos:stone_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
+	<yoyos:wooden_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:"
 };
 
 

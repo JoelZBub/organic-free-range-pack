@@ -16,6 +16,15 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<erebus:portal_activator:0>: [
 		format.red("If you don't make two, that's your own fault")
 	],
+	<erebus:portal_activator> : [
+		format.red("You need two of these!")
+	],
+	<fossil:fossil:0> : [
+		format.white("Found in the land of Atum")
+	],
+	<fossil:permafrost:0> : [
+		format.white("Found in the depths of Atum")
+	],
 	<hatchery:manure_block:0>: [
 		format.white("Chicken Manure Dung Caca Poop as a Block")
 	],
@@ -40,14 +49,20 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<tropicraft:coral:2>: [
 		format.white("Big Braim Energy!")
 	],
-	<fossil:fossil> : [
-		format.white("Found in the land of Atum")
+	<yoyos:diamond_yoyo>: [
+		format.white("Diamond YoYo")
 	],
-	<fossil:permafrost> : [
-		format.white("Found in the depths of Atum")
+	<yoyos:gold_yoyo>: [
+		format.white("Gold YoYo")
 	],
-	<erebus:portal_activator> : [
-		format.red("You need two of these!")
+	<yoyos:iron_yoyo>: [
+		format.white("Iron YoYo")
+	],
+	<yoyos:stone_yoyo>: [
+		format.white("Stone YoYo")
+	],
+	<yoyos:wooden_yoyo>: [
+		format.white("Wooden YoYo")
 	]
 };
 

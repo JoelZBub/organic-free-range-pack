@@ -1967,7 +1967,7 @@ added emojicord bot to emote repository discord server
 
 -------------------------------------------------------------------------------	
 		Changelog
-		Nov 19 , 2019
+		Nov 19-20 , 2019
 		Build Name / Splash Screen = Hog-Wild Scooter
 -------------------------------------------------------------------------------
 
@@ -1979,9 +1979,13 @@ Forge - 14.23.5.2838
 -- Added Mods --
 ----------------
 Anvil Patch - lawful (by Lumber_Wizard) [Test this as a solution for "too Expensive"]
+Friendly Fire (by DarkhaxDev)
+YoYos (by jozufozu)
+
 
 -- Updated Mods --
 -------------------
+Atum 2 (2.0.15 to 2.0.16) [fixes crash with ceramic tiles]
 LootTweaker (0.1.0 to 0.1.1)
 
 
@@ -1998,6 +2002,19 @@ defaultoptions
 	minor keybinds saved
 dsurround.cfg
 	I:"Waterfall Cutoff"=7 [note: strong waterfalls will still play]
+rats
+	I:"Blacklisted Rat Spawn Dimensions" <
+        17
+        -127
+     >
+    B:"Rats Raid Crops"=false
+    B:"Rats Steal From Chests"=false 
+tropicraft.cfg
+	generation
+		I:bambooGenChanceOverworld=50 [default: 20]
+		I:maxBambooPerPatchOverworld=90 [default: 120]
+		I:minBambooPerPatchOverworld=40 [default: 40]
+    	I:tallFlowerGenChanceOverworld=6 [default: 3]
 
 
 -- Script Changes --
@@ -2007,12 +2024,18 @@ dsurround.cfg
 
 -- Asset Changes --
 -------------------
+capsule
+	added descriptions to lang file
+openblocks
+	added enchant descriptions to lang file 
 randomthings
 	added en_us.lang to oresources file
 		golden egg description
 resources/assets/fml/textures/gui/
 	removed older gifs
-
+resources/minecraft/
+	sounds/music/
+		replaced game music with silent files
 
 
 -- Other Changes --
