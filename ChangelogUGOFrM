@@ -1967,7 +1967,7 @@ added emojicord bot to emote repository discord server
 
 -------------------------------------------------------------------------------	
 		Changelog
-		Nov 19-20 , 2019
+		Nov 19-21 , 2019
 		Build Name / Splash Screen = Hog-Wild Scooter
 -------------------------------------------------------------------------------
 
@@ -1986,8 +1986,9 @@ YoYos (by jozufozu)
 -- Updated Mods --
 -------------------
 Atum 2 (2.0.15 to 2.0.16) [fixes crash with ceramic tiles]
-LootTweaker (0.1.0 to 0.1.1)
-
+Bountiful (2.2.0 to 2.2.1)
+LootTweaker (0.1.0 to 0.1.2)
+Xaero's Minimap (1.18.8 to 1.18.9)
 
 
 --- Removed Mods ---
@@ -1997,6 +1998,8 @@ LootTweaker (0.1.0 to 0.1.1)
 
 -- Config Changes --
 --------------------
+betteranimalsplus.cfg
+	removed vampirism biomes
 defaultoptions
 	minor config changes saved
 	minor keybinds saved
@@ -2042,3 +2045,8 @@ resources/minecraft/
 -- Other Changes --
 -------------------
 Added 5 starter RVs
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.4.0
+		Build Name / Splash Screen = Hog-Wild Scooter
+-------------------------------------------------------------------------------
