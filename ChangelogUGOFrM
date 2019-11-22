@@ -2050,3 +2050,48 @@ Added 5 starter RVs
 		Above this line marks all updates included in version 0.0.4.0
 		Build Name / Splash Screen = Hog-Wild Scooter
 -------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------	
+		Changelog
+		Nov 21 , 2019
+		Build Name / Splash Screen = Hog-Wild Scooter 0.0.4.1
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+Fart Energy Generator (0.2.0 to 1.0.0)
+Rats (3.2.2 to 3.2.3)
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+defaultoptions/options.txt
+	soundCategory_master:0.90066224  (90%)
+	soundCategory_music:0.4084507  (40%)
+
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+-------------------

@@ -78,9 +78,9 @@ key_key.erebus.poweredglide:35:NONE
 key_key.erebus.beetleram:19:NONE
 key_key.erebus.beetlemine:56:NONE
 key_key.fart.desc:34:NONE
-key_key.inventorysorter.sort:-98:NONE
 key_key.inventorysorter.itemout:-201:NONE
 key_key.inventorysorter.itemin:-200:NONE
+key_key.inventorysorter.sort:-98:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE

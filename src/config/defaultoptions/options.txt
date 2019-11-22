@@ -4,7 +4,7 @@ mouseSensitivity:0.45070422
 fov:0.0
 gamma:0.5
 saturation:0.0
-renderDistance:10
+renderDistance:8
 guiScale:0
 particles:0
 bobView:true
@@ -52,8 +52,8 @@ enableWeakAttacks:false
 autoJump:false
 narrator:0
 tutorialStep:none
-soundCategory_master:0.80463576
-soundCategory_music:1.0
+soundCategory_master:0.90066224
+soundCategory_music:0.4084507
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
