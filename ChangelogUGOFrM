@@ -2083,6 +2083,21 @@ cyclicmagic.cfg
 defaultoptions/options.txt
 	soundCategory_master:0.90066224  (90%)
 	soundCategory_music:0.4084507  (40%)
+fartgen/general.cfg
+	S:"Entities Config"
+        fampack:elwms;40;false;0.9;0.15;0.12
+        minecraft:cow;20;false;0.9;0.15;0.12
+        minecraft:chicken;5;false;0.9;0.15;0.12
+        minecraft:donkey;10;false;0.9;0.15;0.12
+        minecraft:horse;10;false;0.9;0.15;0.12
+        # minecraft:llama;10;false;0.9;0.15;0.12
+        minecraft:mooshroom;20;false;0.9;0.15;0.12
+        minecraft:mule;10;false;0.9;0.15;0.12
+        minecraft:ocelot;5;false;0.9;0.15;0.12
+        minecraft:pig;15;false;0.9;0.15;0.12
+        minecraft:polar_bear;25;false;0.9;0.15;0.12
+        minecraft:sheep;5;false;0.9;0.15;0.12
+        minecraft:wolf;5;false;0.9;0.15;0.12
 
 
 -- Script Changes --
