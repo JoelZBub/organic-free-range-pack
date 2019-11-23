@@ -2078,6 +2078,8 @@ Rats (3.2.2 to 3.2.3)
 
 -- Config Changes --
 --------------------
+cyclicmagic.cfg
+	B:"Name Tag Death"=false
 defaultoptions/options.txt
 	soundCategory_master:0.90066224  (90%)
 	soundCategory_music:0.4084507  (40%)
