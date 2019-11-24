@@ -2053,7 +2053,7 @@ Added 5 starter RVs
 
 -------------------------------------------------------------------------------	
 		Changelog
-		Nov 21 , 2019
+		Nov 21-24 , 2019
 		Build Name / Splash Screen = Hog-Wild Scooter 0.0.4.1
 -------------------------------------------------------------------------------
 
@@ -2098,6 +2098,25 @@ fartgen/general.cfg
         minecraft:polar_bear;25;false;0.9;0.15;0.12
         minecraft:sheep;5;false;0.9;0.15;0.12
         minecraft:wolf;5;false;0.9;0.15;0.12
+rats.cfg
+	I:"Blacklisted Rat Spawn Dimensions"
+		 1
+        17
+        69
+        -9
+        -24
+        -25
+        -50
+        -51
+        -52
+        -53
+        -54
+        -55
+        -56
+        -57
+        -58
+        -59
+        -127
 
 
 -- Script Changes --
