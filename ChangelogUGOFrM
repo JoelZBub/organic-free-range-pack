@@ -2131,3 +2131,48 @@ rats.cfg
 
 -- Other Changes --
 -------------------
+
+
+-------------------------------------------------------------------------------	
+		Changelog
+		Dec 3-? , 2019
+		Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+
+
+
+-- Script Changes --
+--------------------
+Added Termite Brick recipe usable in inventory crafting
+Added tooltips to Colossal Chest cores notifying users of matieral multipliers
+
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+-------------------
