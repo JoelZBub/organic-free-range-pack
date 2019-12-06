@@ -2132,35 +2132,81 @@ rats.cfg
 -- Other Changes --
 -------------------
 
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.4.1
+		Build Name / Splash Screen = Hog-Wild Scooter
+-------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------	
-		Changelog
-		Dec 3-? , 2019
-		Build Name / Splash Screen = TBD
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 1-6, 2019
+        Build Name / Splash Screen = Laptop Moose 0.0.5.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
 Forge - 14.23.5.2838
+Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
 
 
 -- Added Mods --
 ----------------
 
 
+
 -- Updated Mods --
 -------------------
+Calm Down Zombie Guy (1.4.1 to 1.6.4)
+LootTweaker (0.1.2 to 0.1.3)
+More Player Models (29Sep19 to 05Dec19)
+Nature's Compass (1.6.0 to 1.6.2)
+Rats (3.2.3 to 3.2.4)
+Unlimited Chisel Works (0.3.0 to 0.3.1)
+Xaero's Minimap (1.19.0 to 1.19.1)
+Xaero's World Map (1.5.1 to 1.5.2)
 
 
 --- Removed Mods ---
 --------------------
-
+Anvil Patch - lawful (by Lumber_Wizard)
+LagGoggles
+Sampler
 
 
 -- Config Changes --
 --------------------
-
-
+betteranimalsplus.cfg
+	- Delete and Regenerate -- new mobs added
+	- Re-Add all prior configs
+    entitynautilus {
+        B:allowDespawning=true
+dragonmounts.cfg
+    all
+        B:"use Dimension Blacklist"=false
+        I:"Whitelisted Dragon Dimensions"
+            1
+            0
+            -1
+fossil.cfg
+    B:"Spawn Nautilus"=false
+quark.cfg
+    world
+        B:Frogs=false
+sasit.cfg
+    general
+        S:BasicFilter
+            PlayerInteractEvent$RightClickBlock
+            (Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+            (Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+            Index: 35 Listeners:
+            0: HIGHEST
+            3: HIGH
+            7: NORMAL
+            54: LOWEST
+            java.lang.NoClassDefFoundError: net//minecraft//client//util//ITooltipFlag
+soviet.cfg
+	customization
+   	 	B:enableGeneration=false [default: true]
 
 -- Script Changes --
 --------------------
@@ -2168,11 +2214,11 @@ Added Termite Brick recipe usable in inventory crafting
 Added tooltips to Colossal Chest cores notifying users of matieral multipliers
 
 
-
 -- Asset Changes --
 -------------------
-
+laptopmoose loading gif
 
 
 -- Other Changes --
 -------------------
+Removed unused Vampirism folder from RTG config folder
