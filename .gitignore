@@ -49,3 +49,6 @@ src/emojicord/cache/
 # don't push this file
 .gitignore
 Uncle Genny.code-workspace
+/.vscode
+worldstripper.cfg
+tickprofiler.cfg

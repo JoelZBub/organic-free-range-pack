@@ -85,7 +85,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<colossalchests:colossal_chest:6>: [
 		format.white("Material Storage Multiplier: 4x")
 	],
-
+	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}) : [
+		format.white("Bookshelves can be made from any kind of wood slab.")
+	]
 
 };
 

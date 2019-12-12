@@ -2175,11 +2175,66 @@ Sampler
 
 -- Config Changes --
 --------------------
+Signposts/signpost.cfg
+	B:disableVillageGeneration=true
 betteranimalsplus.cfg
 	- Delete and Regenerate -- new mobs added
 	- Re-Add all prior configs
-    entitynautilus {
+	entitycoyote {
         B:allowDespawning=true
+	entitygoat {
+		B:allowDespawning=true
+		I:weight=7
+	entitybear {
+		B:allowDespawning=true
+		I:weight=6
+	entitybearneutral {
+		B:allowDespawning=true
+		I:weight=5
+	entitydeer {
+		B:allowDespawning=true
+		I:maxGroup=3
+		I:weight=12
+	entitylammergeier {
+		B:allowDespawning=true
+		I:weight=6
+	entityferalwolf {
+		B:allowDespawning=true
+		I:maxGroup=4
+		I:weight=6
+	entityfox {
+		B:allowDespawning=true
+		I:maxGroup=5
+		I:weight=8
+	entitytarantula {
+		I:weight=11
+	entityjellyfish {
+		I:weight=8
+	entitypheasant {
+		B:allowDespawning=true
+		I:weight=10
+	entityreindeer {
+		B:allowDespawning=true
+	entityboar {
+		B:allowDespawning=true
+	entitysquirrel {
+		B:allowDespawning=true
+	entitysongbird {
+		B:allowDespawning=true
+		I:weight=10	
+	entityentitybadger {
+		B:allowDespawning=true
+		I:weight=7
+	entitycrab {
+		I:weight=8
+	entitymoose {
+		B:allowDespawning=true
+	entityturkey {
+		B:allowDespawning=true
+		I:maxGroup=4
+		I:weight=9
+cyclicmagic.cfg
+	B:EnderLightning=true
 dragonmounts.cfg
     all
         B:"use Dimension Blacklist"=false
@@ -2187,8 +2242,19 @@ dragonmounts.cfg
             1
             0
             -1
+energeticsheep.cfg
+	B:general.analytics=false
+	I:energetic_sheep.spawnWeight=1
 fossil.cfg
     B:"Spawn Nautilus"=false
+MineTraps.cfg
+	B:activateRetroGen=false
+projectvibrantjourneys.cfg
+	I:fireflySpawnWeight=80
+	I:ghostSpawnWeight=50
+	I:duckWeight=4
+	I:starfishBeachWeight=22
+    I:starfishWeight=9
 quark.cfg
     world
         B:Frogs=false
@@ -2207,16 +2273,23 @@ sasit.cfg
 soviet.cfg
 	customization
    	 	B:enableGeneration=false [default: true]
+stupidthings.cfg
+	B:"Invisible Leggings"=false
+	B:"Invisible Boots"=false
+	B:"Invisible Chestplate"=false
+	B:"Invisible Helmet"=false
 
 -- Script Changes --
 --------------------
 Added Termite Brick recipe usable in inventory crafting
 Added tooltips to Colossal Chest cores notifying users of matieral multipliers
+Added recipe for Cyclic Engraved Thunder and reduced durability to 6
 
 
 -- Asset Changes --
 -------------------
 laptopmoose loading gif
+Custom aquamarine ore texture
 
 
 -- Other Changes --
