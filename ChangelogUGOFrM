@@ -2137,7 +2137,9 @@ rats.cfg
 		Build Name / Splash Screen = Hog-Wild Scooter
 -------------------------------------------------------------------------------
 
------------------------------------------------------------------------------  
+
+
+----------------------------------------------------------------------------  
         Changelog
         Dec 1-6, 2019
         Build Name / Splash Screen = Laptop Moose 0.0.5.0
@@ -2156,6 +2158,7 @@ Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
 
 -- Updated Mods --
 -------------------
+Better Animals Plus (7.1.1 to 8.0.0)
 Calm Down Zombie Guy (1.4.1 to 1.6.4)
 LootTweaker (0.1.2 to 0.1.3)
 More Player Models (29Sep19 to 05Dec19)
@@ -2168,73 +2171,17 @@ Xaero's World Map (1.5.1 to 1.5.2)
 
 --- Removed Mods ---
 --------------------
-Anvil Patch - lawful (by Lumber_Wizard)
 LagGoggles
 Sampler
 
 
 -- Config Changes --
 --------------------
-Signposts/signpost.cfg
-	B:disableVillageGeneration=true
 betteranimalsplus.cfg
-	- Delete and Regenerate -- new mobs added
-	- Re-Add all prior configs
-	entitycoyote {
+    - Delete and Regenerate -- new mobs added
+    - Re-Add all prior configs
+    entitynautilus {
         B:allowDespawning=true
-	entitygoat {
-		B:allowDespawning=true
-		I:weight=7
-	entitybear {
-		B:allowDespawning=true
-		I:weight=6
-	entitybearneutral {
-		B:allowDespawning=true
-		I:weight=5
-	entitydeer {
-		B:allowDespawning=true
-		I:maxGroup=3
-		I:weight=12
-	entitylammergeier {
-		B:allowDespawning=true
-		I:weight=6
-	entityferalwolf {
-		B:allowDespawning=true
-		I:maxGroup=4
-		I:weight=6
-	entityfox {
-		B:allowDespawning=true
-		I:maxGroup=5
-		I:weight=8
-	entitytarantula {
-		I:weight=11
-	entityjellyfish {
-		I:weight=8
-	entitypheasant {
-		B:allowDespawning=true
-		I:weight=10
-	entityreindeer {
-		B:allowDespawning=true
-	entityboar {
-		B:allowDespawning=true
-	entitysquirrel {
-		B:allowDespawning=true
-	entitysongbird {
-		B:allowDespawning=true
-		I:weight=10	
-	entityentitybadger {
-		B:allowDespawning=true
-		I:weight=7
-	entitycrab {
-		I:weight=8
-	entitymoose {
-		B:allowDespawning=true
-	entityturkey {
-		B:allowDespawning=true
-		I:maxGroup=4
-		I:weight=9
-cyclicmagic.cfg
-	B:EnderLightning=true
 dragonmounts.cfg
     all
         B:"use Dimension Blacklist"=false
@@ -2242,19 +2189,8 @@ dragonmounts.cfg
             1
             0
             -1
-energeticsheep.cfg
-	B:general.analytics=false
-	I:energetic_sheep.spawnWeight=1
 fossil.cfg
     B:"Spawn Nautilus"=false
-MineTraps.cfg
-	B:activateRetroGen=false
-projectvibrantjourneys.cfg
-	I:fireflySpawnWeight=80
-	I:ghostSpawnWeight=50
-	I:duckWeight=4
-	I:starfishBeachWeight=22
-    I:starfishWeight=9
 quark.cfg
     world
         B:Frogs=false
@@ -2269,29 +2205,245 @@ sasit.cfg
             3: HIGH
             7: NORMAL
             54: LOWEST
-            java.lang.NoClassDefFoundError: net//minecraft//client//util//ITooltipFlag
+            BetterOffhand
+            ITooltipFlag
 soviet.cfg
-	customization
-   	 	B:enableGeneration=false [default: true]
-stupidthings.cfg
-	B:"Invisible Leggings"=false
-	B:"Invisible Boots"=false
-	B:"Invisible Chestplate"=false
-	B:"Invisible Helmet"=false
+    customization
+        B:enableGeneration=false [default: true]
+
 
 -- Script Changes --
 --------------------
 Added Termite Brick recipe usable in inventory crafting
 Added tooltips to Colossal Chest cores notifying users of matieral multipliers
-Added recipe for Cyclic Engraved Thunder and reduced durability to 6
 
 
 -- Asset Changes --
 -------------------
 laptopmoose loading gif
-Custom aquamarine ore texture
 
 
 -- Other Changes --
 -------------------
 Removed unused Vampirism folder from RTG config folder
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 7-12, 2019
+        Build Name / Splash Screen = Laptop Moose 0.0.5.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
+
+
+-- Added Mods --
+----------------
+AI Improvements (by Darkguardsman)
+
+-- Updated Mods --
+-------------------
+Corpse (1.0.5 to 1.0.6)
+CraftPresence (1.5.6 to 1.6.0)
+CraftTweaker (4.1.19 to 4.1.20)
+Enchantment Descriptions (1.1.15 to1.1.19)
+Friendly Fire (1.5.10 to 1.5.12)
+Stuff A Sock In It (1.1.30 to 1.1.32)
+Xaero's Minimap (1.19.1 to 1.19.2)
+
+--- Removed Mods ---
+--------------------
+BNBGamingLib
+Calm Down Zombie Guy (conflict with Dragon Mounts 2)
+
+
+-- Config Changes --
+--------------------
+betteranimalsplus.cfg
+    entitycoyote {
+        B:allowDespawning=true
+    entitygoat {
+        B:allowDespawning=true
+        I:weight=7
+    entitybear {
+        B:allowDespawning=true
+        I:weight=6
+    entitybearneutral {
+        B:allowDespawning=true
+        I:weight=5
+    entitydeer {
+        B:allowDespawning=true
+        I:maxGroup=3
+        I:weight=12
+    entitylammergeier {
+        B:allowDespawning=true
+        I:weight=6
+    entityferalwolf {
+        B:allowDespawning=true
+        I:maxGroup=4
+        I:weight=6
+    entityfox {
+        B:allowDespawning=true
+        I:maxGroup=5
+        I:weight=8
+    entitytarantula {
+        I:weight=11
+    entityjellyfish {
+        I:weight=8
+    entitypheasant {
+        B:allowDespawning=true
+        I:weight=10
+    entityreindeer {
+        B:allowDespawning=true
+    entityboar {
+        B:allowDespawning=true
+    entitysquirrel {
+        B:allowDespawning=true
+    entitysongbird {
+        B:allowDespawning=true
+        I:weight=10 
+    entityentitybadger {
+        B:allowDespawning=true
+        I:weight=7
+    entitycrab {
+        I:weight=8
+    entitymoose {
+        B:allowDespawning=true
+    entityturkey {
+        B:allowDespawning=true
+        I:maxGroup=4
+        I:weight=9
+cavern/
+    aquacavern-dimension.cfg
+        I:worldHeight=128
+    aquacavern-veins.cfg
+        changed all ores with I:maxHeight=255 to I:maxHeight=127
+        changed all ores with I:minHeight=20 to I:minHeight=10
+        changed all ores with I:minHeight=100 to I:minHeight=50
+        changed all ores with I:minHeight=128 to I:minHeight=64
+    caveland-dimension.cfg
+        I:worldHeight=128
+    caveland-veins.cfg
+        changed all ores with I:maxHeight=127 to I:maxHeight=63               
+    cavenia-dimension.cfg
+        I:worldHeight=64
+    cavenia-veins.cfg
+        changed all ores with I:maxHeight=255 to I:maxHeight=63
+        changed all ores with I:maxHeight=127 to I:maxHeight=63
+        changed all ores with minHeight=30 to minHeight=15
+        changed all ores with minHeight=20 to minHeight=10
+    cavern-dimension.cfg
+        I:worldHeight=128
+    cavern-veins.cfg
+        changed all ores with I:maxHeight=255 to I:maxHeight=127
+        changed all ores with I:maxHeight=50 to I:maxHeight=25
+        changed all ores with I:maxHeight=40 to I:maxHeight=20
+        changed all ores with I:maxHeight=30 to I:maxHeight=15
+        changed all ores with I:maxHeight=20 to I:maxHeight=10
+        changed all ores with I:minHeight=200 to I:minHeight=100
+        changed all ores with I:minHeight=128 to I:minHeight=64
+        changed all ores with I:minHeight=50 to I:minHeight=24
+        changed all ores with I:minHeight=20 to I:minHeight=10
+    general.cfg
+        B:versionNotify=false
+        B:portalCache=true
+cyclicmagic.cfg
+    B:EnderLightning=true
+dragonmounts.cfg
+	worldgen
+		I:"2 Nether Nest Rarity X"=128 [default: 16]
+		I:"2 Nest Nether Rarity Z"=128 [default: 16]
+energeticsheep.cfg
+    B:general.analytics=false
+    I:energetic_sheep.spawnWeight=1
+fossil.cfg
+    B:"Generate Tarpit Dig Sites"=false
+    B:"Spawn Tar Slimes"=false
+ichunutil.cfg
+	S:eulaAcknowledged=true
+jei
+	itemBlacklist.cfg
+
+MineTraps.cfg
+    B:activateRetroGen=false
+naturescompass.cfg  
+    # naturescompass.biomeBlacklist
+        S:"A list of biomes that the compass will not be able to search for. Specify by resource location (ex: minecraft:ocean) or ID (ex: 0)" <
+            jeid:error_biome>
+projectvibrantjourneys.cfg
+    I:fireflySpawnWeight=80
+    I:ghostSpawnWeight=50
+    I:duckWeight=4
+    I:starfishBeachWeight=22
+    I:starfishWeight=9
+quark.cfg
+    world
+        frogs
+            B:Frogs=true
+            I:"Spawn Weight"=10
+Signposts/signpost.cfg
+    B:disableVillageGeneration=true
+stupidthings.cfg
+    B:"Invisible Leggings"=false
+    B:"Invisible Boots"=false
+    B:"Invisible Chestplate"=false
+    B:"Invisible Helmet"=false
+
+
+-- Script Changes --
+--------------------
+hide dragon essence with 'broken nbt' message in JEI
+Added recipe for Cyclic Engraved Thunder and reduced durability to 6
+
+
+-- Asset Changes --
+-------------------
+Custom aquamarine ore texture
+
+
+-- Other Changes --
+-------------------
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 13- , 2019
+        Build Name / Splash Screen = Laptop Moose 0.0.5.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2838
+Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
