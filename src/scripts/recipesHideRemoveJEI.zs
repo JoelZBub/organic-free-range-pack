@@ -11,7 +11,22 @@ import crafttweaker.item.IItemStack;
 static hiddenItems as IItemStack[] = [
 //	<mod:itemname:meta>
 	<arcademod:coin_pusher:0>,
-	<arcademod:invisible:0>
+	<arcademod:invisible:0>,
+	<dragonmounts:aether_dragon_essence:0>,
+	<dragonmounts:enchant_dragon_essence:0>,
+	<dragonmounts:end_dragon_essence:0>,
+	<dragonmounts:fire_dragon_essence:0>,
+	<dragonmounts:forest_dragon_essence:0>,
+	<dragonmounts:ice_dragon_essence:0>,
+	<dragonmounts:moonlight_dragon_essence:0>,
+	<dragonmounts:nether_dragon_essence:0>,
+	<dragonmounts:skeleton_dragon_essence:0>,
+	<dragonmounts:storm_dragon_essence:0>,
+	<dragonmounts:sunlight_dragon_essence:0>,
+	<dragonmounts:terra_dragon_essence:0>,
+	<dragonmounts:water_dragon_essence:0>,
+	<dragonmounts:wither_dragon_essence:0>,
+	<dragonmounts:zombie_dragon_essence:0>
 ];
 
 static removeItems as IIngredient[] = [
