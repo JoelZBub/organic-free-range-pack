@@ -1,5 +1,6 @@
 /*
-	100% Organic Free-Range openblocks recipes
+	100% Organic Free-Range Open Blocks Crafting Table recipes script.
+	This script is for adding and removing recipes for Open Blocks.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -90,7 +91,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

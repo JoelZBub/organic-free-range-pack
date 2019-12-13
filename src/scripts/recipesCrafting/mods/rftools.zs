@@ -101,7 +101,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

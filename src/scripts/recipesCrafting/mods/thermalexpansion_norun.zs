@@ -1,7 +1,7 @@
+#norun
 /*
 	100% Organic Free-Range Thermal Expansion Crafting recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Thermal Expansion.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -65,20 +65,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 	}	*/
 };
 
-// Machine Recipes
-
-// Phytogenic Insolator
-//mods.thermalexpansion.Insolator.addRecipe(IItemStack primaryOutput, IItemStack primaryInput, IItemStack secondaryInput, int energy, @Optional IItemStack secondaryOutput, @Optional int secondaryChance);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust> * 3, <thermalfoundation:fertilizer>, <leopardengruen37:glowing_cocoa_dust>, 4800);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust> * 6, <thermalfoundation:fertilizer:1>, <leopardengruen37:glowing_cocoa_dust>, 7200);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust> * 9, <thermalfoundation:fertilizer:2>, <leopardengruen37:glowing_cocoa_dust>, 9600);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink> * 3, <thermalfoundation:fertilizer>, <leopardengruen37:glowing_cocoa_dust_pink>, 4800);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink> * 6, <thermalfoundation:fertilizer:1>, <leopardengruen37:glowing_cocoa_dust_pink>, 7200);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink> * 9, <thermalfoundation:fertilizer:2>, <leopardengruen37:glowing_cocoa_dust_pink>, 9600);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_green> * 3, <thermalfoundation:fertilizer>, <leopardengruen37:glowing_cocoa_dust_green>, 4800);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_green> * 6, <thermalfoundation:fertilizer:1>, <leopardengruen37:glowing_cocoa_dust_green>, 7200);
-mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_green> * 9, <thermalfoundation:fertilizer:2>, <leopardengruen37:glowing_cocoa_dust_green>, 9600);
-
 
 
 
@@ -86,7 +72,7 @@ mods.thermalexpansion.Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_g
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Quark Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Quark.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -63,7 +62,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<quark:slime_bucket> : {
+	<quark:slime_bucket> : {
 		"quark_slime_bucket" : [
 			[<minecraft:water_bucket>, <pvj:goon_bile>, <pvj:goon_bile>]
 		]
@@ -77,7 +76,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

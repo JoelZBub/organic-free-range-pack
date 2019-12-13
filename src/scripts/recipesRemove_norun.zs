@@ -1,6 +1,6 @@
+#norun
 /*
 	100% Organic Free-Range Core Recipe Remove Script
-
 	This script handles the removal of recipes by a modId or other means.
 	This is a CATCH-ALL script for individual entries or to be sorted.
 */

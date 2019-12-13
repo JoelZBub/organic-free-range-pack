@@ -1,6 +1,6 @@
 /*
 	100% Organic Free-Range Cyclic Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
+	This script is for adding and removing recipes for Cyclic.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<cyclicmagic:ender_lightning>
+	<cyclicmagic:ender_lightning>
 ];
 
 /*
@@ -35,7 +35,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<cyclicmagic:ender_lightning> : {
+	<cyclicmagic:ender_lightning> : {
 		"cyclicmagic_ender_lightning" : [
 			[
 	  			[null, <midnight:bloomcrystal_rock>, <randomthings:ingredient:1>],
@@ -82,7 +82,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

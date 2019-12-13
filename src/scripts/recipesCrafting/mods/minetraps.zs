@@ -1,5 +1,6 @@
 /*
 	100% Organic Free-Range MineTraps Crafting Table recipes script.
+	This script is for adding and removing recipes for MineTraps.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -80,7 +81,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not 
+	Loops to Add Recipes 
 */
 
 // Add Named Shaped Recipes

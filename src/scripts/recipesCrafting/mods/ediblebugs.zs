@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Edible Bugs Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for edible bugs.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<ediblebugs:termitebricks>
+	<ediblebugs:termitebricks>
 ];
 
 /*
@@ -36,7 +35,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<ediblebugs:termitebricks> : {
+	<ediblebugs:termitebricks> : {
 		"ediblebugs_termitebricks" : [
 			[
 	  			[<ediblebugs:termitebrick>, <ediblebugs:termitebrick>],

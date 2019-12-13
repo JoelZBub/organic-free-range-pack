@@ -1,6 +1,6 @@
 /*
 	100% Organic Free-Range Bamboozled Crafting Table recipes script.
-
+	This script is for adding and removing recipes for Bamboozled.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -34,7 +34,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<bamboozled:salt_ore> : {
+	<bamboozled:salt_ore> : {
 		"bamboozled_salt_ore" : [
 			[
 	  			[<bamboozled:salt_pile>, <bamboozled:salt_pile>, <bamboozled:salt_pile>],
@@ -79,7 +79,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

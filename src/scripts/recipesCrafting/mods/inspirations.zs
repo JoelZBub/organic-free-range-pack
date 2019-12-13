@@ -1,5 +1,6 @@
 /*
 	100% Organic Free-Range Inspirations Crafting Table recipes script.
+	This script is for adding and removing recipes for Inspirations.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -79,7 +80,8 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not 
+	Loops to Add Recipes 
+
 */
 
 

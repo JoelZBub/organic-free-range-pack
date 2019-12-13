@@ -1,12 +1,12 @@
-import crafttweaker.item.IIngredient;
-import crafttweaker.item.IItemStack;
-
 /*
 	100% Organic Free-Range Recipe Hide and Remove Script
-
 	General 'Hide and Remove' script for items that should never show in JEI.
 	CATCH-ALL script for individual items or 'to-be-moved' items
 */
+
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
 
 static hiddenItems as IItemStack[] = [
 //	<mod:itemname:meta>

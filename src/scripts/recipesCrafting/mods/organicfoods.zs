@@ -1,7 +1,6 @@
 /*
-	100% Organic Free-Range Template Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	100% Organic Free-Range ContentTweaker Organic Foods Crafting Table recipes script.
+	This script is for adding and removing Organic Foods recipes for ContentTweaker.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -79,7 +78,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes

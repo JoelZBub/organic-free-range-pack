@@ -1,9 +1,10 @@
+#norun
 /*
 	100% Organic Free-Range Add Recipes Script
-
 	General script that adds Crafting Table recipes.
 	This is a CATCH-ALL script for individual entries or to be sorted.
 */
+
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 

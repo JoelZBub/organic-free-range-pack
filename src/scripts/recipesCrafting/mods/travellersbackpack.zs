@@ -1,5 +1,6 @@
 /*
 	100% Organic Free-Range Traveller's Backpack Crafting Table recipes script.
+	This script is for adding and removing recipes for Traveller's Backpack.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -81,7 +82,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 
 /*
-	Loops to Add Recipes - Do Not Edit
+	Loops to Add Recipes
 */
 
 // Add Named Shaped Recipes
