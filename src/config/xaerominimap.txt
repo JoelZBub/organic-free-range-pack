@@ -22,7 +22,7 @@ oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:true
-zoom:1
+zoom:0
 mapSize:-1
 entityAmount:1
 chunkGrid:-5
@@ -51,7 +51,7 @@ waypointTp:tp
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerHeads:false
+playerHeads:true
 heightLimit:20
 worldMap:true
 terrainDepth:true
@@ -70,6 +70,7 @@ renderLayerIndex:1
 showTime:2
 biomeColorsVanillaMode:false
 lookingAtAngle:20
+lookingAtAngleVertical:180
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false

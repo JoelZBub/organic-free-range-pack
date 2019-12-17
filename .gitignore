@@ -6,6 +6,7 @@ src/.curseclient
 src/minecraftinstance.json
 
 # MC files we don't need here
+/src/dumps/
 /src/.mixin.out/*
 /src/fonts/
 /src/logs/

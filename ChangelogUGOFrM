@@ -2411,14 +2411,12 @@ Custom aquamarine ore texture
 
 -----------------------------------------------------------------------------  
         Changelog
-        Dec 13, 2019
+        Dec 13-15, 2019
         Build Name / Splash Screen = Laptop Moose 0.0.5.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
-Forge - 14.23.5.2838
-Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
 
 
 -- Added Mods --
@@ -2427,19 +2425,34 @@ Bookshelf - 2.3.585 (2.3.590 requires newest Forge)
 
 -- Updated Mods --
 -------------------
-
+Bookshelf (2.3.585 to 2.3.590)
+Forge (14.23.5.2638 to 14.23.5.2847)
+Inspirations (0.2.8 to 0.2.9)
+Unlimited Chisel Works (0.3.1 to 0.3.2)
 
 --- Removed Mods ---
 --------------------
+Charset Immersion
 
 
 -- Config Changes --
 --------------------
-
+betteranimalsplus.cfg
+	entitylamprey
+		I:weight=9
+		S:spawnBiomes
+			removed atum, erebus, midnight and tropicraft biomes
+	entityshark
+		I:weight=6	
+commoncapabilities.cfg
+	B:general.analytics=false
+xaerosminimap.txt
+	playerHeads:true
 
 -- Script Changes --
 --------------------
 General Script Cleanup
+
 
 -- Asset Changes --
 -------------------

@@ -40,8 +40,6 @@ key_Select:28:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
 key_quark.keybind.lockBuilding:0:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -60,6 +58,8 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:0:NONE
 key_key.cavern.miningAssist:47:NONE
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:46:NONE
@@ -78,9 +78,9 @@ key_key.erebus.poweredglide:35:NONE
 key_key.erebus.beetleram:19:NONE
 key_key.erebus.beetlemine:56:NONE
 key_key.fart.desc:34:NONE
-key_key.inventorysorter.itemout:-201:NONE
 key_key.inventorysorter.itemin:-200:NONE
 key_key.inventorysorter.sort:-98:NONE
+key_key.inventorysorter.itemout:-201:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_CharacterScreen:88:NONE
@@ -143,7 +143,7 @@ key_key.dragon.cancelhover:0:NONE
 key_key.dragon.projectile:45:NONE
 key_key.dragon.followYaw:49:NONE
 key_key.dragon.lockY:0:NONE
-key_key.dragon.f7:65:NONE
+key_key.dragon.f7:0:NONE
 key_key.dragon.boost:29:NONE
 key_key.dragon.dismount:45:NONE
 key_key.dragon.down:56:NONE
@@ -183,5 +183,4 @@ key_gui.xaero_new_waypoint:0:NONE
 key_gui.xaero_display_all_sets:0:NONE
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:27:NONE
-key_Profile GUI:210:NONE
 key_key.secretroomsmod.oneWayface:43:NONE
