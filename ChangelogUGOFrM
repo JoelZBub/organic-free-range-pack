@@ -2500,7 +2500,50 @@ capsule.cfg
     minecraft:chests/stronghold_corridor
     minecraft:chests/stronghold_crossing
     minecraft:chests/stronghold_library
-    
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 18-19, 2019
+        Build Name / Splash Screen = Laptop Moose 0.0.5.2
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+Xaero's Minimap (1.19.2 to 1.19.3)
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+betteranimalsplus.cfg
+	B:biomeBasedVariants=true
+	cleanup unused biomes from other dimensions
+defaultoptions
+	added optionsof.txt for optifine users
+	
 
 -- Script Changes --
 --------------------

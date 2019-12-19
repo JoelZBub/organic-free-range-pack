@@ -5,7 +5,7 @@ fov:0.0
 gamma:0.5
 saturation:0.0
 renderDistance:9
-guiScale:0
+guiScale:2
 particles:0
 bobView:true
 anaglyph3d:false
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
 fullscreen:false
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:true
