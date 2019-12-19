@@ -26,7 +26,19 @@
         },
 		"permafrost": {
 			"enabled": "true",
-			"distribution": "uniform",
+			"distribution": "custom",
+			"x-offset": {
+						"min": 1,
+						"max": 6
+						},
+			"y-offset": {
+						"min": 0,
+						"max": 25
+						},
+			"z-offset": {
+						"min": 1,
+						"max": 6
+						},
 			"generator": {
 				"block": {
 					"name": "fossil:permafrost"
