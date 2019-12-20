@@ -2525,25 +2525,44 @@ capsule.cfg
 
 -- Added Mods --
 ----------------
-
+Main Menu Scale (by modmuss50)
+Reborn Core
 
 -- Updated Mods --
 -------------------
+
 Xaero's Minimap (1.19.2 to 1.19.3)
 
 
 --- Removed Mods ---
 --------------------
-
+Bountiful
 
 -- Config Changes --
 --------------------
+bountiful
+	removed all configs
 betteranimalsplus.cfg
 	B:biomeBasedVariants=true
 	cleanup unused biomes from other dimensions
+bountiful
+    removed all configs
+cofh/world/
+	04_fossil.json
+		offsets for permafrost generation in atum
+custommainmenu
+    removed mainmenu_auto
+    removed mainmenu_Backup
+    removed mainmenu_large
+    removed mainmenu_small 
+    /mainmenu.json
+    	added button and link to genny's twitch 
+    	added button and link to cubed host
+    	re-formatted main menu
 defaultoptions
 	added optionsof.txt for optifine users
-	
+inspirations.cfg
+	disabled extra seeds and drops
 
 -- Script Changes --
 --------------------

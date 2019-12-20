@@ -1,14 +1,14 @@
 {  
     "images":
     {
-        "title":
+        "logo":
         {
-            "image" : "custommainmenu:textures/gui/alpha.png",
-            "posX" : -40,
-            "posY" : 90,
-            "width" : 355,
-            "height" : 137,
-            "alignment" : "center"
+            "image" : "custommainmenu:textures/gui/logo.png",
+            "posX" : 20,
+            "posY" : 16,
+            "width" : 280,
+            "height" : 101,
+            "alignment" : "top_left"
         }
     },
 
@@ -17,10 +17,12 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -270,
+            "normalTextColor" : 3125670,
+            "posX" : 20,
             "posY" : 128,
-            "width" : 200,
-            "height" : 20,
+            "width" : 92,
+            "height" : 18,
+            "alignment" : "top_left",
             "action" : 
             {
                 "type" : "openGui",
@@ -31,38 +33,27 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -270,
-            "posY" : 152,
-            "width" : 200,
-            "height" : 20,
+            "normalTextColor" : 3125670,
+            "posX" : 120,
+            "posY" : 128,
+            "width" : 92,
+            "height" : 18,
+            "alignment" : "top_left",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
-        "mods":
-        {
-            "text" : "fml.menu.mods",
-            "posX" : -270,
-            "posY" : 186,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },
             
         "options":
         {
             "text" : "menu.options",
-            "posX" : -270,
-            "posY" : 222,
-            "width" : 98,
-            "height" : 20,
+            "posX" : 20,
+            "posY" : 154,
+            "width" : 92,
+            "height" : 18,
+            "alignment" : "top_left",
             "action" : 
             {
                 "type" : "openGui",
@@ -70,13 +61,63 @@
             }
         },
         
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 120,
+            "posY" : 154,
+            "width" : 92,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "twitch":
+        {
+            "text" : "Watch Generikb",
+            "hoverText" : "twitch.tv/generikb",                       
+            "posX" : 20,
+            "posY" : 178,
+            "width" :92,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.twitch.tv/generikb"
+            }  
+        },
+
+         "server":
+        {
+            "text" : "Get A Server",
+            "hoverText" : "cubedhost.com/generikb",                       
+            "posX" : 120,
+            "posY" : 178,
+            "width" :92,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://cubedhost.com/generikb"
+            }  
+        },
+
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : -168,
-            "posY" : 222,
-            "width" : 98,
+            "normalTextColor" : 3125670,
+            "posX" : 120,
+            "posY" : 206,
+            "width" : 92,
             "height" : 20,
+            "height" : 18,
+            "alignment" : "top_left",
             "action" : 
             {
                 "type" : "quit"
@@ -86,10 +127,11 @@
         "language":
         {
             "text" : "",
-            "posX" : -346,
-            "posY" : 222,
+            "posX" : 220,
+            "posY" : 154,
             "width" : 20,
             "height" : 20,
+            "alignment" : "top_left",
             "action" : 
             {
                 "type" : "openGui",
@@ -100,10 +142,11 @@
         "refresh":
         {
             "text" : "",
-            "posX" : -324,
-            "posY" : 222,
+            "posX" : 220,
+            "posY" : 128,
             "width" : 20,
             "height" : 20,
+            "alignment" : "top_left",
             "texture" : "custommainmenu:textures/gui/buttons.png",
             "action" : 
             {
@@ -118,7 +161,7 @@
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
             "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
+            "posX" : -200,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right",
@@ -132,10 +175,19 @@
         "fml":
         {
             "text" : "",
-            "posX" : 2,
+            "posX" : 6,
             "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_left"
+        },
+
+        "packTxt":
+        {
+            "text" : "Alpha Build: Laptop Moose-0.0.5.2",
+            "posX" : -170,
+            "posY" : 6,
+            "color" : -1,
+            "alignment" : "top_right"
         }
     },
     
@@ -144,8 +196,8 @@
         "splash-text":
         {
             "posX" : 80,
-            "posY" : 54,
-            "color" : -256,
+            "posY" : 34,
+            "color" : 3125670,
             "alignment" : "top_left",
             "texts" : "file:custommainmenu:texts/uncle_splash.txt"
         },
