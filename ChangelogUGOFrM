@@ -2634,7 +2634,9 @@ naturescompass.cfg
      >
 sasit.cfg
 	added entry
-
+teamreborn/mainmeuscale/config.cfg
+	config
+		I:GUI_SCALE=2 
 
 
 -- Script Changes --
