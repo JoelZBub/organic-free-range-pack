@@ -2554,7 +2554,7 @@ bountiful
 cofh/world/
 	04_fossil.json
 		offsets for permafrost generation in atum
-custommainmenu
+CustomMainMenu
     removed mainmenu_auto
     removed mainmenu_Backup
     removed mainmenu_large
@@ -2596,6 +2596,7 @@ inspirations.cfg
 
 -- Added Mods --
 ----------------
+Smooth Font (by bre2el)
 
 
 -- Updated Mods --
@@ -2621,6 +2622,11 @@ caverns/
 		reverted changes
 	cavenia-dimension.cfg
 		I:dimension=0 [disabled]
+CustomMainMenu/
+    mainmenu.json
+    	re-formatted main menu
+defaultoptions
+	saveOptions
 naturescompass.cfg
 	regenerated configs
 	 S:naturescompass.biomeBlacklist <
@@ -2628,9 +2634,8 @@ naturescompass.cfg
      >
 sasit.cfg
 	added entry
-teamreborn/mainmeuscale/config.cfg
-	config
-		I:GUI_SCALE=2 
+
+
 
 -- Script Changes --
 --------------------
