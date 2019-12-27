@@ -17,7 +17,7 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "normalTextColor" : 3125670,
+            "normalTextColor" : -256,
             "posX" : 20,
             "posY" : 128,
             "width" : 92,
@@ -33,7 +33,7 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "normalTextColor" : 3125670,
+            "normalTextColor" : -256,
             "posX" : 120,
             "posY" : 128,
             "width" : 92,
@@ -112,7 +112,7 @@
         {
             "text" : "menu.quit",
             "normalTextColor" : 3125670,
-            "posX" : 120,
+            "posX" : 70,
             "posY" : 206,
             "width" : 92,
             "height" : 20,
@@ -183,7 +183,7 @@
 
         "packTxt":
         {
-            "text" : "Alpha Build: Laptop Moose-0.0.5.2",
+            "text" : "Alpha Build: Laptop Moose-0.0.5.3",
             "posX" : -170,
             "posY" : 6,
             "color" : -1,

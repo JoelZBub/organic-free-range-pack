@@ -2513,6 +2513,11 @@ capsule.cfg
 -- Other Changes --
 -------------------
 
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.5.1
+		Build Name / Splash Screen = Laptop Moose  Dec. 17, 2019
+-------------------------------------------------------------------------------
+
 -----------------------------------------------------------------------------  
         Changelog
         Dec 18-19, 2019
@@ -2543,7 +2548,6 @@ Bountiful
 bountiful
 	removed all configs
 betteranimalsplus.cfg
-	B:biomeBasedVariants=true
 	cleanup unused biomes from other dimensions
 bountiful
     removed all configs
@@ -2563,6 +2567,70 @@ defaultoptions
 	added optionsof.txt for optifine users
 inspirations.cfg
 	disabled extra seeds and drops
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.5.2
+		Build Name / Splash Screen = Laptop Moose  Dec. 19, 2019
+-------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 22-26, 2019
+        Build Name / Splash Screen = Laptop Moose 0.0.5.3
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+Better Animals Plus (8.0.0 to 8.1.1)
+FoamFix (0.10.9 to 0.10.10)
+JEI (4.15.0.292 to 4.15.0.293)
+LootTweaker (0.1.3 to 0.1.4)
+Nature's Compass (1.6.2 to 1.7.0)
+SimpleStorageNetwork (1.7.9 to 1.7.10)
+Unlimited Chisel Works (0.3.2 to 0.3.3)
+Xaero's Minimap (1.19.3 to 1.19.4)
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+caverns/
+	cavenia-biomes.cfg
+		reverted changes
+	cavenia-dimension.cfg
+		I:dimension=0 [disabled]
+naturescompass.cfg
+	regenerated configs
+	 S:naturescompass.biomeBlacklist <
+        jeid:error_biome
+     >
+sasit.cfg
+	added entry
+teamreborn/mainmeuscale/config.cfg
+	config
+		I:GUI_SCALE=2 
 
 -- Script Changes --
 --------------------
