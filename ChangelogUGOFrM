@@ -2596,7 +2596,7 @@ inspirations.cfg
 
 -- Added Mods --
 ----------------
-Smooth Font (by bre2el)
+
 
 
 -- Updated Mods --
@@ -2637,6 +2637,50 @@ sasit.cfg
 teamreborn/mainmeuscale/config.cfg
 	config
 		I:GUI_SCALE=2 
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
+
+
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.5.3
+		Build Name / Splash Screen = Laptop Moose  Dec. 26, 2019
+-------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Dec 27, 2019
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
 
 
 -- Script Changes --
