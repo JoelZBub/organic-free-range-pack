@@ -2681,7 +2681,16 @@ teamreborn/mainmeuscale/config.cfg
 
 -- Config Changes --
 --------------------
-
+betteranimalsplus.cfg
+	entityzotzpyre
+		removed non-vanilla biomes
+	entitybobbitworm
+		removed non-vanilla biomes
+davincisvessels.cfg
+	D:submersible_fill_ratio=1.0
+jei/
+	itemBlacklist.cfg
+		removed chisel items from blacklist
 
 -- Script Changes --
 --------------------
