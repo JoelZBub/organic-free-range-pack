@@ -24,7 +24,8 @@ static displayNameChange as string[IItemStack] = {
 	<yoyos:gold_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:iron_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:stone_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
-	<yoyos:wooden_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:"
+	<yoyos:wooden_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
+	<withercrumbs:crumb_star>: "BoogerStar"
 };
 
 

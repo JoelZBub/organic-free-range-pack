@@ -2659,7 +2659,7 @@ teamreborn/mainmeuscale/config.cfg
 
 -----------------------------------------------------------------------------  
         Changelog
-        Dec 27, 2019
+        Dec 27-31, 2019
         Build Name / Splash Screen = TBD
 -------------------------------------------------------------------------------
 
@@ -2669,6 +2669,8 @@ teamreborn/mainmeuscale/config.cfg
 
 -- Added Mods --
 ----------------
+HeadCrumbs
+WitherCrumbs
 
 
 -- Updated Mods --
@@ -2681,23 +2683,43 @@ teamreborn/mainmeuscale/config.cfg
 
 -- Config Changes --
 --------------------
+MovingWorld/Main.cfg
+	Lots of items added to - S:overwritable_blocks
+rftools/rftools.cfg
+	B:quarryAllowed=false
 betteranimalsplus.cfg
 	entityzotzpyre
 		removed non-vanilla biomes
 	entitybobbitworm
 		removed non-vanilla biomes
+cyclicmagic.cfg
+	B:sound_player=false
+	B:card_location=true
 davincisvessels.cfg
 	D:submersible_fill_ratio=1.0
 jei/
 	itemBlacklist.cfg
 		removed chisel items from blacklist
+quark.cfg
+	I:"Shiny Animal Chance"=128
+	biotite {
+        I:"Cluster count for natural generation"=4
+        I:"Cluster size"=4
+        I:"Clusters generated per dragon death tick"=8
+yoyos.cfg
+	stickyyoyo{
+		D:length=20.0
 
 -- Script Changes --
 --------------------
+Removed recipes and hid quarry/pump shape cards
+Added Booger food item along with fun effects
 
 
 -- Asset Changes --
 -------------------
+Fixes to localized names
+Added Booger texture
 
 
 -- Other Changes --

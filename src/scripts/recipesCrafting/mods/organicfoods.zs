@@ -69,6 +69,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+	<contenttweaker:organic_booger> * 4 : {
+		"ct_organic_booger" : [
+  				[<ore:listAllmilk>, <ore:flesh>, <ore:slimeball>]		
+		]
+	}
 };
 
 

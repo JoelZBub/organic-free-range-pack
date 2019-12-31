@@ -19,6 +19,8 @@ import crafttweaker.item.IIngredient;
 <ore:clay>.add(<mist:clay_ball:1>);
 <ore:coconut>.add(<pvj:coconut:0>);
 <ore:coconut>.add(<tropicraft:coconut:0>);
+<ore:flesh>.add(<cannibalism:playerflesh>);
+<ore:flesh>.add(<cannibalism:playerfleshcooked>);
 
 
 //	Blocks

@@ -16,3 +16,9 @@ var bugSoftTaco = VanillaFactory.createItemFood("soft_bug_taco",6);
 bugSoftTaco.setSaturation(2);
 
 bugSoftTaco.register();
+
+var booger = VanillaFactory.createItemFood("organic_booger",2);
+
+booger.setSaturation(1);
+
+booger.register();

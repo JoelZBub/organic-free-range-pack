@@ -21,6 +21,16 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<rftools:shape_card:1>,
+<rftools:shape_card:2>,
+<rftools:shape_card:3>,
+<rftools:shape_card:4>,
+<rftools:shape_card:5>,
+<rftools:shape_card:6>,
+<rftools:shape_card:7>,
+<rftools:shape_card:8>,
+<rftools:shape_card:9>,
+<rftools:shape_card:10>
 ];
 
 
