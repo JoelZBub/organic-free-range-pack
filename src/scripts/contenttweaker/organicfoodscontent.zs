@@ -21,4 +21,6 @@ var booger = VanillaFactory.createItemFood("organic_booger",2);
 
 booger.setSaturation(1);
 
+booger.alwaysEdible = true;
+
 booger.register();
