@@ -2683,6 +2683,18 @@ WitherCrumbs
 
 -- Config Changes --
 --------------------
+caverns/general.cfg
+	Added creative and unused TF items to Randomite blacklist
+cofh
+	/world/01_thermalfoundation_ores.json
+		"platinum": {
+			"enabled": "true",
+	/config.cfg
+		B:EnableFlatBedrock=true
+inventorypets/illuminati_blacklist.json
+	Added creative and unused TF items
+jei/itemBlacklist.cfg
+	removed chisel items from blacklist
 MovingWorld/Main.cfg
 	Lots of items added to - S:overwritable_blocks
 rftools/rftools.cfg
@@ -2697,9 +2709,6 @@ cyclicmagic.cfg
 	B:card_location=true
 davincisvessels.cfg
 	D:submersible_fill_ratio=1.0
-jei/
-	itemBlacklist.cfg
-		removed chisel items from blacklist
 quark.cfg
 	I:"Shiny Animal Chance"=128
 	biotite {
@@ -2714,6 +2723,9 @@ yoyos.cfg
 --------------------
 Removed recipes and hid quarry/pump shape cards
 Added Booger food item along with fun effects
+Changed Inferno Mob Farm recipe to use Rats Ancient Sawblade
+Removed recipe for Better Animals fried egg to avoid conflict with Fossil cooked egg, adjusted recipes accordingly
+Added all vanilla carpet variations to Chisel
 
 
 -- Asset Changes --

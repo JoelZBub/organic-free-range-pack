@@ -87,7 +87,11 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}) : [
 		format.white("Bookshelves can be made from any kind of wood slab.")
+	],
+	<cfm:fire_pit_on> : [
+		format.white("Place a series of Chopped Logs on the ground and light on fire to create")
 	]
+	
 
 };
 

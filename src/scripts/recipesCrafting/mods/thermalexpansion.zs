@@ -1,4 +1,3 @@
-#norun
 /*
 	100% Organic Free-Range Thermal Expansion Crafting recipes script.
 	This script is for adding and removing recipes for Thermal Expansion.
@@ -19,6 +18,51 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<thermalfoundation:storage:4>,
+<thermalfoundation:glass:4>,
+<thermalfoundation:coin:68>,
+<thermalfoundation:material:68>,
+<thermalfoundation:material:132>,
+<thermalfoundation:material:196>,
+<thermalfoundation:material:260>,
+<thermalfoundation:material:324>,
+<thermalfoundation:armor.helmet_aluminum>,
+<thermalfoundation:armor.plate_aluminum>,
+<thermalfoundation:armor.legs_aluminum>,
+<thermalfoundation:armor.boots_aluminum>,
+<thermalfoundation:tool.sword_aluminum>,
+<thermalfoundation:tool.shovel_aluminum>,
+<thermalfoundation:tool.pickaxe_aluminum>,
+<thermalfoundation:tool.axe_aluminum>,
+<thermalfoundation:tool.hoe_aluminum>,
+<thermalfoundation:tool.bow_aluminum>,
+<thermalfoundation:tool.fishing_rod_aluminum>,
+<thermalfoundation:tool.shears_aluminum>,
+<thermalfoundation:tool.sickle_aluminum>,
+<thermalfoundation:tool.hammer_aluminum>,
+<thermalfoundation:tool.excavator_aluminum>,
+<thermalfoundation:tool.shield_aluminum>,
+<thermalfoundation:horse_armor_aluminum>,
+<thermalfoundation:ore:4>,
+<thermalfoundation:ore:7>,
+<thermalfoundation:storage:7>,
+<thermalfoundation:glass:7>,
+<thermalfoundation:coin:71>,
+<thermalfoundation:material:71>,
+<thermalfoundation:material:135>,
+<thermalfoundation:material:199>,
+<thermalfoundation:material:263>,
+<thermalfoundation:material:327>,
+<thermalfoundation:ore:8>,
+<thermalfoundation:storage:8>,
+<thermalfoundation:glass:8>,
+<thermalfoundation:coin:72>,
+<thermalfoundation:material:72>,
+<thermalfoundation:material:136>,
+<thermalfoundation:material:200>,
+<thermalfoundation:material:264>,
+<thermalfoundation:material:328>,
+<thermalfoundation:material:1028>,
 ];
 
 
