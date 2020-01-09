@@ -1,6 +1,7 @@
+#norun
 /*
-	100% Organic Free-Range Traveller's Backpack Crafting Table recipes script.
-	This script is for adding and removing recipes for Traveller's Backpack.
+	100% Organic Free-Range PizzaCraft Crafting Table recipes script.
+	This script is for adding and removing recipes for PizzaCraft.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -11,7 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<travellersbackpack:travellers_backpack:67>
+	<pizzacraft:bakeware>
 ];
 
 /*
@@ -22,9 +23,7 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 ];
 
 
-/*
-	Named Shaped Recipes
-*/	
+
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 /*	<mod:itemname:meta> : {
 		"string_for_recipe_name" : [
@@ -35,13 +34,12 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<travellersbackpack:travellers_backpack:67> : {
-		"travellersbackpack_travellers_backpack_slime" : [
+	<pizzacraft:bakeware> : {
+		"pizzacraft_bakeware" : [
 			[
-	  			[<ore:slimeball>, <ore:slimeball>, <ore:slimeball>],
-                [<ore:slimeball>, <travellersbackpack:travellers_backpack>, <ore:slimeball>], 
-                [<ore:slimeball>, <ore:slimeball>, <ore:slimeball>]
-
+	  			[<ore:ingotIron>, null, <ore:ingotIron>],
+	   			[null, <ore:ingotBrick>, null],
+	  			[<ore:ingotIron>, null, <ore:ingotIron>]
 			]
 		]
 	}
@@ -84,6 +82,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 /*
 	Loops to Add Recipes
 */
+
 
 // Add Named Shaped Recipes
 for item, itemRecipes in namedShapedRecipes {

@@ -2683,16 +2683,6 @@ WitherCrumbs
 
 -- Config Changes --
 --------------------
-caverns/general.cfg
-	Added creative and unused TF items to Randomite blacklist
-cofh
-	/world/01_thermalfoundation_ores.json
-		"platinum": {
-			"enabled": "true",
-	/config.cfg
-		B:EnableFlatBedrock=true
-inventorypets/illuminati_blacklist.json
-	Added creative and unused TF items
 jei/itemBlacklist.cfg
 	removed chisel items from blacklist
 MovingWorld/Main.cfg
@@ -2723,15 +2713,81 @@ yoyos.cfg
 --------------------
 Removed recipes and hid quarry/pump shape cards
 Added Booger food item along with fun effects
-Changed Inferno Mob Farm recipe to use Rats Ancient Sawblade
-Removed recipe for Better Animals fried egg to avoid conflict with Fossil cooked egg, adjusted recipes accordingly
-Added all vanilla carpet variations to Chisel
 
 
 -- Asset Changes --
 -------------------
 Fixes to localized names
 Added Booger texture
+
+
+-- Other Changes --
+-------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        January 1-8 , 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+EqualDragons (by TechnicianLP)
+MrCrayfish's Gun Mod (by MrCrayfish)
+
+
+-- Updated Mods --
+-------------------
+Controlling (3.0.7 to 3.0.8)
+Cyclic (1.19.18 to 1.19.19)
+Nature's Compass (1.7.0 to 1.8.0)
+Pirates (0.0.5A to 0.0.5B)
+Unlimited Chisel Works (0.3.3 to 0.3.4)
+Xaero's Minimap (1.19.4 to 1.19.6)
+Xaero's World Map (1.5.2 to 1.5.4)
+
+
+--- Removed Mods ---
+--------------------
+Colossal Chests
+Traveller's Backpack
+PizzaCraft
+
+
+-- Config Changes --
+--------------------
+caverns/general.cfg
+	Added creative and unused TF items to Randomite blacklist
+cofh
+	/world/01_thermalfoundation_ores.json
+		"platinum": {
+			"enabled": "true",
+	/config.cfg
+		B:EnableFlatBedrock=true
+inventorypets/illuminati_blacklist.json
+	Added creative and unused TF items
+projectvibrantjourneys.cfg
+	general
+    	master
+        	B:"Building: Enable Mystical Grill"=false
+rats.cfg
+    S:"Rat Immediate Despawn Distance"=96.0 [fixes typo]
+
+
+-- Script Changes --
+--------------------
+Changed Inferno Mob Farm recipe to use Rats Ancient Sawblade
+Removed recipe for Better Animals fried egg to avoid conflict with Fossil cooked egg, adjusted recipes accordingly
+Added all vanilla carpet variations to Chisel
+Added #norun to Traveller's Backpack crafting scripts
+Added #norun to PizzaCraft crafting scripts
+
+-- Asset Changes --
+-------------------
 
 
 -- Other Changes --
