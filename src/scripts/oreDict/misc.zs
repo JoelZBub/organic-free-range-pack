@@ -22,6 +22,7 @@ import crafttweaker.item.IIngredient;
 <ore:flesh>.add(<cannibalism:playerflesh>);
 <ore:flesh>.add(<cannibalism:playerfleshcooked>);
 <ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
+<ore:tarBucket>.add(<erebus:bambucket>.withTag({Fluid: {FluidName: "tar", Amount: 1000}}));
 
 
 //	Blocks
