@@ -2838,8 +2838,17 @@ Morph
 
 -- Script Changes --
 --------------------
+oreDict
+	/misc.zs
+		added tar buckets to tarBucket oreDict entry for crafting needs
+	/woodMaterials.zs
+		added PVJ woods to new modLogs entry for crafting needs
 tooltips.zs
 	references to colossal chest removed
+recipecrafting/mods/fossils.zs
+	fixed tar drop recipe from using XP buckets
+recipecrafting/mods/vanillatweaks.zs
+	added QOL recipes for chests and sticks
 
 
 -- Asset Changes --
