@@ -2683,12 +2683,6 @@ WitherCrumbs
 
 -- Config Changes --
 --------------------
-jei/itemBlacklist.cfg
-	removed chisel items from blacklist
-MovingWorld/Main.cfg
-	Lots of items added to - S:overwritable_blocks
-rftools/rftools.cfg
-	B:quarryAllowed=false
 betteranimalsplus.cfg
 	entityzotzpyre
 		removed non-vanilla biomes
@@ -2699,12 +2693,18 @@ cyclicmagic.cfg
 	B:card_location=true
 davincisvessels.cfg
 	D:submersible_fill_ratio=1.0
+jei/itemBlacklist.cfg
+	removed chisel items from blacklist
+MovingWorld/Main.cfg
+	Lots of items added to - S:overwritable_blocks
 quark.cfg
 	I:"Shiny Animal Chance"=128
 	biotite {
         I:"Cluster count for natural generation"=4
         I:"Cluster size"=4
         I:"Clusters generated per dragon death tick"=8
+rftools/rftools.cfg
+	B:quarryAllowed=false
 yoyos.cfg
 	stickyyoyo{
 		D:length=20.0
@@ -2726,8 +2726,8 @@ Added Booger texture
 
 -----------------------------------------------------------------------------  
         Changelog
-        January 1-8 , 2020
-        Build Name / Splash Screen = TBD
+        January 1-14 , 2020
+        Build Name / Splash Screen = 0.0.6.0 
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -2736,16 +2736,21 @@ Added Booger texture
 
 -- Added Mods --
 ----------------
+Damage Source Configurator (by SoggyStache)
 EqualDragons (by TechnicianLP)
+Inventory Tweaks (by JimeoWan, Kobata)
 MrCrayfish's Gun Mod (by MrCrayfish)
 
 
 -- Updated Mods --
 -------------------
 Controlling (3.0.7 to 3.0.8)
+Critter Fights (1.0.1 to 1.0.2)
+Custom Main Menu (2.0.9 to 2.0.9.1)
 Cyclic (1.19.18 to 1.19.19)
-Nature's Compass (1.7.0 to 1.8.0)
-Pirates (0.0.5A to 0.0.5B)
+Nature's Compass (1.7.0 to 1.8.3)
+Pirates (0.0.5A to 0.0.6)
+RFTools (7.7.2 to 7.7.3)
 Unlimited Chisel Works (0.3.3 to 0.3.4)
 Xaero's Minimap (1.19.4 to 1.19.6)
 Xaero's World Map (1.5.2 to 1.5.4)
@@ -2754,12 +2759,18 @@ Xaero's World Map (1.5.2 to 1.5.4)
 --- Removed Mods ---
 --------------------
 Colossal Chests
-Traveller's Backpack
+Inventory Sorter
+More Player Models
+Morph
 PizzaCraft
+Traveller's Backpack
+
 
 
 -- Config Changes --
 --------------------
+betterfps.json
+	updateChecker:false
 caverns/general.cfg
 	Added creative and unused TF items to Randomite blacklist
 cofh
@@ -2785,6 +2796,52 @@ Removed recipe for Better Animals fried egg to avoid conflict with Fossil cooked
 Added all vanilla carpet variations to Chisel
 Added #norun to Traveller's Backpack crafting scripts
 Added #norun to PizzaCraft crafting scripts
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        January 15- , 2020
+        Build Name / Splash Screen = 0.0.6.0 
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+Metamorph
+
+
+-- Updated Mods --
+-------------------
+Critter Fights (1.0.1 to 1.0.2)
+RFTools (7.7.2 to 7.7.3)
+Xaero's Minimap (1.19.6 to 1.19.7)
+
+--- Removed Mods ---
+--------------------
+Morph
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+tooltips.zs
+	references to colossal chest removed
+
 
 -- Asset Changes --
 -------------------

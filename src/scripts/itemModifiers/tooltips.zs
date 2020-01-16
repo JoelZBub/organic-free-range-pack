@@ -64,27 +64,6 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<yoyos:wooden_yoyo>: [
 		format.white("Wooden YoYo")
 	],
-	<colossalchests:colossal_chest>: [
-		format.white("Material Storage Multiplier: 1x")
-	],
-	<colossalchests:colossal_chest:1>: [
-		format.white("Material Storage Multiplier: 1.66x")
-	],
-	<colossalchests:colossal_chest:2>: [
-		format.white("Material Storage Multiplier: 2x")
-	],
-	<colossalchests:colossal_chest:3>: [
-		format.white("Material Storage Multiplier: 2.66x")
-	],
-	<colossalchests:colossal_chest:4>: [
-		format.white("Material Storage Multiplier: 3x")
-	],
-	<colossalchests:colossal_chest:5>: [
-		format.white("Material Storage Multiplier: 4x")
-	],
-	<colossalchests:colossal_chest:6>: [
-		format.white("Material Storage Multiplier: 4x")
-	],
 	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}) : [
 		format.white("Bookshelves can be made from any kind of wood slab.")
 	],

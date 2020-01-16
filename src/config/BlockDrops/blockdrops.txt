@@ -3885,21 +3885,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "rftools:dimensional_shard_ore",
-    "meta": 2,
-    "length": 1,
-    "name0": "rftools:dimensional_shard",
-    "meta0": 0,
-    "0chance0": 301.275,
-    "1chance0": 397.175,
-    "2chance0": 524.325,
-    "3chance0": 653.2,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
-  },
-  {
     "name": "pvj:short_grass",
     "meta": 0,
     "length": 1,
@@ -7710,36 +7695,6 @@
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
   },
   {
-    "name": "rftools:dimensional_shard_ore",
-    "meta": 1,
-    "length": 1,
-    "name0": "rftools:dimensional_shard",
-    "meta0": 0,
-    "0chance0": 299.6,
-    "1chance0": 407.60004,
-    "2chance0": 517.15,
-    "3chance0": 659.725,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
-  },
-  {
-    "name": "rftools:dimensional_shard_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "rftools:dimensional_shard",
-    "meta0": 0,
-    "0chance0": 301.42502,
-    "1chance0": 401.87503,
-    "2chance0": 536.35004,
-    "3chance0": 662.27496,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
-  },
-  {
     "name": "tropicraft:leaves_fruit",
     "meta": 2,
     "length": 2,
@@ -10458,5 +10413,50 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 32\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 64\n}"
+  },
+  {
+    "name": "rftools:dimensional_shard_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "rftools:dimensional_shard",
+    "meta0": 0,
+    "0chance0": 301.625,
+    "1chance0": 397.925,
+    "2chance0": 519.89996,
+    "3chance0": 665.25,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
+  },
+  {
+    "name": "rftools:dimensional_shard_ore",
+    "meta": 2,
+    "length": 1,
+    "name0": "rftools:dimensional_shard",
+    "meta0": 0,
+    "0chance0": 299.57498,
+    "1chance0": 399.4,
+    "2chance0": 521.85004,
+    "3chance0": 657.975,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
+  },
+  {
+    "name": "rftools:dimensional_shard_ore",
+    "meta": 1,
+    "length": 1,
+    "name0": "rftools:dimensional_shard",
+    "meta0": 0,
+    "0chance0": 300.32498,
+    "1chance0": 400.6,
+    "2chance0": 521.0,
+    "3chance0": 660.375,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
   }
 ]
