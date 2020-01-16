@@ -21,6 +21,7 @@ import crafttweaker.item.IIngredient;
 <ore:coconut>.add(<tropicraft:coconut:0>);
 <ore:flesh>.add(<cannibalism:playerflesh>);
 <ore:flesh>.add(<cannibalism:playerfleshcooked>);
+<ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
 
 
 //	Blocks
