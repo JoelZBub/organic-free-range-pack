@@ -183,9 +183,9 @@
 
         "packTxt":
         {
-            "text" : "Alpha Build: Laptop Moose-0.0.5.3",
-            "posX" : -170,
-            "posY" : 6,
+            "text" : "Closed-Beta Build: Colossal Chest Scar-0.0.6.0",
+            "posX" : -250,
+            "posY" : 10,
             "color" : -1,
             "alignment" : "top_right"
         }
