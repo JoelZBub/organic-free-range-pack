@@ -2874,7 +2874,7 @@ recipecrafting/mods/vanillatweaks.zs
 
 -----------------------------------------------------------------------------  
         Changelog
-        January 28-, 2020
+        January 28-February 1, 2020
         Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
 -------------------------------------------------------------------------------
 
@@ -2906,6 +2906,54 @@ Pirate Mod.cfg
 	backed up config and regenerate
 reccomplex.cfg
     S:structureGenerationMatcher=!$fossil & !$reccomplex
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+Added resources/assets/fml/textures/gui/organicair.gif
+Removed resources/assets/fml/textures/gui/hogwildscooter.gif
+Removed resources/assets/fml/textures/gui/laptopmoose.gif
+
+
+-- Other Changes --
+-------------------
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of February 2-8, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+betternether.cfg
+	added custom config by happybandit - compare to default if you wanna know changes
+lcrdrfs.cfg
+	"invasion spawn settings" {
+   	 	I:"Delay Time in Days Before Jet Pack Spiders Spawn"=0
+    	I:"Delay Time in Days Before Laser Creepers Spawn"=0
+    	I:"Delay Time in Days Before T-R3X Riders Spawn"=0
 
 -- Script Changes --
 --------------------
