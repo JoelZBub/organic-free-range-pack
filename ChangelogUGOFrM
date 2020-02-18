@@ -3041,7 +3041,7 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 -- Added Mods --
 ----------------
-Mighty Ender Chicken (by ohaiiChun)
+Drones (by vadis365)
 Mob Spawner Control (by PyrofabTheModsmith)
 
 
@@ -3060,6 +3060,10 @@ Despawning Spawners
 
 -- Config Changes --
 --------------------
+incontrol/potentialspawn
+	Added rules for lcrdrfs, Cyberware, and Drones
+incontrol/spawn
+	Added rules for lcrdrfs, Cyberware, and Drones
 	
 
 -- Script Changes --

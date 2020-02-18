@@ -1,1 +1,43 @@
-[]
+[
+    {
+      "dimension": 69,
+      "maxheight": 100,
+      "mobs": [
+        {
+          "mob": "lcrdrfs:laser_creeper",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        },
+        {
+          "mob": "lcrdrfs:robo_dino",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        },
+        {
+          "mob": "lcrdrfs:jet_pack_spider",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        },
+        {
+          "mob": "cyberware:cyberzombie",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        }
+      ]
+    },
+    {
+        "dimension": 69,
+        "mobs": [
+        {
+            "mob": "drones:drones.drone",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 2
+        }
+      ]
+    }
+  ]

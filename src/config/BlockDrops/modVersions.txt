@@ -146,6 +146,7 @@
   "aim": "1.4.1",
   "commoncapabilities": "2.4.5",
   "crafttweakerjei": "2.0.3",
+  "drones": "0.3.1",
   "golems_thermal": "7.1.5-0",
   "signpost": "1.08.3",
   "mtlib": "3.0.6",

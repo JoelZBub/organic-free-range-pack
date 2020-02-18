@@ -87,6 +87,35 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 	]
 };
 
+static netItems as IItemStack[] = [
+<cyclicmagic:magic_net>,
+<tinymobfarm:lasso>,
+<thermalexpansion:morb>,
+<randomthings:summoningpendulum>
+];
+
+for item in netItems {
+	addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
+}
+
+static bagItems as IItemStack[] = [
+<cyclicmagic:storage_bag>,
+<enderutilities:enderbag>,
+<enderutilities:handybag>,
+<enderutilities:handybag:1>,
+<thermalexpansion:satchel>,
+<thermalexpansion:satchel:1>,
+<thermalexpansion:satchel:2>,
+<thermalexpansion:satchel:3>,
+<thermalexpansion:satchel:4>,
+<thermalexpansion:satchel:100>,
+<cyclicmagic:sack_ender>
+];
+
+for item in bagItems {
+	addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
+}
+
 // Do NOT edit below this line //
 
 for item, tooltips in itemTooltipsAdd {
