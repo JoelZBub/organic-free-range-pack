@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "biomes": "mist:down | mist:down_forest | mist:down_center | mist:down_swamp"
+    }
+  ],
+  "metadata": {
+    "title": "Mist Down Biomes",
+    "description": [
+      ""
+    ]
+  }
+}

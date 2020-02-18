@@ -2939,6 +2939,9 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 -- Updated Mods --
 -------------------
+CraftPresence (1.6.0 to 1.6.1)
+Xaero's Minimap (20.0.0 to 20.2.0)
+Xaero's World Map (1.5.4 to 1.5.5)
 
 
 --- Removed Mods ---
@@ -2949,6 +2952,9 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 --------------------
 betternether.cfg
 	added custom config by happybandit - compare to default if you wanna know changes
+fossil.cfg
+	misc 
+    	B:enableSwimAnimation=false  (Compat with Metamorph)
 lcrdrfs.cfg
 	"invasion spawn settings" {
    	 	I:"Delay Time in Days Before Jet Pack Spiders Spawn"=0
@@ -2961,6 +2967,106 @@ lcrdrfs.cfg
 
 -- Asset Changes --
 -------------------
+
+
+-- Other Changes --
+-------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of February 9-15, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+FastWorkbench (by Shadows_of_Fire)
+
+
+-- Updated Mods --
+-------------------
+Culinary Construct (1.3.3.1 to 1.3.3.2)
+Cyclops Core (1.6.0 to 1.6.1)
+Integrated Dynamics (1.1.1 to 1.1.2)
+Rats (3.2.5 to 3.2.6)
+Robotic Parts [cyberware] (0.2.11.22 to 0.2.11.23)
+UniDict (2.9.5 to 2.9.6)
+Xaero's Minimap (20.2.0 to 20.3.0)
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+lcrdrfs.cfg (changes for Corpse compat)
+	"bazookoid settings"
+    	I:"Non-Explosion Damage caused by Creepssile"=0 [default=10]
+    "jet pack spider settings"
+    	I:"Non-Explosion Damage caused by Creepssile"=0 [default=6]
+rats.cfg 
+	-backup and regen
+	-transfer previous settings to new config
+	B:"Custom Main Menu"=false
+	
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of February 16-22, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+Mighty Ender Chicken (by ohaiiChun)
+Mob Spawner Control (by PyrofabTheModsmith)
+
+
+-- Updated Mods --
+-------------------
+ModTweaker (4.0.18 to 4.0.19)
+
+
+
+--- Removed Mods ---
+--------------------
+Despawning Spawners
+
+
+-- Config Changes --
+--------------------
+	
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+reccomplex structures and loot
 
 
 -- Other Changes --

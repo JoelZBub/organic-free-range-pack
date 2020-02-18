@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "biomes": "atum:dead_oasis",
+      "weight": 0.5615556836128235
+    },
+    {
+      "biomes": "atum:oasis"
+    }
+  ],
+  "metadata": {
+    "title": "Atum Oasis",
+    "description": [
+      "Atum Oasis and Dead Oasis"
+    ]
+  }
+}

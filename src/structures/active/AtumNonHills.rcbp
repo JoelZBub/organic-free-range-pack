@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "biomes": "atum:sand_plains"
+    },
+    {
+      "biomes": "atum:sand_dunes ",
+      "weight": 0.6238924860954285
+    },
+    {
+      "biomes": "atum:sand_hills",
+      "weight": 0.5615556836128235
+    },
+    {
+      "biomes": "atum:deadwood_forest"
+    },
+    {
+      "biomes": "atum:dead_oasis"
+    }
+  ],
+  "metadata": {
+    "title": "Atum NonHills",
+    "description": [
+      "Atum Biomes that aren\u0027t hilly"
+    ]
+  }
+}
