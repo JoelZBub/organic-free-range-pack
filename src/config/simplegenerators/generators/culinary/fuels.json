@@ -1,1634 +1,1537 @@
-[
-  {
-    "energy": 21600,
-    "id": "fossil:liopleurodon_meat"
-  },
-  {
-    "energy": 288000,
-    "id": "pizzacraft:slice_5"
-  },
-  {
-    "energy": 9600,
-    "id": "mist:mushrooms_food:22"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:velociraptor_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:meganeura_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:crassigyrinus_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:allosaurus_meat"
-  },
-  {
-    "energy": 144000,
-    "id": "betteranimalsplus:crab_meat_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:crassigyrinus_cooked"
-  },
-  {
-    "energy": 43200,
-    "id": "midnight:hunter_wing"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_iron_taco"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:compsognathus_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "tt:soft_tortilla"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:stegosaurus_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:compsognathus_cooked"
-  },
-  {
-    "energy": 16800,
-    "id": "tt:pumpkin_ice_cream"
-  },
-  {
-    "energy": 86400,
-    "id": "tt:pumpkin_ice_cream_taco"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:8"
-  },
-  {
-    "energy": 151200,
-    "id": "atum:camel_cooked"
-  },
-  {
-    "energy": 180000,
-    "id": "atum:golden_date_enchanted"
-  },
-  {
-    "energy": 9600,
-    "id": "minecraft:rotten_flesh"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:plesiosaur_cooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:therizinosaurus_meat"
-  },
-  {
-    "energy": 144000,
-    "id": "cyclicmagic:inventory_food"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook26"
-  },
-  {
-    "energy": 28800,
-    "id": "cannibalism:villagerflesh"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook20"
-  },
-  {
-    "energy": 21600,
-    "id": "minecraft:porkchop"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:henodus_cooked"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:sandbugs:2"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_quartz_taco"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:3"
-  },
-  {
-    "energy": 240000,
-    "id": "erebus:stag_heart_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:elasmotherium_cooked"
-  },
-  {
-    "energy": 144000,
-    "id": "minecraft:rabbit_stew"
-  },
-  {
-    "energy": 14400,
-    "id": "cfm:item_sausage"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:quagga_cooked"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_river_fish"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:pachycephalosaurus_cooked"
-  },
-  {
-    "energy": 57600,
-    "id": "mist:mushrooms_cook6"
-  },
-  {
-    "energy": 21600,
-    "id": "tropicraft:sea_urchin_roe"
-  },
-  {
-    "energy": 12000,
-    "id": "bewitchment:juniper_berries"
-  },
-  {
-    "energy": 0,
-    "id": "quark:root_flower"
-  },
-  {
-    "energy": 7200,
-    "id": "quark:crab_leg"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:deinonychus_cooked"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:26"
-  },
-  {
-    "energy": 21600,
-    "id": "midnight:raw_stag_flank"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:4"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:deinonychus_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:phorusrhacos_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:mammoth_meat"
-  },
-  {
-    "energy": 4800,
-    "id": "mist:mushrooms_food:12"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:megalograptus_cooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:pterosaur_meat"
-  },
-  {
-    "energy": 7200,
-    "id": "tropicraft:cooked_frog_leg"
-  },
-  {
-    "energy": 172800,
-    "id": "pizzacraft:slice_1"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:triceratops_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:megalodon_cooked"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:taco_taco"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:velociraptor_cooked"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:dirtbugs:1"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:sandbugs:3"
-  },
-  {
-    "energy": 0,
-    "id": "quark:root_flower:1"
-  },
-  {
-    "energy": 0,
-    "id": "sips:lil_sip"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:4"
-  },
-  {
-    "energy": 288000,
-    "id": "pizzacraft:slice_9"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_redstone_taco"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:diamond_taco"
-  },
-  {
-    "energy": 9600,
-    "id": "mist:mushrooms_food5"
-  },
-  {
-    "energy": 57600,
-    "id": "cfm:item_toast"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:dilophosaurus_cooked"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:onion"
-  },
-  {
-    "energy": 192000,
-    "id": "fossil:cooked_egg"
-  },
-  {
-    "energy": 480,
-    "id": "tt:secret_spice"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:6"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:11"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:coal_taco"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:allosaurus_cooked"
-  },
-  {
-    "energy": 2400,
-    "id": "tropicraft:pineapple_cubes"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:titanis_cooked"
-  },
-  {
-    "energy": 38400,
-    "id": "minecraft:spider_eye"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_coo:19"
-  },
-  {
-    "energy": 180000,
-    "id": "atum:golden_date"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:gallimimus_cooked"
-  },
-  {
-    "energy": 4800,
-    "id": "minecraft:fish"
-  },
-  {
-    "energy": 115200,
-    "id": "coffeespawner:coffee_milk_sugar"
-  },
-  {
-    "energy": 172800,
-    "id": "minecraft:golden_carrot"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:sandbugs:1"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:10"
-  },
-  {
-    "energy": 14400,
-    "id": "minecraft:melon"
-  },
-  {
-    "energy": 384000,
-    "id": "fossil:cooked_chicken_soup"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:mosasaurus_cooked"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:termite"
-  },
-  {
-    "energy": 15120,
-    "id": "tt:watermelon_ice_cream"
-  },
-  {
-    "energy": 115200,
-    "id": "minecraft:cooked_mutton"
-  },
-  {
-    "energy": 12000,
-    "id": "mist:mushrooms_food:7"
-  },
-  {
-    "energy": 7200,
-    "id": "midnight:unstable_fruit_blue"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:diplocaulus_meat"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs"
-  },
-  {
-    "energy": 384000,
-    "id": "fossil:sjl"
-  },
-  {
-    "energy": 86400,
-    "id": "tt:hard_fish_taco"
-  },
-  {
-    "energy": 480000,
-    "id": "tt:secret_taco_soup"
-  },
-  {
-    "energy": 4800,
-    "id": "minecraft:cookie"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:grassbugs:1"
-  },
-  {
-    "energy": 14400,
-    "id": "cfm:item_kebab"
-  },
-  {
-    "energy": 14400,
-    "id": "minecraft:poisonous_potato"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:quagga_meat"
-  },
-  {
-    "energy": 259200,
-    "id": "pizzacraft:slice_7"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:confuciusornis_cooked"
-  },
-  {
-    "energy": 28800,
-    "id": "minecraft:chorus_fruit"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:1"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:plesiosaur_meat"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:3"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:platybelodon_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:sarcosuchus_meat"
-  },
-  {
-    "energy": 97199,
-    "id": "tt:hard_chicken_taco"
-  },
-  {
-    "energy": 15599,
-    "id": "tt:apple_ice_cream"
-  },
-  {
-    "energy": 124799,
-    "id": "tropicraft:seared_marlin"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:mammoth_cooked"
-  },
-  {
-    "energy": 43200,
-    "id": "midnight:raw_suavis"
-  },
-  {
-    "energy": 120000,
-    "id": "quark:cooked_frog_leg"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:2"
-  },
-  {
-    "energy": 158400,
-    "id": "tt:hard_beef_taco"
-  },
-  {
-    "energy": 28800,
-    "id": "cannibalism:witchflesh"
-  },
-  {
-    "energy": 115200,
-    "id": "inspirations:edibles"
-  },
-  {
-    "energy": 72000,
-    "id": "coffeespawner:coffee_milk"
-  },
-  {
-    "energy": 192000,
-    "id": "fossil:raw_chicken_soup"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:23"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:grapefruit"
-  },
-  {
-    "energy": 153600,
-    "id": "quark:cooked_crab_leg"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:13"
-  },
-  {
-    "energy": 158400,
-    "id": "tt:soft_pork_taco"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:1"
-  },
-  {
-    "energy": 12000,
-    "id": "bewitchment:elderberries"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:7"
-  },
-  {
-    "energy": 100799,
-    "id": "vampirism:garlic_bread"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:gallimimus_meat"
-  },
-  {
-    "energy": 7200,
-    "id": "mist:mushrooms_food:18"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:nori_toasted"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:ankylosaurus_cooked"
-  },
-  {
-    "energy": 28800,
-    "id": "quark:root"
-  },
-  {
-    "energy": 24000000,
-    "id": "rats:confit_byaldi"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:dirtbugs:3"
-  },
-  {
-    "energy": 64799,
-    "id": "tt:watermelon_ice_cream_taco"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:dilophosaurus_meat"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:23"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:21"
-  },
-  {
-    "energy": 86400,
-    "id": "tt:apple_ice_cream_taco"
-  },
-  {
-    "energy": 57600,
-    "id": "mist:mushrooms_cook:1"
-  },
-  {
-    "energy": 2400,
-    "id": "minecraft:fish:3"
-  },
-  {
-    "energy": 7200,
-    "id": "mist:mushrooms_food:19"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:5"
-  },
-  {
-    "energy": 14400,
-    "id": "minecraft:mutton"
-  },
-  {
-    "energy": 72000,
-    "id": "mist:mushrooms_cook8"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:6"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:black_olive"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:redstone_taco"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:1"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:woodbugs:3"
-  },
-  {
-    "energy": 50400,
-    "id": "rats:assorted_vegetables"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:coelacanth_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:brachiosaurus_cooked"
-  },
-  {
-    "energy": 0,
-    "id": "sips:big_chug"
-  },
-  {
-    "energy": 9600,
-    "id": "erebus:mandrake_root"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:11"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:2"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:therizinosaurus_cooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:tyrannosaurus_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:ceratosaurus_cooked"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:lime"
-  },
-  {
-    "energy": 19200,
-    "id": "mist:mushrooms_food:2"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:6"
-  },
-  {
-    "energy": 57600,
-    "id": "mist:mushrooms_cook:2"
-  },
-  {
-    "energy": 115200,
-    "id": "minecraft:cooked_fish:1"
-  },
-  {
-    "energy": 14400,
-    "id": "tt:plain_ice_cream"
-  },
-  {
-    "energy": 86400,
-    "id": "tt:hard_rabbit_taco"
-  },
-  {
-    "energy": 7200,
-    "id": "minecraft:potato"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:9"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:16"
-  },
-  {
-    "energy": 14400,
-    "id": "minecraft:beetroot"
-  },
-  {
-    "energy": 240000,
-    "id": "quark:golden_frog_leg"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:4"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:5"
-  },
-  {
-    "energy": 172800,
-    "id": "pizzacraft:slice_6"
-  },
-  {
-    "energy": 129600,
-    "id": "tt:hard_mutton_taco"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:op_hard_taco"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:15"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:pterosaur_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:diplocaulus_cooked"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_taco_taco"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:woodbugs:1"
-  },
-  {
-    "energy": 0,
-    "id": "betteranimalsplus:venisonraw"
-  },
-  {
-    "energy": 72000,
-    "id": "betteranimalsplus:goatcheese"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:dryosaurus_meat"
-  },
-  {
-    "energy": 172800,
-    "id": "pizzacraft:slice_4"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_river_fish:1"
-  },
-  {
-    "energy": 57600,
-    "id": "erebus:turnip"
-  },
-  {
-    "energy": 15599,
-    "id": "tt:cookie_ice_cream"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:mosasaurus_meat"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:4"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:icthyosaurus_meat"
-  },
-  {
-    "energy": 60000,
-    "id": "tropicraft:ray_cooked"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:quartz_taco"
-  },
-  {
-    "energy": 21600,
-    "id": "minecraft:rabbit"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_coal_taco"
-  },
-  {
-    "energy": 72000,
-    "id": "minecraft:baked_potato"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:smilodon_cooked"
-  },
-  {
-    "energy": 14400,
-    "id": "quark:frog_leg"
-  },
-  {
-    "energy": 86400,
-    "id": "atum:emmer_bread"
-  },
-  {
-    "energy": 230400,
-    "id": "betteranimalsplus:venisoncooked"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:lapis_taco"
-  },
-  {
-    "energy": 7200,
-    "id": "mist:mushrooms_food:10"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:titanis_meat"
-  },
-  {
-    "energy": 9600,
-    "id": "erebus:cabbage_seeds"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:ceratosaurus_meat"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish"
-  },
-  {
-    "energy": 57600,
-    "id": "minecraft:pumpkin_pie"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:ankylosaurus_meat"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:lemon"
-  },
-  {
-    "energy": 153600,
-    "id": "cannibalism:playerfleshcooked"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:grassbugs:3"
-  },
-  {
-    "energy": 153600,
-    "id": "bewitchment:heart"
-  },
-  {
-    "energy": 172800,
-    "id": "pizzacraft:slice_2"
-  },
-  {
-    "energy": 72000,
-    "id": "coffeespawner:coffee_sugar"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:sarcosuchus_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:parasaurolophus_cooked"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_lapis_taco"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:3"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:dirtbugs"
-  },
-  {
-    "energy": 153600,
-    "id": "minecraft:cooked_beef"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:henodus_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:sturgeon_cooked"
-  },
-  {
-    "energy": 72000,
-    "id": "minecraft:cooked_rabbit"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:sandbugs"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:2"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:dirtbugs:2"
-  },
-  {
-    "energy": 14400,
-    "id": "minecraft:chicken"
-  },
-  {
-    "energy": 57600,
-    "id": "mist:mushrooms_cook:3"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_diamond_taco"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:spinosaurus_meat"
-  },
-  {
-    "energy": 7200,
-    "id": "midnight:unstable_fruit_green"
-  },
-  {
-    "energy": 4800,
-    "id": "mist:mushrooms_food:20"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:woodbugs:2"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:14"
-  },
-  {
-    "energy": 36000,
-    "id": "rats:cheese"
-  },
-  {
-    "energy": 14400,
-    "id": "mist:mushrooms_food:1"
-  },
-  {
-    "energy": 230400,
-    "id": "pizzacraft:slice_3"
-  },
-  {
-    "energy": 86400,
-    "id": "minecraft:mushroom_stew"
-  },
-  {
-    "energy": 0,
-    "id": "erebus:stag_heart_raw"
-  },
-  {
-    "energy": 21600,
-    "id": "minecraft:beef"
-  },
-  {
-    "energy": 48000,
-    "id": "cfm:item_flesh"
-  },
-  {
-    "energy": 201600,
-    "id": "betteranimalsplus:pheasantcooked"
-  },
-  {
-    "energy": 28800,
-    "id": "integrateddynamics:menril_berries"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:22"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:pineapple"
-  },
-  {
-    "energy": 115200,
-    "id": "pizzacraft:slice_0"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:confuciusornis_meat"
-  },
-  {
-    "energy": 28800,
-    "id": "cyclicmagic:heart_food"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:pepper"
-  },
-  {
-    "energy": 7200,
-    "id": "midnight:bulb_fungus_hand"
-  },
-  {
-    "energy": 2400,
-    "id": "minecraft:fish:2"
-  },
-  {
-    "energy": 153600,
-    "id": "midnight:cook_stag_flank"
-  },
-  {
-    "energy": 24000,
-    "id": "pizzacraft:ham"
-  },
-  {
-    "energy": 14400,
-    "id": "trailmix:trailmix"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:21"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_river_fish"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:liopleurodon_cooked"
-  },
-  {
-    "energy": 14400,
-    "id": "tropicraft:fresh_marlin"
-  },
-  {
-    "energy": 57600,
-    "id": "cfm:item_sausage_cooked"
-  },
-  {
-    "energy": 9600,
-    "id": "bewitchment:garlic"
-  },
-  {
-    "energy": 86400,
-    "id": "minecraft:cooked_chicken"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:brachiosaurus_meat"
-  },
-  {
-    "energy": 9600,
-    "id": "mist:mushrooms_food8"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:7"
-  },
-  {
-    "energy": 240000,
-    "id": "bewitchment:stew_of_the_grotesque"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:cheese"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:broccoli"
-  },
-  {
-    "energy": 24000,
-    "id": "pizzacraft:tomato_slice"
-  },
-  {
-    "energy": 43200,
-    "id": "minecraft:carrot"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:11"
-  },
-  {
-    "energy": 115200,
-    "id": "minecraft:golden_apple"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:elasmotherium_meat"
-  },
-  {
-    "energy": 158400,
-    "id": "tt:soft_beef_taco"
-  },
-  {
-    "energy": 24000,
-    "id": "pizzacraft:cucumber_slice"
-  },
-  {
-    "energy": 19200,
-    "id": "rats:string_cheese"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:woodbugs"
-  },
-  {
-    "energy": 72000,
-    "id": "minecraft:bread"
-  },
-  {
-    "energy": 7200,
-    "id": "midnight:unstable_fruit_lime"
-  },
-  {
-    "energy": 4800,
-    "id": "tt:waffle_tortilla"
-  },
-  {
-    "energy": 72000,
-    "id": "minecraft:cooked_fish"
-  },
-  {
-    "energy": 14400,
-    "id": "atum:camel_raw"
-  },
-  {
-    "energy": 48000,
-    "id": "betteranimalsplus:crab_meat_raw"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:10"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:megaloceros_meat"
-  },
-  {
-    "energy": 7200,
-    "id": "atum:crunchy_scarab"
-  },
-  {
-    "energy": 4800,
-    "id": "mist:mushrooms_food:16"
-  },
-  {
-    "energy": 306000,
-    "id": "tt:hard_emerald_taco"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook7"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:24"
-  },
-  {
-    "energy": 0,
-    "id": "vampirism:human_heart"
-  },
-  {
-    "energy": 24000,
-    "id": "mist:mushrooms_food"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:25"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:stegosaurus_cooked"
-  },
-  {
-    "energy": 7200,
-    "id": "mist:mushrooms_food:17"
-  },
-  {
-    "energy": 4800,
-    "id": "minecraft:fish:1"
-  },
-  {
-    "energy": 14400,
-    "id": "mist:sponge_meat"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:5"
-  },
-  {
-    "energy": 129600,
-    "id": "tt:soft_mutton_taco"
-  },
-  {
-    "energy": 115200,
-    "id": "minecraft:golden_apple1"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:alligator_gar_cooked"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:5"
-  },
-  {
-    "energy": 28800,
-    "id": "minecraft:apple"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:corn"
-  },
-  {
-    "energy": 115200,
-    "id": "randomthings:beanstew"
-  },
-  {
-    "energy": 144000,
-    "id": "cyclicmagic:crafting_food"
-  },
-  {
-    "energy": 158400,
-    "id": "tt:hard_pork_taco"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish:7"
-  },
-  {
-    "energy": 72000,
-    "id": "midnight:cook_suavis"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:12"
-  },
-  {
-    "energy": 97199,
-    "id": "tt:soft_chicken_taco"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_fish:4"
-  },
-  {
-    "energy": 75600,
-    "id": "tt:chocolate_ice_cream_taco"
-  },
-  {
-    "energy": 12000,
-    "id": "bewitchment:yew_aril"
-  },
-  {
-    "energy": 0,
-    "id": "erebus:heart_berries"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:megalodon_meat"
-  },
-  {
-    "energy": 86400,
-    "id": "midnight:deceitful_snapper"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:dryosaurus_cooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:parasaurolophus_meat"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:tiktaalik_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:gastornis_cooked"
-  },
-  {
-    "energy": 19200,
-    "id": "mist:mushrooms_food:6"
-  },
-  {
-    "energy": 57600,
-    "id": "cfm:item_kebab_cooked"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:emerald_taco"
-  },
-  {
-    "energy": 0,
-    "id": "quark:root_flower:2"
-  },
-  {
-    "energy": 57600,
-    "id": "cyclicmagic:food_step"
-  },
-  {
-    "energy": 2400,
-    "id": "tropicraft:coconut_chunk"
-  },
-  {
-    "energy": 86400,
-    "id": "minecraft:beetroot_soup"
-  },
-  {
-    "energy": 288000,
-    "id": "pizzacraft:slice_8"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:17"
-  },
-  {
-    "energy": 21600,
-    "id": "tt:hard_tortilla"
-  },
-  {
-    "energy": 21600,
-    "id": "rats:raw_rat"
-  },
-  {
-    "energy": 2400,
-    "id": "openblocks:tasty_clay"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:grassbugs:2"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:cucumber"
-  },
-  {
-    "energy": 28800,
-    "id": "cfm:item_bread_slice"
-  },
-  {
-    "energy": 153600,
-    "id": "cannibalism:villagerfleshcooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:smilodon_meat"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:27"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:meganeura_cooked"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:megalania_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "minecraft:cooked_porkchop"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:phorusrhacos_cooked"
-  },
-  {
-    "energy": 288000,
-    "id": "ediblebugs:cookedbugs:12"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:icthyosaurus_cooked"
-  },
-  {
-    "energy": 57600,
-    "id": "cyclicmagic:glowing_chorus"
-  },
-  {
-    "energy": 72000,
-    "id": "mist:mushrooms_cook"
-  },
-  {
-    "energy": 72000,
-    "id": "rats:cooked_rat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:spinosaurus_cooked"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:18"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:megalograptus_meat"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:tomato"
-  },
-  {
-    "energy": 28800,
-    "id": "atum:date"
-  },
-  {
-    "energy": 268800,
-    "id": "midnight:cook_hunter_wing"
-  },
-  {
-    "energy": 480000,
-    "id": "tt:super_op_taco"
-  },
-  {
-    "energy": 14880,
-    "id": "tt:chocolate_ice_cream"
-  },
-  {
-    "energy": 384000,
-    "id": "cfm:item_flesh_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:megalania_cooked"
-  },
-  {
-    "energy": 0,
-    "id": "erebus:life_blood"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:gastornis_meat"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:tiktaalik_cooked"
-  },
-  {
-    "energy": 86400,
-    "id": "midnight:cook_stinger_egg"
-  },
-  {
-    "energy": 0,
-    "id": "vampirism:weak_human_heart"
-  },
-  {
-    "energy": 28800,
-    "id": "cyclicmagic:corrupted_chorus"
-  },
-  {
-    "energy": 172800,
-    "id": "atum:crunchy_golden_scarab"
-  },
-  {
-    "energy": 19200,
-    "id": "mist:mushrooms_food:3"
-  },
-  {
-    "energy": 0,
-    "id": "betteranimalsplus:pheasantraw"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:iron_taco"
-  },
-  {
-    "energy": 38400,
-    "id": "tropicraft:cooked_fish"
-  },
-  {
-    "energy": 252000,
-    "id": "tt:op_soft_taco"
-  },
-  {
-    "energy": 345600,
-    "id": "pizzacraft:slice_10"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:triceratops_cooked"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:kelenken_cooked"
-  },
-  {
-    "energy": 57600,
-    "id": "coffeespawner:coffee"
-  },
-  {
-    "energy": 2400,
-    "id": "mowziesmobs:glowing_jelly"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:orange"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:kelenken_meat"
-  },
-  {
-    "energy": 9600,
-    "id": "mist:mushrooms_food:9"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook:9"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:tyrannosaurus_cooked"
-  },
-  {
-    "energy": 9600,
-    "id": "tropicraft:raw_river_fish:1"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:dodo_meat"
-  },
-  {
-    "energy": 28800,
-    "id": "mist:mushrooms_cook:24"
-  },
-  {
-    "energy": 28800,
-    "id": "cannibalism:playerflesh"
-  },
-  {
-    "energy": 480000,
-    "id": "culinaryconstruct:sandwich"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:dodo_cooked"
-  },
-  {
-    "energy": 115200,
-    "id": "inspirations:potato_soup"
-  },
-  {
-    "energy": 75600,
-    "id": "tt:cookie_ice_cream_taco"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:25"
-  },
-  {
-    "energy": 96000,
-    "id": "tt:soft_fish_taco"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:megaloceros_cooked"
-  },
-  {
-    "energy": 24000,
-    "id": "ediblebugs:grassbugs"
-  },
-  {
-    "energy": 43200,
-    "id": "mist:mushrooms_cook16"
-  },
-  {
-    "energy": 21600,
-    "id": "fossil:pachycephalosaurus_meat"
-  },
-  {
-    "energy": 58800,
-    "id": "tt:plain_ice_cream_taco"
-  },
-  {
-    "energy": 2400,
-    "id": "mist:mushrooms_food:27"
-  },
-  {
-    "energy": 97199,
-    "id": "tt:soft_rabbit_taco"
-  },
-  {
-    "energy": 48000,
-    "id": "pizzacraft:olive"
-  },
-  {
-    "energy": 153600,
-    "id": "fossil:platybelodon_cooked"
-  }
+[{
+        "energy": 21600,
+        "id": "fossil:liopleurodon_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "mist:mushrooms_food:22"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:velociraptor_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:meganeura_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:crassigyrinus_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:allosaurus_meat"
+    },
+    {
+        "energy": 144000,
+        "id": "betteranimalsplus:crab_meat_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:crassigyrinus_cooked"
+    },
+    {
+        "energy": 43200,
+        "id": "midnight:hunter_wing"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_iron_taco"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:compsognathus_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "tt:soft_tortilla"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:stegosaurus_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:compsognathus_cooked"
+    },
+    {
+        "energy": 16800,
+        "id": "tt:pumpkin_ice_cream"
+    },
+    {
+        "energy": 86400,
+        "id": "tt:pumpkin_ice_cream_taco"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:8"
+    },
+    {
+        "energy": 151200,
+        "id": "atum:camel_cooked"
+    },
+    {
+        "energy": 180000,
+        "id": "atum:golden_date_enchanted"
+    },
+    {
+        "energy": 9600,
+        "id": "minecraft:rotten_flesh"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:plesiosaur_cooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:therizinosaurus_meat"
+    },
+    {
+        "energy": 144000,
+        "id": "cyclicmagic:inventory_food"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook26"
+    },
+    {
+        "energy": 28800,
+        "id": "cannibalism:villagerflesh"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook20"
+    },
+    {
+        "energy": 21600,
+        "id": "minecraft:porkchop"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:henodus_cooked"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:sandbugs:2"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_quartz_taco"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:3"
+    },
+    {
+        "energy": 240000,
+        "id": "erebus:stag_heart_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:elasmotherium_cooked"
+    },
+    {
+        "energy": 144000,
+        "id": "minecraft:rabbit_stew"
+    },
+    {
+        "energy": 14400,
+        "id": "cfm:item_sausage"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:quagga_cooked"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_river_fish"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:pachycephalosaurus_cooked"
+    },
+    {
+        "energy": 57600,
+        "id": "mist:mushrooms_cook6"
+    },
+    {
+        "energy": 21600,
+        "id": "tropicraft:sea_urchin_roe"
+    },
+    {
+        "energy": 12000,
+        "id": "bewitchment:juniper_berries"
+    },
+    {
+        "energy": 0,
+        "id": "quark:root_flower"
+    },
+    {
+        "energy": 7200,
+        "id": "quark:crab_leg"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:deinonychus_cooked"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:26"
+    },
+    {
+        "energy": 21600,
+        "id": "midnight:raw_stag_flank"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:4"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:deinonychus_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:phorusrhacos_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:mammoth_meat"
+    },
+    {
+        "energy": 4800,
+        "id": "mist:mushrooms_food:12"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:megalograptus_cooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:pterosaur_meat"
+    },
+    {
+        "energy": 7200,
+        "id": "tropicraft:cooked_frog_leg"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:triceratops_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:megalodon_cooked"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:taco_taco"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:velociraptor_cooked"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:dirtbugs:1"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:sandbugs:3"
+    },
+    {
+        "energy": 0,
+        "id": "quark:root_flower:1"
+    },
+    {
+        "energy": 0,
+        "id": "sips:lil_sip"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:4"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_redstone_taco"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:diamond_taco"
+    },
+    {
+        "energy": 9600,
+        "id": "mist:mushrooms_food5"
+    },
+    {
+        "energy": 57600,
+        "id": "cfm:item_toast"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:dilophosaurus_cooked"
+    },
+    {
+        "energy": 192000,
+        "id": "fossil:cooked_egg"
+    },
+    {
+        "energy": 480,
+        "id": "tt:secret_spice"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:6"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:11"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:coal_taco"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:allosaurus_cooked"
+    },
+    {
+        "energy": 2400,
+        "id": "tropicraft:pineapple_cubes"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:titanis_cooked"
+    },
+    {
+        "energy": 38400,
+        "id": "minecraft:spider_eye"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_coo:19"
+    },
+    {
+        "energy": 180000,
+        "id": "atum:golden_date"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:gallimimus_cooked"
+    },
+    {
+        "energy": 4800,
+        "id": "minecraft:fish"
+    },
+    {
+        "energy": 115200,
+        "id": "coffeespawner:coffee_milk_sugar"
+    },
+    {
+        "energy": 172800,
+        "id": "minecraft:golden_carrot"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:sandbugs:1"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:10"
+    },
+    {
+        "energy": 14400,
+        "id": "minecraft:melon"
+    },
+    {
+        "energy": 384000,
+        "id": "fossil:cooked_chicken_soup"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:mosasaurus_cooked"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:termite"
+    },
+    {
+        "energy": 15120,
+        "id": "tt:watermelon_ice_cream"
+    },
+    {
+        "energy": 115200,
+        "id": "minecraft:cooked_mutton"
+    },
+    {
+        "energy": 12000,
+        "id": "mist:mushrooms_food:7"
+    },
+    {
+        "energy": 7200,
+        "id": "midnight:unstable_fruit_blue"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:diplocaulus_meat"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs"
+    },
+    {
+        "energy": 384000,
+        "id": "fossil:sjl"
+    },
+    {
+        "energy": 86400,
+        "id": "tt:hard_fish_taco"
+    },
+    {
+        "energy": 480000,
+        "id": "tt:secret_taco_soup"
+    },
+    {
+        "energy": 4800,
+        "id": "minecraft:cookie"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:grassbugs:1"
+    },
+    {
+        "energy": 14400,
+        "id": "cfm:item_kebab"
+    },
+    {
+        "energy": 14400,
+        "id": "minecraft:poisonous_potato"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:quagga_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:confuciusornis_cooked"
+    },
+    {
+        "energy": 28800,
+        "id": "minecraft:chorus_fruit"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:1"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:plesiosaur_meat"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:3"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:platybelodon_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:sarcosuchus_meat"
+    },
+    {
+        "energy": 97199,
+        "id": "tt:hard_chicken_taco"
+    },
+    {
+        "energy": 15599,
+        "id": "tt:apple_ice_cream"
+    },
+    {
+        "energy": 124799,
+        "id": "tropicraft:seared_marlin"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:mammoth_cooked"
+    },
+    {
+        "energy": 43200,
+        "id": "midnight:raw_suavis"
+    },
+    {
+        "energy": 120000,
+        "id": "quark:cooked_frog_leg"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:2"
+    },
+    {
+        "energy": 158400,
+        "id": "tt:hard_beef_taco"
+    },
+    {
+        "energy": 28800,
+        "id": "cannibalism:witchflesh"
+    },
+    {
+        "energy": 115200,
+        "id": "inspirations:edibles"
+    },
+    {
+        "energy": 72000,
+        "id": "coffeespawner:coffee_milk"
+    },
+    {
+        "energy": 192000,
+        "id": "fossil:raw_chicken_soup"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:23"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:grapefruit"
+    },
+    {
+        "energy": 153600,
+        "id": "quark:cooked_crab_leg"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:13"
+    },
+    {
+        "energy": 158400,
+        "id": "tt:soft_pork_taco"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:1"
+    },
+    {
+        "energy": 12000,
+        "id": "bewitchment:elderberries"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:7"
+    },
+    {
+        "energy": 100799,
+        "id": "vampirism:garlic_bread"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:gallimimus_meat"
+    },
+    {
+        "energy": 7200,
+        "id": "mist:mushrooms_food:18"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:nori_toasted"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:ankylosaurus_cooked"
+    },
+    {
+        "energy": 28800,
+        "id": "quark:root"
+    },
+    {
+        "energy": 24000000,
+        "id": "rats:confit_byaldi"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:dirtbugs:3"
+    },
+    {
+        "energy": 64799,
+        "id": "tt:watermelon_ice_cream_taco"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:dilophosaurus_meat"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:23"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:21"
+    },
+    {
+        "energy": 86400,
+        "id": "tt:apple_ice_cream_taco"
+    },
+    {
+        "energy": 57600,
+        "id": "mist:mushrooms_cook:1"
+    },
+    {
+        "energy": 2400,
+        "id": "minecraft:fish:3"
+    },
+    {
+        "energy": 7200,
+        "id": "mist:mushrooms_food:19"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:5"
+    },
+    {
+        "energy": 14400,
+        "id": "minecraft:mutton"
+    },
+    {
+        "energy": 72000,
+        "id": "mist:mushrooms_cook8"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:6"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:redstone_taco"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:1"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:woodbugs:3"
+    },
+    {
+        "energy": 50400,
+        "id": "rats:assorted_vegetables"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:coelacanth_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:brachiosaurus_cooked"
+    },
+    {
+        "energy": 0,
+        "id": "sips:big_chug"
+    },
+    {
+        "energy": 9600,
+        "id": "erebus:mandrake_root"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:11"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:2"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:therizinosaurus_cooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:tyrannosaurus_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:ceratosaurus_cooked"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:lime"
+    },
+    {
+        "energy": 19200,
+        "id": "mist:mushrooms_food:2"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:6"
+    },
+    {
+        "energy": 57600,
+        "id": "mist:mushrooms_cook:2"
+    },
+    {
+        "energy": 115200,
+        "id": "minecraft:cooked_fish:1"
+    },
+    {
+        "energy": 14400,
+        "id": "tt:plain_ice_cream"
+    },
+    {
+        "energy": 86400,
+        "id": "tt:hard_rabbit_taco"
+    },
+    {
+        "energy": 7200,
+        "id": "minecraft:potato"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:9"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:16"
+    },
+    {
+        "energy": 14400,
+        "id": "minecraft:beetroot"
+    },
+    {
+        "energy": 240000,
+        "id": "quark:golden_frog_leg"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:4"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:5"
+    },
+    {
+        "energy": 129600,
+        "id": "tt:hard_mutton_taco"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:op_hard_taco"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:15"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:pterosaur_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:diplocaulus_cooked"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_taco_taco"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:woodbugs:1"
+    },
+    {
+        "energy": 0,
+        "id": "betteranimalsplus:venisonraw"
+    },
+    {
+        "energy": 72000,
+        "id": "betteranimalsplus:goatcheese"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:dryosaurus_meat"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_river_fish:1"
+    },
+    {
+        "energy": 57600,
+        "id": "erebus:turnip"
+    },
+    {
+        "energy": 15599,
+        "id": "tt:cookie_ice_cream"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:mosasaurus_meat"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:4"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:icthyosaurus_meat"
+    },
+    {
+        "energy": 60000,
+        "id": "tropicraft:ray_cooked"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:quartz_taco"
+    },
+    {
+        "energy": 21600,
+        "id": "minecraft:rabbit"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_coal_taco"
+    },
+    {
+        "energy": 72000,
+        "id": "minecraft:baked_potato"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:smilodon_cooked"
+    },
+    {
+        "energy": 14400,
+        "id": "quark:frog_leg"
+    },
+    {
+        "energy": 86400,
+        "id": "atum:emmer_bread"
+    },
+    {
+        "energy": 230400,
+        "id": "betteranimalsplus:venisoncooked"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:lapis_taco"
+    },
+    {
+        "energy": 7200,
+        "id": "mist:mushrooms_food:10"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:titanis_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "erebus:cabbage_seeds"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:ceratosaurus_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish"
+    },
+    {
+        "energy": 57600,
+        "id": "minecraft:pumpkin_pie"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:ankylosaurus_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:lemon"
+    },
+    {
+        "energy": 153600,
+        "id": "cannibalism:playerfleshcooked"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:grassbugs:3"
+    },
+    {
+        "energy": 153600,
+        "id": "bewitchment:heart"
+    },
+    {
+        "energy": 72000,
+        "id": "coffeespawner:coffee_sugar"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:sarcosuchus_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:parasaurolophus_cooked"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_lapis_taco"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:3"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:dirtbugs"
+    },
+    {
+        "energy": 153600,
+        "id": "minecraft:cooked_beef"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:henodus_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:sturgeon_cooked"
+    },
+    {
+        "energy": 72000,
+        "id": "minecraft:cooked_rabbit"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:sandbugs"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:2"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:dirtbugs:2"
+    },
+    {
+        "energy": 14400,
+        "id": "minecraft:chicken"
+    },
+    {
+        "energy": 57600,
+        "id": "mist:mushrooms_cook:3"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_diamond_taco"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:spinosaurus_meat"
+    },
+    {
+        "energy": 7200,
+        "id": "midnight:unstable_fruit_green"
+    },
+    {
+        "energy": 4800,
+        "id": "mist:mushrooms_food:20"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:woodbugs:2"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:14"
+    },
+    {
+        "energy": 36000,
+        "id": "rats:cheese"
+    },
+    {
+        "energy": 14400,
+        "id": "mist:mushrooms_food:1"
+    },
+    {
+        "energy": 86400,
+        "id": "minecraft:mushroom_stew"
+    },
+    {
+        "energy": 0,
+        "id": "erebus:stag_heart_raw"
+    },
+    {
+        "energy": 21600,
+        "id": "minecraft:beef"
+    },
+    {
+        "energy": 48000,
+        "id": "cfm:item_flesh"
+    },
+    {
+        "energy": 201600,
+        "id": "betteranimalsplus:pheasantcooked"
+    },
+    {
+        "energy": 28800,
+        "id": "integrateddynamics:menril_berries"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:22"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:confuciusornis_meat"
+    },
+    {
+        "energy": 28800,
+        "id": "cyclicmagic:heart_food"
+    },
+    {
+        "energy": 7200,
+        "id": "midnight:bulb_fungus_hand"
+    },
+    {
+        "energy": 2400,
+        "id": "minecraft:fish:2"
+    },
+    {
+        "energy": 153600,
+        "id": "midnight:cook_stag_flank"
+    },
+    {
+        "energy": 14400,
+        "id": "trailmix:trailmix"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:21"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_river_fish"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:liopleurodon_cooked"
+    },
+    {
+        "energy": 14400,
+        "id": "tropicraft:fresh_marlin"
+    },
+    {
+        "energy": 57600,
+        "id": "cfm:item_sausage_cooked"
+    },
+    {
+        "energy": 9600,
+        "id": "bewitchment:garlic"
+    },
+    {
+        "energy": 86400,
+        "id": "minecraft:cooked_chicken"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:brachiosaurus_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "mist:mushrooms_food8"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:7"
+    },
+    {
+        "energy": 240000,
+        "id": "bewitchment:stew_of_the_grotesque"
+    },
+    {
+        "energy": 43200,
+        "id": "minecraft:carrot"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:11"
+    },
+    {
+        "energy": 115200,
+        "id": "minecraft:golden_apple"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:elasmotherium_meat"
+    },
+    {
+        "energy": 158400,
+        "id": "tt:soft_beef_taco"
+    },
+    {
+        "energy": 19200,
+        "id": "rats:string_cheese"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:woodbugs"
+    },
+    {
+        "energy": 72000,
+        "id": "minecraft:bread"
+    },
+    {
+        "energy": 7200,
+        "id": "midnight:unstable_fruit_lime"
+    },
+    {
+        "energy": 4800,
+        "id": "tt:waffle_tortilla"
+    },
+    {
+        "energy": 72000,
+        "id": "minecraft:cooked_fish"
+    },
+    {
+        "energy": 14400,
+        "id": "atum:camel_raw"
+    },
+    {
+        "energy": 48000,
+        "id": "betteranimalsplus:crab_meat_raw"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:10"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:megaloceros_meat"
+    },
+    {
+        "energy": 7200,
+        "id": "atum:crunchy_scarab"
+    },
+    {
+        "energy": 4800,
+        "id": "mist:mushrooms_food:16"
+    },
+    {
+        "energy": 306000,
+        "id": "tt:hard_emerald_taco"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook7"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:24"
+    },
+    {
+        "energy": 0,
+        "id": "vampirism:human_heart"
+    },
+    {
+        "energy": 24000,
+        "id": "mist:mushrooms_food"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:25"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:stegosaurus_cooked"
+    },
+    {
+        "energy": 7200,
+        "id": "mist:mushrooms_food:17"
+    },
+    {
+        "energy": 4800,
+        "id": "minecraft:fish:1"
+    },
+    {
+        "energy": 14400,
+        "id": "mist:sponge_meat"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:5"
+    },
+    {
+        "energy": 129600,
+        "id": "tt:soft_mutton_taco"
+    },
+    {
+        "energy": 115200,
+        "id": "minecraft:golden_apple1"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:alligator_gar_cooked"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:5"
+    },
+    {
+        "energy": 28800,
+        "id": "minecraft:apple"
+    },
+    {
+        "energy": 115200,
+        "id": "randomthings:beanstew"
+    },
+    {
+        "energy": 144000,
+        "id": "cyclicmagic:crafting_food"
+    },
+    {
+        "energy": 158400,
+        "id": "tt:hard_pork_taco"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish:7"
+    },
+    {
+        "energy": 72000,
+        "id": "midnight:cook_suavis"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:12"
+    },
+    {
+        "energy": 97199,
+        "id": "tt:soft_chicken_taco"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_fish:4"
+    },
+    {
+        "energy": 75600,
+        "id": "tt:chocolate_ice_cream_taco"
+    },
+    {
+        "energy": 12000,
+        "id": "bewitchment:yew_aril"
+    },
+    {
+        "energy": 0,
+        "id": "erebus:heart_berries"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:megalodon_meat"
+    },
+    {
+        "energy": 86400,
+        "id": "midnight:deceitful_snapper"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:dryosaurus_cooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:parasaurolophus_meat"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:tiktaalik_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:gastornis_cooked"
+    },
+    {
+        "energy": 19200,
+        "id": "mist:mushrooms_food:6"
+    },
+    {
+        "energy": 57600,
+        "id": "cfm:item_kebab_cooked"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:emerald_taco"
+    },
+    {
+        "energy": 0,
+        "id": "quark:root_flower:2"
+    },
+    {
+        "energy": 57600,
+        "id": "cyclicmagic:food_step"
+    },
+    {
+        "energy": 2400,
+        "id": "tropicraft:coconut_chunk"
+    },
+    {
+        "energy": 86400,
+        "id": "minecraft:beetroot_soup"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:17"
+    },
+    {
+        "energy": 21600,
+        "id": "tt:hard_tortilla"
+    },
+    {
+        "energy": 21600,
+        "id": "rats:raw_rat"
+    },
+    {
+        "energy": 2400,
+        "id": "openblocks:tasty_clay"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:grassbugs:2"
+    },
+    {
+        "energy": 28800,
+        "id": "cfm:item_bread_slice"
+    },
+    {
+        "energy": 153600,
+        "id": "cannibalism:villagerfleshcooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:smilodon_meat"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:27"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:meganeura_cooked"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:megalania_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "minecraft:cooked_porkchop"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:phorusrhacos_cooked"
+    },
+    {
+        "energy": 288000,
+        "id": "ediblebugs:cookedbugs:12"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:icthyosaurus_cooked"
+    },
+    {
+        "energy": 57600,
+        "id": "cyclicmagic:glowing_chorus"
+    },
+    {
+        "energy": 72000,
+        "id": "mist:mushrooms_cook"
+    },
+    {
+        "energy": 72000,
+        "id": "rats:cooked_rat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:spinosaurus_cooked"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:18"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:megalograptus_meat"
+    },
+    {
+        "energy": 28800,
+        "id": "atum:date"
+    },
+    {
+        "energy": 268800,
+        "id": "midnight:cook_hunter_wing"
+    },
+    {
+        "energy": 480000,
+        "id": "tt:super_op_taco"
+    },
+    {
+        "energy": 14880,
+        "id": "tt:chocolate_ice_cream"
+    },
+    {
+        "energy": 384000,
+        "id": "cfm:item_flesh_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:megalania_cooked"
+    },
+    {
+        "energy": 0,
+        "id": "erebus:life_blood"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:gastornis_meat"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:tiktaalik_cooked"
+    },
+    {
+        "energy": 86400,
+        "id": "midnight:cook_stinger_egg"
+    },
+    {
+        "energy": 0,
+        "id": "vampirism:weak_human_heart"
+    },
+    {
+        "energy": 28800,
+        "id": "cyclicmagic:corrupted_chorus"
+    },
+    {
+        "energy": 172800,
+        "id": "atum:crunchy_golden_scarab"
+    },
+    {
+        "energy": 19200,
+        "id": "mist:mushrooms_food:3"
+    },
+    {
+        "energy": 0,
+        "id": "betteranimalsplus:pheasantraw"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:iron_taco"
+    },
+    {
+        "energy": 38400,
+        "id": "tropicraft:cooked_fish"
+    },
+    {
+        "energy": 252000,
+        "id": "tt:op_soft_taco"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:triceratops_cooked"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:kelenken_cooked"
+    },
+    {
+        "energy": 57600,
+        "id": "coffeespawner:coffee"
+    },
+    {
+        "energy": 2400,
+        "id": "mowziesmobs:glowing_jelly"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:orange"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:kelenken_meat"
+    },
+    {
+        "energy": 9600,
+        "id": "mist:mushrooms_food:9"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook:9"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:tyrannosaurus_cooked"
+    },
+    {
+        "energy": 9600,
+        "id": "tropicraft:raw_river_fish:1"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:dodo_meat"
+    },
+    {
+        "energy": 28800,
+        "id": "mist:mushrooms_cook:24"
+    },
+    {
+        "energy": 28800,
+        "id": "cannibalism:playerflesh"
+    },
+    {
+        "energy": 480000,
+        "id": "culinaryconstruct:sandwich"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:dodo_cooked"
+    },
+    {
+        "energy": 115200,
+        "id": "inspirations:potato_soup"
+    },
+    {
+        "energy": 75600,
+        "id": "tt:cookie_ice_cream_taco"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:25"
+    },
+    {
+        "energy": 96000,
+        "id": "tt:soft_fish_taco"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:megaloceros_cooked"
+    },
+    {
+        "energy": 24000,
+        "id": "ediblebugs:grassbugs"
+    },
+    {
+        "energy": 43200,
+        "id": "mist:mushrooms_cook16"
+    },
+    {
+        "energy": 21600,
+        "id": "fossil:pachycephalosaurus_meat"
+    },
+    {
+        "energy": 58800,
+        "id": "tt:plain_ice_cream_taco"
+    },
+    {
+        "energy": 2400,
+        "id": "mist:mushrooms_food:27"
+    },
+    {
+        "energy": 97199,
+        "id": "tt:soft_rabbit_taco"
+    },
+    {
+        "energy": 153600,
+        "id": "fossil:platybelodon_cooked"
+    }
 ]
