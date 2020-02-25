@@ -95,7 +95,7 @@ static netItems as IItemStack[] = [
 ];
 
 for item in netItems {
-	addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
+	item.addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
 }
 
 static bagItems as IItemStack[] = [
@@ -113,7 +113,7 @@ static bagItems as IItemStack[] = [
 ];
 
 for item in bagItems {
-	addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
+	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
 }
 
 // Do NOT edit below this line //
