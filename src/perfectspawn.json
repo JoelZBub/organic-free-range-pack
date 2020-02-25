@@ -1,0 +1,91 @@
+{
+        "general": {
+            "initialSpawnDimension": 0
+        },
+        "rules": [
+            {
+                "appliesTo": [
+                    -127
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    17
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    69
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -8
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -50
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -51
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -52
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -53
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -54
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -55
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -56
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -57
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -58
+                ],
+                "canRespawnHere": false
+            },
+            {
+                "appliesTo": [
+                    -59
+                ],
+                "canRespawnHere": false
+            }
+        ]
+}

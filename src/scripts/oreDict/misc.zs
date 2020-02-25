@@ -23,6 +23,10 @@ import crafttweaker.item.IIngredient;
 <ore:flesh>.add(<cannibalism:playerfleshcooked>);
 <ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
 <ore:tarBucket>.add(<erebus:bambucket>.withTag({Fluid: {FluidName: "tar", Amount: 1000}}));
+<ore:tarBucket>.remove(<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}));
+<ore:foodVegetable>.add(<erebus:turnip>);
+<ore:foodVegetable>.add(<erebus:erebus_food:15>);
+<ore:foodVegetable>.remove(<minecraft:pumpkin>);
 
 
 //	Blocks

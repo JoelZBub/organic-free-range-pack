@@ -3,6 +3,8 @@
 	This script is for adding and removing recipes for edible bugs.
 */
 import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
+import crafttweaker.data.IData;
 import crafttweaker.item.IIngredient;
 
 
@@ -11,7 +13,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<ediblebugs:termitebricks>
+	<ediblebugs:termitebricks>,
+	<ediblebugs:vegetableoil>
 ];
 
 /*
@@ -35,6 +38,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+	<ediblebugs:vegetableoil> : {
+		"ediblebugs_vegetableoil_1" : [
+			[
+	  			[<ore:foodVegetable>, <ore:foodVegetable>, <ore:foodVegetable>],
+	   			[<ore:foodVegetable>, <ore:foodVegetable>, <ore:foodVegetable>],
+	  			[<minecraft:glass_bottle>, <minecraft:bowl>, <minecraft:flint>]
+			]
+		]
+	},
 	<ediblebugs:termitebricks> : {
 		"ediblebugs_termitebricks" : [
 			[
@@ -71,6 +83,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+<ediblebugs:vegetableoil> * 2 : {
+		"ediblebugs_vegetableoil_2" : [
+			[<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}), <minecraft:glass_bottle>, <minecraft:glass_bottle>]
+		]
+	}
 };
 
 

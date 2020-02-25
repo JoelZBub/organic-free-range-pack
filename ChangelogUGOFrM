@@ -3115,20 +3115,30 @@ Xaero's Minimap (20.3.0 to 20.3.1)
 
 -- Config Changes --
 --------------------
+perfectspawn.json - needs to go in main MC folder
+	Set up rules to prevent respawning in any dimension other than overworld
 /simplegenerators/generators/culinary/
 	fuels.json
 		-clean up unused from mod removals
-
 		
 
 -- Script Changes --
 --------------------
-
+Loottables/loottweaker
+	removed cyberware:neuropozyne from loot tables
+oredict/misc.zs
+	added Erebus turnips and cabbage to ore:foodVegetable, removed Pumpkins
+recipeMachines/integrateddynamics/mechanicalsqueezer.zs
+	added recipes for creating Vegetable Oil fuild
+recipeMachines/integrateddynamics/squeezer.zs
+	added recipes for creating Vegetable Oil fluid
+recipeMachines/thermalexpansion.zs
+	added recipes for creating Vegetable Oil
 
 
 -- Asset Changes --
 -------------------
-
+Custom Vegetable Oil fluid via ContentTweaker
 
 
 -- Other Changes --

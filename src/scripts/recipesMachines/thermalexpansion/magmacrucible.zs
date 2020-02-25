@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Thermal Expansion Machines recipes script.
+	100% Organic Free-Range Thermal Expansion Magma Crucible recipes script.
 	This script is for adding and removing recipes for Thermal Expansion machines.
 */
 

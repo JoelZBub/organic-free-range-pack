@@ -4,8 +4,8 @@
   "items": [
     {
       "weight": 1.0,
-      "min": 10,
-      "max": 64,
+      "min": 1,
+      "max": 6,
       "item": {
         "id": "cyberware:neuropozyne",
         "damage": 0,
