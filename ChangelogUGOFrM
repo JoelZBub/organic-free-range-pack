@@ -3043,6 +3043,7 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 ----------------
 Drones (by vadis365)
 Mob Spawner Control (by PyrofabTheModsmith)
+Path Under Gates (by cyberslas)
 
 
 -- Updated Mods --
@@ -3073,6 +3074,61 @@ incontrol/spawn
 -- Asset Changes --
 -------------------
 reccomplex structures and loot
+
+
+-- Other Changes --
+-------------------
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of February 23-29, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+Just Enough Vehicles (by Ozelot5836)
+MoreTweaker (by noeppinoeppi)
+Path Under Gates (by cyberslas)
+
+
+
+-- Updated Mods --
+-------------------
+BuildingGadgets (2.7.4 to 2.8.1)
+Extra Golems (7.1.8 to 7.1.9)
+TOP Addons (1.12.0 to 1.13.0)
+Xaero's Minimap (20.3.0 to 20.3.1)
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+/simplegenerators/generators/culinary/
+	fuels.json
+		-clean up unused from mod removals
+
+		
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+
 
 
 -- Other Changes --

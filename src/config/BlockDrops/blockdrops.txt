@@ -8020,36 +8020,6 @@
     "3pair3": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "buildinggadgets:constructionblock",
-    "meta": 0,
-    "length": 1,
-    "name0": "buildinggadgets:constructionpaste",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "buildinggadgets:constructionblock_dense",
-    "meta": 0,
-    "length": 1,
-    "name0": "buildinggadgets:constructionpaste",
-    "meta0": 0,
-    "0chance0": 201.3,
-    "1chance0": 199.575,
-    "2chance0": 198.59999,
-    "3chance0": 199.9,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
-  },
-  {
     "name": "atum:khnumite_raw",
     "meta": 0,
     "length": 1,
@@ -10503,5 +10473,35 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 32\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 64\n}"
+  },
+  {
+    "name": "buildinggadgets:constructionblock",
+    "meta": 0,
+    "length": 1,
+    "name0": "buildinggadgets:constructionpaste",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 100.0,
+    "2chance0": 100.0,
+    "3chance0": 100.0,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "buildinggadgets:constructionblock_dense",
+    "meta": 0,
+    "length": 1,
+    "name0": "buildinggadgets:constructionpaste",
+    "meta0": 0,
+    "0chance0": 199.075,
+    "1chance0": 203.15001,
+    "2chance0": 203.02501,
+    "3chance0": 200.20001,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}"
   }
 ]

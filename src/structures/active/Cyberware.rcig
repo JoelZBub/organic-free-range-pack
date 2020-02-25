@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "CyberwareLoot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 10,
+      "max": 64,
+      "item": {
+        "id": "cyberware:neuropozyne",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "cyberware:radio_post",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "cyberware:component",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cyberware:blueprint",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "cyberware:component",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.8473554849624634,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cyberware:katana",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

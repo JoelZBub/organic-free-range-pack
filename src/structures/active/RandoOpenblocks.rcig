@@ -1,0 +1,180 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "RadRandoLootz",
+  "items": [
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:pedometer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:sponge_on_a_stick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:cannon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:golden_egg",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5889394283294678,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:technicolor_glasses",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:serious_glasses",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:sonic_glasses",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:luggage",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "openblocks:sponge",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "openblocks:fan",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:crane_backpack",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.8473554849624634,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:target",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:hang_glider",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:beartrap",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:sprinkler",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "openblocks:trophy",
+        "damage": 1,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "entity_id": {
+              "nbtType": "string",
+              "nbt": "minecraft:chicken"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}
