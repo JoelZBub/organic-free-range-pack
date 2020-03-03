@@ -3198,6 +3198,8 @@ Fampack.cfg
 
 -- Script Changes --
 --------------------
+recipeMachines/fossil/sifter.zs
+	Removed all blocks from sifter, Added back Tropicraft Sands and Atum Sand/Gravel with appropriate drops
 
 
 -- Asset Changes --
