@@ -3104,8 +3104,9 @@ Path Under Gates (by cyberslas)
 -------------------
 BuildingGadgets (2.7.4 to 2.8.1)
 Extra Golems (7.1.8 to 7.1.9)
+Quark (r1.6-177 to r1.6-178)
 TOP Addons (1.12.0 to 1.13.0)
-Xaero's Minimap (20.3.0 to 20.3.1)
+Xaero's Minimap (20.3.0 to 20.3.1 to 20.4.0)
 
 
 --- Removed Mods ---
@@ -3140,6 +3141,68 @@ recipeMachines/thermalexpansion.zs
 -------------------
 Custom Vegetable Oil fluid via ContentTweaker
 
+
+-- Other Changes --
+-------------------
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 1-7, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+Animania
+CraftStudioAPI
+
+
+-- Updated Mods --
+-------------------
+MoreTweaker (1.0.9 to 1.0.10)
+Sound Filters (0.11 to 0.12)
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+animania.cfg
+    B:ambianceMode=true [default=false]
+    B:showModUpdateNotification=false
+    B:waterRemovedAfterDrinking=false
+betteranimalsplus.cfg
+    entitygoat  
+        B:doSpawning=false 
+    entitylammergeier
+        B:doSpawning=false
+    entitynautilus
+        B:doSpawning=false
+    entitycrab
+        B:doSpawning=false
+    entityzotzpyre
+    	I:weight=12
+Fampack.cfg
+	general
+		:"ELWMS - Spawn importance per biome (0-10):"=3 [default=4]
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+more Reccomplex structures
 
 -- Other Changes --
 -------------------

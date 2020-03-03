@@ -1,10 +1,4 @@
 [
-    { 
-        "dimension": 0,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
     {
         "onjoin": true,
         "mob": [
@@ -14,189 +8,9 @@
             "lcrdrfs:jet_pack_spider",
             "drones:drones.drone"
         ],
-        "dimension": 0,
-        "result": "deny"
-      },
-    { 
-        "dimension": -50,
-        "onjoin": true,
-        "mod": "lcrdrfs",
+        "dimension": [0, -50, 51, -52, -53, -54, -55, -56, -57, -58, -59],
         "result": "deny"
     },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -50,
-        "result": "deny"
-      },
-    { 
-        "dimension": -51,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -51,
-        "result": "deny"
-      },
-    { 
-        "dimension": -52,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -52,
-        "result": "deny"
-      },
-    { 
-        "dimension": -53,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -53,
-        "result": "deny"
-      },
-    { 
-        "dimension": -54,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -54,
-        "result": "deny"
-      },
-    { 
-        "dimension": -55,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -55,
-        "result": "deny"
-      },
-    { 
-        "dimension": -56,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -56,
-        "result": "deny"
-      },
-    { 
-        "dimension": -57,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -57,
-        "result": "deny"
-      },
-    { 
-        "dimension": -58,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -58,
-        "result": "deny"
-      },
-    { 
-        "dimension": -59,
-        "onjoin": true,
-        "mod": "lcrdrfs",
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "lcrdrfs:laser_creeper",
-            "cyberware:cyberzombie",
-            "lcrdrfs:robo_dino",
-            "lcrdrfs:jet_pack_spider",
-            "drones:drones.drone"
-        ],
-        "dimension": -59,
-        "result": "deny"
-      },
     {
         "dimension": 69,
         "mob": "lcrdrfs:laser_creeper",
@@ -204,7 +18,7 @@
           "amount": 7
         },
         "result": "deny"
-      },
+    },
     {
         "dimension": 69,
         "mob": "cyberware:cyberzombie",
@@ -212,7 +26,7 @@
           "amount": 20
         },
         "result": "deny"
-      },
+    },
     {
         "dimension": 69,
         "mob": "lcrdrfs:robo_dino",
@@ -220,7 +34,7 @@
           "amount": 2
         },
         "result": "deny"
-      },
+    },
     {
         "dimension": 69,
         "mob": "lcrdrfs:jet_pack_spider",
@@ -228,7 +42,7 @@
           "amount": 10
         },
         "result": "deny"
-      },
+    },
     {
         "dimension": 69,
         "mob": "drones:drones.drone",
@@ -236,7 +50,7 @@
           "amount": 5
         },
         "result": "deny"
-      },
+    },
     {
         "dimension": 69,
         "mob": "pvj:pvj_duck",
