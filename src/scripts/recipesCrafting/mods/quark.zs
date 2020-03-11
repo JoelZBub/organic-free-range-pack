@@ -64,7 +64,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 	}	*/
 	<quark:slime_bucket> : {
 		"quark_slime_bucket" : [
-			[<minecraft:water_bucket>, <pvj:goon_bile>, <pvj:goon_bile>]
+			[<minecraft:water_bucket>.noReturn(), <pvj:goon_bile>, <pvj:goon_bile>]
 		]
 	}
 };

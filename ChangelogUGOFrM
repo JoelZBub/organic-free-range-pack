@@ -3212,3 +3212,78 @@ more Reccomplex structures
 
 -- Other Changes --
 -------------------
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 8-14, 2020
+        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+Athenaeum
+BNBGamingCore
+BNBGamingLib
+Dropt
+Game Stages
+Recipe Stages
+Triumph
+Weirding Gadget
+Zenstages
+
+
+
+-- Updated Mods --
+-------------------
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+Triumph
+	/functions
+	Added functions to add and remove the "gadget" stage
+	/script/triumph
+	Added Advancements for the Weirding Gadget to trigger gamestage functions
+weirdinggadget.cfg
+	I:hoursBeforeDeactivation=1
+
+
+-- Script Changes --
+--------------------
+dropt/fossil_drop.zs
+	Added rule to remove Plant Fossil from Fossil ore
+itemModifiers/resistance.zs
+	var gadget = <weirdinggadget:weirding_gadget>.asBlock().definition;
+	gadget.resistance = 3600000;
+recipesCrafting/mods
+	/ediblebugs.zs
+		changed manual vegetable oil recipe to seeds surrounding a bottle
+	/quark.zs
+		fixed Slime in a Bucket recipe to remove bucket dupe
+recipesMachines/integrateddynamics
+	/mechanicalsqueezer.zs
+		changed vegetables to vanilla seeds and roots
+	/squeezer.zs
+		changed vegetables to vanilla seeds and roots
+staging
+	Added files to create gamestage "gadget" to remove Weirding Gadget recipe after crafting it
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------

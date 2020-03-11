@@ -24,10 +24,19 @@ import crafttweaker.item.IIngredient;
 <ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
 <ore:tarBucket>.add(<erebus:bambucket>.withTag({Fluid: {FluidName: "tar", Amount: 1000}}));
 <ore:tarBucket>.remove(<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}));
-<ore:foodVegetable>.add(<erebus:turnip>);
-<ore:foodVegetable>.add(<erebus:erebus_food:15>);
-<ore:foodVegetable>.remove(<minecraft:pumpkin>);
 
+static seedList as IItemStack[] = [
+<minecraft:wheat_seeds>,
+<minecraft:pumpkin_seeds>,
+<minecraft:melon_seeds>,
+<minecraft:beetroot_seeds>,
+<minecraft:carrot>,
+<minecraft:potato>
+];
+
+for item in seedList {
+	<ore:oilSeed>.add(item);
+}
 
 //	Blocks
 //<ore:blockCoalCoke>.add(<mod:item:meta>);

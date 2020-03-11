@@ -1,0 +1,33 @@
+//Set the icon item
+setIcon(<weirdinggadget:weirding_gadget>)
+
+//Set the title String
+setTitle("Loading Up")
+
+//Set the description String
+setDescription("You have the ability craft a Weirding Gadget, which allows you to chunkload a 3x3 area, while you are logged in. Once you have one, you will no longer be able to craft one.")
+
+//Completed advancement color change
+//setCompletedIconColor(160, 0, 0)
+//setCompletedTitleColor(160, 0, 0)
+//setUncompletedTitleColor(185, 143, 44)
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:gadget/root")
+
+//Set the position
+setPos(-66,-108)
+
+//Hide the connection lines, so I can have a pretty shape
+//hideLines()
+
+//Adds criteria with the trigger type. This function returns the criteria as an object
+criteria = addCriteria("obtain", "triumph:player_crafted_item")
+
+//Sets the item for the criteria. This is the item that needs to be crafted.
+criteria.setItem("weirdinggadget:weirding_gadget")
+
+//function
+setRewardFunction("triumph:gadget_remove")
+
+//By not setting anything about requirements here, all criteria are automatically required

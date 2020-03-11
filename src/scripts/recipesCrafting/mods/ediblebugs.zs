@@ -41,9 +41,9 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<ediblebugs:vegetableoil> : {
 		"ediblebugs_vegetableoil_1" : [
 			[
-	  			[<ore:foodVegetable>, <ore:foodVegetable>, <ore:foodVegetable>],
-	   			[<ore:foodVegetable>, <ore:foodVegetable>, <ore:foodVegetable>],
-	  			[<minecraft:glass_bottle>, <minecraft:bowl>, <minecraft:flint>]
+	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>],
+	   			[<ore:oilSeed>, <minecraft:glass_bottle>, <ore:oilSeed>],
+	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>]
 			]
 		]
 	},
