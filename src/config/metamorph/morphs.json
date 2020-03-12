@@ -1,1 +1,267 @@
-{}
+{
+    "metamorph.Block": {
+        "hands": false,
+        "hostile": true
+    },
+    "Player": {
+        "health": 20,
+        "hands": true
+    },
+    
+    "minecraft:bat": {
+        "abilities": ["glide", "night_vision"],
+        "health": 6,
+        "hostile": true
+    },
+    "minecraft:cave_spider": {
+        "abilities": ["climb"],
+        "attack": "poison",
+        "health": 12,
+        "hostile": true
+    },
+    "minecraft:chicken": {
+        "abilities": ["glide"],
+        "health": 4,
+        "hands": true
+    },
+    "minecraft:cow": {
+        "health": 10,
+        "hands": true
+    },
+    "minecraft:horse": {
+        "abilities": ["prevent_fall"],
+        "action": "jump",
+        "health": 24,
+        "speed": 0.15,
+        "hands": false
+    },
+    "minecraft:mooshroom": {
+        "health": 10,
+        "hands": true
+    },
+    "minecraft:ocelot": {
+        "health": 10,
+        "speed": 0.15,
+        "hands": true
+    },
+    "minecraft:parrot": {
+        "abilities": ["glide"],
+        "health": 10
+    },
+    "minecraft:pig": {
+        "health": 10,
+        "hands": true
+    },
+    "minecraft:polar_bear": {
+        "health": 30,
+        "hands": true
+    },
+    "rabbit": {
+        "abilities": ["prevent_fall", "jumping"],
+        "action": "jump",
+        "health": 3,
+        "speed": 0.13
+    },
+    "minecraft:sheep": {
+        "health": 8,
+        "hands": true
+    },
+    "minecraft:spider": {
+        "abilities": ["climb"],
+        "health": 16,
+        "hostile": true
+    },
+    "minecraft:squid": {
+        "abilities": ["water_breath", "swim", "night_vision"],
+        "health": 10,
+        "hands": true
+    },
+    "minecraft:wolf": {
+        "health": 8,
+        "hostile": true,
+        "hands": true
+    },
+    
+    "minecraft:enderman": {
+        "abilities": ["water_allergy"],
+        "action": "teleport",
+        "health": 40,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:endermite": {
+        "action": "endermite",
+        "health": 8,
+        "hostile": true
+    },
+    "minecraft:zombie_pigman": {
+        "abilities": ["fire_proof", "hungerless"],
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:snowman": {
+        "abilities": ["snow_walk"],
+        "action": "snowball",
+        "health": 4
+    },
+    "minecraft:villager": {
+        "health": 20,
+        "hands": true
+    },
+    "minecraft:villager_golem": {
+        "attack": "knockback",
+        "health": 100,
+        "speed": 0.04,
+        "hands": true
+    },
+    
+    "minecraft:blaze": {
+        "abilities": ["glide", "fire_proof", "water_allergy"],
+        "action": "small_fireball",
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:creeper": {
+        "action": "explode",
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:ghast": {
+        "abilities": ["glide", "fire_proof"],
+        "action": "fireball",
+        "health": 10,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:guardian": {
+        "abilities": ["water_breath", "night_vision", "swim", "jumping"],
+        "health": 30,
+        "hostile": true
+    },
+    "minecraft:magma_cube": {
+        "abilities": ["jumping", "fire_proof"],
+        "health": 4,
+        "hostile": true
+    },
+    "minecraft:silverfish": {
+        "action": "silverfish",
+        "health": 8,
+        "hostile": true
+    },
+    "minecraft:shulker": {
+        "action": "shulker_bullet",
+        "health": 15,
+        "hostile": true
+    },
+    "minecraft:slime": {
+        "abilities": ["jumping"],
+        "health": 4,
+        "hostile": true
+    },
+    "minecraft:skeleton": {
+        "abilities": ["sun_allergy"],
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:wither_skeleton": {
+        "abilities": ["fire_proof"],
+        "attack": "wither",
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:witch": {
+        "action": "potions",
+        "health": 26,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:zombie": {
+        "abilities": ["sun_allergy", "hungerless"],
+        "health": 20,
+        "hostile": true,
+        "hands": true
+    },
+    "tropicraft:monkey": {
+        "abilities": ["night_vision"],
+        "health": 12,
+        "hostile": true
+    },
+    "tropicraft:treefrog": {
+        "abilities": ["jumping", "water_breath"],
+        "action": "jump",
+        "health": 6,
+        "attack": "poison"
+    },
+    "tropicraft:tropispider": {
+        "abilities": ["climb"]
+    },
+    "tropicraft:eagleray": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:failgull": {
+        "abilities": ["glide"]
+    },
+    "tropicraft:seaurchin": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:starfish": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:seahorse": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:sardine": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:fish": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "tropicraft:hammerhead": {
+        "abilities": ["swim", "water_breath", "night_vision"]
+    },
+    "tropicraft:piranha": {
+        "abilities": ["swim", "water_breath", "jumping", "night_vision"]
+    },
+    "tropicraft:marlin": {
+        "abilities": ["swim", "water_breath", "jumping"]
+    },
+    "midnight:crystal_bug": {
+        "abilities": ["night_vision", "glide", "sun_allergy"]
+    },
+    "midnight:deceitful_snapper": {
+        "abilities": ["swim", "water_breath", "night_vision", "sun_allergy"]
+    },
+    "midnight:hunter": {
+        "abilities": ["glide", "night_vision", "sun_allergy"],
+        "attack": "poison"
+    },
+    "midnight:nightstag": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "midnight:nova": {
+        "abilities": ["night_vision", "sun_allergy", "glide"]
+    },
+    "midnight:penumbrian": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "midnight:rifter": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "midnight:skulk": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "midnight:stinger": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "midnight:tree_hopper": {
+        "abilities": ["night_vision", "sun_allergy", "jumping"],
+        "action": "jump"
+    }
+    
+
+}

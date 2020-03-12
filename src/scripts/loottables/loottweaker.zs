@@ -10,3 +10,7 @@ LootTables.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEnt
 LootTables.getTable("minecraft:chests/stronghold_corridor").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTables.getTable("minecraft:chests/stronghold_crossing").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTables.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("cyberware:neuropozyne");
+
+
+val shell = LootTables.getTable("minecraft:gameplay/fishing/treasure").getPool("main");
+shell.addItemEntry(<fossil:shell>, 1);
