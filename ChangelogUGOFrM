@@ -3214,14 +3214,21 @@ more Reccomplex structures
 -------------------
 
 
+
+-------------------------------------------------------------------------------
+        Above this line marks all updates included in version 0.0.6.0
+        Build Name / Splash Screen = Colossal Chest Scar  March. 7, 2020
+-------------------------------------------------------------------------------
+
 -----------------------------------------------------------------------------  
         Changelog
         Week of March 8-14, 2020
-        Build Name / Splash Screen = 0.0.6.0 Colossal Chest Scar
+        Build Name / Splash Screen = 0.0.6.1 Stinky Nether
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
+ 
 Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 
@@ -3238,19 +3245,28 @@ Weirding Gadget
 Zenstages
 
 
-
 -- Updated Mods --
 -------------------
-
+MoreTweaker (1.0.10 to 1.0.11)
+MrCrayfish's Vehicle Mod (0.41.1 to 0.43.0)
+Ore Excavation (1.4.143 to 1.4.150)
 
 
 --- Removed Mods ---
 --------------------
+Better Nether (What a Lagfest. Dev doesn't give a flip that mod is broken.)
 
 
 
 -- Config Changes --
 --------------------
+animania.cfg
+    general
+        B:allowEggThrowing=true
+betternether.cfg --removed
+metamorph/config.cfg
+    general
+        B:disable_morph_disguise=true [default=false]
 Triumph
 	/functions
 	Added functions to add and remove the "gadget" stage
@@ -3258,7 +3274,7 @@ Triumph
 	Added Advancements for the Weirding Gadget to trigger gamestage functions
 weirdinggadget.cfg
 	I:hoursBeforeDeactivation=1
-
+        
 
 -- Script Changes --
 --------------------
@@ -3285,5 +3301,11 @@ staging
 -------------------
 
 
+
 -- Other Changes --
--------------------
+-------------------   
+removed default Capsule loots
+added miniRV capsules as loot
+added other genny-made capsule structure as loot
+added atumFossilMuseum to structures
+added nestPterosaur to structures 

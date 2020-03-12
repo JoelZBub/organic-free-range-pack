@@ -207,3 +207,18 @@ Jump
 key.inventorysorter.itemin
 key.inventorysorter.sort
 key.inventorysorter.itemout
+Jet Pack Lift
+Jet Pack Hover
+Creepssile Launch
+cyberware.keybinds.menu
+dsurround.cfg.keybind.AnimaniaBadges
+key.metamorph.action
+key.metamorph.creative_menu
+key.metamorph.survival_menu
+key.metamorph.morph.next
+key.metamorph.morph.prev
+key.metamorph.morph.next_var
+key.metamorph.morph.prev_var
+key.metamorph.morph.select
+key.metamorph.morph.demorph
+gui.xaero_toggle_map_waypoints
