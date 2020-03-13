@@ -3247,9 +3247,12 @@ Zenstages
 
 -- Updated Mods --
 -------------------
+Enchantment Descriptions (1.1.19 to 1.1.20)
 MoreTweaker (1.0.10 to 1.0.11)
 MrCrayfish's Vehicle Mod (0.41.1 to 0.43.0)
 Ore Excavation (1.4.143 to 1.4.150)
+Reborn Core (3.19.1.521 to 3.19.2.522)
+Xaero's Minimap (20.5.0 to 20.5.1)
 
 
 --- Removed Mods ---
@@ -3330,3 +3333,6 @@ added miniRV capsules as loot
 added other genny-made capsule structure as loot
 added atumFossilMuseum to structures
 added nestPterosaur to structures 
+added tent structures with archeologist villager
+fixed some typos in lang files
+fixed lang file locations
