@@ -11,6 +11,8 @@ import mods.chisel.Carving;
 //mods.chisel.Carving.addGroup(String name);
 //mods.chisel.Carving.addVariation(String groupName, IItemStack stack);
 
+// Carpet
+
 mods.chisel.Carving.addGroup("carpetWhite");
 mods.chisel.Carving.addVariation("carpetWhite", <minecraft:carpet>);
 mods.chisel.Carving.addVariation("carpetWhite", <chisel:carpet_white>);
@@ -90,3 +92,47 @@ mods.chisel.Carving.addGroup("carpetBlack");
 mods.chisel.Carving.addVariation("carpetBlack", <minecraft:carpet:15>);
 mods.chisel.Carving.addVariation("carpetBlack", <chisel:carpet_black>);
 mods.chisel.Carving.addVariation("carpetBlack", <chisel:carpet_black:1>);
+
+// Limestone Large Brick
+
+mods.chisel.Carving.removeGroup("atum:limestone_brick_large_1");
+
+
+mods.chisel.Carving.addGroup("largeLimestoneBrick");
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <atum:limestone_brick_large>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:1>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:2>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:3>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:4>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:5>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:6>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:7>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:8>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:9>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:10>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:11>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:12>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:13>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:14>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick_atum_limestone_brick_large_0:15>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:1>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:2>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:3>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:4>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:5>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:6>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:7>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:8>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick1_atum_limestone_brick_large_0:9>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:1>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:2>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:3>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:4>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:5>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:6>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:7>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:8>);
+mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:9>);

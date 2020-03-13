@@ -3264,9 +3264,22 @@ animania.cfg
     general
         B:allowEggThrowing=true
 betternether.cfg --removed
-metamorph/config.cfg
-    general
-        B:disable_morph_disguise=true [default=false]
+capsule.cfg
+	S:overridableBlocks <
+		randomthings:beansprout
+cofh/world/04_fossil
+	"fossil": {
+		"cluster-size": 4
+	"permafrost": {
+		"cluster-size": 8
+metamorph
+	/blacklist.json
+		minecraft:ender_dragon
+	/config.cfg
+    	general
+        	B:disable_morph_disguise=true [default=false]
+	/morph.json
+		added abilities, etc. to morphs - incomplete list
 Triumph
 	/functions
 	Added functions to add and remove the "gadget" stage
@@ -3278,12 +3291,20 @@ weirdinggadget.cfg
 
 -- Script Changes --
 --------------------
-dropt/fossil_drop.zs
-	Added rule to remove Plant Fossil from Fossil ore
+dropt
+	/fern_spores.zs
+		Added rule to remove Fern Spores from Permafrost
+	/fossil_drop.zs
+		Added rule to remove Plant Fossil from Fossil ore
 itemModifiers/resistance.zs
 	var gadget = <weirdinggadget:weirding_gadget>.asBlock().definition;
 	gadget.resistance = 3600000;
+Loottables
+	/loottweaker.zs
+		Added Fossil Nautilus Shell to fishing treasure loot pool
 recipesCrafting/mods
+	/chisel.zs
+		Fixed issue with Atum Large Limestone Bricks
 	/ediblebugs.zs
 		changed manual vegetable oil recipe to seeds surrounding a bottle
 	/quark.zs
