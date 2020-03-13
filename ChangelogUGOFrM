@@ -3299,6 +3299,12 @@ dropt
 		Added rule to remove Fern Spores from Permafrost
 	/fossil_drop.zs
 		Added rule to remove Plant Fossil from Fossil ore
+events
+	/chestfix.zs
+		disabled using iron chest upgrade on shadowroot chest
+			(addresses inventory deletion bug)
+	/drinkEvents.zs
+		fixed improper case in Generikb's name on tooltip
 itemModifiers/resistance.zs
 	var gadget = <weirdinggadget:weirding_gadget>.asBlock().definition;
 	gadget.resistance = 3600000;

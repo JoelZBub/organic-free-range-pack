@@ -36,6 +36,6 @@ var hermitdrink = <cfm:item_drink>.withTag({HealAmount: 20, Colour: [104, 5, 252
 		event.player.executeCommand("effect @s minecraft:night_vision 1200");
 		event.player.executeCommand("effect @s minecraft:absorption 1200 2");
 		event.player.executeCommand("effect @s minecraft:luck 1200 3");
-		event.player.sendChat("Congratulations! You have discovered the ULTRA SECRET Fliquid Powergy Easter Egg. Enjoy the Baller Buffs! Courtesy of GenerikB!");
+		event.player.sendChat("Congratulations! You have discovered the ULTRA SECRET Fliquid Powergy Easter Egg. Enjoy the Baller Buffs! Courtesy of Generikb!");
 	}
 });
