@@ -11,6 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<quark:stonebrick_mossy_slab>,
+<quark:stonebrick_mossy_stairs>
 ];
 
 /*

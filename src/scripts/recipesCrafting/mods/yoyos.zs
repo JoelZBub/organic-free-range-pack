@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Vanilla Crafting Table recipes script.
+	100% Organic Free-Range Yoyos Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
 	Rename this script for the mod it's modifying.
 */
@@ -12,6 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<yoyos:cord>
 ];
 
 /*
@@ -35,30 +36,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<minecraft:chest> * 4 : {
-		"minecraft_chest_modbulk" : [
+<yoyos:cord> : {
+		"yoyos_cord" : [
 			[
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
-	   			[<ore:modLogs>, null, <ore:modLogs>],
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
+	  			[<ore:string>, <ore:string>, <ore:string>],
+	   			[<ore:string>, <ore:stickWood>, <ore:string>],
+	  			[<ore:string>, <ore:string>, <ore:string>]
 			]
 		]
-	},
-<minecraft:stick> * 16 : {
-    "minecraft_stick_bulk" : [
-        [
-            [<ore:logWood>],
-            [<ore:logWood>]
-        ]
-    ]
-},
-// <minecraft:purpur_slab> * 2 : {
-//     "minecraft_purpur_slab" : [
-//         [
-//             [<minecraft:chorus_fruit_popped>, <minecraft:chorus_fruit_popped>]
-//         ]
-//     ]
-// }
+	}
 };
 
 

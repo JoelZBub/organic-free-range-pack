@@ -1,4 +1,3 @@
-#norun
 /*
 	100% Organic Free-Range Arcace Mod Crafting Table recipes script.
 	This script is for adding and removing recipes for Arcade Mod.
@@ -12,7 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<arcademod:coin:0>
+	<arcademod:coin:0>,
+	<arcademod:prize_box>
 ];
 
 /*
@@ -36,6 +36,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+<arcademod:prize_box> : {
+		"arcademod_prize_box" : [
+			[
+	  			[<ore:ironIngot>, <ore:paneGlass>, <ore:ironIngot>],
+	   			[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],
+	  			[<ore:ironIngot>, <minecraft:redstone>, <ore:ironIngot>]
+			]
+		]
+	}
 };
 
 

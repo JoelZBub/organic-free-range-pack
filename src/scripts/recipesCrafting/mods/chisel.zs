@@ -136,3 +136,14 @@ mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:ch
 mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:7>);
 mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:8>);
 mods.chisel.Carving.addVariation("largeLimestoneBrick", <unlimitedchiselworks:chisel_stonebrick2_atum_limestone_brick_large_0:9>);
+
+// Stone Brick slab variation
+mods.chisel.Carving.addGroup("stoneBrickSlab");
+mods.chisel.Carving.addVariation("stoneBrickSlab", <minecraft:stone_slab:5>);
+mods.chisel.Carving.addVariation("stoneBrickSlab", <quark:stonebrick_mossy_slab>);
+
+
+// Stone Brick stair variation
+mods.chisel.Carving.addGroup("stoneBrickStair");
+mods.chisel.Carving.addVariation("stoneBrickStair", <minecraft:stone_brick_stairs>);
+mods.chisel.Carving.addVariation("stoneBrickStair", <quark:stonebrick_mossy_stairs>);

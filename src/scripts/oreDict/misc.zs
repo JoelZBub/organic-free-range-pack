@@ -24,6 +24,11 @@ import crafttweaker.item.IIngredient;
 <ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
 <ore:tarBucket>.add(<erebus:bambucket>.withTag({Fluid: {FluidName: "tar", Amount: 1000}}));
 <ore:tarBucket>.remove(<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}));
+<ore:plastic>.add(<hatchery:plastic>);
+<ore:cobblestone>.remove(<atum:limestone_cracked>);
+<ore:string>.remove(<atum:linen_thread>);
+<ore:stoneLimestone>.remove(<atum:limestone>);
+<ore:stone>.remove(<atum:limestone>);
 
 static seedList as IItemStack[] = [
 <minecraft:wheat_seeds>,
