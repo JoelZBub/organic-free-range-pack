@@ -23,10 +23,6 @@ events.onPlayerInteractBlock(function(event as crafttweaker.event.PlayerInteract
  		}
 });
 
-<<<<<<< HEAD
-=======
-
->>>>>>> bc6dbbb41c287e662f3048c3236c4b23406641f6
 events.onPlayerInteractBlock(function(event as crafttweaker.event.PlayerInteractBlockEvent) {
 	
 		if (!event.canceled && !event.world.isRemote() && !isNull(event.player.currentItem) && event.player.currentItem.definition.id == "ironchest:wood_copper_chest_upgrade" && event.block.definition.id == "midnight:shadowroot_chest") {
