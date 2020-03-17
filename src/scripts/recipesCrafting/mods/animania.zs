@@ -1,7 +1,11 @@
 /*
 	100% Organic Free-Range Animania Crafting Table recipes script.
+<<<<<<< HEAD
 	This script is for adding and removing recipes by mod.
 	Rename this script for the mod it's modifying.
+=======
+	This script is for adding and removing recipes for Animania.
+>>>>>>> bc6dbbb41c287e662f3048c3236c4b23406641f6
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,6 +16,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<<<<<<< HEAD
 <animania:hamster_ball_clear>,
 <animania:hamster_ball_colored>,
 <animania:hamster_ball_colored:1>,
@@ -29,13 +34,19 @@ static itemRecipeRemoval as IItemStack[] = [
 <animania:hamster_ball_colored:13>,
 <animania:hamster_ball_colored:14>,
 <animania:hamster_ball_colored:15>
+=======
+>>>>>>> bc6dbbb41c287e662f3048c3236c4b23406641f6
 ];
 
 /*
 	Recipe and JEI Removals by Item
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
+<<<<<<< HEAD
 //	<modid:itemname:meta>,
+=======
+	<animania:item_wagon:0>
+>>>>>>> bc6dbbb41c287e662f3048c3236c4b23406641f6
 ];
 
 
@@ -52,6 +63,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+<<<<<<< HEAD
 <animania:hamster_ball_clear> : {
 		"animania_hamster_ball_clear" : [
 			[
@@ -205,6 +217,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}
+=======
+>>>>>>> bc6dbbb41c287e662f3048c3236c4b23406641f6
 };
 
 
