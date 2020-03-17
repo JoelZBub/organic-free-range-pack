@@ -2906,7 +2906,11 @@ Pirate Mod.cfg
 	backed up config and regenerate
 reccomplex.cfg
     S:structureGenerationMatcher=!$fossil & !$reccomplex
+tropicraft.cfg
+	misc 
+    	B:enableSwimAnimation=false
 
+    
 -- Script Changes --
 --------------------
 
@@ -3065,7 +3069,8 @@ incontrol/potentialspawn
 	Added rules for lcrdrfs, Cyberware, and Drones
 incontrol/spawn
 	Added rules for lcrdrfs, Cyberware, and Drones
-	
+inventorypets.cfg
+	B:"Disable Enchanting Table"=true	
 
 -- Script Changes --
 --------------------
@@ -3342,3 +3347,95 @@ added nestPterosaur to structures
 added tent structures with archeologist villager
 fixed some typos in lang files
 fixed lang file locations
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.6.1
+		Build Name / Splash Screen = Laptop Moose  Dec. 19, 2019
+-------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 8-14, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+ 
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+       
+
+-- Script Changes --
+--------------------
+events
+	/chestfix.zs
+		disabled using copper chest upgrade on shadowroot chest
+			(addresses inventory deletion bug)
+recipesCrafting/mods/animania.zs
+	removed covered wagon recipe
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------   
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 15-21, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+ 
+Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+
+
+-- Added Mods --
+----------------
+ColorfulWater (by BillyGalbreath)
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+Unloader
+
+
+-- Config Changes --
+--------------------
+       
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------   
