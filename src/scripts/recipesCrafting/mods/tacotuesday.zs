@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Vanilla Crafting Table recipes script.
+	100% Organic Free-Range Taco Tuesday Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
 	Rename this script for the mod it's modifying.
 */
@@ -11,15 +11,7 @@ import crafttweaker.item.IIngredient;
 	Recipe Removals by Item
 */
 static itemRecipeRemoval as IItemStack[] = [
-//	<modid:itemname:meta>,
-<minecraft:purpur_block>,
-<minecraft:cake>,
-<minecraft:spruce_boat>,
-<minecraft:birch_boat>,
-<minecraft:jungle_boat>,
-<minecraft:acacia_boat>,
-<minecraft:dark_oak_boat>,
-
+//	<modid:itemname:meta>
 ];
 
 /*
@@ -27,6 +19,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<tt:bottled_milk>
 ];
 
 
@@ -43,40 +36,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<minecraft:chest> * 4 : {
-		"minecraft_chest_modbulk" : [
-			[
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
-	   			[<ore:modLogs>, null, <ore:modLogs>],
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
-			]
-		]
-	},
-<minecraft:stick> * 16 : {
-    "minecraft_stick_bulk" : [
-        [
-            [<ore:logWood>],
-            [<ore:logWood>]
-        ]
-    ]
-},
-<minecraft:purpur_block> * 4 : {
-    "minecraft_purpur_block_test" : [
-        [
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>],
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>]
-        ]
-    ]
-},
-<minecraft:cake>: {
-    "minecraft_cake_oredict" : [
-        [
-            [<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
-            [<minecraft:sugar>, <ore:egg>, <minecraft:sugar>],
-            [<minecraft:wheat>, <minecraft:wheat>, <minecraft:wheat>]
-        ]
-    ]
-}
 };
 
 
@@ -105,31 +64,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<minecraft:spruce_boat> : {
-		"minecraft_spruce_boat" : [
-			[<minecraft:boat>, <minecraft:planks:1>]
-		]
-	},
-<minecraft:birch_boat> : {
-		"minecraft_birch_boat" : [
-			[<minecraft:boat>, <minecraft:planks:2>]
-		]
-	},
-<minecraft:jungle_boat> : {
-		"minecraft_jungle_boat" : [
-			[<minecraft:boat>, <minecraft:planks:3>]
-		]
-	},
-<minecraft:acacia_boat> : {
-		"minecraft_acacia_boat" : [
-			[<minecraft:boat>, <minecraft:planks:4>]
-		]
-	},
-<minecraft:dark_oak_boat> : {
-		"minecraft_dark_oak_boat" : [
-			[<minecraft:boat>, <minecraft:planks:5>]
-		]
-	}
 };
 
 

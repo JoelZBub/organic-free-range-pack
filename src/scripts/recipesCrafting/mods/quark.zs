@@ -12,7 +12,12 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 <quark:stonebrick_mossy_slab>,
-<quark:stonebrick_mossy_stairs>
+<quark:stonebrick_mossy_stairs>,
+<quark:spruce_trapdoor>,
+<quark:birch_trapdoor>,
+<quark:jungle_trapdoor>,
+<quark:acacia_trapdoor>,
+<quark:dark_oak_trapdoor>
 ];
 
 /*
@@ -67,6 +72,31 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 	<quark:slime_bucket> : {
 		"quark_slime_bucket" : [
 			[<minecraft:water_bucket>.noReturn(), <pvj:goon_bile>, <pvj:goon_bile>]
+		]
+	},
+	<quark:spruce_trapdoor> : {
+		"minecraft_spruce_trapdoor" : [
+			[<minecraft:trapdoor>, <minecraft:planks:1>]
+		]
+	},
+	<quark:birch_trapdoor> : {
+		"minecraft_birch_trapdoor" : [
+			[<minecraft:trapdoor>, <minecraft:planks:2>]
+		]
+	},
+	<quark:jungle_trapdoor> : {
+		"minecraft_jungle_trapdoor" : [
+			[<minecraft:trapdoor>, <minecraft:planks:3>]
+		]
+	},
+	<quark:acacia_trapdoor> : {
+		"minecraft_acacia_trapdoor" : [
+			[<minecraft:trapdoor>, <minecraft:planks:4>]
+		]
+	},
+	<quark:dark_oak_trapdoor> : {
+		"minecraft_dark_oak_trapdoor" : [
+			[<minecraft:trapdoor>, <minecraft:planks:5>]
 		]
 	}
 };

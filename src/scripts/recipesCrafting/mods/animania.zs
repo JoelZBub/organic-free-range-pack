@@ -233,6 +233,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+<animania:milk_bottle> : {
+		"animania_milk_bottle_coconut" : [
+			[<minecraft:glass_bottle>, <ore:coconutPiece>, <ore:coconutPiece>, <ore:coconutPiece>]
+		]
+	}
 };
 
 

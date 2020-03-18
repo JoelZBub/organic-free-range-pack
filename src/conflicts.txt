@@ -1,64 +1,16 @@
-[Shaped] [minecraft:spruce_boat](Spruce Boat) <minecraft:spruce_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
-[Shaped] [minecraft:jungle_boat](Jungle Boat) <minecraft:jungle_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
-[Shaped] [minecraft:dark_oak_boat](Dark Oak Boat) <minecraft:dark_oak_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
-[Shaped] [minecraft:birch_boat](Birch Boat) <minecraft:birch_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
-[Shaped] [minecraft:acacia_boat](Acacia Boat) <minecraft:acacia_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
-
-
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:willow_boat](Willow Boat) <pvj:willow_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:redwood_boat](Redwood Boat) <pvj:redwood_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:pine_boat](Pine Boat) <pvj:pine_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:palm_boat](Palm Boat) <pvj:palm_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:maple_boat](Maple Boat) <pvj:maple_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:mangrove_boat](Mangrove Boat) <pvj:mangrove_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:juniper_boat](Juniper Boat) <pvj:juniper_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:jacaranda_boat](Jacaranda Boat) <pvj:jacaranda_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:fir_boat](Fir Boat) <pvj:fir_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:cottonwood_boat](Cottonwood Boat) <pvj:cottonwood_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:cherry_blossom_boat](Cherry Blossom Boat) <pvj:cherry_blossom_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:baobab_boat](Baobab Boat) <pvj:baobab_boat:0> * 1
-[Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1 conflicts with [Shaped] [pvj:aspen_boat](Aspen Boat) <pvj:aspen_boat:0> * 1
-
-
-
-[Shaped] [fossil:sigillaria_trapdoor](Sigillaria Trapdoor) <fossil:sigillaria_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [fossil:sigillaria_trapdoor](Sigillaria Trapdoor) <fossil:sigillaria_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [fossil:palm_trapdoor](Palm Trapdoor) <fossil:palm_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [fossil:palm_trapdoor](Palm Trapdoor) <fossil:palm_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [fossil:cordaites_trapdoor](Cordaites Trapdoor) <fossil:cordaites_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [fossil:cordaites_trapdoor](Cordaites Trapdoor) <fossil:cordaites_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [fossil:calamites_trapdoor](Calamites Trapdoor) <fossil:calamites_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [fossil:calamites_trapdoor](Calamites Trapdoor) <fossil:calamites_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-
-
-[Shaped] [pvj:willow_trapdoor](Willow Trapdoor) <pvj:willow_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:willow_trapdoor](Willow Trapdoor) <pvj:willow_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:redwood_trapdoor](Redwood Trapdoor) <pvj:redwood_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:redwood_trapdoor](Redwood Trapdoor) <pvj:redwood_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:pine_trapdoor](Pine Trapdoor) <pvj:pine_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:pine_trapdoor](Pine Trapdoor) <pvj:pine_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:palm_trapdoor](Palm Trapdoor) <pvj:palm_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:palm_trapdoor](Palm Trapdoor) <pvj:palm_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:maple_trapdoor](Maple Trapdoor) <pvj:maple_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:maple_trapdoor](Maple Trapdoor) <pvj:maple_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:mangrove_trapdoor](Mangrove Trapdoor) <pvj:mangrove_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:mangrove_trapdoor](Mangrove Trapdoor) <pvj:mangrove_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:juniper_trapdoor](Juniper Trapdoor) <pvj:juniper_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:juniper_trapdoor](Juniper Trapdoor) <pvj:juniper_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:jacaranda_trapdoor](Jacaranda Trapdoor) <pvj:jacaranda_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:jacaranda_trapdoor](Jacaranda Trapdoor) <pvj:jacaranda_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:fir_trapdoor](Fir Trapdoor) <pvj:fir_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:fir_trapdoor](Fir Trapdoor) <pvj:fir_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:cottonwood_trapdoor](Cottonwood Trapdoor) <pvj:cottonwood_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:cottonwood_trapdoor](Cottonwood Trapdoor) <pvj:cottonwood_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:cherry_blossom_trapdoor](Cherry Blossom Trapdoor) <pvj:cherry_blossom_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:cherry_blossom_trapdoor](Cherry Blossom Trapdoor) <pvj:cherry_blossom_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:baobab_trapdoor](Baobab Trapdoor) <pvj:baobab_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:baobab_trapdoor](Baobab Trapdoor) <pvj:baobab_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [pvj:aspen_trapdoor](Aspen Trapdoor) <pvj:aspen_trapdoor:0> * 2 conflicts with [Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2
-[Shaped] [pvj:aspen_trapdoor](Aspen Trapdoor) <pvj:aspen_trapdoor:0> * 2 conflicts with [Shaped] [quark:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 6
-[Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2 conflicts with [Shaped] [quark:spruce_trapdoor](Spruce Trapdoor) <quark:spruce_trapdoor:0> * 6
-[Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2 conflicts with [Shaped] [quark:birch_trapdoor](Birch Trapdoor) <quark:birch_trapdoor:0> * 6
-[Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2 conflicts with [Shaped] [quark:jungle_trapdoor](Jungle Trapdoor) <quark:jungle_trapdoor:0> * 6
-[Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2 conflicts with [Shaped] [quark:acacia_trapdoor](Acacia Trapdoor) <quark:acacia_trapdoor:0> * 6
-[Shaped] [minecraft:trapdoor](Oak Trapdoor) <minecraft:trapdoor:0> * 2 conflicts with [Shaped] [quark:dark_oak_trapdoor](Dark Oak Trapdoor) <quark:dark_oak_trapdoor:0> * 6
+Conflicting: 32
+[atum:linen_orange](Orange Linen) <atum:linen_orange:0> * 1 conflicts with [Shapeless] [minecraft:orange_wool](Orange Wool) <minecraft:wool:1> * 1
+[atum:linen_magenta](Magenta Linen) <atum:linen_magenta:0> * 1 conflicts with [Shapeless] [minecraft:magenta_wool](Magenta Wool) <minecraft:wool:2> * 1
+[atum:linen_lightblue](Light Blue Linen) <atum:linen_light_blue:0> * 1 conflicts with [Shapeless] [minecraft:light_blue_wool](Light Blue Wool) <minecraft:wool:3> * 1
+[atum:linen_yellow](Yellow Linen) <atum:linen_yellow:0> * 1 conflicts with [Shapeless] [minecraft:yellow_wool](Yellow Wool) <minecraft:wool:4> * 1
+[atum:linen_lime](Lime Linen) <atum:linen_lime:0> * 1 conflicts with [Shapeless] [minecraft:lime_wool](Lime Wool) <minecraft:wool:5> * 1
+[atum:linen_pink](Pink Linen) <atum:linen_pink:0> * 1 conflicts with [Shapeless] [minecraft:pink_wool](Pink Wool) <minecraft:wool:6> * 1
+[atum:linen_gray](Gray Linen) <atum:linen_gray:0> * 1 conflicts with [Shapeless] [minecraft:gray_wool](Gray Wool) <minecraft:wool:7> * 1
+[atum:linen_lightgray](Silver Linen) <atum:linen_silver:0> * 1 conflicts with [Shapeless] [minecraft:light_gray_wool](Light Gray Wool) <minecraft:wool:8> * 1
+[atum:linen_cyan](Cyan Linen) <atum:linen_cyan:0> * 1 conflicts with [Shapeless] [minecraft:cyan_wool](Cyan Wool) <minecraft:wool:9> * 1
+[atum:linen_purple](Purple Linen) <atum:linen_purple:0> * 1 conflicts with [Shapeless] [minecraft:purple_wool](Purple Wool) <minecraft:wool:10> * 1
+[atum:linen_blue](Blue Linen) <atum:linen_blue:0> * 1 conflicts with [Shapeless] [minecraft:blue_wool](Blue Wool) <minecraft:wool:11> * 1
+[atum:linen_brown](Brown Linen) <atum:linen_brown:0> * 1 conflicts with [Shapeless] [minecraft:brown_wool](Brown Wool) <minecraft:wool:12> * 1
+[atum:linen_green](Green Linen) <atum:linen_green:0> * 1 conflicts with [Shapeless] [minecraft:green_wool](Green Wool) <minecraft:wool:13> * 1
+[atum:linen_red](Red Linen) <atum:linen_red:0> * 1 conflicts with [Shapeless] [minecraft:red_wool](Red Wool) <minecraft:wool:14> * 1
+[atum:linen_black](Black Linen) <atum:linen_black:0> * 1 conflicts with [Shapeless] [minecraft:black_wool](Black Wool) <minecraft:wool:15> * 1
