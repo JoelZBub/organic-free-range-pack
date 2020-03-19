@@ -3429,11 +3429,124 @@ Unloader
 
 -- Config Changes --
 --------------------
+betteranimalsplus.cfg
+	entitycoyote {
+		I:weight=3
+	entitydeer {
+		I:weight=5
+	entitylammergeier {
+			S:spawnBiomes <
+				    mist:up_meadow
+                    mist:up_forest
+                    mist:up_dense_forest
+                    mist:up_snowfields
+                    mist:up_taiga
+                    mist:up_hilly_taiga
+                    mist:up_jungle_hills
+	entitytarantula {
+		S:spawnBiomes <
+                        minecraft:plains
+                        minecraft:desert
+                        minecraft:extreme_hills
+                        minecraft:forest
+                        minecraft:taiga
+                        minecraft:swampland
+                        minecraft:beaches
+                        minecraft:desert_hills
+                        minecraft:forest_hills
+                        minecraft:taiga_hills
+                        minecraft:smaller_extreme_hills
+                        minecraft:jungle
+                        minecraft:jungle_hills
+                        minecraft:jungle_edge
+                        minecraft:stone_beach
+                        minecraft:cold_beach
+                        minecraft:birch_forest
+                        minecraft:birch_forest_hills
+                        minecraft:roofed_forest
+                        minecraft:taiga_cold
+                        minecraft:taiga_cold_hills
+                        minecraft:redwood_taiga
+                        minecraft:redwood_taiga_hills
+                        minecraft:extreme_hills_with_trees
+                        minecraft:savanna
+                        minecraft:savanna_rock
+                        minecraft:mesa
+                        minecraft:mesa_rock
+                        minecraft:mesa_clear_rock
+                        pvj:prairie
+                        pvj:redwoods
+                        pvj:redwood_peaks
+                        pvj:willow_swamp
+                        pvj:boreal_forest
+                        pvj:snowy_boreal_forest
+                        pvj:aspen_grove
+                        pvj:overgrown_spires
+                        pvj:blossoming_fields
+                        integrateddynamics:biome_meneglin
+                        traverse:autumnal_woods
+                        traverse:woodlands
+                        traverse:mini_jungle
+                        traverse:meadow
+                        traverse:green_swamp
+                        traverse:red_desert
+                        traverse:temperate_rainforest
+                        traverse:badlands
+                        traverse:mountainous_desert
+                        traverse:rocky_plateau
+                        traverse:forested_hills
+                        traverse:birch_forested_hills
+                        traverse:autumnal_wooded_hills
+                        traverse:cliffs
+                        traverse:snowy_coniferous_forest
+                        traverse:lush_hills
+                        traverse:desert_shrubland
+                        traverse:thicket
+                        traverse:arid_highland
+                        traverse:rocky_plains
+                        minecraft:mutated_plains
+                        minecraft:mutated_desert
+                        minecraft:mutated_extreme_hills
+                        minecraft:mutated_forest
+                        minecraft:mutated_taiga
+                        minecraft:mutated_swampland
+                        minecraft:mutated_jungle
+                        minecraft:mutated_jungle_edge
+                        minecraft:mutated_birch_forest
+                        minecraft:mutated_birch_forest_hills
+                        minecraft:mutated_roofed_forest
+                        minecraft:mutated_taiga_cold
+	entityjellyfish {
+		B:doSpawning=false
+	entitypheasant {
+		I:maxGroup=2
+		I:weight=5
+	entityreindeer {
+		I:maxGroup=2
+		I:weight=5
+	entityboar {
+		I:maxGroup=3
+		I:weight=6
+	entitysongbird {
+		B:doSpawning=false
+	entitybadger {
+		I:weight=5
+	entityturkey {
+		I:weight=6
+	entityzotzpyre {
+		B:doSpawning=false	
+betterfps.json
+	"fastBeacon":false,
 deepmoblearning.cfg
 	S:wither <
 		withercrubs:wither crumb
 gamestage.cfg
 	B:"Log Debug Data"=false
+incontrol/spawn.json
+	{ "mob": "minecraft:spider",
+      "result": "deny" }
+projectvibrantjourneys.cfg
+	I:grizzlyBearSpawnWeight=0
 rats.cfg
 	I:"Blacklisted Rat Spawn Dimensions" <
 		66

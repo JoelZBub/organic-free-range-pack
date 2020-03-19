@@ -1,4 +1,3 @@
-
 /*	
 	100% Organic Free-Range Items Effects Script
 	This script adds effects to held or worn items 
