@@ -116,7 +116,7 @@
   "friendlyfire": "1.5.12",
   "cavern": "2.2.0",
   "clarity": "1.1",
-  "cosmeticarmorreworked": "1.12.2-v4a",
+  "cosmeticarmorreworked": "1.12.2-v4b",
   "magic_mirror": "1.12.2-0.0.4.0",
   "base": "3.13.0",
   "defaultoptions": "9.2.8",

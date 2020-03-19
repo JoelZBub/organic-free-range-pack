@@ -2910,7 +2910,7 @@ tropicraft.cfg
 	misc 
     	B:enableSwimAnimation=false
 
-    
+
 -- Script Changes --
 --------------------
 
@@ -3413,6 +3413,7 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 -- Added Mods --
 ----------------
+Changeling (by asanetargoss)
 ColorfulWater (by BillyGalbreath)
 
 
@@ -3422,6 +3423,7 @@ ColorfulWater (by BillyGalbreath)
 
 --- Removed Mods ---
 --------------------
+Metamorph (replaced by Changeling -fork of Metamorph)
 Unloader
 
 
