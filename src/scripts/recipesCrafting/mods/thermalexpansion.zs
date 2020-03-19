@@ -11,6 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
+<chisel:block_charcoal2:1>,
+<thermalfoundation:storage_resource>
 ];
 
 /*
@@ -63,8 +65,11 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 <thermalfoundation:material:264>,
 <thermalfoundation:material:328>,
 <thermalfoundation:material:1028>,
+<thermalfoundation:material:16>,
+<thermalfoundation:material:17>
 ];
 
+recipes.removeByRecipeName("thermalexpansion:florb_2");
 
 /*
 	Named Shaped Recipes

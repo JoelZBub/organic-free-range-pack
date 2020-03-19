@@ -12,7 +12,8 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<openblocks:block_breaker>,
-	<openblocks:block_placer>
+	<openblocks:block_placer>,
+	<openblocks:tasty_clay>
 ];
 
 /*
@@ -82,6 +83,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+<openblocks:tasty_clay> : {
+		"openblocks_tasty_clay" : [
+			[<ore:clay>, <minecraft:dye:3>, <ore:listAllmilk>]
+		]
+	}
 };
 
 

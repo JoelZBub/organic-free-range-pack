@@ -3429,14 +3429,78 @@ Unloader
 
 -- Config Changes --
 --------------------
+deepmoblearning.cfg
+	S:wither <
+		withercrubs:wither crumb
+gamestage.cfg
+	B:"Log Debug Data"=false
+rats.cfg
+	I:"Blacklisted Rat Spawn Dimensions" <
+		66
        
 
 -- Script Changes --
 --------------------
-
+/events
+	/kitchencabinetfix.zs
+		Denied turning the Crayfish Kitchen Cabinet and Counter Drawer with the crescent hammer to avoid loss of inventory
+/oreDict
+	/misc.zs
+		Added Hatchery plastic to plastic oredict
+		Removed Atum limestone, cracked limestone, and linen thread from oredicts
+		Added coconut pieces to new oredict
+		Fixed oredicts for various milk buckets
+	/woodMaterials.zs
+		Removed Atum planks and sticks from oredict
+/recipesCrafting/mods
+	/aim.zs
+		Changed potion relay recipe to for oredict
+	/animania.zs
+		Changed hamster ball recipes to use plastic instead of Glass
+		Removed wagon
+		Replaced coconut milk recipe with Animania milk
+	/atum.zs
+		Replaced Limestone wall and stair recipes to fix conflicts
+	/arcademod.zs
+		Prize Box recipe change to fix conflict
+	/bamboozled.zs
+		Removed rope
+	/chisel.zs
+		Added chisel options for stone brick slabs and stairs to avoid recipe conflicts
+	/customrecords.zs
+		Added recipes to remove conflicts
+	/midnight.zs
+		Added trapdoor recipes to avoid conflicts
+	/openblocks.zs
+		Changed tasty clay recipe for milk oredict
+	/overlord.zs
+		Changed guide recipe for milk oredict
+	/pvj.zs
+		Added boat and trapdoor recipes to avoid conflicts
+	/quark.zs
+		Removed mossy brick slabs and stair recipes to avoid conflicts (still abtainable through chisel)
+		Recipes for trapdoors to avoid conflicts
+	/tacotuesday.zs
+		Removed milk bottle recipe to unify milk better
+	/thermalexpansion.zs
+		Removed recipe for charcoal block (variant abtainable through chisel)
+		Removed diamond and emerald nuggets to avoid conflicts
+	/vanillatweaks.zs
+		Added alternative Purpur block recipe becaue it's broke AP
+		Added boat recipes to avoid conflict
+	/yoyos.zs
+		Changed cord recipe to avoid conflicts
+/recipesMachines/minecraft
+	/furnace.zs
+		Added recipes for Tropicraft and Erebus bamboo to cook into Bamboozled dried bamboo
+/seteffect
+	/armorSets.zs
+		Removed Vampire info from Rockshroom set
 
 -- Asset Changes --
 -------------------
+/oresources/tropicraft/lang/en_us.lang
+	entity.tropicraft.beach_umbrella.name=Beach Umbrella
 
 
 -- Other Changes --

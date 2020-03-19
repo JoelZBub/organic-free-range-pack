@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Vanilla Crafting Table recipes script.
+	100% Organic Free-Range Midnight Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
 	Rename this script for the mod it's modifying.
 */
@@ -11,15 +11,13 @@ import crafttweaker.item.IIngredient;
 	Recipe Removals by Item
 */
 static itemRecipeRemoval as IItemStack[] = [
-//	<modid:itemname:meta>,
-<minecraft:purpur_block>,
-<minecraft:cake>,
-<minecraft:spruce_boat>,
-<minecraft:birch_boat>,
-<minecraft:jungle_boat>,
-<minecraft:acacia_boat>,
-<minecraft:dark_oak_boat>,
-
+//	<modid:itemname:meta>
+<midnight:shadowroot_trapdoor>,
+<midnight:dead_wood_trapdoor>,
+<midnight:dark_willow_trapdoor>,
+<midnight:nightshroom_trapdoor>,
+<midnight:dewshroom_trapdoor>,
+<midnight:viridshroom_trapdoor>
 ];
 
 /*
@@ -43,40 +41,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<minecraft:chest> * 4 : {
-		"minecraft_chest_modbulk" : [
-			[
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
-	   			[<ore:modLogs>, null, <ore:modLogs>],
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
-			]
-		]
-	},
-<minecraft:stick> * 16 : {
-    "minecraft_stick_bulk" : [
-        [
-            [<ore:logWood>],
-            [<ore:logWood>]
-        ]
-    ]
-},
-<minecraft:purpur_block> * 4 : {
-    "minecraft_purpur_block_test" : [
-        [
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>],
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>]
-        ]
-    ]
-},
-<minecraft:cake>: {
-    "minecraft_cake_oredict" : [
-        [
-            [<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
-            [<minecraft:sugar>, <ore:egg>, <minecraft:sugar>],
-            [<minecraft:wheat>, <minecraft:wheat>, <minecraft:wheat>]
-        ]
-    ]
-}
 };
 
 
@@ -105,29 +69,34 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<minecraft:spruce_boat> : {
-		"minecraft_spruce_boat" : [
-			[<minecraft:boat>, <minecraft:planks:1>]
+<midnight:shadowroot_trapdoor> : {
+		"midnight_shadowroot_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:shadowroot_planks>]
 		]
 	},
-<minecraft:birch_boat> : {
-		"minecraft_birch_boat" : [
-			[<minecraft:boat>, <minecraft:planks:2>]
+<midnight:dead_wood_trapdoor> : {
+		"midnight_dead_wood_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:dead_wood_planks>]
 		]
 	},
-<minecraft:jungle_boat> : {
-		"minecraft_jungle_boat" : [
-			[<minecraft:boat>, <minecraft:planks:3>]
+<midnight:dark_willow_trapdoor> : {
+		"midnight_dark_willow_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:dark_willow_planks>]
 		]
 	},
-<minecraft:acacia_boat> : {
-		"minecraft_acacia_boat" : [
-			[<minecraft:boat>, <minecraft:planks:4>]
+<midnight:nightshroom_trapdoor> : {
+		"midnight_nightshroom_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:nightshroom_planks>]
 		]
 	},
-<minecraft:dark_oak_boat> : {
-		"minecraft_dark_oak_boat" : [
-			[<minecraft:boat>, <minecraft:planks:5>]
+<midnight:dewshroom_trapdoor> : {
+		"midnight_dewshroom_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:dewshroom_planks>]
+		]
+	},
+<midnight:viridshroom_trapdoor> : {
+		"midnight_viridshroom_trapdoor" : [
+			[<minecraft:trapdoor>, <midnight:viridshroom_planks>]
 		]
 	}
 };

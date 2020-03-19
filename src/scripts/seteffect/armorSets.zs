@@ -57,10 +57,10 @@ val rockshroom_armor_set = mods.SetEffect.newSet()
 		.setIgnoreNBT()
 		.register();
 
-<midnight:rockshroom_helmet:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision, Vampire Disguise"));
-<midnight:rockshroom_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision, Vampire Disguise"));
-<midnight:rockshroom_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision, Vampire Disguise"));
-<midnight:rockshroom_boots:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision, Vampire Disguise"));
+<midnight:rockshroom_helmet:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision"));
+<midnight:rockshroom_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision"));
+<midnight:rockshroom_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision"));
+<midnight:rockshroom_boots:*>.addShiftTooltip(format.gold("Set Bonus: Night Vision"));
 
 
 // 	Tropicraft Scale Armor Set

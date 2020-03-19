@@ -26,6 +26,8 @@ furnace.addRecipe(<minecraft:brick>, <mist:clay_ball>, 0.3);
 furnace.addRecipe(<minecraft:brick>, <mist:clay_ball:1>, 0.3);
 furnace.addRecipe(<fossil:cooked_egg>, <betteranimalsplus:pheasant_egg>, 1.0);
 furnace.addRecipe(<fossil:cooked_egg>, <betteranimalsplus:turkey_egg>, 1.0);
+furnace.addRecipe(<bamboozled:bamboo_dried>, <erebus:materials:3>, 0.3);
+furnace.addRecipe(<bamboozled:bamboo_dried>, <tropicraft:bamboo_shoot>, 0.3);
 
 
 /* Fuel

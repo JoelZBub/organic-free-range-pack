@@ -44,6 +44,8 @@ for item in pvjLogs {
 //<ore:plankWood>.add(<mod:item:meta>);
 //<ore:plankWood>.remove(<mod:item:meta>);
 <ore:plankBamboo>.add(<tropicraft:bundle:1>);
+<ore:plankWood>.remove(<atum:palm_planks>);
+<ore:plankWood>.remove(<atum:deadwood_planks>);
 
 //	Slabs
 //<ore:slabWood>.add(<mod:item:meta>);
@@ -56,4 +58,7 @@ for item in pvjLogs {
 // 	Sticks
 //<ore:stickWood>.add(<mod:item:meta>);
 //<ore:stickWood>.remove(<mod:item:meta>);
+<ore:stickWood>.remove(<atum:palm_stick>);
+<ore:stickWood>.remove(<atum:deadwood_stick>);
+<ore:stickWood>.remove(<atum:dusty_bone_stick>);
 

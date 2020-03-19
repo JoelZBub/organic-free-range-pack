@@ -1,0 +1,16 @@
+Conflicting: 32
+[atum:linen_orange](Orange Linen) <atum:linen_orange:0> * 1 conflicts with [Shapeless] [minecraft:orange_wool](Orange Wool) <minecraft:wool:1> * 1
+[atum:linen_magenta](Magenta Linen) <atum:linen_magenta:0> * 1 conflicts with [Shapeless] [minecraft:magenta_wool](Magenta Wool) <minecraft:wool:2> * 1
+[atum:linen_lightblue](Light Blue Linen) <atum:linen_light_blue:0> * 1 conflicts with [Shapeless] [minecraft:light_blue_wool](Light Blue Wool) <minecraft:wool:3> * 1
+[atum:linen_yellow](Yellow Linen) <atum:linen_yellow:0> * 1 conflicts with [Shapeless] [minecraft:yellow_wool](Yellow Wool) <minecraft:wool:4> * 1
+[atum:linen_lime](Lime Linen) <atum:linen_lime:0> * 1 conflicts with [Shapeless] [minecraft:lime_wool](Lime Wool) <minecraft:wool:5> * 1
+[atum:linen_pink](Pink Linen) <atum:linen_pink:0> * 1 conflicts with [Shapeless] [minecraft:pink_wool](Pink Wool) <minecraft:wool:6> * 1
+[atum:linen_gray](Gray Linen) <atum:linen_gray:0> * 1 conflicts with [Shapeless] [minecraft:gray_wool](Gray Wool) <minecraft:wool:7> * 1
+[atum:linen_lightgray](Silver Linen) <atum:linen_silver:0> * 1 conflicts with [Shapeless] [minecraft:light_gray_wool](Light Gray Wool) <minecraft:wool:8> * 1
+[atum:linen_cyan](Cyan Linen) <atum:linen_cyan:0> * 1 conflicts with [Shapeless] [minecraft:cyan_wool](Cyan Wool) <minecraft:wool:9> * 1
+[atum:linen_purple](Purple Linen) <atum:linen_purple:0> * 1 conflicts with [Shapeless] [minecraft:purple_wool](Purple Wool) <minecraft:wool:10> * 1
+[atum:linen_blue](Blue Linen) <atum:linen_blue:0> * 1 conflicts with [Shapeless] [minecraft:blue_wool](Blue Wool) <minecraft:wool:11> * 1
+[atum:linen_brown](Brown Linen) <atum:linen_brown:0> * 1 conflicts with [Shapeless] [minecraft:brown_wool](Brown Wool) <minecraft:wool:12> * 1
+[atum:linen_green](Green Linen) <atum:linen_green:0> * 1 conflicts with [Shapeless] [minecraft:green_wool](Green Wool) <minecraft:wool:13> * 1
+[atum:linen_red](Red Linen) <atum:linen_red:0> * 1 conflicts with [Shapeless] [minecraft:red_wool](Red Wool) <minecraft:wool:14> * 1
+[atum:linen_black](Black Linen) <atum:linen_black:0> * 1 conflicts with [Shapeless] [minecraft:black_wool](Black Wool) <minecraft:wool:15> * 1
