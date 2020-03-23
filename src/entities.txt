@@ -1,0 +1,631 @@
+Mods:
+Animania - added abilities
+Atum - added abilities
+Better Animals Plus
+Caverns - added abilities
+Cyberware - added abilities
+Deep Mob Learning - added abilities
+Drones - added abilities
+Ender Utilities - added abilities
+Energetic Sheep - N/A
+Erebus
+Fampack - N/A
+Fossil
+Golems/Thermal Golems
+Hatchery - added abilities
+Headcrumbs - N/A
+LCRDRFS
+Mechanical Soldiers ?
+Midnight - added abilities
+Minecraft - added abilities
+Mowzie's Mobs
+Openblocks - added abilities
+Overlord ?
+Pirates
+Project Vibrant Journey
+Quark
+Random Things - added abilities
+Rats
+Simply Cats - added abilities
+Thermal Foundation - added abilities*
+Tropicraft - added abilities
+Wither Crumbs
+
+
+Entities:
+
+animania:buck_alpine -- animania:buck_alpine
+animania:buck_angora -- animania:buck_angora
+animania:buck_chinchilla -- animania:buck_chinchilla
+animania:buck_cottontail -- animania:buck_cottontail
+animania:buck_dutch -- animania:buck_dutch
+animania:buck_fainting -- animania:buck_fainting
+animania:buck_havana -- animania:buck_havana
+animania:buck_jack -- animania:buck_jack
+animania:buck_kiko -- animania:buck_kiko
+animania:buck_kinder -- animania:buck_kinder
+animania:buck_lop -- animania:buck_lop
+animania:buck_new_zealand -- animania:buck_new_zealand
+animania:buck_nigerian_dwarf -- animania:buck_nigerian_dwarf
+animania:buck_pygmy -- animania:buck_pygmy
+animania:buck_rex -- animania:buck_rex
+animania:bull_angus -- animania:bull_angus
+animania:bull_friesian -- animania:bull_friesian
+animania:bull_hereford -- animania:bull_hereford
+animania:bull_highland -- animania:bull_highland
+animania:bull_holstein -- animania:bull_holstein
+animania:bull_jersey -- animania:bull_jersey
+animania:bull_longhorn -- animania:bull_longhorn
+animania:bull_mooshroom -- animania:bull_mooshroom
+animania:calf_angus -- animania:calf_angus
+animania:calf_friesian -- animania:calf_friesian
+animania:calf_hereford -- animania:calf_hereford
+animania:calf_highland -- animania:calf_highland
+animania:calf_holstein -- animania:calf_holstein
+animania:calf_jersey -- animania:calf_jersey
+animania:calf_longhorn -- animania:calf_longhorn
+animania:calf_mooshroom -- animania:calf_mooshroom
+animania:chick_leghorn -- animania:chick_leghorn
+animania:chick_orpington -- animania:chick_orpington
+animania:chick_plymouth_rock -- animania:chick_plymouth_rock
+animania:chick_rhode_island_red -- animania:chick_rhode_island_red
+animania:chick_wyandotte -- animania:chick_wyandotte
+animania:cow_angus -- animania:cow_angus
+animania:cow_friesian -- animania:cow_friesian
+animania:cow_hereford -- animania:cow_hereford
+animania:cow_highland -- animania:cow_highland
+animania:cow_holstein -- animania:cow_holstein
+animania:cow_jersey -- animania:cow_jersey
+animania:cow_longhorn -- animania:cow_longhorn
+animania:cow_mooshroom -- animania:cow_mooshroom
+animania:dartfrog -- animania:dartfrog
+animania:doe_alpine -- animania:doe_alpine
+animania:doe_angora -- animania:doe_angora
+animania:doe_chinchilla -- animania:doe_chinchilla
+animania:doe_cottontail -- animania:doe_cottontail
+animania:doe_dutch -- animania:doe_dutch
+animania:doe_fainting -- animania:doe_fainting
+animania:doe_havana -- animania:doe_havana
+animania:doe_jack -- animania:doe_jack
+animania:doe_kiko -- animania:doe_kiko
+animania:doe_kinder -- animania:doe_kinder
+animania:doe_lop -- animania:doe_lop
+animania:doe_new_zealand -- animania:doe_new_zealand
+animania:doe_nigerian_dwarf -- animania:doe_nigerian_dwarf
+animania:doe_pygmy -- animania:doe_pygmy
+animania:doe_rex -- animania:doe_rex
+animania:ewe_dorper -- animania:ewe_dorper
+animania:ewe_dorset -- animania:ewe_dorset
+animania:ewe_friesian -- animania:ewe_friesian
+animania:ewe_jacob -- animania:ewe_jacob
+animania:ewe_merino -- animania:ewe_merino
+animania:ewe_suffolk -- animania:ewe_suffolk
+animania:ferret_grey -- animania:ferret_grey
+animania:ferret_white -- animania:ferret_white
+animania:foal_draft -- animania:foal_draft
+animania:frog -- animania:frog
+animania:hamster -- animania:hamster
+animania:hedgehog -- animania:hedgehog
+animania:hedgehog_albino -- animania:hedgehog_albino
+animania:hen_leghorn -- animania:hen_leghorn
+animania:hen_orpington -- animania:hen_orpington
+animania:hen_plymouth_rock -- animania:hen_plymouth_rock
+animania:hen_rhode_island_red -- animania:hen_rhode_island_red
+animania:hen_wyandotte -- animania:hen_wyandotte
+animania:hog_duroc -- animania:hog_duroc
+animania:hog_hampshire -- animania:hog_hampshire
+animania:hog_large_black -- animania:hog_large_black
+animania:hog_large_white -- animania:hog_large_white
+animania:hog_old_spot -- animania:hog_old_spot
+animania:hog_yorkshire -- animania:hog_yorkshire
+animania:kid_alpine -- animania:kid_alpine
+animania:kid_angora -- animania:kid_angora
+animania:kid_fainting -- animania:kid_fainting
+animania:kid_kiko -- animania:kid_kiko
+animania:kid_kinder -- animania:kid_kinder
+animania:kid_nigerian_dwarf -- animania:kid_nigerian_dwarf
+animania:kid_pygmy -- animania:kid_pygmy
+animania:kit_chinchilla -- animania:kit_chinchilla
+animania:kit_cottontail -- animania:kit_cottontail
+animania:kit_dutch -- animania:kit_dutch
+animania:kit_havana -- animania:kit_havana
+animania:kit_jack -- animania:kit_jack
+animania:kit_lop -- animania:kit_lop
+animania:kit_new_zealand -- animania:kit_new_zealand
+animania:kit_rex -- animania:kit_rex
+animania:lamb_dorper -- animania:lamb_dorper
+animania:lamb_dorset -- animania:lamb_dorset
+animania:lamb_friesian -- animania:lamb_friesian
+animania:lamb_jacob -- animania:lamb_jacob
+animania:lamb_merino -- animania:lamb_merino
+animania:lamb_suffolk -- animania:lamb_suffolk
+animania:mare_draft -- animania:mare_draft
+animania:peachick_blue -- animania:peachick_blue
+animania:peachick_charcoal -- animania:peachick_charcoal
+animania:peachick_opal -- animania:peachick_opal
+animania:peachick_peach -- animania:peachick_peach
+animania:peachick_purple -- animania:peachick_purple
+animania:peachick_taupe -- animania:peachick_taupe
+animania:peachick_white -- animania:peachick_white
+animania:peacock_blue -- animania:peacock_blue
+animania:peacock_charcoal -- animania:peacock_charcoal
+animania:peacock_opal -- animania:peacock_opal
+animania:peacock_peach -- animania:peacock_peach
+animania:peacock_purple -- animania:peacock_purple
+animania:peacock_taupe -- animania:peacock_taupe
+animania:peacock_white -- animania:peacock_white
+animania:peahen_blue -- animania:peahen_blue
+animania:peahen_charcoal -- animania:peahen_charcoal
+animania:peahen_opal -- animania:peahen_opal
+animania:peahen_peach -- animania:peahen_peach
+animania:peahen_purple -- animania:peahen_purple
+animania:peahen_taupe -- animania:peahen_taupe
+animania:peahen_white -- animania:peahen_white
+animania:piglet_duroc -- animania:piglet_duroc
+animania:piglet_hampshire -- animania:piglet_hampshire
+animania:piglet_large_black -- animania:piglet_large_black
+animania:piglet_large_white -- animania:piglet_large_white
+animania:piglet_old_spot -- animania:piglet_old_spot
+animania:piglet_yorkshire -- animania:piglet_yorkshire
+animania:ram_dorper -- animania:ram_dorper
+animania:ram_dorset -- animania:ram_dorset
+animania:ram_friesian -- animania:ram_friesian
+animania:ram_jacob -- animania:ram_jacob
+animania:ram_merino -- animania:ram_merino
+animania:ram_suffolk -- animania:ram_suffolk
+animania:rooster_leghorn -- animania:rooster_leghorn
+animania:rooster_orpington -- animania:rooster_orpington
+animania:rooster_plymouth_rock -- animania:rooster_plymouth_rock
+animania:rooster_rhode_island_red -- animania:rooster_rhode_island_red
+animania:rooster_wyandotte -- animania:rooster_wyandotte
+animania:sow_duroc -- animania:sow_duroc
+animania:sow_hampshire -- animania:sow_hampshire
+animania:sow_large_black -- animania:sow_large_black
+animania:sow_large_white -- animania:sow_large_white
+animania:sow_old_spot -- animania:sow_old_spot
+animania:sow_yorkshire -- animania:sow_yorkshire
+animania:stallion_draft -- animania:stallion_draft
+animania:toad -- animania:toad
+
+atum:assassin -- atum.assassin
+atum:barbarian -- atum.barbarian
+atum:bonestorm -- atum.bonestorm
+atum:brigand -- atum.brigand
+atum:camel -- atum.camel
+atum:desert_rabbit -- atum.desertRabbit
+atum:desert_wolf -- atum.desertWolf
+atum:forsaken -- atum.forsaken
+atum:mummy -- atum.mummy
+atum:nomad -- atum.nomad
+atum:pharaoh -- atum.pharaoh
+atum:scarab -- atum.scarab
+atum:stoneguard -- atum.stoneguard
+atum:stonewarden -- atum.stonewarden
+atum:sunspeaker -- atum.sunspeaker
+atum:tarantula -- atum.tarantula
+atum:warlord -- atum.warlord
+atum:wraith -- atum.wraith
+
+betteranimalsplus:badger -- betteranimalsplus.badger
+betteranimalsplus:blackbear -- betteranimalsplus.blackbear
+betteranimalsplus:boar -- betteranimalsplus.boar
+betteranimalsplus:bobbit_worm -- betteranimalsplus.bobbit_worm
+betteranimalsplus:brownbear -- betteranimalsplus.brownbear
+betteranimalsplus:coyote -- betteranimalsplus.coyote
+betteranimalsplus:crab -- betteranimalsplus.crab
+betteranimalsplus:deer -- betteranimalsplus.deer
+betteranimalsplus:feralwolf -- betteranimalsplus.feralwolf
+betteranimalsplus:fox -- betteranimalsplus.fox
+betteranimalsplus:goat -- betteranimalsplus.goat
+betteranimalsplus:hirschgeist -- betteranimalsplus.hirschgeist
+betteranimalsplus:horseshoecrab -- betteranimalsplus.horseshoecrab
+betteranimalsplus:jellyfish -- betteranimalsplus.jellyfish
+betteranimalsplus:kermodebear -- betteranimalsplus.kermodebear
+betteranimalsplus:lammergeier -- betteranimalsplus.lammergeier
+betteranimalsplus:lamprey -- betteranimalsplus.lamprey
+betteranimalsplus:moose -- betteranimalsplus.moose
+betteranimalsplus:nautilus -- betteranimalsplus.nautilus
+betteranimalsplus:pheasant -- betteranimalsplus.pheasant
+betteranimalsplus:reindeer -- betteranimalsplus.reindeer
+betteranimalsplus:shark -- betteranimalsplus.shark
+betteranimalsplus:songbird -- betteranimalsplus.songbird
+betteranimalsplus:squirrel -- betteranimalsplus.squirrel
+betteranimalsplus:tarantula -- betteranimalsplus.tarantula
+betteranimalsplus:turkey -- betteranimalsplus.turkey
+betteranimalsplus:zotzpyre -- betteranimalsplus.zotzpyre
+
+cavern:caveman -- Caveman
+cavern:cavenic_bear -- CavenicBear
+cavern:cavenic_creeper -- CavenicCreeper
+cavern:cavenic_skeleton -- CavenicSkeleton
+cavern:cavenic_spider -- CavenicSpider
+cavern:cavenic_witch -- CavenicWitch
+cavern:cavenic_zombie -- CavenicZombie
+cavern:crazy_creeper -- CrazyCreeper
+cavern:crazy_skeleton -- CrazySkeleton
+cavern:crazy_spider -- CrazySpider
+cavern:crazy_zombie -- CrazyZombie
+cavern:squid -- Squid
+cavern:summon_cavenic_skeleton -- CavenicSkeleton
+cavern:summon_cavenic_zombie -- CavenicZombie
+cavern:summon_skeleton -- Skeleton
+cavern:summon_zombie -- Zombie
+
+cyberware:cyberzombie -- cyberzombie
+
+deepmoblearning:glitch -- deepmoblearning.glitch
+deepmoblearning:trial_cave_spider -- deepmoblearning.trial_cave_spider
+deepmoblearning:trial_enderman -- deepmoblearning.trial_enderman
+deepmoblearning:trial_slime -- deepmoblearning.trial_slime
+deepmoblearning:trial_spider -- deepmoblearning.trial_spider
+
+drones:drones.drone -- drones.drone
+drones:drones.player_drone -- drones.player_drone
+
+enderutilities:endermanfighter -- enderutilities.endermanfighter
+
+energeticsheep:energetic_sheep -- energeticsheep.energetic_sheep
+
+erebus:erebus.animated_bamboo_crate -- erebus.animated_bamboo_crate
+erebus:erebus.animated_block -- erebus.animated_block
+erebus:erebus.animated_chest -- erebus.animated_chest
+erebus:erebus.antlion -- erebus.antlion
+erebus:erebus.antlion_boss -- erebus.antlion_boss
+erebus:erebus.antlion_mini_boss -- erebus.antlion_mini_boss
+erebus:erebus.bed_bug -- erebus.bed_bug
+erebus:erebus.beetle -- erebus.beetle
+erebus:erebus.beetle_larva -- erebus.beetle_larva
+erebus:erebus.black_ant -- erebus.black_ant
+erebus:erebus.black_widow -- erebus.black_widow
+erebus:erebus.bog_maw -- erebus.bog_maw
+erebus:erebus.bombardier_beetle -- erebus.bombardier_beetle
+erebus:erebus.bombardier_beetle_larva -- erebus.bombardier_beetle_larva
+erebus:erebus.bot_fly -- erebus.bot_fly
+erebus:erebus.bot_fly_larva -- erebus.bot_fly_larva
+erebus:erebus.centipede -- erebus.centipede
+erebus:erebus.chameleon_tick -- erebus.chameleon_tick
+erebus:erebus.cicada -- erebus.cicada
+erebus:erebus.crop_weevil -- erebus.crop_weevil
+erebus:erebus.crushroom -- erebus.crushroom
+erebus:erebus.dragon_fly -- erebus.dragon_fly
+erebus:erebus.fire_ant -- erebus.fire_ant
+erebus:erebus.fire_ant_soldier -- erebus.fire_ant_soldier
+erebus:erebus.fly -- erebus.fly
+erebus:erebus.fungal_weevil -- erebus.fungal_weevil
+erebus:erebus.glow_worm -- erebus.glow_worm
+erebus:erebus.grasshopper -- erebus.grasshopper
+erebus:erebus.honey_pot_ant -- erebus.honey_pot_ant
+erebus:erebus.jumping_spider -- erebus.jumping_spider
+erebus:erebus.lava_web_spider -- erebus.lava_web_spider
+erebus:erebus.locust -- erebus.locust
+erebus:erebus.magma_crawler -- erebus.magma_crawler
+erebus:erebus.midge_swarm -- erebus.midge_swarm
+erebus:erebus.money_spider -- erebus.money_spider
+erebus:erebus.mosquito -- erebus.mosquito
+erebus:erebus.moth -- erebus.moth
+erebus:erebus.pond_skater -- erebus.pond_skater
+erebus:erebus.praying_mantis -- erebus.praying_mantis
+erebus:erebus.punchroom -- erebus.punchroom
+erebus:erebus.rhino_beetle -- erebus.rhino_beetle
+erebus:erebus.scorpion -- erebus.scorpion
+erebus:erebus.scytodes -- erebus.scytodes
+erebus:erebus.solifuge -- erebus.solifuge
+erebus:erebus.solifuge_small -- erebus.solifuge_small
+erebus:erebus.stag_beetle -- erebus.stag_beetle
+erebus:erebus.tarantula -- erebus.tarantula
+erebus:erebus.tarantula_baby -- erebus.tarantula_baby
+erebus:erebus.tarantula_mini_boss -- erebus.tarantula_mini_boss
+erebus:erebus.titan_beetle -- erebus.titan_beetle
+erebus:erebus.umber_golem -- erebus.umber_golem
+erebus:erebus.umber_golem_idol -- erebus.umber_golem_idol
+erebus:erebus.velvet_worm -- erebus.velvet_worm
+erebus:erebus.wasp -- erebus.wasp
+erebus:erebus.woodlouse -- erebus.woodlouse
+erebus:erebus.worker_bee -- erebus.worker_bee
+erebus:erebus.zombie_ant -- erebus.zombie_ant
+erebus:erebus.zombie_ant_soldier -- erebus.zombie_ant_soldier
+
+fampack:elwms -- fampack:elwms
+
+fossil:fossil.alligator_gar -- fossil.alligator_gar
+fossil:fossil.allosaurus -- fossil.allosaurus
+fossil:fossil.ancient_javelin -- fossil.ancient_javelin
+fossil:fossil.ankylosaurus -- fossil.ankylosaurus
+fossil:fossil.anu -- fossil.anu
+fossil:fossil.anubite -- fossil.anubite
+fossil:fossil.anudead -- fossil.anudead
+fossil:fossil.anueffect -- fossil.anueffect
+fossil:fossil.arthropleura -- fossil.arthropleura
+fossil:fossil.birdegg -- fossil.birdegg
+fossil:fossil.brachiosaurus -- fossil.brachiosaurus
+fossil:fossil.ceratosaurus -- fossil.ceratosaurus
+fossil:fossil.citipati -- fossil.citipati
+fossil:fossil.coelacanth -- fossil.coelacanth
+fossil:fossil.compsognathus -- fossil.compsognathus
+fossil:fossil.confuciusornis -- fossil.confuciusornis
+fossil:fossil.crassigyrinus -- fossil.crassigyrinus
+fossil:fossil.debugtest -- fossil.debugtest
+fossil:fossil.deinonychus -- fossil.deinonychus
+fossil:fossil.dilophosaurus -- fossil.dilophosaurus
+fossil:fossil.dinoegg -- fossil.dinoegg
+fossil:fossil.diplocaulus -- fossil.diplocaulus
+fossil:fossil.dodo -- fossil.dodo
+fossil:fossil.dryosaurus -- fossil.dryosaurus
+fossil:fossil.edaphosaurus -- fossil.edaphosaurus
+fossil:fossil.elasmotherium -- fossil.elasmotherium
+fossil:fossil.failuresaurus -- fossil.failuresaurus
+fossil:fossil.friendlypigzombie -- fossil.friendlypigzombie
+fossil:fossil.gallimimus -- fossil.gallimimus
+fossil:fossil.gastornis -- fossil.gastornis
+fossil:fossil.henodus -- fossil.henodus
+fossil:fossil.icthyosaurus -- fossil.icthyosaurus
+fossil:fossil.javelin -- fossil.javelin
+fossil:fossil.kelenken -- fossil.kelenken
+fossil:fossil.liopleurodon -- fossil.liopleurodon
+fossil:fossil.mammoth -- fossil.mammoth
+fossil:fossil.megalania -- fossil.megalania
+fossil:fossil.megaloceros -- fossil.megaloceros
+fossil:fossil.megalodon -- fossil.megalodon
+fossil:fossil.megalograptus -- fossil.megalograptus
+fossil:fossil.meganeura -- fossil.meganeura
+fossil:fossil.mosasaurus -- fossil.mosasaurus
+fossil:fossil.nautilus -- fossil.nautilus
+fossil:fossil.pachycephalosaurus -- fossil.pachycephalosaurus
+fossil:fossil.parasaurolophus -- fossil.parasaurolophus
+fossil:fossil.phorusrhacos -- fossil.phorusrhacos
+fossil:fossil.platybelodon -- fossil.platybelodon
+fossil:fossil.plesiosaur -- fossil.plesiosaur
+fossil:fossil.pterosaur -- fossil.pterosaur
+fossil:fossil.quagga -- fossil.quagga
+fossil:fossil.sarcosuchus -- fossil.sarcosuchus
+fossil:fossil.sentrypigman -- fossil.sentrypigman
+fossil:fossil.smilodon -- fossil.smilodon
+fossil:fossil.spinosaurus -- fossil.spinosaurus
+fossil:fossil.stegosaurus -- fossil.stegosaurus
+fossil:fossil.sturgeon -- fossil.sturgeon
+fossil:fossil.tarslime -- fossil.tarslime
+fossil:fossil.therizinosaurus -- fossil.therizinosaurus
+fossil:fossil.tiktaalik -- fossil.tiktaalik
+fossil:fossil.titanis -- fossil.titanis
+fossil:fossil.toyscratchingpost -- fossil.toyscratchingpost
+fossil:fossil.triceratops -- fossil.triceratops
+fossil:fossil.tyrannosaurus -- fossil.tyrannosaurus
+fossil:fossil.velociraptor -- fossil.velociraptor
+
+golems:golem_bedrock -- golems.golem_bedrock
+golems:golem_bone -- golems.golem_bone
+golems:golem_bookshelf -- golems.golem_bookshelf
+golems:golem_clay -- golems.golem_clay
+golems:golem_coal -- golems.golem_coal
+golems:golem_concrete -- golems.golem_concrete
+golems:golem_crafting -- golems.golem_crafting
+golems:golem_diamond -- golems.golem_diamond
+golems:golem_dispenser -- golems.golem_dispenser
+golems:golem_emerald -- golems.golem_emerald
+golems:golem_end_stone -- golems.golem_end_stone
+golems:golem_furnace -- golems.golem_furnace
+golems:golem_glass -- golems.golem_glass
+golems:golem_glowstone -- golems.golem_glowstone
+golems:golem_gold -- golems.golem_gold
+golems:golem_hardened_clay -- golems.golem_hardened_clay
+golems:golem_ice -- golems.golem_ice
+golems:golem_lapis -- golems.golem_lapis
+golems:golem_leaves -- golems.golem_leaves
+golems:golem_magma -- golems.golem_magma
+golems:golem_melon -- golems.golem_melon
+golems:golem_nether_brick -- golems.golem_nether_brick
+golems:golem_nether_wart -- golems.golem_nether_wart
+golems:golem_obsidian -- golems.golem_obsidian
+golems:golem_prismarine -- golems.golem_prismarine
+golems:golem_quartz -- golems.golem_quartz
+golems:golem_red_sandstone -- golems.golem_red_sandstone
+golems:golem_redstone -- golems.golem_redstone
+golems:golem_redstone_lamp -- golems.golem_redstone_lamp
+golems:golem_sandstone -- golems.golem_sandstone
+golems:golem_sea_lantern -- golems.golem_sea_lantern
+golems:golem_shroom -- golems.golem_shroom
+golems:golem_slime -- golems.golem_slime
+golems:golem_sponge -- golems.golem_sponge
+golems:golem_stained_clay -- golems.golem_stained_clay
+golems:golem_stained_glass -- golems.golem_stained_glass
+golems:golem_straw -- golems.golem_straw
+golems:golem_tnt -- golems.golem_tnt
+golems:golem_wooden -- golems.golem_wooden
+golems:golem_wool -- golems.golem_wool
+golems_thermal:golem_aluminum_tf -- golems_thermal.golem_aluminum_tf
+golems_thermal:golem_bronze_tf -- golems_thermal.golem_bronze_tf
+golems_thermal:golem_coal-coke_tf -- golems_thermal.golem_coal-coke_tf
+golems_thermal:golem_constantan_tf -- golems_thermal.golem_constantan_tf
+golems_thermal:golem_copper_tf -- golems_thermal.golem_copper_tf
+golems_thermal:golem_electrum_tf -- golems_thermal.golem_electrum_tf
+golems_thermal:golem_enderium_tf -- golems_thermal.golem_enderium_tf
+golems_thermal:golem_hard-glass_tf -- golems_thermal.golem_hard-glass_tf
+golems_thermal:golem_invar_tf -- golems_thermal.golem_invar_tf
+golems_thermal:golem_iridium_tf -- golems_thermal.golem_iridium_tf
+golems_thermal:golem_lead_tf -- golems_thermal.golem_lead_tf
+golems_thermal:golem_lumium_tf -- golems_thermal.golem_lumium_tf
+golems_thermal:golem_mana-infused_tf -- golems_thermal.golem_mana-infused_tf
+golems_thermal:golem_nickel_tf -- golems_thermal.golem_nickel_tf
+golems_thermal:golem_platinum_tf -- golems_thermal.golem_platinum_tf
+golems_thermal:golem_rockwool_tf -- golems_thermal.golem_rockwool_tf
+golems_thermal:golem_signalum_tf -- golems_thermal.golem_signalum_tf
+golems_thermal:golem_silver_tf -- golems_thermal.golem_silver_tf
+golems_thermal:golem_steel_tf -- golems_thermal.golem_steel_tf
+golems_thermal:golem_tin_tf -- golems_thermal.golem_tin_tf
+
+hatchery:roosterentity -- Rooster
+
+headcrumbs:human -- Human
+
+lcrdrfs:creepssile -- lcrdrfs.creepssile
+lcrdrfs:jet_pack_spider -- lcrdrfs.jet_pack_spider
+lcrdrfs:laser_beam -- lcrdrfs.laser_beam
+lcrdrfs:laser_creeper -- lcrdrfs.laser_creeper
+lcrdrfs:robo_dino -- lcrdrfs.robo_dino
+
+mechsoldiers:mechanical_skeleton -- mechanical_skeleton
+
+midnight:crystal_bug -- midnight.crystal_bug
+midnight:deceitful_snapper -- midnight.deceitful_snapper
+midnight:hunter -- midnight.hunter
+midnight:nightstag -- midnight.nightstag
+midnight:nova -- midnight.nova
+midnight:penumbrian -- midnight.penumbrian
+midnight:rifter -- midnight.rifter
+midnight:skulk -- midnight.skulk
+midnight:stinger -- midnight.stinger
+midnight:tree_hopper -- midnight.tree_hopper
+
+minecraft:bat -- Bat
+minecraft:blaze -- Blaze
+minecraft:cave_spider -- CaveSpider
+minecraft:chicken -- Chicken
+minecraft:cow -- Cow
+minecraft:creeper -- Creeper
+minecraft:donkey -- Donkey
+minecraft:elder_guardian -- ElderGuardian
+minecraft:ender_dragon -- EnderDragon
+minecraft:enderman -- Enderman
+minecraft:endermite -- Endermite
+minecraft:evocation_illager -- EvocationIllager
+minecraft:ghast -- Ghast
+minecraft:giant -- Giant
+minecraft:guardian -- Guardian
+minecraft:horse -- Horse
+minecraft:husk -- Husk
+minecraft:illusion_illager -- IllusionIllager
+minecraft:llama -- Llama
+minecraft:magma_cube -- LavaSlime
+minecraft:mooshroom -- MushroomCow
+minecraft:mule -- Mule
+minecraft:ocelot -- Ozelot
+minecraft:parrot -- Parrot
+minecraft:pig -- Pig
+minecraft:polar_bear -- PolarBear
+minecraft:rabbit -- Rabbit
+minecraft:sheep -- Sheep
+minecraft:shulker -- Shulker
+minecraft:silverfish -- Silverfish
+minecraft:skeleton -- Skeleton
+minecraft:skeleton_horse -- SkeletonHorse
+minecraft:slime -- Slime
+minecraft:snowman -- SnowMan
+minecraft:spider -- Spider
+minecraft:squid -- Squid
+minecraft:stray -- Stray
+minecraft:vex -- Vex
+minecraft:villager -- Villager
+minecraft:villager_golem -- VillagerGolem
+minecraft:vindication_illager -- VindicationIllager
+minecraft:witch -- Witch
+minecraft:wither -- WitherBoss
+minecraft:wither_skeleton -- WitherSkeleton
+minecraft:wolf -- Wolf
+minecraft:zombie -- Zombie
+minecraft:zombie_horse -- ZombieHorse
+minecraft:zombie_pigman -- PigZombie
+minecraft:zombie_villager -- ZombieVillager
+
+mowziesmobs:baby_foliaath -- baby_foliaath
+mowziesmobs:barako -- barako
+mowziesmobs:barakoan_barakoana -- barakoan_barakoana
+mowziesmobs:barakoan_player -- barakoan_player
+mowziesmobs:barakoana -- barakoana
+mowziesmobs:barakoaya -- barakoaya
+mowziesmobs:ferrous_wroughtnaut -- ferrous_wroughtnaut
+mowziesmobs:foliaath -- foliaath
+mowziesmobs:frostmaw -- frostmaw
+mowziesmobs:grottol -- grottol
+mowziesmobs:lantern -- lantern
+mowziesmobs:naga -- naga
+
+openblocks:luggage -- openblocks.luggage
+openblocks:mini_me -- openblocks.mini_me
+
+overlord:skeleton_baby -- skeleton_baby
+overlord:skeleton_converted -- skeleton_converted
+overlord:skeleton_curing -- skeleton_curing
+overlord:skeleton_warrior -- skeleton_warrior
+
+pirates:cursed_pirate -- cursed_pirate
+pirates:kraken -- kraken
+pirates:mermaid -- mermaid
+pirates:pirate -- pirate
+pirates:pirate_villager -- pirate_villager
+pirates:shark -- shark
+
+pvj:pvj_banshee -- pvj_banshee
+pvj:pvj_beach_starfish -- pvj_beach_starfish
+pvj:pvj_clam -- pvj_clam
+pvj:pvj_coyote -- pvj_coyote
+pvj:pvj_duck -- pvj_duck
+pvj:pvj_firefly -- pvj_firefly
+pvj:pvj_fly -- pvj_fly
+pvj:pvj_ghost -- pvj_ghost
+pvj:pvj_goon -- pvj_goon
+pvj:pvj_grizzly_bear -- pvj_grizzly_bear
+pvj:pvj_shade -- pvj_shade
+pvj:pvj_skeletal_knight -- pvj_skeletal_knight
+pvj:pvj_small_spider -- pvj_small_spider
+pvj:pvj_snail -- pvj_snail
+pvj:pvj_starfish -- pvj_starfish
+pvj:pvj_watcher -- pvj_watcher
+
+quark:archaeologist -- quark:archaeologist
+quark:ashen -- quark:ashen
+quark:crab -- quark:crab
+quark:dweller -- quark:dweller
+quark:foxhound -- quark:foxhound
+quark:frog -- quark:frog
+quark:pirate -- quark:pirate
+quark:stoneling -- quark:stoneling
+quark:wraith -- quark:wraith
+
+randomthings:goldenchicken -- goldenChicken
+
+rats:black_death -- black_death
+rats:feral_ratlantean -- feral_ratlantean
+rats:illager_piper -- illager_piper
+rats:marbled_cheese_golem -- marbled_cheese_golem
+rats:neo_ratlantean -- neo_ratlantean
+rats:pirat -- pirat
+rats:plague_beast -- plague_beast
+rats:plague_cloud -- plague_cloud
+rats:plague_doctor -- plague_doctor
+rats:rat -- rat
+rats:rat_arrow -- rat_arrow
+rats:rat_capture_net -- rat_capture_net
+rats:rat_dragon_fire -- rat_dragon_fire
+rats:ratlantean_flame -- ratlantean_flame
+rats:ratlantean_spirit -- ratlantean_spirit
+
+simplycats:cat -- Cat
+
+thermalfoundation:basalz -- thermalfoundation.basalz
+thermalfoundation:blitz -- thermalfoundation.blitz
+thermalfoundation:blizz -- thermalfoundation.blizz
+
+tropicraft:ashen -- tropicraft.ashen
+tropicraft:dolphin -- tropicraft.dolphin
+tropicraft:eagleray -- tropicraft.eagleray
+tropicraft:eih -- tropicraft.eih
+tropicraft:failgull -- tropicraft.failgull
+tropicraft:fish -- tropicraft.fish
+tropicraft:hammerhead -- tropicraft.hammerhead
+tropicraft:iguana -- tropicraft.iguana
+tropicraft:koa -- tropicraft.koa
+tropicraft:marlin -- tropicraft.marlin
+tropicraft:monkey -- tropicraft.monkey
+tropicraft:mow -- tropicraft.mow
+tropicraft:piranha -- tropicraft.piranha
+tropicraft:sardine -- tropicraft.sardine
+tropicraft:seahorse -- tropicraft.seahorse
+tropicraft:seaurchin -- tropicraft.seaurchin
+tropicraft:starfish -- tropicraft.starfish
+tropicraft:treefrog -- tropicraft.treefrog
+tropicraft:tropicreeper -- tropicraft.tropicreeper
+tropicraft:tropiskelly -- tropicraft.tropiskelly
+tropicraft:tropispider -- tropicraft.tropispider
+tropicraft:turtle -- tropicraft.turtle
+
+withercrumbs:wither crumb -- Wither_Crumb

@@ -81,7 +81,6 @@
         "hostile": true,
         "hands": true
     },
-    
     "minecraft:enderman": {
         "abilities": ["water_allergy"],
         "action": "teleport",
@@ -115,7 +114,6 @@
         "speed": 0.04,
         "hands": true
     },
-    
     "minecraft:blaze": {
         "abilities": ["glide", "fire_proof", "water_allergy"],
         "action": "small_fireball",
@@ -139,6 +137,11 @@
     "minecraft:guardian": {
         "abilities": ["water_breath", "night_vision", "swim", "jumping"],
         "health": 30,
+        "hostile": true
+    },
+    "minecraft:elder_guardian": {
+        "abilities": ["water_breath", "night_vision", "swim", "jumping"],
+        "health": 40,
         "hostile": true
     },
     "minecraft:magma_cube": {
@@ -168,7 +171,7 @@
         "hands": true
     },
     "minecraft:wither_skeleton": {
-        "abilities": ["fire_proof"],
+        "abilities": ["fire_proof", "sun_allergy"],
         "attack": "wither",
         "health": 20,
         "hostile": true,
@@ -261,7 +264,280 @@
     "midnight:tree_hopper": {
         "abilities": ["night_vision", "sun_allergy", "jumping"],
         "action": "jump"
+    },
+    "animania:chick_leghorn": {
+        "abilities": ["glide"]
+    },
+    "animania:chick_orpington": {
+        "abilities": ["glide"]
+    },
+    "animania:chick_plymouth_rock": {
+        "abilities": ["glide"]
+    },
+    "animania:chick_rhode_island_red": {
+        "abilities": ["glide"]
+    },
+    "animania:chick_wyandotte": {
+        "abilities": ["glide"]
+    },
+    "animania:hen_leghorn": {
+        "abilities": ["glide"]
+    },
+    "animania:hen_orpington": {
+        "abilities": ["glide"]
+    },
+    "animania:hen_plymouth_rock": {
+        "abilities": ["glide"]
+    },
+    "animania:hen_rhode_island_red": {
+        "abilities": ["glide"]
+    },
+    "animania:hen_wyandotte": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_blue": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_charcoal": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_opal": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_peach": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_purple": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_taupe": {
+        "abilities": ["glide"]
+    },
+    "animania:peachick_white": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_blue": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_charcoal": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_opal": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_peach": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_purple": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_taupe": {
+        "abilities": ["glide"]
+    },
+    "animania:peacock_white": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_blue": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_charcoal": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_opal": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_peach": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_purple": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_taupe": {
+        "abilities": ["glide"]
+    },
+    "animania:peahen_white": {
+        "abilities": ["glide"]
+    },
+    "animania:rooster_leghorn": {
+        "abilities": ["glide"]
+    },
+    "animania:rooster_orpington": {
+        "abilities": ["glide"]
+    },
+    "animania:rooster_plymouth_rock": {
+        "abilities": ["glide"]
+    },
+    "animania:rooster_rhode_island_red": {
+        "abilities": ["glide"]
+    },
+    "animania:rooster_wyandotte": {
+        "abilities": ["glide"]
+    },
+    "animania:foal_draft": {
+        "abilities": ["prevent_fall"],
+        "action": "jump",
+        "health": 12,
+        "speed": 0.15,
+        "hands": false
+    },
+    "animania:mare_draft": {
+        "abilities": ["prevent_fall"],
+        "action": "jump",
+        "health": 20,
+        "speed": 0.15,
+        "hands": false
+    },
+    "animania:stallion_draft": {
+        "abilities": ["prevent_fall"],
+        "action": "jump",
+        "health": 24,
+        "speed": 0.15,
+        "hands": false
+    },
+    "animania:toad": {
+        "abilities": ["prevent_fall", "jumping"],
+        "action": "jump"
+    },
+    "animania:dartfrog": {
+        "abilities": ["prevent_fall", "jumping"],
+        "action": "jump"
+    },
+    "animania:frog": {
+        "abilities": ["prevent_fall", "jumping"],
+        "action": "jump"
+    },
+    "atum:bonestorm": {
+        "abilities": ["sun_allergy"]
+    },
+    "atum:forsaken": {
+        "abilities": ["sun_allergy"]
+    },
+    "atum:mummy": {
+        "abilities": ["sun_allergy"]
+    },
+    "atum:wraith": {
+        "abilities": ["sun_allergy"]
+    },
+    "atum:stoneguard": {
+        "abilities": ["fire_proof", "hungerless"]
+    },
+    "atum:stonewarden": {
+        "abilities": ["fire_proof", "hungerless"]
+    },
+    "atum:desert_rabbit": {
+        "abilities": ["prevent_fall", "jumping"],
+        "action": "jump"
+    },
+    "atum:tarantula": {
+        "abilities": ["climb"],
+        "action": "jump"
+    },
+    "cavern:caveman": {
+        "abilities": ["fire_proof", "night_vision"]
+    },
+    "cavern:cavenic_creeper": {
+        "abilities": ["night_vision", "sun_allergy"],
+        "action": "explode"
+    },
+    "cavern:cavenic_skeleton": {
+        "abilities": ["night_vision", "sun_allergy"]
+    },
+    "cavern:cavenic_spider": {
+        "abilities": ["night_vision", "sun_allergy", "climb"]
+    },
+    "cavern:cavenic_witch": {
+        "abilities": ["night_vision", "sun_allergy"],
+        "action": "potions"
+    },
+    "cavern:cavenic_zombie": {
+        "abilities": ["night_vision", "sun_allergy", "hungerless"]
+    },
+    "cavern:crazy_creeper": {
+        "abilities": ["night_vision", "sun_allergy"],
+        "action": "explode",
+        "health": 50
+    },
+    "cavern:crazy_skeleton": {
+        "abilities": ["night_vision", "sun_allergy"],
+        "attack": "knockback",
+        "health": 50
+    },
+    "cavern:crazy_zombie": {
+        "abilities": ["night_vision", "sun_allergy", "hungerless"],
+        "attack": "knockback",
+        "health": 50
+    },
+    "cavern:crazy_spider": {
+        "abilities": ["night_vision", "sun_allergy", "climb"],
+        "health": 50
+    },
+    "cavern:squid": {
+        "abilities": ["water_breath", "swim", "night_vision"]
+    },
+    "cyberware:cyberzombie": {
+        "abilities": ["night_vision", "sun_allergy", "hungerless"],
+        "attack": "knockback",
+        "health": 30
+    },
+    "deepmoblearning:glitch": {
+        "abilities": ["hungerless"]
+    },
+    "deepmoblearning:trial_cave_spider": {
+        "abilities": ["climb"],
+        "attack": "poison"
+    },
+    "deepmoblearning:trial_enderman": {
+        "abilities": ["water_allergy"],
+        "action": "teleport"
+    },
+    "deepmoblearning:trial_slime": {
+        "abilities": ["jumping"],
+        "action": "jump"
+    },
+    "deepmoblearning:trial_spider": {
+        "abilities": ["climb"]
+    },
+    "drones:drones.drone": {
+        "abilities": ["fly"],
+        "speed": 0.0015,
+        "health": 10
+    },
+    "drones:drones.player_drone": {
+        "abilities": ["fly"],
+        "speed": 0.0015,
+        "health": 10
+    },
+    "enderutilities:endermanfighter": {
+        "abilities": ["water_allergy"],
+        "action": "teleport"
+    },
+    "hatchery:roosterentity": {
+        "abilities": ["glide"]
+    },
+    "openblocks:luggage": {
+        "abilities": ["hungerless"]
+    },  
+    "simplycats:cat": {
+        "abilities": ["prevent_fall"],
+        "health": 10
+    },
+    "thermalfoundation:basalz": {
+        "abilities": ["glide", "fire_proof"],
+        "action": "small_fireball",
+        "health": 20,
+        "hostile": true
+    },
+    "thermalfoundation:blitz": {
+        "abilities": ["glide", "fire_proof"],
+        "action": "small_fireball",
+        "health": 20,
+        "hostile": true
+    },
+    "thermalfoundation:blizz": {
+        "abilities": ["glide", "snow_walk"],
+        "action": "snowball",
+        "health": 20,
+        "hostile": true
     }
-    
 
 }
