@@ -55,9 +55,5 @@
         "dimension": 69,
         "mob": "pvj:pvj_duck",
         "result": "deny"
-    },
-    {
-        "mob": "minecraft:spider",
-        "result": "deny"
     }
   ]

@@ -3375,6 +3375,10 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 --- Removed Mods ---
 --------------------
+Just Enough Vehicles
+MrCrayfish's Gun Mod
+MrCrayfish's Vehicle Mod
+Obfuscate
 
 
 -- Config Changes --
@@ -3402,28 +3406,42 @@ recipesCrafting/mods/animania.zs
 -----------------------------------------------------------------------------  
         Changelog
         Week of March 15-21, 2020
-        Build Name / Splash Screen = TBD
+        Build Name / Splash Screen = TBD 0.0.7.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
- 
-Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
+JustEnoughIDs 1.0.3-48 (crashes game)
 
 
 -- Added Mods --
 ----------------
 Changeling (by asanetargoss)
 ColorfulWater (by BillyGalbreath)
+Macaw's Bridges (by sketch_macaw)
+Mankini (by MasterAbdoTGM50)
+Snow! Real Magic! (by Snownee_)
+Unique Enchantments (by Speiger)
 
 
 -- Updated Mods --
 -------------------
+Building Gadgets (2.8.1 to 2.8.2)
+Cannibalism (5.6.3 to 5.6.4)
+Just Enough Vehicles (v1.0 to v1.1)
+MrCrayfish's Vehicle Mod (0.43.0 to 0.43.4)
+Obfuscate (0.2.6 to 0.2.7)
+Pirates (0.0.5a to 0.0.6a)
+Random Things (4.2.7.3 to 4.2.7.4)
+Xaero's Minimap (20.5.1 to 20.5.2)
+Xaero's World Map (1.5.5 to 1.5.6 )
 
 
 --- Removed Mods ---
 --------------------
+Initial Inventory
 Metamorph (replaced by Changeling -fork of Metamorph)
+stimmedcow: No More Recipe Conflict
 Unloader
 
 
@@ -3444,78 +3462,7 @@ betteranimalsplus.cfg
                     mist:up_hilly_taiga
                     mist:up_jungle_hills
 	entitytarantula {
-		S:spawnBiomes <
-                        minecraft:plains
-                        minecraft:desert
-                        minecraft:extreme_hills
-                        minecraft:forest
-                        minecraft:taiga
-                        minecraft:swampland
-                        minecraft:beaches
-                        minecraft:desert_hills
-                        minecraft:forest_hills
-                        minecraft:taiga_hills
-                        minecraft:smaller_extreme_hills
-                        minecraft:jungle
-                        minecraft:jungle_hills
-                        minecraft:jungle_edge
-                        minecraft:stone_beach
-                        minecraft:cold_beach
-                        minecraft:birch_forest
-                        minecraft:birch_forest_hills
-                        minecraft:roofed_forest
-                        minecraft:taiga_cold
-                        minecraft:taiga_cold_hills
-                        minecraft:redwood_taiga
-                        minecraft:redwood_taiga_hills
-                        minecraft:extreme_hills_with_trees
-                        minecraft:savanna
-                        minecraft:savanna_rock
-                        minecraft:mesa
-                        minecraft:mesa_rock
-                        minecraft:mesa_clear_rock
-                        pvj:prairie
-                        pvj:redwoods
-                        pvj:redwood_peaks
-                        pvj:willow_swamp
-                        pvj:boreal_forest
-                        pvj:snowy_boreal_forest
-                        pvj:aspen_grove
-                        pvj:overgrown_spires
-                        pvj:blossoming_fields
-                        integrateddynamics:biome_meneglin
-                        traverse:autumnal_woods
-                        traverse:woodlands
-                        traverse:mini_jungle
-                        traverse:meadow
-                        traverse:green_swamp
-                        traverse:red_desert
-                        traverse:temperate_rainforest
-                        traverse:badlands
-                        traverse:mountainous_desert
-                        traverse:rocky_plateau
-                        traverse:forested_hills
-                        traverse:birch_forested_hills
-                        traverse:autumnal_wooded_hills
-                        traverse:cliffs
-                        traverse:snowy_coniferous_forest
-                        traverse:lush_hills
-                        traverse:desert_shrubland
-                        traverse:thicket
-                        traverse:arid_highland
-                        traverse:rocky_plains
-                        minecraft:mutated_plains
-                        minecraft:mutated_desert
-                        minecraft:mutated_extreme_hills
-                        minecraft:mutated_forest
-                        minecraft:mutated_taiga
-                        minecraft:mutated_swampland
-                        minecraft:mutated_jungle
-                        minecraft:mutated_jungle_edge
-                        minecraft:mutated_birch_forest
-                        minecraft:mutated_birch_forest_hills
-                        minecraft:mutated_roofed_forest
-                        minecraft:mutated_taiga_cold
+		B:doSpawning=false
 	entityjellyfish {
 		B:doSpawning=false
 	entitypheasant {
@@ -3542,9 +3489,12 @@ deepmoblearning.cfg
 		withercrubs:wither crumb
 gamestage.cfg
 	B:"Log Debug Data"=false
-incontrol/spawn.json
-	{ "mob": "minecraft:spider",
-      "result": "deny" }
+ichunutil.cfg
+	clientonly
+		I:enableLatchedRendererSpawn=0  
+				(fix invis entities when changing dimensions - conflict w/ codechickenlib)
+pirates.cfg
+	remove and regen; transfer prior config options
 projectvibrantjourneys.cfg
 	I:grizzlyBearSpawnWeight=0
 rats.cfg
@@ -3557,6 +3507,8 @@ rats.cfg
 /events
 	/kitchencabinetfix.zs
 		Denied turning the Crayfish Kitchen Cabinet and Counter Drawer with the crescent hammer to avoid loss of inventory
+/mods
+	initialinventory.zs removed
 /oreDict
 	/misc.zs
 		Added Hatchery plastic to plastic oredict
@@ -3568,6 +3520,8 @@ rats.cfg
 /recipesCrafting/mods
 	/aim.zs
 		Changed potion relay recipe to for oredict
+	/akashictome.zs
+		added animania manual to recipe
 	/animania.zs
 		Changed hamster ball recipes to use plastic instead of Glass
 		Removed wagon
@@ -3609,6 +3563,7 @@ rats.cfg
 /seteffect
 	/armorSets.zs
 		Removed Vampire info from Rockshroom set
+		added jumpboost to Rockshroom set
 
 -- Asset Changes --
 -------------------
@@ -3618,3 +3573,51 @@ rats.cfg
 
 -- Other Changes --
 -------------------   
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 22-28, 2020
+        Build Name / Splash Screen = TBD 0.0.7.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+JustEnoughIDs 1.0.3-48 (crashes game)
+
+
+-- Added Mods --
+----------------
+
+
+
+-- Updated Mods --
+-------------------
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+metamorph/
+	morphs.json
+		happybandit added a bundh of morphs
+       
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+-------------------   
+added entities.txt file to dev files as checklist for morphs
