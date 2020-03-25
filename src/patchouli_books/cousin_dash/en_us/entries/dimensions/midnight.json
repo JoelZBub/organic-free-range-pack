@@ -1,0 +1,17 @@
+{
+    "name": "Midnight",
+    "icon": "midnight:dark_pearl",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Getting there's easy. Getting out is harder.$(p)There are three ways to get to the Midnight:$(li)Get abducted and be dragged there against your will!$(li)Voluntarily walk through a portal at night.$(li)Build a Rift Machine and come and go at your convenience."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/midnight.png"],
+            "border": "true",
+            "text": "Once you're in the Midnight, using a Rift Machine or finding a rift are your ways out."
+        }
+    ]
+}

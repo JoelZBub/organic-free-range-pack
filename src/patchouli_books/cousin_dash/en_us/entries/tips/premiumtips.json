@@ -1,0 +1,15 @@
+{
+    "name": "Premium Tips",
+    "icon": "rats:psionic_rat_brain",
+    "category": "tips",
+    "pages": [
+        {
+            "type": "text",
+            "text": "• Right-clicking a vanilla slime block with a shovel compresses it into a slime launchpad. Want to bounce even higher? Make an extreme slime plate. HASA, we have lift-off!$(p)• ATUM MEGA GOLD PLATINUM TIP (SUBSCRIBERS ONLY): Wearing Atum armor will make it easier to see through the sand fog! A little!"
+        },
+        {
+            "type": "text",
+            "text": "• Hermit Hint #248: Crab Rave… sure it’s a meme, but what if it were literal? Word on the street is certain crustaceans break out the glow sticks if you play them the right song. $(o)Hint: crab meat on a feline record?$()$(p)• Two words: Swan. Boat."
+        }
+    ]
+}

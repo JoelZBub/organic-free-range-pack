@@ -1,0 +1,23 @@
+{
+    "name": "01 - Welcome",
+    "icon": "minecraft:sapling",
+    "category": "intro",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(d)$(l)Greetings Screwbags!$()$(br2)Welcome to Uncle Genny’s 100% Organic & Free-Range Modpack. By now, you’ve finally finished picking ya nose & scratchin’ ya butt and moved on to placing down your limited-edition Hermit RV.$(br2)$(o)golf clap"
+        },
+        {
+            "type": "text",
+            "text": "Fun Fact: Your RV is randomly selected from a total of $(l)5$() unique RV designs, all hand-made with love by generikb himself (he washed his hands!)$(br2)Speaking of fun facts, $(l)Cousin Dash’s How to be Real Cool and Do Cool Things Guidebook: $(6)Gold Edition$() is your first stop for tips, tricks, and help for players of all skill groups. We’ve got it $(n)all!"
+        },
+        {
+            "type": "text",
+            "text": "And sure, there are critics who say this is less of a “Guidebook“ and more of a “Hastily Assembled Compendium of Notes Scribbled on Napkins”... but what else would you expect from a bunch of milk-drinking booger eaters?$(br2)So welcome on in to the fun, and don’t forget to swing by $(l:http://www.twitch.tv/generikb)twitch.tv/generikb$(/l) and say “what’s up!” You can tell ‘em $(n)Cousin Dash sent ya!"
+        },
+        {
+            "type": "text",
+            "text": "From our big braims to yours,$(br2)Enyoy! <3"
+        }
+    ]
+}

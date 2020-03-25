@@ -1,0 +1,25 @@
+{
+    "name": "Caverns",
+    "icon": "cavern:cave_item",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Because mining in the Overworld is for chumps!$(p)The caverns are a series of unlockable mining dimensions. The portals are made out of mossy cobblestone in the shape of a vanilla nether portal. Instead of flint & steel, use the material below to light the portal:"
+        },
+        {
+                "type": "text",
+                "text": "• $(l)Emerald:$() This is your first cavern, where you earn skill by mining to access the more advanced caverns below$(p)• $(l)Diamond:$() Large cavern$(p)• $(l)Aquamarine:$() Aqua Cavern$(p)• $(l)Mirage World Books:$() found in cavern libraries, these books access unique and rare Mirage dimensions. These libraries are hidden withing the stone of the first cavern dimension."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/caverns.png"],
+            "border": "true"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+            
+        }
+    ]
+}

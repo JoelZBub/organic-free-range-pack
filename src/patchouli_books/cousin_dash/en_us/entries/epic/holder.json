@@ -1,0 +1,16 @@
+{
+    "name": "Tutorials",
+    "icon": "minecraft:skull:5",
+    "category": "epic",
+    "pages": [
+        {
+                "type": "text",
+                "text": "This is the place for all the leet strats"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+            
+        }
+    ]
+}

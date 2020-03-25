@@ -1,0 +1,16 @@
+{
+    "name": "The Nether",
+    "icon": "minecraft:quartz_ore",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Same as vanilla; except portals can be any size AND you can change the color of the portal by placing stained glass blocks under the frame."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/nether_portal.png"],
+            "border": "true"
+        }
+    ]
+}

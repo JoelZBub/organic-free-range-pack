@@ -1,0 +1,15 @@
+{
+    "name": "03 - Getting Started",
+    "icon": "cfm:item_kebab_cooked",
+    "category": "intro",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Upon spawning into the world, every player receives a random RV capsule. There are more than 4 unique designs; each hand-crafted with love by $(d)Generikb$() himself. In addition to looking really cool, your RV even functions as a mobile base. Thanks to the capsules mod, you can pick your RV up and re-deploy it again wherever you go. Don’t lose that $(6)Capsule$() shell!"
+        },
+        {
+                "type": "text",
+                "text": "So you won’t go hungry on your first night, we’ve stocked the kitchen with a couple of tools and some sausages to cook on the grill. Just $(5)right-click$() some coal into the grill, light it, toss on the meat, and flip once before eating.$(br2)Check the cabinets...we might have left some matches and a spatula for ya."
+        }
+    ]
+}

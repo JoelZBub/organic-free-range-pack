@@ -1,0 +1,23 @@
+{
+    "name": "02 - New to Modded?",
+    "icon": "integrateddynamics:menril_sapling",
+    "category": "intro",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Hey $(playername)! Glad to have ya!$(br2)Modded Minecraft has a learning curve, and because we are so cool and nice, we’ve included tips & tricks for players of all levels."
+        },
+        {
+                "type": "text",
+                "text": "The first step to understanding $(l)any modpack$() is a mod called $(6)Just Enough Items$()—aka JEI. Simply put,JEI is a visual catalog of all the, well, stuff ... blocks/items/ liquids/recipes/etc … that the modpack has to offer. Whenyou enter your inventory, JEI is the right half of the screen + the search bar at the bottom."
+        },
+        {
+                "type": "text",
+                "text": "You can use JEI to look up crafting recipes, find pretty blocks, discover what recipes an item is used in ($(o)did you know leather is used in 74 crafting recipes?!$()), and much more.$(br2)$(l)Pro Tip:$() Press $(5)R$() while moused over an item to see the recipe, and $(5)U$() to see uses."
+        },
+        {
+                "type": "text",
+                "text": "$(d)$(l)NERD ALERT$(): The $(6)Akashic Tome$() is a directory of the “mod user manuals” included in-game by mod devs. $(o)Allegedly$(), they’re filled with egghead info about certain mods, written by the mod devs themselves. The Tome works by morphing into books selected through the GUI. To unmorph, simply $(5)left-click$() the tome in air.$(br2)Or just use The Google."
+        }
+    ]
+}

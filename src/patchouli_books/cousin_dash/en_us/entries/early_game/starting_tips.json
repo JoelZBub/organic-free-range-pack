@@ -1,0 +1,23 @@
+{
+    "name": "Cool Tips for Starting",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "early_game",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Just like in vanilla Minecraft, the first thing you need to do is gather resources so you can get equipped & make cool things that make life fun and/or easy.$(br2)Unlike vanilla, materials can be sourced in more than one way and machines/tools can be made to help expedite the process."
+        },
+        {
+                "type": "text",
+                "text": "• Cobwebs in trees = easy string$(p)• Zombie flesh can be turned into leather in a drying basin$(p)• The rare $(o)egg-laying-wool-milk-sow$() provides the resources of 3 animals and is the best gas source for the fart generator$(p)• An automatic fishing net will gather food + enchanted books, and can be powered by a simple culinary generator powered by fish"
+        },
+        {
+                "type": "text",
+                "text": "• Goon Bile, while gross, is a great way to make slime. Snails are another overlooked source of slime$(p)• The world is full of treasure, from dungeons to chests hidden in trees, amazing loot (some made specifically for this pack) will make your modded life mo' betta. Be careful out there$(p)• Always put torches on the same side so you can find your way out easier"
+        },
+        {
+                "type": "text",
+                "text": "• $(6)Ore Excevation$() is a simple mod that allows you to mine entire veins of ore, chop whole trees, and accidentally dig up chunks of land and wear out your best tool with ease. Simply hold the vein miner key while mining (Default: $(5)grave/tilde$() key)$(p)• P.S. there is idjit draygons and you can ride them :)"
+        }
+    ]
+}

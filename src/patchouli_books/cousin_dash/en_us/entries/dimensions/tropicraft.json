@@ -1,0 +1,16 @@
+{
+    "name": "Tropicraft",
+    "icon": "tropicraft:cocktail",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Journey to the world where life uh, uh, found a way.$(p)Make a Piña Colada (bamboo cup + pineapple + coconut), set up a Beach Chair, have a seat, and drink the pina colada at sundown! Wastin’ away again in Marga-gennyville…"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/tropicraft.png"],
+            "border": "true"
+        }
+    ]
+}

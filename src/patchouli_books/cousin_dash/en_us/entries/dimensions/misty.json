@@ -1,0 +1,16 @@
+{
+    "name": "Misty World",
+    "icon": "mist:respirator_single",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Now with more robots!$(p)Kill endermen to get the two portal frame blocks (The upper Weathered Stone and the lower Mossy Stone)$(p)Sandwich a gold block between the two frame blocks and BOOM (literally) portal opens.$(p)$(l:https://www.curseforge.com/minecraft/mc-mods/misty-world)Click here to learn more about Misty World$(/l)"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/misty.png"],
+            "border": "true"
+        }
+    ]
+}

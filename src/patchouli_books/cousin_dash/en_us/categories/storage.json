@@ -1,0 +1,6 @@
+{
+	"name": "Storage Options",
+	"description": "You can put your stuff in there.*$(p)$(p)$(p)$(p)$(p)*You can probably use other things too.",
+	"icon": "minecraft:chest",
+	"sortnum": 3
+}

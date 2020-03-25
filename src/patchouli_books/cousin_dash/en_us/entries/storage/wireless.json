@@ -1,0 +1,25 @@
+{
+    "name": "Wireless Storage",
+    "icon": "storagenetwork:remote:1",
+    "category": "storage",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Want to use your stuff even when you're away from home? Check out these wireless storage options."
+        },
+        {
+            "type": "spotlight",
+            "item": "storagenetwork:remote",
+            "text": "Simple Storage Networks is just what it says, simple storage. It offers wireless access up to and including unlimited range across dimensions WITH crafting. But you gotta work for that."
+        },
+        {
+            "type": "spotlight",
+            "item": "rftools:storage_module_tablet",
+            "text": "The RFTool Storage Tablet can provide multidimentional storage access and crafting. It is a more complex setup and requires a small amount of power, but can provide a large storage system in a smaller space."
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+        }
+    ]
+}

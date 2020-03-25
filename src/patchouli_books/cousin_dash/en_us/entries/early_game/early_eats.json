@@ -1,0 +1,15 @@
+{
+    "name": "Early Eats",
+    "icon": "ediblebugs:cookedbugs:4",
+    "category": "early_game",
+    "pages": [
+        {
+                "type": "text",
+                "text": "For my money, you can’t go wrong with a sandwich station or a bug fryer. Heck, I’ll even go as far as saying I enjoy a deep-fried bug sandwich from time to time. And hey, while you're feeling adventurous, why not craft some boogers and a glass of milk to wash 'em down."
+        },
+        {
+                "type": "text",
+                "text": "$(l)On a Budget?$() $(6)Cannibalism$() is your free lunch ticket! ($(o)Hint: hold shift and right-click while holding a cannibal knife$())$(br2)$(l)Special of the Day:$() Sustainably-sourced free-range fried bug tacos."
+        }
+    ]
+}

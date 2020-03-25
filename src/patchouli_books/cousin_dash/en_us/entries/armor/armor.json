@@ -1,0 +1,61 @@
+{
+    "name": "Special Armor Sets",
+    "icon": "stupidthings:target_chestplate",
+    "category": "armor",
+    "pages": [
+        {
+                "type": "text",
+                "text": "$(l)$(4)Atum Mummy Armor Set$()$(p)$(o)Incredible mummy strength and resistance$()$(p)Set Bonus: Strength, Resistance, Resilience, Slowness"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/mummy.png"],
+            "border": "true"
+        },
+        {
+                "type": "text",
+                "text": "$(l)$(4)Bamboo Armor Set$()$(p)$(o)Useful, easy to make armor made out of nature’s most perfect, naturally occurring snorkel.$()$(p)Set Bonus: Swim Speed, Water Breathing, Water Walking"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/bamboo.png"],
+            "border": "true"
+        },
+        {
+                "type": "text",
+                "text": "$(l)$(4)Midnight Rockshroom Armor Set$()$(p)$(o)Hidden in the land of eternal darkness: a rare material to craft armor that turns night into day.$()$(p)Set Bonus: Night Vision, Jump Boost"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/rockshroom.png"],
+            "border": "true"
+        },
+        {
+                "type": "text",
+                "text": "$(l)$(4)Tropicraft Scale Armor Set$()$(p)$(o)Finally a use for iguanas!$()$(p)Set Bonus: Poison Imbue, Leaping, Poison Resistance, Fire Resistance"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/scale.png"],
+            "border": "true"
+        },
+        {
+                "type": "text",
+                "text": "$(l)$(4)Caverns Hexcite Armor Set$()$(p)$(o)Look for white ores deep in the caverns dimension.$()$(p)Set Bonus: Magnet, Haste, XP Imbue"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/hexcite.png"],
+            "border": "true"
+        },
+        {
+                "type": "text",
+                "text": "$(l)$(4)Danger Zone Armor Set$()$(p)$(o)Rhino Plate helmet, Niobium chestplate, Bone Plate leggings, Tenebrum boots$()$(p)Set Bonus: $(k)He was a boy, She was a girl, Can I make it any more obvious?$()"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/dangerzone.png"],
+            "border": "true"
+        }
+    ]
+}

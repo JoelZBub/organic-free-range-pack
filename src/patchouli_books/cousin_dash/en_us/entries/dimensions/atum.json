@@ -1,0 +1,16 @@
+{
+    "name": "Atum",
+    "icon": "atum:scarab",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Hot enough for ya?$(p)Make a 5x5 sandstone base. On the next layer, put sandstone around the edge and fill with water. Put 2-high pillers in all four corners. Throw in a scarab to create the orange portal.$(p)$(l:https://www.curseforge.com/minecraft/mc-mods/atum)Click here to read more about Atum$(/l)"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/atum.png"],
+            "border": "true"
+        }
+    ]
+}

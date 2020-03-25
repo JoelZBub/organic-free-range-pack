@@ -1,0 +1,53 @@
+{
+    "name": "Storage Options",
+    "icon": "ironchest:iron_chest",
+    "category": "storage",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Storage comes in all shapes and sizes. There are many options, from simple to complex. For example, you can start with a basic vanilla chest and upgrade it through $(6)Iron Chests$() to a 9x12 chest!"
+        },
+        {
+            "type": "spotlight",
+            "item": "ironchest:iron_chest:5",
+            "text": "Iron chests can be crafted directly, or upgraded at will. They come in Copper, Iron, Silver, Gold, Diamond, Crystal, and Obsidian variations. There also are shulker box options."
+        },
+        {
+            "type": "text",
+            "text": "$(l)PORTABLE STORAGE$()$(p)There are many ways you can carry your stuff around with you."
+        },
+        {
+            "type": "spotlight",
+            "item": "cyclicmagic:storage_bag",
+            "text": "Cyclic storage bags hold a lot AND you can pick it's color."
+        },
+        {
+            "type": "spotlight",
+            "item": "thermalexpansion:satchel",
+            "text": "Thermal Expansion satchels are upgradeable and there is a void options as well."
+        },
+        {
+            "type": "spotlight",
+            "item": "enderutilities:handybag",
+            "text": "Ender Utilities Handy Bags come in regular and large sizes and take memory cards to expand how much they can hold."
+        },
+        {
+            "type": "text",
+            "text": "$(l)SNEAKY STORAGE$()$(p)When all else fails, there's always the tried and true method of hiding your stuff from others."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:bed:14",
+            "text": "Hide it in your mattress, yo."
+        },
+        {
+            "type": "text",
+            "text": "$(l)ULTRA EFFICIENT STORAGE$()$(p)Want to hold a LOT of stuff in tiny space? We got you, boo."
+        },
+        {
+            "type": "spotlight",
+            "item": "rftools:modular_storage",
+            "text": "With a tier 3 card, the RF Tools Modular Storage can hold up to 300 stacks of an item."
+        }
+    ]
+}

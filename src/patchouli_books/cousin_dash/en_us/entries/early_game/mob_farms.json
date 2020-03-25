@@ -1,0 +1,46 @@
+{
+    "name": "Mob Farming For Pros",
+    "icon": "tinymobfarm:wood_farm",
+    "category": "early_game",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Mob farming has never been more compact and easy thanks to $(6)Tiny Mob Farms$(). Simply use the lasso to capture a mob, and place it inside a Tiny Mob Farm. Drops will auto-output to chests, so just place the mob farm touching a chest and off ya go! The higher the tier, the longer the lasso will last."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:wood_farm",
+                "text": "The wooden mob farm can only take passive mobs and gives drops every 50 seconds."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:stone_farm",
+                "text": "The stone mob farm can only take passive mobs and gives drops every 40 seconds."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:iron_farm",
+                "text": "The iron mob farm is the first level you also can place hostile mobs in and it gives drops every 30 seconds."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:gold_farm",
+                "text": "The golden mob farm will accept passive and hostile mobs and it gives drops every 20 seconds. You'll have to travel to the Nether to make this."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:diamond_farm",
+                "text": "The diamond mob farm will accept passive and hostile mobs and it gives drops every 10 seconds. You won't be able to make this until you've been to the End."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:emerald_farm",
+                "text": "The emerald mob farm will accept passive and hostile mobs and it gives drops every 5 seconds. It takes a rare drop to craft this farm."
+        },
+        {
+                "type": "spotlight",
+                "item": "tinymobfarm:inferno_farm",
+                "text": "The inferno mob farm will accept passive and hostile mobs and it gives drops every 2.5 seconds. You will have to visit many dimensions to craft this."
+        }
+    ]
+}

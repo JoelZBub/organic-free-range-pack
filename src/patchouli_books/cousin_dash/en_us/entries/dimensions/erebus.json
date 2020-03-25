@@ -1,0 +1,25 @@
+{
+    "name": "Erebus",
+    "icon": "erebus:materials:38",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "Too scary -or- bug-lover's paradise?$(p)Craft an Offering Altar, give it an emerald, a piece of obsidian, and a diamond, and you'll receive a Gaean Gem. This is used to make the Staff of Gaea (you'll want to make 2 of these, I promise)"
+        },
+        {
+                "type": "text",
+                "text": "Build a portal that is 2x3 on the inside and fill it with leaves. The frame can be anything you want. The leaves can be any kind you want.$(p)Set a Gaean Keystone near the portal and insert the staff.$(p)$(l)Do NOT forget your other staff!$()"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/erebus.png"],
+            "border": "true"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+            
+        }
+    ]
+}

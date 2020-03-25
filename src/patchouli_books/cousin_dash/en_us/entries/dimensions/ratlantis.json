@@ -1,0 +1,16 @@
+{
+    "name": "Ratlantis  ",
+    "icon": "rats:chunky_cheese_token",
+    "category": "dimensions",
+    "pages": [
+        {
+                "type": "text",
+                "text": "My God, it's full of cheese!$(p)Simply right click the ground with a Chunky Cheese Token to make this portal. Easy right?$(p)$(l:https://rats-mod.fandom.com/wiki/Chunky_Cheese_Token)Click here to learn more about the cheese tokens$(/l)$(p)Make some return travel plans. They say once you go rat, you never come back."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/ratlantis.png"],
+            "border": "true"
+        }
+    ]
+}
