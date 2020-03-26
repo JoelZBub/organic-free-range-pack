@@ -1,35 +1,39 @@
 Mods:
+
+Untouched - 
+Better Animals Plus
+Erebus
+Fossil
+Golems/Thermal Golems
+Mechanical Soldiers ?
+Overlord ?
+
+Worked on, but may need health/speed adjustments
 Animania - added abilities
 Atum - added abilities
-Better Animals Plus
 Caverns - added abilities
 Cyberware - added abilities
 Deep Mob Learning - added abilities
 Drones - added abilities
 Ender Utilities - added abilities
 Energetic Sheep - N/A
-Erebus
 Fampack - N/A
-Fossil
-Golems/Thermal Golems
 Hatchery - added abilities
 Headcrumbs - N/A
-LCRDRFS
-Mechanical Soldiers ?
+LCRDRFS - added abilities
 Midnight - added abilities
 Minecraft - added abilities
-Mowzie's Mobs
+Mowzie's Mobs - added abilities
 Openblocks - added abilities
-Overlord ?
-Pirates
-Project Vibrant Journey
-Quark
+Pirates - N/A
+Project Vibrant Journey - added abilities
+Quark - added abilities
 Random Things - added abilities
-Rats
+Rats - added abilities*
 Simply Cats - added abilities
 Thermal Foundation - added abilities*
 Tropicraft - added abilities
-Wither Crumbs
+Wither Crumbs - added abilities
 
 
 Entities:

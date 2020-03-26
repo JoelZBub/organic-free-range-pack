@@ -3606,7 +3606,7 @@ JustEnoughIDs 1.0.3-48 (crashes game)
 --------------------
 metamorph/
 	morphs.json
-		happybandit added a bundh of morphs
+		Happybandit added a bunch of morphs - and more morphs
        
 
 -- Script Changes --
@@ -3615,6 +3615,13 @@ metamorph/
 
 -- Asset Changes --
 -------------------
+/oresources
+	/mankini/lang
+		Fixed the mod's broken language file
+	/patchouli/textures/items
+		Custom texture for Cousin Dash's book (overrides patchouli:green_book)
+/patchouli_books/cousin_dash
+	Text and images for the in-game guide
 
 
 

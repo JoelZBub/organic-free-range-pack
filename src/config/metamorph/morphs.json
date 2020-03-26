@@ -538,6 +538,96 @@
         "action": "snowball",
         "health": 20,
         "hostile": true
+    },
+    "rats:marbled_cheese_golem": {
+        "abilities": ["glide"],
+        "attack": "knockback",
+        "health": 40
+    },
+    "quark:ashen": {
+        "abilities": ["sun_allergy"]
+    },
+    "quark:dweller": {
+        "abilities": ["sun_allergy"]
+    },
+    "quark:pirate": {
+        "abilities": ["sun_allergy"]
+    },
+    "quark:foxhound": {
+        "abilities": ["fire_proof"]
+    },
+    "quark:frog": {
+        "abilities": ["jumping"],
+        "action":"jump",
+        "health": 10
+    },
+    "quark:stoneling": {
+        "abilities": ["night_vision"],
+        "health": 5
+    },
+    "quark:wraith": {
+        "abilities": ["glide"],
+        "health": 8
+    },
+    "pvj:pvj_banshee": {
+        "abilities": ["glide", "sun_allergy"]
+    },
+    "pvj:pvj_ghost": {
+        "abilities": ["glide", "sun_allergy"]
+    },
+    "pvj:pvj_shade": {
+        "abilities": ["glide", "sun_allergy"]
+    },
+    "pvj:pvj_goon": {
+        "abilities": ["sun_allergy"]
+    },
+    "pvj:pvj_skeletal_knight": {
+        "abilities": ["sun_allergy"]
+    },
+    "pvj:pvj_duck": {
+        "abilities": ["glide"]
+    },
+    "pvj:pvj_small_spider": {
+        "abilities": ["climb"],
+        "health": 2
+    },
+    "mowziesmobs:ferrous_wroughtnaut": {
+        "abilities": ["hungerless"],
+        "attack": "knockback",
+        "health": 40
+    },
+    "mowziesmobs:frostmaw": {
+        "abilities": ["snow_walk"],
+        "action": "snowball",
+        "health": 30
+    },
+    "mowziesmobs:grottol": {
+        "abilities": ["night_vision"]
+    },
+    "mowziesmobs:lantern": {
+        "abilities": ["night_vision", "glide"]
+    },
+    "mowziesmobs:naga": {
+        "abilities": ["glide"],
+        "attack": "poison"
+    },
+    "lcrdrfs:jet_pack_spider": {
+        "abilities": ["glide", "climb"]
+    },
+    "lcrdrfs:laser_creeper": {
+        "action": "explode"
+    },
+    "lcrdrfs:robo_dino": {
+        "health": 40
+    },
+    "minecraft:wither": {
+        "abilities": ["glide"],
+        "action": "fireball",
+        "attack": "wither"
+    },
+    "withercrumbs:wither crumb": {
+        "abilities": ["glide"],
+        "action": "fireball",
+        "attack": "wither"
     }
-
 }
