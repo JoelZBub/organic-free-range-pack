@@ -3585,6 +3585,7 @@ rats.cfg
 -- Mod Freezes --
 -----------------
 JustEnoughIDs 1.0.3-48 (crashes game)
+Obfuscate 0.2.7 (DON'T FREAKING UPDATE JOEL!!!!!!)
 
 
 -- Added Mods --
@@ -3604,9 +3605,13 @@ JustEnoughIDs 1.0.3-48 (crashes game)
 
 -- Config Changes --
 --------------------
+fastbench.cfg
+	B:"Disable Recipe Book"=false
 metamorph/
 	morphs.json
 		Happybandit added a bunch of morphs - and more morphs
+patchouli.cfg
+	 S:"Inventory Button Book"=patchouli:cousin_dash
        
 
 -- Script Changes --
