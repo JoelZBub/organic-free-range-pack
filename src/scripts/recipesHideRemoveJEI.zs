@@ -26,7 +26,8 @@ static hiddenItems as IItemStack[] = [
 	<dragonmounts:terra_dragon_essence:0>,
 	<dragonmounts:water_dragon_essence:0>,
 	<dragonmounts:wither_dragon_essence:0>,
-	<dragonmounts:zombie_dragon_essence:0>
+	<dragonmounts:zombie_dragon_essence:0>,
+	<zawa:ralphiki_book:0>
 ];
 
 static removeItems as IIngredient[] = [

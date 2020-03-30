@@ -1533,5 +1533,301 @@
     {
         "energy": 153600,
         "id": "fossil:platybelodon_cooked"
-    }
+    },
+    {
+    "energy": 64799,
+    "id": "animania:holstein_cheese_wedge"
+  },
+  {
+    "energy": 153600,
+    "id": "cannibalism:villagerfleshcooked"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:bird_meat"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:cooked_prime_steak"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_steak"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:cooked_prime_bacon"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:truffle_omelette"
+  },
+  {
+    "energy": 72000,
+    "id": "animania:plain_omelette"
+  },
+  {
+    "energy": 153600,
+    "id": "cannibalism:playerfleshcooked"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_frog_legs"
+  },
+  {
+    "energy": 84000,
+    "id": "animania:cooked_frog_legs"
+  },
+  {
+    "energy": 64799,
+    "id": "animania:jersey_cheese_wedge"
+  },
+  {
+    "energy": 64799,
+    "id": "animania:sheep_cheese_wedge"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_beef"
+  },
+  {
+    "energy": 72000,
+    "id": "zawa:cooked_crab_leg"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_horse"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:bird_meat_cooked"
+  },
+  {
+    "energy": 48000,
+    "id": "lilcritters:roasted_acorn"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_chevon"
+  },
+  {
+    "energy": 9600,
+    "id": "lilcritters:acorn"
+  },
+  {
+    "energy": 120000,
+    "id": "animania:cooked_prime_chevon"
+  },
+  {
+    "energy": 9600,
+    "id": "fampack:guts"
+  },
+  {
+    "energy": 28800,
+    "id": "cannibalism:witchflesh"
+  },
+  {
+    "energy": 9600,
+    "id": "zawa:rat_raw"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:cetacean_meat_cooked"
+  },
+  {
+    "energy": 60000,
+    "id": "animania:cooked_chevon"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:cetacean_meat_raw"
+  },
+  {
+    "energy": 43200,
+    "id": "zawa:rat_cooked"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:carnivore_meat_cooked"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:cooked_frog_leg"
+  },
+  {
+    "energy": 0,
+    "id": "lcrdrfs:creeper_chilli_crystal_shard"
+  },
+  {
+    "energy": 84000,
+    "id": "animania:cheese_omelette"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_chevon"
+  },
+  {
+    "energy": 100799,
+    "id": "animania:chocolate_truffle"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_chicken"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:reptile_meat_raw"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_pork"
+  },
+  {
+    "energy": 28800,
+    "id": "cannibalism:villagerflesh"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:reptile_meat_cooked"
+  },
+  {
+    "energy": 28800,
+    "id": "cannibalism:playerflesh"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:raw_frog_leg"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:large_meat_cooked"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_peacock"
+  },
+  {
+    "energy": 64799,
+    "id": "animania:friesian_cheese_wedge"
+  },
+  {
+    "energy": 144000,
+    "id": "animania:cooked_horse"
+  },
+  {
+    "energy": 144000,
+    "id": "animania:cooked_prime_beef"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_peacock"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_mutton"
+  },
+  {
+    "energy": 72000,
+    "id": "zawa:cooked_cichlid"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:milk_bottle"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:cooked_prime_rabbit"
+  },
+  {
+    "energy": 144000,
+    "id": "animania:cooked_prime_mutton"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_rabbit"
+  },
+  {
+    "energy": 33600,
+    "id": "animania:truffle"
+  },
+  {
+    "energy": 0,
+    "id": "withercrumbs:crumb_star"
+  },
+  {
+    "energy": 115200,
+    "id": "fampack:sausage"
+  },
+  {
+    "energy": 96000,
+    "id": "animania:cooked_prime_chicken"
+  },
+  {
+    "energy": 288000,
+    "id": "fampack:bratwurst"
+  },
+  {
+    "energy": 4800,
+    "id": "fampack:intestine"
+  },
+  {
+    "energy": 84000,
+    "id": "animania:bacon_omelette"
+  },
+  {
+    "energy": 14400,
+    "id": "zawa:raw_crab_leg"
+  },
+  {
+    "energy": 129599,
+    "id": "zawa:bush_meat_cooked"
+  },
+  {
+    "energy": 24000,
+    "id": "animania:raw_prime_bacon"
+  },
+  {
+    "energy": 144000,
+    "id": "animania:cooked_prime_pork"
+  },
+  {
+    "energy": 108000,
+    "id": "animania:cooked_prime_peacock"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:carnivore_meat_raw"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:large_meat_raw"
+  },
+  {
+    "energy": 144000,
+    "id": "animania:truffle_soup"
+  },
+  {
+    "energy": 28800,
+    "id": "zawa:bush_meat_raw"
+  },
+  {
+    "energy": 28800,
+    "id": "integrateddynamics:menril_berries"
+  },
+  {
+    "energy": 64799,
+    "id": "animania:goat_cheese_wedge"
+  },
+  {
+    "energy": 72000,
+    "id": "animania:cooked_peacock"
+  },
+  {
+    "energy": 14400,
+    "id": "zawa:raw_cichlid"
+  },
+  {
+    "energy": 108000,
+    "id": "animania:super_omelette"
+  }
 ]

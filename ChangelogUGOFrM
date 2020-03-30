@@ -3375,10 +3375,6 @@ Pirates - 0.0.5A (Server crash and Ship overspawning in later versions)
 
 --- Removed Mods ---
 --------------------
-Just Enough Vehicles
-MrCrayfish's Gun Mod
-MrCrayfish's Vehicle Mod
-Obfuscate
 
 
 -- Config Changes --
@@ -3585,7 +3581,7 @@ rats.cfg
 -- Mod Freezes --
 -----------------
 JustEnoughIDs 1.0.3-48 (crashes game)
-Obfuscate 0.2.7 (DON'T FREAKING UPDATE JOEL!!!!!!)
+Obfuscate 0.2.7 (0.4.1 can't connect to server)
 
 
 -- Added Mods --
@@ -3595,12 +3591,18 @@ Obfuscate 0.2.7 (DON'T FREAKING UPDATE JOEL!!!!!!)
 
 -- Updated Mods --
 -------------------
-
+Just Enough Vehicles (1.1 to 1.2)
+LootTweaker (0.1.5 to 0.1.6)
+MoreTweaker (1.0.11 to 1.0.13)
+Mr Crayfish's Vehicle Mod (0.43.4 to 0.43.5)
+MysticalLib (1.6.0 to 1.7.0)
+Pirates (0.0.6A to 0.0.6B)
+Rats (3.2.6 to 3.2.8)
 
 
 --- Removed Mods ---
 --------------------
-
+Mankini (player controls broken in spectator)
 
 
 -- Config Changes --
@@ -3612,7 +3614,9 @@ metamorph/
 		Happybandit added a bunch of morphs - and more morphs
 patchouli.cfg
 	 S:"Inventory Button Book"=patchouli:cousin_dash
-       
+projectvibrantjourneys.cfg
+	worldgen
+		B:enableBaobabFields=true      
 
 -- Script Changes --
 --------------------
@@ -3621,8 +3625,6 @@ patchouli.cfg
 -- Asset Changes --
 -------------------
 /oresources
-	/mankini/lang
-		Fixed the mod's broken language file
 	/patchouli/textures/items
 		Custom texture for Cousin Dash's book (overrides patchouli:green_book)
 /patchouli_books/cousin_dash
@@ -3633,3 +3635,92 @@ patchouli.cfg
 -- Other Changes --
 -------------------   
 added entities.txt file to dev files as checklist for morphs
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        Week of March 29-April 4, 2020
+        Build Name / Splash Screen =  0.0.7.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+JustEnoughIDs 1.0.3-48 (1.0.3-54 crashes game)
+Surge 2.0.77 (2.0.79 crashes game)
+
+
+-- Added Mods --
+----------------
+Boookworm (by SoggyStache)
+Lil Critters (by Mnesikos)
+Trophies (by SoggyStache)
+ZAWA (by SoggyStache)
+
+
+-- Updated Mods --
+-------------------
+Chisel (1.0.1.44 to 1.0.2.45)
+ConnectedTexturesMod (1.0.1.30 to 1.0.2.31)
+Inventory Pets (2.0.3 to 2.0.4) -- fixes Enchant Pet bug and more
+Obfuscate (0.2.7 to 0.4.2)
+
+
+--- Removed Mods ---
+--------------------
+Better Animals Plus
+
+
+-- Config Changes --
+--------------------
+animania.cfg
+	lowered all spawnProbablility by 1
+betteranimalsplus.cfg
+	removed
+Fampack.cfg
+	general
+		I:"ELWMS - Maximal animalcount per group (minimal-8):"=2
+    	I:"ELWMS - Spawn importance per biome (0-10):"=2 
+inventorypets.cfg
+	disable pet config
+	    B:"Disable Enchanting Table"=false
+simplegenerators/generators/culinary/
+	fuels.json
+		added fuels for animania, fampack, lcrdrfs, lil critters, withercrumbs, zawa
+ZooAndWildAnimalsRebuilt1.12.2-2.0.1/
+	ZAWA1.12.2-2.0.1
+		general
+			serveroptions
+				I:"ZAWA Water Entity Despawn Time"=4000 [default=2000]
+				B:"ZAWA death from low status"=false [default=true]
+				B:"ZAWA give care guide"=false [default=true]
+				B:"ZAWA interbreeding preventation"=false [default=true]
+	ZAWASpawnConfigurations
+		ridiculous amount of customization OMG  
+ZAWATrophies.cfg
+	general
+		I:"Head Drop Rarity"=1 [default=20]
+		B:"Range Only"=true [default=false]
+
+
+-- Script Changes --
+--------------------
+akashictome.zs
+	added zawa books to recipe
+betteranimalsplus.zs
+	removed
+furnace.zs
+	removed betteranimalsplus recipes
+recipesHideRemoveJEI.zs
+	<zawa:ralphiki_book:0>
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------   
+edited/updated entities.txt file in dev files 
+	removed betteranimalsplus entities
+	added zawa entities
+remove zawa:ralphiki_book from JEI

@@ -40,6 +40,89 @@ Biomes:
 -minecraft:mesa	Mesa
 -minecraft:mesa_rock	Mesa Plateau F
 -minecraft:mesa_clear_rock	Mesa Plateau
+-minecraft:mutated_jungle	Jungle M
+-minecraft:mutated_jungle_edge	JungleEdge M
+-minecraft:mutated_birch_forest	Birch Forest M
+-minecraft:mutated_birch_forest_hills	Birch Forest Hills M
+-minecraft:mutated_roofed_forest	Roofed Forest M
+-minecraft:mutated_taiga_cold	Cold Taiga M
+-minecraft:mutated_plains	Sunflower Plains
+-minecraft:mutated_desert	Desert M
+-minecraft:mutated_extreme_hills	Extreme Hills M
+-minecraft:mutated_forest	Flower Forest
+-minecraft:mutated_taiga	Taiga M
+-minecraft:mutated_swampland	Swampland M
+-minecraft:mutated_ice_flats	Ice Plains Spikes
+-minecraft:void	The Void
+-pvj:prairie	Prairie
+-pvj:redwoods	Redwoods
+-pvj:redwood_peaks	Redwood Peaks
+-pvj:willow_swamp	Willow Swamp
+-pvj:boreal_forest	Boreal Forest
+-pvj:snowy_boreal_forest	Snowy Boreal Forest
+-pvj:aspen_grove	Aspen Grove
+-pvj:overgrown_spires	Overgrown Spires
+-pvj:blossoming_fields	Blossoming Fields
+-pvj:baobab_fields
+-traverse:autumnal_woods	Autumnal Woods
+-traverse:woodlands	Woodlands
+-traverse:mini_jungle	Mini Jungle
+-traverse:meadow	Meadow
+-traverse:green_swamp	Lush Swamp
+-traverse:red_desert	Red Desert
+-traverse:temperate_rainforest	Temperate Rainforest
+-traverse:badlands	Badlands
+-traverse:mountainous_desert	Mountainous Desert
+-traverse:rocky_plateau	Rocky Plateau
+-traverse:forested_hills	Forested Hills
+-traverse:birch_forested_hills	Birch Forested Hills
+-traverse:autumnal_wooded_hills	Autumnal Wooded Hills
+-traverse:cliffs	Cliffs
+-traverse:glacier	Glacier
+-traverse:glacier_spikes	Glacier Spikes
+-traverse:snowy_coniferous_forest	Snowy Coniferous Forest
+-traverse:lush_hills	Lush Hills
+-traverse:desert_shrubland	Desert Shrubland
+-traverse:thicket	Thicket
+-traverse:arid_highland	Arid Highland
+-traverse:rocky_plains	Rocky Plains
+
+-randomthings:spectral	Spectral
+-atum:dead_oasis	Dead Oasis
+-atum:deadwood_forest	Deadwood Forest
+-atum:dried_river	Dried River
+-atum:limestone_crags	Limestone Crags
+-atum:limestone_mountains	Limestone Mountains
+-atum:oasis	Oasis
+-atum:sand_dunes	Sand Dunes
+-atum:sand_hills	Sand Hills
+-atum:sand_plains	Sand Plains
+-erebus:underground_jungle	Underground Jungle
+-erebus:volcanic_desert	Volcanic Desert
+-erebus:subterranean_savannah	Subterranean Savannah
+-erebus:elysian_fields	Elysian Fields
+-erebus:ulterior_outback	Ulterior Outback
+-erebus:fungal_forest	Fungal Forest
+-erebus:submerged_swamp	Submerged Swamp
+-erebus:fields_sub_forest	Elysian Forest
+-erebus:petrified_forest	Petrified Forest
+-fossil:lair of darkness	anu
+-fossil:treasure	treasure
+-integrateddynamics:biome_meneglin	Meneglin
+-rats:ratlantis	ratlantis
+-midnight:vigilant_forest	vigilant_forest
+-midnight:black_ridge	black_ridge
+-midnight:deceitful_bog	deceitful_bog
+-midnight:fungi_forest	fungi_forest
+-midnight:obscured_peaks	obscured_peaks
+-midnight:warped_fields	warped_fields
+-midnight:crystal_spires	crystal_spires
+-midnight:night_plains	night_plains
+-midnight:obscured_plateau	obscured_plateau
+-midnight:phantasmal_valley	phantasmal_valley
+-midnight:runebush_grove	runebush_grove
+-midnight:hilly_vigilant_forest	hilly_vigilant_forest
+-midnight:hilly_fungi_forest	hilly_fungi_forest
 -jeid:error_biome	A mod doesn't support extended biome IDs -- report to JEID
 -mist:up_meadow	Meadow
 -mist:up_forest	Forest
@@ -71,87 +154,7 @@ Biomes:
 -mist:down_forest	Down Forest
 -mist:down_swamp	Down Swamp
 -mist:down_center	Down Center
--pvj:prairie	Prairie
--pvj:redwoods	Redwoods
--pvj:redwood_peaks	Redwood Peaks
--pvj:willow_swamp	Willow Swamp
--pvj:boreal_forest	Boreal Forest
--pvj:snowy_boreal_forest	Snowy Boreal Forest
--pvj:aspen_grove	Aspen Grove
--pvj:overgrown_spires	Overgrown Spires
--pvj:blossoming_fields	Blossoming Fields
--randomthings:spectral	Spectral
--atum:dead_oasis	Dead Oasis
--atum:deadwood_forest	Deadwood Forest
--atum:dried_river	Dried River
--atum:limestone_crags	Limestone Crags
--atum:limestone_mountains	Limestone Mountains
--atum:oasis	Oasis
--atum:sand_dunes	Sand Dunes
--atum:sand_hills	Sand Hills
--atum:sand_plains	Sand Plains
--erebus:underground_jungle	Underground Jungle
--erebus:volcanic_desert	Volcanic Desert
--erebus:subterranean_savannah	Subterranean Savannah
--erebus:elysian_fields	Elysian Fields
--erebus:ulterior_outback	Ulterior Outback
--erebus:fungal_forest	Fungal Forest
--erebus:submerged_swamp	Submerged Swamp
--erebus:fields_sub_forest	Elysian Forest
--erebus:petrified_forest	Petrified Forest
--fossil:lair of darkness	anu
--fossil:treasure	treasure
--integrateddynamics:biome_meneglin	Meneglin
--traverse:autumnal_woods	Autumnal Woods
--traverse:woodlands	Woodlands
--traverse:mini_jungle	Mini Jungle
--traverse:meadow	Meadow
--traverse:green_swamp	Lush Swamp
--traverse:red_desert	Red Desert
--traverse:temperate_rainforest	Temperate Rainforest
--traverse:badlands	Badlands
--traverse:mountainous_desert	Mountainous Desert
--traverse:rocky_plateau	Rocky Plateau
--traverse:forested_hills	Forested Hills
--traverse:birch_forested_hills	Birch Forested Hills
--traverse:autumnal_wooded_hills	Autumnal Wooded Hills
--traverse:cliffs	Cliffs
--traverse:glacier	Glacier
--traverse:glacier_spikes	Glacier Spikes
--traverse:snowy_coniferous_forest	Snowy Coniferous Forest
--traverse:lush_hills	Lush Hills
--traverse:desert_shrubland	Desert Shrubland
--traverse:thicket	Thicket
--traverse:arid_highland	Arid Highland
--traverse:rocky_plains	Rocky Plains
--rats:ratlantis	ratlantis
--midnight:vigilant_forest	vigilant_forest
--midnight:black_ridge	black_ridge
--minecraft:void	The Void
--midnight:deceitful_bog	deceitful_bog
--minecraft:mutated_plains	Sunflower Plains
--minecraft:mutated_desert	Desert M
--minecraft:mutated_extreme_hills	Extreme Hills M
--minecraft:mutated_forest	Flower Forest
--minecraft:mutated_taiga	Taiga M
--minecraft:mutated_swampland	Swampland M
--midnight:fungi_forest	fungi_forest
--midnight:obscured_peaks	obscured_peaks
--midnight:warped_fields	warped_fields
--midnight:crystal_spires	crystal_spires
--midnight:night_plains	night_plains
--minecraft:mutated_ice_flats	Ice Plains Spikes
--midnight:obscured_plateau	obscured_plateau
--midnight:phantasmal_valley	phantasmal_valley
--midnight:runebush_grove	runebush_grove
--midnight:hilly_vigilant_forest	hilly_vigilant_forest
--midnight:hilly_fungi_forest	hilly_fungi_forest
--minecraft:mutated_jungle	Jungle M
--minecraft:mutated_jungle_edge	JungleEdge M
--minecraft:mutated_birch_forest	Birch Forest M
--minecraft:mutated_birch_forest_hills	Birch Forest Hills M
--minecraft:mutated_roofed_forest	Roofed Forest M
--minecraft:mutated_taiga_cold	Cold Taiga M
+
 Entities:
 animania:buck_alpine -- animania:buck_alpine
 animania:buck_angora -- animania:buck_angora
@@ -340,38 +343,6 @@ atum:tefnuts_call -- atum.tefnutsCall
 atum:warlord -- atum.warlord
 atum:wraith -- atum.wraith
 bamboozled:falling_salt_block -- bamboozled.falling_salt_block
-betteranimalsplus:badger -- betteranimalsplus.badger
-betteranimalsplus:badgerdirt -- betteranimalsplus.badgerdirt
-betteranimalsplus:blackbear -- betteranimalsplus.blackbear
-betteranimalsplus:boar -- betteranimalsplus.boar
-betteranimalsplus:bobbit_worm -- betteranimalsplus.bobbit_worm
-betteranimalsplus:brownbear -- betteranimalsplus.brownbear
-betteranimalsplus:coyote -- betteranimalsplus.coyote
-betteranimalsplus:crab -- betteranimalsplus.crab
-betteranimalsplus:deer -- betteranimalsplus.deer
-betteranimalsplus:feralwolf -- betteranimalsplus.feralwolf
-betteranimalsplus:fox -- betteranimalsplus.fox
-betteranimalsplus:goat -- betteranimalsplus.goat
-betteranimalsplus:hirschgeist -- betteranimalsplus.hirschgeist
-betteranimalsplus:horseshoecrab -- betteranimalsplus.horseshoecrab
-betteranimalsplus:jellyfish -- betteranimalsplus.jellyfish
-betteranimalsplus:kermodebear -- betteranimalsplus.kermodebear
-betteranimalsplus:lammergeier -- betteranimalsplus.lammergeier
-betteranimalsplus:lamprey -- betteranimalsplus.lamprey
-betteranimalsplus:moose -- betteranimalsplus.moose
-betteranimalsplus:nautilus -- betteranimalsplus.nautilus
-betteranimalsplus:pheasant -- betteranimalsplus.pheasant
-betteranimalsplus:pheasantegg -- betteranimalsplus.pheasantegg
-betteranimalsplus:reindeer -- betteranimalsplus.reindeer
-betteranimalsplus:shark -- betteranimalsplus.shark
-betteranimalsplus:songbird -- betteranimalsplus.songbird
-betteranimalsplus:squirrel -- betteranimalsplus.squirrel
-betteranimalsplus:tarantula -- betteranimalsplus.tarantula
-betteranimalsplus:tarantulahair -- betteranimalsplus.tarantulahair
-betteranimalsplus:turkey -- betteranimalsplus.turkey
-betteranimalsplus:turkeyegg -- betteranimalsplus.turkeyegg
-betteranimalsplus:zotzpyre -- betteranimalsplus.zotzpyre
-betternether:firefly -- firefly
 buildinggadgets:blockbuildentity -- LaserGunEntity
 buildinggadgets:constructionblockentity -- ConstructionBlockEntity
 cavern:caveman -- Caveman
@@ -629,6 +600,14 @@ lcrdrfs:jet_pack_spider -- lcrdrfs.jet_pack_spider
 lcrdrfs:laser_beam -- lcrdrfs.laser_beam
 lcrdrfs:laser_creeper -- lcrdrfs.laser_creeper
 lcrdrfs:robo_dino -- lcrdrfs.robo_dino
+lilcritters:bandedpenguin -- lilcritters.bandedpenguin
+lilcritters:boxturtle -- lilcritters.boxturtle
+lilcritters:dwarfcrocodile -- lilcritters.dwarfcrocodile
+lilcritters:opossum -- lilcritters.opossum
+lilcritters:skunk -- lilcritters.skunk
+lilcritters:smallclawedotter -- lilcritters.smallclawedotter
+lilcritters:treesquirrel -- lilcritters.treesquirrel
+lilcritters:tufteddeer -- lilcritters.tufteddeer
 mechsoldiers:mechanical_skeleton -- mechanical_skeleton
 metamorph:morph -- Morph
 midnight:bladeshroom_cap -- midnight.bladeshroom_cap
@@ -770,7 +749,6 @@ overlord:skeleton_baby -- skeleton_baby
 overlord:skeleton_converted -- skeleton_converted
 overlord:skeleton_curing -- skeleton_curing
 overlord:skeleton_warrior -- skeleton_warrior
-pirates:bottle -- bottle
 pirates:bucket_water -- bucket_water
 pirates:bullet -- bullet
 pirates:cannon_ball -- cannon_ball
@@ -864,6 +842,7 @@ rats:ratlantean_spirit -- ratlantean_spirit
 rats:thrown_block -- thrown_block
 rats:vial_of_sentience -- vial_of_sentience
 simplycats:cat -- Cat
+snowrealmagic:snow -- snowrealmagic.snow
 soviet:dsp_panel_1 -- soviet:dsp_panel_1
 soviet:entityredbanner -- soviet:entityredbanner
 soviet:entitywallcarpet -- soviet:entitywallcarpet
@@ -941,6 +920,7 @@ vehicle:jack -- vehicle.jack
 vehicle:jet_ski -- vehicle.jet_ski
 vehicle:lawn_mower -- vehicle.lawn_mower
 vehicle:mini_bike -- vehicle.mini_bike
+vehicle:mini_bus -- vehicle.mini_bus
 vehicle:moped -- vehicle.moped
 vehicle:off_roader -- vehicle.off_roader
 vehicle:seeder_trailer -- vehicle.seeder_trailer
@@ -956,3 +936,99 @@ withercrumbs:wither crumb -- Wither_Crumb
 yoyos:yoyo -- YoYo
 yoyos:yoyo_chaser -- Anything_YoYo
 yoyos:yoyo_sticky -- Sticky_YoYo
+zawa:africanelephant -- zawa.africanelephant
+zawa:africanlion -- zawa.AfricanLion
+zawa:albatross -- zawa.Albatross
+zawa:albatrossegg -- zawa.AlbatrossEgg
+zawa:amazonriverdolphin -- zawa.amazonriverdolphin
+zawa:americanbison -- zawa.americanbison
+zawa:amurleopard -- zawa.AmurLeopard
+zawa:anacondasnakepart -- zawa.AnacondaSnakePart
+zawa:andeancondor -- zawa.AndeanCondor
+zawa:animaltrader -- zawa.AnimalTrader
+zawa:animaltransportvehicle -- zawa.AnimalTransportVehicle
+zawa:asianelephant -- zawa.AsianElephant
+zawa:baldeagle -- zawa.baldeagle
+zawa:ball -- zawa.Ball
+zawa:beaver -- zawa.beaver
+zawa:bench -- zawa.Bench
+zawa:bengaltiger -- zawa.BengalTiger
+zawa:blackrhinoceros -- zawa.BlackRhinoceros
+zawa:blackspidermonkey -- zawa.BlackSpiderMonkey
+zawa:bluefish -- zawa.BlueFish
+zawa:botanist -- zawa.botanist
+zawa:bottlenosedolphin -- zawa.BottlenoseDolphin
+zawa:braziliantapir -- zawa.braziliantapir
+zawa:brownrat -- zawa.brownrat
+zawa:cassowary -- zawa.cassowary
+zawa:cichlid -- zawa.cichlid
+zawa:clownfish -- zawa.Clownfish
+zawa:coatimundi -- zawa.coatimundi
+zawa:cockatoo -- zawa.Cockatoo
+zawa:cockatooegg -- zawa.CockatooEgg
+zawa:coconutcrab -- zawa.coconutcrab
+zawa:commonchimpanzee -- zawa.commonchimpanzee
+zawa:echidna -- zawa.echidna
+zawa:feedtrader -- zawa.FeedTrader
+zawa:fijibandediguana -- zawa.FijiBandedIguana
+zawa:frigate -- zawa.frigate
+zawa:galapagostortoise -- zawa.galapagostortoise
+zawa:gaur -- zawa.Gaur
+zawa:gilamonster -- zawa.gilamonster
+zawa:goldenliontamarin -- zawa.goldenliontamarin
+zawa:greathornedowl -- zawa.greathornedowl
+zawa:greatwhiteshark -- zawa.greatwhiteshark
+zawa:greenanaconda -- zawa.GreenAnaconda
+zawa:grevyszebra -- zawa.GrevysZebra
+zawa:grizzlybear -- zawa.grizzlybear
+zawa:harpyeagle -- zawa.harpyeagle
+zawa:hawksbillseaturtle -- zawa.HawksbillSeaTurtle
+zawa:hawksbillseaturtleegg -- zawa.HawksbillSeaTurtleEgg
+zawa:humpbackwhale -- zawa.humpbackwhale
+zawa:indiangharial -- zawa.IndianGharial
+zawa:indianpangolin -- zawa.IndianPangolin
+zawa:jaguar -- zawa.jaguar
+zawa:japanesegiantsalamander -- zawa.JapaneseGiantSalamander
+zawa:japanesegiantsalamanderegg -- zawa.JapaneseGiantSalamanderEgg
+zawa:koala -- zawa.Koala
+zawa:komododragon -- zawa.komododragon
+zawa:macaw -- zawa.Macaw
+zawa:macawegg -- zawa.MacawEgg
+zawa:marineiguana -- zawa.marineiguana
+zawa:marinetang -- zawa.marinetang
+zawa:meerkat -- zawa.Meerkat
+zawa:moose -- zawa.moose
+zawa:morayeel -- zawa.morayeel
+zawa:nilehippopotamus -- zawa.NileHippopotamus
+zawa:octopus -- zawa.octopus
+zawa:offroadvehicle -- zawa.OffRoadVehicle
+zawa:okapi -- zawa.Okapi
+zawa:orca -- zawa.Orca
+zawa:pacificwalrus -- zawa.PacificWalrus
+zawa:platypus -- zawa.platypus
+zawa:poacher -- zawa.poacher
+zawa:polarbear -- zawa.PolarBear
+zawa:pufferfish -- zawa.Pufferfish
+zawa:pygmyhippopotamus -- zawa.pygmyhippopotamus
+zawa:rattlesnake -- zawa.rattlesnake
+zawa:redkangaroo -- zawa.RedKangaroo
+zawa:redpanda -- zawa.RedPanda
+zawa:reticulatedgiraffe -- zawa.ReticulatedGiraffe
+zawa:riflebullet -- zawa.RifleBullet
+zawa:saltlick -- zawa.saltlick
+zawa:shotgunbullet -- zawa.ShotgunBullet
+zawa:sockeyesalmon -- zawa.SockeyeSalmon
+zawa:sumatranrhinoceros -- zawa.sumatranrhinoceros
+zawa:tasmaniandevil -- zawa.tasmaniandevil
+zawa:threetoedsloth -- zawa.threetoedsloth
+zawa:tigershark -- zawa.tigershark
+zawa:toucan -- zawa.Toucan
+zawa:toucanegg -- zawa.ToucanEgg
+zawa:tranquilizerdart -- zawa.TranquilizerDart
+zawa:treefrog -- zawa.TreeFrog
+zawa:westernlowlandgorilla -- zawa.WesternLowlandGorilla
+zawa:whalefloater -- zawa.whalefloater
+zawa:zebrapinata -- zawa.zebrapinata
+zawa:zookeeper -- zawa.ZooKeeper
+zawa:zoopainting -- zawa.ZooPainting
+zawa:zoosigns -- zawa.zoosigns

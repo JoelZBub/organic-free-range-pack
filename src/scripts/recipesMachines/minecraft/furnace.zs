@@ -13,7 +13,6 @@ import crafttweaker.item.IIngredient;
  furnace.remove(IIngredient output, IIngredient input);
  */
 furnace.remove(<minecraft:brick>);
-furnace.remove(<betteranimalsplus:fried_egg>);
 
 
 /* Add
@@ -24,8 +23,6 @@ furnace.addRecipe(<ediblebugs:termitebrick>, <ediblebugs:termiteclay>, 0.25);
 furnace.addRecipe(<minecraft:brick>, <minecraft:clay_ball>, 0.3);
 furnace.addRecipe(<minecraft:brick>, <mist:clay_ball>, 0.3);
 furnace.addRecipe(<minecraft:brick>, <mist:clay_ball:1>, 0.3);
-furnace.addRecipe(<fossil:cooked_egg>, <betteranimalsplus:pheasant_egg>, 1.0);
-furnace.addRecipe(<fossil:cooked_egg>, <betteranimalsplus:turkey_egg>, 1.0);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <erebus:materials:3>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <tropicraft:bamboo_shoot>, 0.3);
 
