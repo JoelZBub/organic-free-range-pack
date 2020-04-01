@@ -159,10 +159,6 @@
         "id": "tropicraft:sea_urchin_roe"
     },
     {
-        "energy": 12000,
-        "id": "bewitchment:juniper_berries"
-    },
-    {
         "energy": 0,
         "id": "quark:root_flower"
     },
@@ -511,16 +507,8 @@
         "id": "tropicraft:cooked_fish:1"
     },
     {
-        "energy": 12000,
-        "id": "bewitchment:elderberries"
-    },
-    {
         "energy": 9600,
         "id": "tropicraft:raw_fish:7"
-    },
-    {
-        "energy": 100799,
-        "id": "vampirism:garlic_bread"
     },
     {
         "energy": 21600,
@@ -851,10 +839,6 @@
         "id": "ediblebugs:grassbugs:3"
     },
     {
-        "energy": 153600,
-        "id": "bewitchment:heart"
-    },
-    {
         "energy": 72000,
         "id": "coffeespawner:coffee_sugar"
     },
@@ -1019,10 +1003,6 @@
         "id": "cfm:item_sausage_cooked"
     },
     {
-        "energy": 9600,
-        "id": "bewitchment:garlic"
-    },
-    {
         "energy": 86400,
         "id": "minecraft:cooked_chicken"
     },
@@ -1037,10 +1017,6 @@
     {
         "energy": 288000,
         "id": "ediblebugs:cookedbugs:7"
-    },
-    {
-        "energy": 240000,
-        "id": "bewitchment:stew_of_the_grotesque"
     },
     {
         "energy": 43200,
@@ -1121,10 +1097,6 @@
     {
         "energy": 2400,
         "id": "mist:mushrooms_food:24"
-    },
-    {
-        "energy": 0,
-        "id": "vampirism:human_heart"
     },
     {
         "energy": 24000,
@@ -1209,10 +1181,6 @@
     {
         "energy": 75600,
         "id": "tt:chocolate_ice_cream_taco"
-    },
-    {
-        "energy": 12000,
-        "id": "bewitchment:yew_aril"
     },
     {
         "energy": 0,
@@ -1393,10 +1361,6 @@
     {
         "energy": 86400,
         "id": "midnight:cook_stinger_egg"
-    },
-    {
-        "energy": 0,
-        "id": "vampirism:weak_human_heart"
     },
     {
         "energy": 28800,

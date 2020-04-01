@@ -23,10 +23,7 @@
     "energy": 2000,
     "id": "cavern:perverted_log3"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_wood_stairs"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:planks-birch3"
@@ -67,10 +64,7 @@
     "energy": 6000,
     "id": "soviet:wood_labshelf_down"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_03"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf3"
@@ -139,10 +133,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_109"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_wood_stairs"
-  },
+  
   {
     "energy": 640000,
     "id": "chisel:block_coal_coke113"
@@ -207,10 +198,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_24"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_010"
-  },
+  
   {
     "energy": 6000,
     "id": "atum:deadwood_crate"
@@ -235,10 +223,7 @@
     "energy": 640000,
     "id": "chisel:block_coal_coke2"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_wood_slab"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:spruce_pressure_plate"
@@ -399,14 +384,8 @@
     "energy": 6000,
     "id": "erebus:fence_gate_asper"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_06"
-  },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_0"
-  },
+  
+  
   {
     "energy": 6000,
     "id": "pizzacraft:pizza_board_10"
@@ -487,10 +466,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf2"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_wood_slab"
-  },
+  
   {
     "energy": 4000,
     "id": "fossil:palm_door_item"
@@ -559,10 +535,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf2"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_06"
-  },
+  
   {
     "energy": 6000,
     "id": "huntingdim:frame"
@@ -603,10 +576,7 @@
     "energy": 6000,
     "id": "tropicraft:bamboo_fence_gate"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_05"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf2"
@@ -635,10 +605,7 @@
     "energy": 2960,
     "id": "minecraft:wooden_slab1"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_pressure_plate"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:digital_clock10"
@@ -671,10 +638,7 @@
     "energy": 6000,
     "id": "cfm:mail_box_dark_oak"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_fence_gate"
-  },
+  
   {
     "energy": 6000,
     "id": "erebus:bamboo_torch"
@@ -831,10 +795,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_69"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_03"
-  },
+  
   {
     "energy": 6000,
     "id": "blockcraftery:editable_fence_reinforced"
@@ -911,10 +872,7 @@
     "energy": 6000,
     "id": "cfm:door_bell_acacia"
   },
-  {
-    "energy": 4000,
-    "id": "bewitchment:yew_door"
-  },
+  
   {
     "energy": 640,
     "id": "cavern:perverted_leaves1"
@@ -943,10 +901,7 @@
     "energy": 6000,
     "id": "erebus:silo_roof"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_05"
-  },
+  
   {
     "energy": 6000,
     "id": "atum:palm_planks"
@@ -999,10 +954,7 @@
     "energy": 2000,
     "id": "minecraft:sapling2"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_010"
-  },
+  
   {
     "energy": 6000,
     "id": "erebus:door_marshwood"
@@ -1043,14 +995,8 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_313"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_wood_slab"
-  },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_0"
-  },
+  
+  
   {
     "energy": 6000,
     "id": "randomthings:soundbox"
@@ -1263,10 +1209,7 @@
     "energy": 6000,
     "id": "cfm:modern_chair"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_06"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:stained_planks_green_stairs"
@@ -1319,18 +1262,12 @@
     "energy": 6000,
     "id": "quark:vertical_planks2"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_02"
-  },
+  
   {
     "energy": 6000,
     "id": "secretroomsmod:secret_trapped_chest"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_pressure_plate"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:custom_bookshelf2"
@@ -1371,10 +1308,7 @@
     "energy": 2000,
     "id": "atum:linen_white"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_013"
-  },
+  
   {
     "energy": 2960,
     "id": "mist:poplar_branch9"
@@ -1567,10 +1501,7 @@
     "energy": 6000,
     "id": "quark:vertical_stained_planks7"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_pressure_plate"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_810"
@@ -1675,10 +1606,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf3"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:spinning_wheel"
-  },
+  
   {
     "energy": 6000,
     "id": "midnight:dewshroom_door"
@@ -1691,10 +1619,7 @@
     "energy": 6000,
     "id": "chisel:bookshelf_spruce6"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_07"
-  },
+  
   {
     "energy": 320000,
     "id": "chisel:block_coal111"
@@ -1795,10 +1720,7 @@
     "energy": 12000,
     "id": "mist:a_tree_block11"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_03"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf"
@@ -1987,10 +1909,7 @@
     "energy": 6000,
     "id": "chisel:bookshelf_jungle"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_013"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_87"
@@ -2107,10 +2026,7 @@
     "energy": 6000,
     "id": "inspirations:carpeted_trapdoor_green"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_011"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:counter_drawer15"
@@ -2423,10 +2339,7 @@
     "energy": 6000,
     "id": "soviet:soviettable"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_trapdoor"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:bookshelf_spruce8"
@@ -2447,10 +2360,7 @@
     "energy": 6000,
     "id": "chisel:bookshelf_spruce"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_012"
-  },
+  
   {
     "energy": 6000,
     "id": "mist:pine_slab"
@@ -2555,10 +2465,7 @@
     "energy": 320000,
     "id": "chisel:block_charcoal113"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_013"
-  },
+  
   {
     "energy": 12800,
     "id": "mist:poplar_block"
@@ -2619,14 +2526,8 @@
     "energy": 8960,
     "id": "mist:s_tree_stairs"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_014"
-  },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_wood"
-  },
+  
+  
   {
     "energy": 2960,
     "id": "quark:stained_planks_light_blue_slab"
@@ -2819,10 +2720,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_011"
-  },
+  
   {
     "energy": 2960,
     "id": "tropicraft:slab3"
@@ -2915,10 +2813,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_33"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_07"
-  },
+  
   {
     "energy": 3360,
     "id": "mist:s_tree_branch6"
@@ -2954,10 +2849,6 @@
   {
     "energy": 6000,
     "id": "chisel:planks-dark-oak7"
-  },
-  {
-    "energy": 6000,
-    "id": "vampirism:fire_place"
   },
   {
     "energy": 6000,
@@ -2999,10 +2890,7 @@
     "energy": 6000,
     "id": "cfm:blinds_birch_open"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_014"
-  },
+  
   {
     "energy": 640000,
     "id": "chisel:block_coal_coke15"
@@ -3047,10 +2935,7 @@
     "energy": 6000,
     "id": "quark:stained_planks_red_stairs"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_011"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf2"
@@ -3095,10 +2980,7 @@
     "energy": 6000,
     "id": "cfm:upgraded_fence_birch"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_02"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:paper_lantern"
@@ -3119,10 +3001,7 @@
     "energy": 6000,
     "id": "quark:bark5"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_wood_stairs"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:door_bell"
@@ -3357,10 +3236,6 @@
   },
   {
     "energy": 6000,
-    "id": "vampirism:hunter_table"
-  },
-  {
-    "energy": 6000,
     "id": "erebus:fence_gate_scorched"
   },
   {
@@ -3379,10 +3254,7 @@
     "energy": 6000,
     "id": "huntingdim:frame"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_fence_gate"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:planks-acacia"
@@ -3503,10 +3375,7 @@
     "energy": 6000,
     "id": "cfm:counter_drawer1"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_0"
-  },
+  
   {
     "energy": 6000,
     "id": "minecraft:banner2"
@@ -3559,10 +3428,7 @@
     "energy": 6000,
     "id": "pizzacraft:pizza_board_9"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_013"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf1"
@@ -3655,10 +3521,7 @@
     "energy": 6000,
     "id": "tropicraft:thatch_stairs_fuzzy"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_02"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:crate_acacia"
@@ -3683,10 +3546,7 @@
     "energy": 6000,
     "id": "chisel:bookshelf_darkoak1"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_fence"
-  },
+  
   {
     "energy": 2960,
     "id": "mist:snow_branch9"
@@ -3759,10 +3619,7 @@
     "energy": 6000,
     "id": "cfm:modern_bed_bottom10"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_wood"
-  },
+  
   {
     "energy": 6000,
     "id": "leopardengruen37:block_cocoa_lantern"
@@ -3911,10 +3768,7 @@
     "energy": 6000,
     "id": "minecraft:spruce_fence"
   },
-  {
-    "energy": 4000,
-    "id": "bewitchment:elder_door"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:bar_stool9"
@@ -3939,10 +3793,7 @@
     "energy": 2960,
     "id": "minecraft:wooden_slab"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_trapdoor"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_atum_palm_planks_01"
@@ -4051,10 +3902,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_113"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_03"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:bookshelf_jungle6"
@@ -4067,10 +3915,7 @@
     "energy": 6000,
     "id": "midnight:dark_willow_log"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_08"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf3"
@@ -4259,10 +4104,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf1"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_09"
-  },
+  
   {
     "energy": 320000,
     "id": "chisel:block_charcoal6"
@@ -4431,10 +4273,7 @@
     "energy": 640000,
     "id": "chisel:block_coal_coke11"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_02"
-  },
+  
   {
     "energy": 6000,
     "id": "midnight:nightshroom_slab"
@@ -4471,10 +4310,7 @@
     "energy": 6000,
     "id": "mowziesmobs:painted_acacia"
   },
-  {
-    "energy": 4000,
-    "id": "bewitchment:juniper_door"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf"
@@ -4595,10 +4431,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_134"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_wood"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:stained_planks_gray_stairs"
@@ -4651,10 +4484,7 @@
     "energy": 6000,
     "id": "erebus:dark_capped_mushroom_block"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_07"
-  },
+  
   {
     "energy": 400,
     "id": "mist:mulch"
@@ -4719,10 +4549,7 @@
     "energy": 6000,
     "id": "cfm:ceiling_fan"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_012"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:digital_clock4"
@@ -4750,10 +4577,6 @@
   {
     "energy": 6000,
     "id": "chisel:bookshelf_acacia8"
-  },
-  {
-    "energy": 6000,
-    "id": "vampirism:church_altar"
   },
   {
     "energy": 6000,
@@ -4803,14 +4626,8 @@
     "energy": 6000,
     "id": "cfm:counter_drawer11"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_08"
-  },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_04"
-  },
+  
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_310"
@@ -4895,10 +4712,7 @@
     "energy": 6000,
     "id": "erebus:log_marshwood"
   },
-  {
-    "energy": 4000,
-    "id": "bewitchment:cypress_door"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:coffee_table_spruce"
@@ -5003,10 +4817,7 @@
     "energy": 6000,
     "id": "tropicraft:mahogany_fence"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_wood_stairs"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:planks-oak5"
@@ -5051,10 +4862,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1313"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_wood"
-  },
+  
   {
     "energy": 320000,
     "id": "chisel:block_charcoal7"
@@ -5111,18 +4919,12 @@
     "energy": 2000,
     "id": "minecraft:wool6"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_04"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf3"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_chest"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:counter_drawer5"
@@ -5199,10 +5001,7 @@
     "energy": 6000,
     "id": "chisel:planks-acacia1"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_01"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:chopping_board"
@@ -5283,10 +5082,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf3"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_pressure_plate"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:cabinet_jungle"
@@ -5339,10 +5135,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_012"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_trapdoor"
-  },
+  
   {
     "energy": 6000,
     "id": "midnight:shadowroot_slab"
@@ -5423,10 +5216,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_62"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_05"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf1"
@@ -5619,10 +5409,7 @@
     "energy": 6000,
     "id": "midnight:nightshroom_trapdoor"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_01"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf1"
@@ -5711,10 +5498,7 @@
     "energy": 6000,
     "id": "quark:reed_block_stairs"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_fence"
-  },
+  
   {
     "energy": 12000,
     "id": "mist:t_tree_block13"
@@ -5855,10 +5639,7 @@
     "energy": 6000,
     "id": "integrateddynamics:menril_log_filled"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_planks"
-  },
+  
   {
     "energy": 6000,
     "id": "mist:poplar_slab"
@@ -6075,10 +5856,7 @@
     "energy": 6000,
     "id": "cfm:bar_stool3"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_06"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:stained_planks7"
@@ -6179,10 +5957,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_integrateddynamics_menril_planks_07"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_fence"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:bookshelf_birch4"
@@ -6211,10 +5986,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_55"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_planks"
-  },
+  
   {
     "energy": 320000,
     "id": "chisel:block_charcoal13"
@@ -6283,10 +6055,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_11"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_08"
-  },
+  
   {
     "energy": 6000,
     "id": "erebus:log_mossbark"
@@ -6303,10 +6072,7 @@
     "energy": 6000,
     "id": "cfm:cabinet_kitchen13"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_fence_gate"
-  },
+  
   {
     "energy": 6000,
     "id": "leopardengruen37:block_cocoa_lantern_middle_green"
@@ -6375,10 +6141,7 @@
     "energy": 6000,
     "id": "cfm:counter_drawer12"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:yew_planks"
-  },
+  
   {
     "energy": 6000,
     "id": "midnight:nightshroom_door"
@@ -6539,10 +6302,7 @@
     "energy": 6000,
     "id": "huntingdim:frame"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_08"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:planks-jungle"
@@ -6587,10 +6347,7 @@
     "energy": 4000,
     "id": "atum:limestone_brick_carved_door"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_07"
-  },
+  
   {
     "energy": 6000,
     "id": "openblocks:ladder"
@@ -6635,10 +6392,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_66"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_011"
-  },
+  
   {
     "energy": 2000,
     "id": "minecraft:sapling4"
@@ -6647,10 +6401,7 @@
     "energy": 6000,
     "id": "quark:nether_brick_fence_gate"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_01"
-  },
+  
   {
     "energy": 12000,
     "id": "mist:a_tree_block13"
@@ -6751,10 +6502,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf3"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_04"
-  },
+  
   {
     "energy": 6000,
     "id": "fossil:calamites_trapdoor"
@@ -6775,10 +6523,7 @@
     "energy": 6000,
     "id": "chisel:planks-spruce14"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_04"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:modern_bed_bottom14"
@@ -6829,20 +6574,13 @@
   },
   {
     "energy": 6000,
-    "id": "vampirism:blood_sieve"
-  },
-  {
-    "energy": 6000,
     "id": "fossil:ancient_chest"
   },
   {
     "energy": 6000,
     "id": "inspirations:bookshelf2"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:elder_fence_gate"
-  },
+  
   {
     "energy": 8960,
     "id": "mist:aspen_stairs"
@@ -6959,10 +6697,7 @@
     "energy": 4000,
     "id": "blockcraftery:editable_door_reinforced"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_09"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:bookshelf_birch9"
@@ -6979,10 +6714,7 @@
     "energy": 12000,
     "id": "mist:snow_block13"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_010"
-  },
+  
   {
     "energy": 6000,
     "id": "chisel:bookshelf_oak9"
@@ -7143,26 +6875,14 @@
     "energy": 320000,
     "id": "chisel:block_coal19"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_01"
-  },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_010"
-  },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_fence"
-  },
+  
+  
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_121"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_elder_planks_014"
-  },
+  
   {
     "energy": 6000,
     "id": "blockcraftery:editable_inner_corner_reinforced"
@@ -7287,10 +7007,7 @@
     "energy": 6000,
     "id": "cfm:photo_frame10"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_trapdoor"
-  },
+  
   {
     "energy": 6000,
     "id": "erebus:glowshroom_stalk_main"
@@ -7351,18 +7068,12 @@
     "energy": 6000,
     "id": "inspirations:bookshelf2"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_09"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_511"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_014"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_53"
@@ -7439,10 +7150,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_111"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:cypress_wood_slab"
-  },
+  
   {
     "energy": 6000,
     "id": "quark:vertical_stained_planks4"
@@ -7487,10 +7195,7 @@
     "energy": 6000,
     "id": "inspirations:bookshelf3"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_cypress_planks_012"
-  },
+  
   {
     "energy": 6000,
     "id": "inspirations:bookshelf3"
@@ -7627,10 +7332,7 @@
     "energy": 6000,
     "id": "midnight:dewshroom_stairs"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_05"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:modern_bed_bottom"
@@ -7651,14 +7353,8 @@
     "energy": 6000,
     "id": "chisel:bookshelf_acacia6"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_012"
-  },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_yew_planks_0"
-  },
+  
+  
   {
     "energy": 8960,
     "id": "mist:pine_stairs"
@@ -7931,10 +7627,7 @@
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_611"
   },
-  {
-    "energy": 6000,
-    "id": "bewitchment:juniper_planks"
-  },
+  
   {
     "energy": 6000,
     "id": "cfm:photo_frame5"
@@ -8015,10 +7708,7 @@
     "energy": 6000,
     "id": "quark:bark_birch_stairs"
   },
-  {
-    "energy": 6000,
-    "id": "unlimitedchiselworks:chisel_planks_oak_bewitchment_juniper_planks_09"
-  },
+  
   {
     "energy": 6000,
     "id": "unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_510"
