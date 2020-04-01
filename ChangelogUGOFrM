@@ -3350,7 +3350,7 @@ fixed lang file locations
 
 -------------------------------------------------------------------------------
 		Above this line marks all updates included in version 0.0.6.1
-		Build Name / Splash Screen = Laptop Moose  Dec. 19, 2019
+		Build Name / Splash Screen = Stinky Nether Fingers - March 13, 2020
 -------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------  
@@ -3652,7 +3652,7 @@ Surge 2.0.77 (2.0.79 crashes game)
 
 -- Added Mods --
 ----------------
-Boookworm (by SoggyStache)
+Bookworm (by SoggyStache)
 Lil Critters (by Mnesikos)
 Trophies (by SoggyStache)
 ZAWA (by SoggyStache)
@@ -3680,13 +3680,29 @@ betteranimalsplus.cfg
 Fampack.cfg
 	general
 		I:"ELWMS - Maximal animalcount per group (minimal-8):"=2
-    	I:"ELWMS - Spawn importance per biome (0-10):"=2 
+    	I:"ELWMS - Spawn importance per biome (0-10):"=2
+incontrol/loot.json
+	Generikb drops enchanted Rubber Pecker if killed with emerald sword
 inventorypets.cfg
 	disable pet config
 	    B:"Disable Enchanting Table"=false
+randomthings.cfg
+	worldgen {
+    	B:AncientFurnace=false
+rftools/rftools.cfg
+	Removed Vampire stuff - why still even there?
 simplegenerators/generators/culinary/
 	fuels.json
 		added fuels for animania, fampack, lcrdrfs, lil critters, withercrumbs, zawa
+waterstratiner/waterstrainer_lootables.cfg
+	strainer_survivalist_dense|WORM|waterstrainer:worm|0|1|5
+	strainer_survivalist_dense|SLIME|pvj:slime_droplet|0|1|5
+	strainer_survivalist_dense|JUNK|minecraft:glass_bottle|0|1|5
+	strainer_fisherman|JUNK|fossil:tardrop|0|1|10
+	strainer_fisherman|JUNK|sips:lil_sip|0|1|5
+	strainer_fisherman|TREASURE|quark:ancient_tome|0|1|1
+	strainer_fisherman|TREASURE|inventorypets:nugget_diamond|0|1|5
+	strainer_fisherman|TREASURE|inventorypets:nugget_emerald|0|1|5
 ZooAndWildAnimalsRebuilt1.12.2-2.0.1/
 	ZAWA1.12.2-2.0.1
 		general
@@ -3705,12 +3721,17 @@ ZAWATrophies.cfg
 
 -- Script Changes --
 --------------------
+oredict/misc.zs
+	Removed all Fossil dino eggs from all oredicts
 akashictome.zs
 	added zawa books to recipe
 betteranimalsplus.zs
 	removed
+tropicraft.zs
+	Changed non-dimension specific items to use oredict'ed bamboo
 furnace.zs
 	removed betteranimalsplus recipes
+	added ZAWA eggs to output Animania omelette
 recipesHideRemoveJEI.zs
 	<zawa:ralphiki_book:0>
 

@@ -138,6 +138,7 @@
   "cofhcore": "4.6.3",
   "unclegglass": "1.12.2-2.0.0",
   "glassential": "1.1.0",
+  "initialinventory": "2.0.2",
   "reborncore": "3.19.2.522",
   "controlling": "3.0.8",
   "xaeroworldmap": "1.5.6",

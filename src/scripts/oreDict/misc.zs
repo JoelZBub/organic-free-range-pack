@@ -33,6 +33,7 @@ import crafttweaker.item.IIngredient;
 <ore:stone>.remove(<atum:limestone>);
 <ore:listAllmilk>.add(<pvj:coconut_milk>);
 <ore:listAllmilk>.add(<animania:milk_bottle>);
+<ore:bamboo>.add(<zawa:bamboo>);
 
 static milkBuckets as IItemStack[] = [
 <erebus:bambucket>.withTag({Fluid: {FluidName: "milk_goat", Amount: 1000}}),
@@ -65,6 +66,60 @@ static seedList as IItemStack[] = [
 
 for item in seedList {
 	<ore:oilSeed>.add(item);
+}
+
+static dinoEggs as IItemStack[] = [
+	<fossil:meganeura_egg>,
+	<fossil:megalograptus_egg>,
+	<fossil:confuciusornis_egg>,
+	<fossil:confuciusornis_egg_cultivated>,
+	<fossil:dodo_egg>,
+	<fossil:dodo_egg_cultivated>,
+	<fossil:gastornis_egg>,
+	<fossil:gastornis_egg_cultivated>,
+	<fossil:kelenken_egg>,
+	<fossil:kelenken_egg_cultivated>,
+	<fossil:phorusrhacos_egg>,
+	<fossil:phorusrhacos_egg_cultivated>,
+	<fossil:titanis_egg>,
+	<fossil:titanis_egg_cultivated>,
+	<fossil:megalania_egg>,
+	<fossil:tiktaalik_egg>,
+	<fossil:crassigyrinus_egg>,
+	<fossil:diplocaulus_egg>,
+	<fossil:edaphosaurus_egg>,
+	<fossil:arthropleura_egg>,
+	<fossil:allosaurus_egg>,
+	<fossil:sarcosuchus_egg>,
+	<fossil:ceratosaurus_egg>,
+	<fossil:dryosaurus_egg>,
+	<fossil:therizinosaurus_egg>,
+	<fossil:parasaurolophus_egg>,
+	<fossil:pterosaur_egg>,
+	<fossil:tyrannosaurus_egg>,
+	<fossil:velociraptor_egg>,
+	<fossil:triceratops_egg>,
+	<fossil:parrot_egg_cultivated>,
+	<fossil:chicken_egg_cultivated>,
+	<fossil:citipati_egg>,
+	<fossil:stegosaurus_egg>,
+	<fossil:dilophosaurus_egg>,
+	<fossil:brachiosaurus_egg>,
+	<fossil:spinosaurus_egg>,
+	<fossil:compsognathus_egg>,
+	<fossil:ankylosaurus_egg>,
+	<fossil:pachycephalosaurus_egg>,
+	<fossil:deinonychus_egg>,
+	<fossil:gallimimus_egg>
+];
+
+for item in dinoEggs {
+	<ore:listAllegg>.remove(item);
+	<ore:objectEgg>.remove(item);
+	<ore:bakingEgg>.remove(item);
+	<ore:ingredientEgg>.remove(item);
+	<ore:foodSimpleEgg>.remove(item);
+	<ore:egg>.remove(item);
 }
 
 //	Blocks

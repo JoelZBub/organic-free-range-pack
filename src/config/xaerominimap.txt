@@ -5,7 +5,7 @@ settingsButton:false
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 #INGAME SETTINGS (DO NOT EDIT!)
-minimap:false
+minimap:true
 caveMaps:1
 caveZoom:2
 showPlayers:true
@@ -22,7 +22,7 @@ oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:true
-zoom:4
+zoom:3
 mapSize:-1
 entityAmount:1
 chunkGrid:-5

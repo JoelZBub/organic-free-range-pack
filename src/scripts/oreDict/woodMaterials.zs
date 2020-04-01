@@ -44,6 +44,7 @@ for item in pvjLogs {
 //<ore:plankWood>.add(<mod:item:meta>);
 //<ore:plankWood>.remove(<mod:item:meta>);
 <ore:plankBamboo>.add(<tropicraft:bundle:1>);
+<ore:plankBamboo>.add(<zawa:dried_bamboo_decortation>);
 <ore:plankWood>.remove(<atum:palm_planks>);
 <ore:plankWood>.remove(<atum:deadwood_planks>);
 

@@ -25,6 +25,10 @@ furnace.addRecipe(<minecraft:brick>, <mist:clay_ball>, 0.3);
 furnace.addRecipe(<minecraft:brick>, <mist:clay_ball:1>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <erebus:materials:3>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <tropicraft:bamboo_shoot>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:macaw_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:cockatoo_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:toucan_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:albatross_egg>, 0.3);
 
 
 /* Fuel

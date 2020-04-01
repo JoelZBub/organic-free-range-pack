@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "mob": "headcrumbs:human",
+        "player": true,
+        "helditem": "cyclicmagic:emerald_sword",
+        "random": 0.75,
+        "nbt": {
+            "ench": [
+                {
+                    "lvl": 4,
+                    "id": 13
+                }
+            ]
+        },
+        "item": "stupidthings:rubber_chicken"
+    }
+]

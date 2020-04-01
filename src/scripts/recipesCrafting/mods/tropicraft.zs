@@ -14,7 +14,12 @@ static itemRecipeRemoval as IItemStack[] = [
 	<tropicraft:sifter:0>,
 	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 10 as byte}], Color: 15724527, DrinkID: 6 as byte}),
 	<tropicraft:cocktail>.withTag({Ingredients: [{IngredientID: 11 as byte}, {IngredientID: 9 as byte}], Color: 15724527, DrinkID: 6 as byte}),
-	<tropicraft:coconut_bomb:0>
+	<tropicraft:coconut_bomb:0>,
+	<tropicraft:bamboo_mug>,
+	<tropicraft:flower_pot>,
+	<tropicraft:bamboo_stick>,
+	<tropicraft:bamboo_chest>,
+	<tropicraft:bamboo_item_frame>
 ];
 
 /*
@@ -53,6 +58,49 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
 	   			[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>],
 	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+			]
+		]
+	},
+	<tropicraft:bamboo_mug> : {
+		"tropicraft_bamboo_mug" : [
+			[
+	  			[<ore:bamboo>, null, <ore:bamboo>],
+	   			[<ore:bamboo>, null, <ore:bamboo>],
+	  			[<ore:bamboo>, <ore:bamboo>, <ore:bamboo>]
+			]
+		]
+	},
+	<tropicraft:flower_pot> : {
+		"tropicraft_flower_pot" : [
+			[
+	   			[<ore:bamboo>, null, <ore:bamboo>],
+	  			[null, <ore:bamboo>, null]
+			]
+		]
+	},
+	<tropicraft:bamboo_stick> : {
+		"tropicraft_bamboo_stick" : [
+			[
+	   			[<ore:bamboo>],
+	  			[<ore:bamboo>]
+			]
+		]
+	},
+	<tropicraft:bamboo_chest> : {
+		"tropicraft_bamboo_chest" : [
+			[
+	  			[<ore:bamboo>, <ore:bamboo>, <ore:bamboo>],
+	   			[<ore:bamboo>, null, <ore:bamboo>],
+	  			[<ore:bamboo>, <ore:bamboo>, <ore:bamboo>]
+			]
+		]
+	},
+	<tropicraft:bamboo_item_frame> : {
+		"tropicraft_bamboo_item_frame" : [
+			[
+	  			[<ore:bamboo>, <ore:bamboo>, <ore:bamboo>],
+	   			[<ore:bamboo>, <ore:leather>, <ore:bamboo>],
+	  			[<ore:bamboo>, <ore:bamboo>, <ore:bamboo>]
 			]
 		]
 	}
