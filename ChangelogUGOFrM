@@ -3653,6 +3653,8 @@ Surge 2.0.77 (2.0.79 crashes game)
 -- Added Mods --
 ----------------
 Bookworm (by SoggyStache)
+Hooked (by Thecodewarrior1)
+LibrarianLib (by wiresegal)
 Lil Critters (by Mnesikos)
 Trophies (by SoggyStache)
 ZAWA (by SoggyStache)
@@ -3675,6 +3677,8 @@ Better Animals Plus
 --------------------
 animania.cfg
 	lowered all spawnProbablility by 1
+	gamerules
+		B:replaceVanillaHorses=true [default=false]
 betteranimalsplus.cfg
 	removed
 Fampack.cfg
@@ -3737,7 +3741,7 @@ recipesHideRemoveJEI.zs
 
 -- Asset Changes --
 -------------------
-
+Changed alex skin to other player 
 
 -- Other Changes --
 -------------------   
