@@ -122,6 +122,49 @@ for item in dinoEggs {
 	<ore:egg>.remove(item);
 }
 
+static rawZawa as IItemStack[] = [
+<zawa:raw_crab_leg>,
+<zawa:carnivore_meat_raw>,
+<zawa:large_meat_raw>,
+<zawa:cetacean_meat_raw>,
+<zawa:bush_meat_raw>,
+<zawa:bird_meat>,
+<zawa:reptile_meat_raw>,
+<zawa:raw_frog_leg>,
+<zawa:raw_cichlid>
+];
+
+for item in rawZawa {
+	<ore:listAllmeatraw>.add(item);
+}
+
+
+static bugRaw as IItemStack[] = [
+<ediblebugs:termite>,
+<ediblebugs:termitelarva>,
+<ediblebugs:grassbugs>,
+<ediblebugs:grassbugs:1>,
+<ediblebugs:grassbugs:2>,
+<ediblebugs:grassbugs:3>,
+<ediblebugs:woodbugs:3>,
+<ediblebugs:woodbugs:1>,
+<ediblebugs:woodbugs>,
+<ediblebugs:woodbugs:2>,
+<ediblebugs:dirtbugs>,
+<ediblebugs:dirtbugs:3>,
+<ediblebugs:dirtbugs:2>,
+<ediblebugs:dirtbugs:1>,
+<ediblebugs:sandbugs:3>,
+<ediblebugs:sandbugs:1>,
+<ediblebugs:sandbugs>,
+<ediblebugs:sandbugs:2>
+];
+
+
+for item in bugRaw {
+	<ore:rawBugs>.add(item);
+}
+
 //	Blocks
 //<ore:blockCoalCoke>.add(<mod:item:meta>);
 //<ore:blockCoalCoke>.remove(<mod:item:meta>);

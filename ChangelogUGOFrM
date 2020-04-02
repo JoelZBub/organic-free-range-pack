@@ -3703,8 +3703,7 @@ waterstratiner/waterstrainer_lootables.cfg
 	strainer_survivalist_dense|SLIME|pvj:slime_droplet|0|1|5
 	strainer_survivalist_dense|JUNK|minecraft:glass_bottle|0|1|5
 	strainer_fisherman|JUNK|fossil:tardrop|0|1|10
-	strainer_fisherman|JUNK|sips:lil_sip|0|1|5
-	strainer_fisherman|TREASURE|quark:ancient_tome|0|1|1
+	strainer_fisherman|JUNK|sips:lil_sip|0|1|2
 	strainer_fisherman|TREASURE|inventorypets:nugget_diamond|0|1|5
 	strainer_fisherman|TREASURE|inventorypets:nugget_emerald|0|1|5
 ZooAndWildAnimalsRebuilt1.12.2-2.0.1/
@@ -3748,4 +3747,5 @@ Changed alex skin to other player
 edited/updated entities.txt file in dev files 
 	removed betteranimalsplus entities
 	added zawa entities
+seartched through all config and script files and removed any remaining reference to Vampirism or Bewitchment
 remove zawa:ralphiki_book from JEI
