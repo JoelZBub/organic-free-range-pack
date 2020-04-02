@@ -1,0 +1,12 @@
+//If this file is deleted, a new set of default configs will be generated.
+
+//Sets if the mod should print documentation.
+printDocumentation(false)
+
+//Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+//Registers a preset. First argument is name, second is the image name, third is a description, fourth is WorldType, fifth is generator options Json.
+default = registerPreset("Uncle Genny's", "images/TempTitle", "All the organic and free-range fun you could ever hope for!", "RTG")
+default.registerDimension(-1, "examples/Cell_Nether")
+
