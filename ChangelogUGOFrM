@@ -3443,7 +3443,7 @@ Unloader
 
 -- Config Changes --
 --------------------
-betteranimalsplus.cfg
+betteranimalsplus.cfg  (These changes ended up being irrelevant - mod removed)
 	entitycoyote {
 		I:weight=3
 	entitydeer {
@@ -3648,11 +3648,12 @@ added entities.txt file to dev files as checklist for morphs
 -----------------
 JustEnoughIDs 1.0.3-48 (1.0.3-54 crashes game)
 Surge 2.0.77 (2.0.79 crashes game)
-
+Phosphor 0.2.6+build50 
 
 -- Added Mods --
 ----------------
 Bookworm (by SoggyStache)
+Fossil & Archeology (8.0.3 to 8.0.4)
 Lil Critters (by Mnesikos)
 Topography (by bloodnbonesgaming) 
 Trophies (by SoggyStache)
@@ -3675,6 +3676,7 @@ Better Animals Plus
 -- Config Changes --
 --------------------
 animania.cfg
+	added modded food items as trough food and animal foods
 	lowered all spawnProbablility by 1
 	gamerules
 		B:replaceVanillaHorses=true [default=false]
@@ -3684,6 +3686,17 @@ Fampack.cfg
 	general
 		I:"ELWMS - Maximal animalcount per group (minimal-8):"=2
     	I:"ELWMS - Spawn importance per biome (0-10):"=2
+forge.cfg
+	general
+		B:disableVersionCheck=true
+	version_checking
+		B:Global=false
+fossil.cfg
+    B:"Feathered Ornitholestes"=true
+    B:"Generate Volcano Biomes"=true
+    I:"Hell Ship Rarity"=500
+    B:"Intensive Pathfinding"=false
+    I:"Volcano Spawn Weight"=1
 incontrol/loot.json
 	Generikb drops enchanted Rubber Pecker if killed with emerald sword
 inventorypets.cfg
@@ -3694,9 +3707,16 @@ randomthings.cfg
     	B:AncientFurnace=false
 rftools/rftools.cfg
 	Removed Vampire stuff - why still even there?
+RTG/rtg.cfg
+	client
+		B:rtgWorldTypeByDefault=false
+		B:worldTypeNotification=false
 simplegenerators/generators/culinary/
 	fuels.json
 		added fuels for animania, fampack, lcrdrfs, lil critters, withercrumbs, zawa
+topography/Topography.txt
+	default = registerPreset("Uncle Genny's", "images/TempTitle", "All the organic and free-range fun you could ever hope for!", "RTG")
+	default.registerDimension(-1, "examples/Cell_Nether")
 waterstratiner/waterstrainer_lootables.cfg
 	strainer_survivalist_dense|WORM|waterstrainer:worm|0|1|5
 	strainer_survivalist_dense|SLIME|pvj:slime_droplet|0|1|5
@@ -3740,6 +3760,8 @@ recipesHideRemoveJEI.zs
 -- Asset Changes --
 -------------------
 Changed alex skin to other player 
+added new sound effects to crayfish guns.
+
 
 -- Other Changes --
 -------------------   
@@ -3748,3 +3770,49 @@ edited/updated entities.txt file in dev files
 	added zawa entities
 seartched through all config and script files and removed any remaining reference to Vampirism or Bewitchment
 remove zawa:ralphiki_book from JEI
+
+
+
+-----------------------------------------------------------------------------  
+        Changelog
+        April 5,6, 2020
+        Build Name / Splash Screen =  0.0.7.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+JustEnoughIDs 1.0.3-48 (1.0.3-54 crashes game)
+Surge 2.0.77 (2.0.79 crashes game)
+Phosphor 0.2.6+build50 
+
+-- Added Mods --
+----------------
+
+
+
+-- Updated Mods --
+-------------------
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+
+-- Config Changes --
+--------------------
+
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+-------------------   

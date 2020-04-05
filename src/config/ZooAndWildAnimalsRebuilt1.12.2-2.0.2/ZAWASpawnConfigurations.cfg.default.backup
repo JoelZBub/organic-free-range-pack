@@ -3,76 +3,183 @@
 africanelephant {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [erebus:subterranean_savannah], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_jungle_hills], [mist:border_jungle], [pvj:overgrown_spires], [pvj:willow_swamp], [atum:oasis], [erebus:elysian_fields], [erebus:fields_sub_forest], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [minecraft:plains], [jeid:error_biome], [mist:up_meadow], [mist:up_snowfields], [mist:up_swampy_meadow], [mist:border_plains], [pvj:prairie], [traverse:woodlands], [traverse:rocky_plains], [midnight:vigilant_forest], [minecraft:mutated_plains], [midnight:black_ridge], [midnight:deceitful_bog], [midnight:fungi_forest], [midnight:crystal_spires], [midnight:night_plains], [midnight:obscured_plateau], [midnight:phantasmal_valley], [midnight:runebush_grove]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
         traverse:badlands
+        traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_rock
+        minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        erebus:subterranean_savannah
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
         pvj:willow_swamp
-        pvj:baobab_fields
+        atum:oasis
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
         traverse:woodlands
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
-        traverse:temperate_rainforest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=12
 }
 
 
 africanlion {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [erebus:subterranean_savannah], [minecraft:plains], [jeid:error_biome], [mist:up_meadow], [mist:up_snowfields], [mist:up_swampy_meadow], [mist:border_plains], [pvj:prairie], [erebus:elysian_fields], [traverse:woodlands], [traverse:meadow], [traverse:rocky_plains], [midnight:vigilant_forest], [minecraft:mutated_plains], [midnight:black_ridge], [midnight:deceitful_bog], [midnight:fungi_forest], [midnight:crystal_spires], [midnight:night_plains], [midnight:obscured_plateau], [midnight:phantasmal_valley], [midnight:runebush_grove]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
         traverse:badlands
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
+        erebus:subterranean_savannah
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
-        pvj:baobab_fields
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=8
 }
 
 
@@ -90,6 +197,11 @@ albatross {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_cold_lowland
+        mist:border_cold
         pvj:boreal_forest
         pvj:snowy_boreal_forest
         integrateddynamics:biome_meneglin
@@ -104,13 +216,37 @@ albatross {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        erebus:submerged_swamp
         traverse:mini_jungle
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
+        rats:ratlantis
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
@@ -118,7 +254,7 @@ albatross {
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=18
 }
 
 
@@ -127,11 +263,15 @@ amazonriverdolphin {
     S:Biomes <
         minecraft:river
         minecraft:frozen_river
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -144,6 +284,9 @@ americanbison {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -159,15 +302,27 @@ americanbison {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -176,20 +331,34 @@ americanbison {
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=20
 }
 
 
@@ -201,18 +370,33 @@ amurleopard {
         minecraft:smaller_extreme_hills
         minecraft:extreme_hills_with_trees
         pvj:redwood_peaks
+        atum:limestone_mountains
+        traverse:mountainous_desert
         traverse:rocky_plateau
+        traverse:cliffs
+        traverse:glacier_spikes
         traverse:arid_highland
         minecraft:mutated_extreme_hills
         minecraft:mutated_taiga
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
         minecraft:mutated_jungle
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
         minecraft:mutated_taiga_cold
         minecraft:mutated_extreme_hills_with_trees
+        minecraft:mutated_savanna
+        tropicraft:tc_tropics_rainforest_island_mountains
         minecraft:taiga_cold
         minecraft:taiga_cold_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_cold_lowland
+        mist:border_cold
         pvj:snowy_boreal_forest
+        traverse:glacier
         minecraft:taiga
         minecraft:taiga_hills
         minecraft:redwood_taiga
@@ -224,15 +408,26 @@ amurleopard {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:roofed_forest
+        mist:up_dense_forest
+        erebus:underground_jungle
+        erebus:fungal_forest
         traverse:mini_jungle
+        rats:ratlantis
+        midnight:runebush_grove
         minecraft:mutated_birch_forest
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
+        minecraft:frozen_ocean
+        minecraft:frozen_river
+        minecraft:ice_flats
+        minecraft:cold_beach
+        integrateddynamics:biome_meneglin
+        minecraft:mutated_ice_flats
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -250,6 +445,11 @@ andeancondor {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_cold_lowland
+        mist:border_cold
         pvj:boreal_forest
         pvj:snowy_boreal_forest
         integrateddynamics:biome_meneglin
@@ -263,12 +463,16 @@ andeancondor {
         minecraft:extreme_hills
         minecraft:smaller_extreme_hills
         minecraft:extreme_hills_with_trees
+        atum:limestone_mountains
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:glacier
         traverse:glacier_spikes
         traverse:arid_highland
         minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
         minecraft:mutated_jungle
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -276,11 +480,12 @@ andeancondor {
         minecraft:mutated_savanna
         minecraft:mutated_mesa
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=18
 }
 
 
@@ -346,6 +551,37 @@ animaltrader {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_plains
+        mist:border_desert
+        mist:border_cold
+        mist:border_swamp
+        mist:border_jungle
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
         pvj:prairie
         pvj:redwoods
         pvj:redwood_peaks
@@ -355,6 +591,29 @@ animaltrader {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        pvj:baobab_fields
+        randomthings:spectral
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:oasis
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:subterranean_savannah
+        erebus:elysian_fields
+        erebus:ulterior_outback
+        erebus:fungal_forest
+        erebus:submerged_swamp
+        erebus:fields_sub_forest
+        erebus:petrified_forest
+        fossil:lair of darkness
+        fossil:treasure
+        fossil:volcano
         integrateddynamics:biome_meneglin
         traverse:autumnal_woods
         traverse:woodlands
@@ -378,6 +637,30 @@ animaltrader {
         traverse:thicket
         traverse:arid_highland
         traverse:rocky_plains
+        rats:ratlantis
+        midnight:vigilant_forest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=1
@@ -394,30 +677,82 @@ asianelephant {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:red_desert
         traverse:badlands
         traverse:mountainous_desert
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        erebus:subterranean_savannah
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
         pvj:willow_swamp
+        atum:oasis
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
         traverse:woodlands
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=12
 }
 
 
@@ -434,6 +769,9 @@ baldeagle {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -449,15 +787,27 @@ baldeagle {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -466,6 +816,7 @@ baldeagle {
         minecraft:extreme_hills
         minecraft:ice_mountains
         minecraft:smaller_extreme_hills
+        atum:limestone_mountains
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:cliffs
@@ -473,29 +824,52 @@ baldeagle {
         traverse:glacier_spikes
         traverse:arid_highland
         minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
         minecraft:mutated_jungle
         minecraft:mutated_extreme_hills_with_trees
         minecraft:mutated_savanna
         minecraft:mutated_mesa
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
         minecraft:mutated_plains
+        midnight:deceitful_bog
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
         minecraft:swampland
+        mist:up_swamp
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -508,7 +882,7 @@ bandedpenguins {
     B:Enabled=true
     I:"Max Group"=8
     I:"Min Group"=4
-    I:"Spawn Chance"=4
+    I:"Spawn Chance"=15
 }
 
 
@@ -521,6 +895,9 @@ beaver {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -536,15 +913,27 @@ beaver {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -552,11 +941,15 @@ beaver {
         minecraft:mutated_redwood_taiga_hills
         minecraft:river
         minecraft:frozen_river
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Max Group"=4
+    I:"Min Group"=2
+    I:"Spawn Chance"=15
 }
 
 
@@ -570,37 +963,96 @@ bengaltiger {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
+        mist:up_jungle_hills
         pvj:overgrown_spires
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:border_plains
         pvj:prairie
         traverse:woodlands
         traverse:badlands
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -614,6 +1066,25 @@ blackrhinoceros {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:red_desert
         traverse:badlands
@@ -621,29 +1092,55 @@ blackrhinoceros {
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
+        erebus:subterranean_savannah
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
-        pvj:baobab_fields
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
-    I:"Max Group"=4
+    I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -653,29 +1150,96 @@ blackspidermonkey {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        minecraft:savanna
+        minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:rocky_plateau
         traverse:arid_highland
-        traverse:temperate_rainforest
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
+        minecraft:roofed_forest
+        erebus:fungal_forest
+        traverse:thicket
+        midnight:runebush_grove
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
         pvj:overgrown_spires
+        erebus:elysian_fields
+        erebus:fields_sub_forest
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=18
 }
 
 
 botanist {
     #  [default: [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [midnight:vigilant_forest], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_plains]]
     S:Biomes <
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -683,12 +1247,19 @@ botanist {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        midnight:vigilant_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_plains
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=0
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=3
 }
 
 
@@ -698,11 +1269,17 @@ bottlenosedolphin {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=20
 }
 
 
@@ -714,10 +1291,15 @@ boxturtles {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:aspen_grove
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -735,6 +1317,18 @@ boxturtles {
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
         traverse:red_desert
         traverse:mountainous_desert
         traverse:desert_shrubland
@@ -742,16 +1336,31 @@ boxturtles {
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
+        midnight:vigilant_forest
+        minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -761,23 +1370,42 @@ braziliantapir {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=25
 }
 
 
@@ -843,6 +1471,37 @@ brownrat {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_plains
+        mist:border_desert
+        mist:border_cold
+        mist:border_swamp
+        mist:border_jungle
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
         pvj:prairie
         pvj:redwoods
         pvj:redwood_peaks
@@ -852,6 +1511,29 @@ brownrat {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        pvj:baobab_fields
+        randomthings:spectral
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:oasis
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:subterranean_savannah
+        erebus:elysian_fields
+        erebus:ulterior_outback
+        erebus:fungal_forest
+        erebus:submerged_swamp
+        erebus:fields_sub_forest
+        erebus:petrified_forest
+        fossil:lair of darkness
+        fossil:treasure
+        fossil:volcano
         integrateddynamics:biome_meneglin
         traverse:autumnal_woods
         traverse:woodlands
@@ -875,11 +1557,35 @@ brownrat {
         traverse:thicket
         traverse:arid_highland
         traverse:rocky_plains
+        rats:ratlantis
+        midnight:vigilant_forest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
-    B:Enabled=false
-    I:"Max Group"=3
+    B:Enabled=true
+    I:"Max Group"=5
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=6
 }
 
 
@@ -889,19 +1595,35 @@ cassowary {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Max Group"=4
+    I:"Min Group"=2
+    I:"Spawn Chance"=10
 }
 
 
@@ -909,10 +1631,22 @@ cichlid {
     #  [default: [minecraft:ocean], [midnight:deceitful_bog], [midnight:phantasmal_valley], [tropicraft:tc_tropics_ocean], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_lake], [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_marsh], [pvj:willow_swamp], [erebus:submerged_swamp], [traverse:green_swamp], [minecraft:mutated_swampland], [tropicraft:tc_tropics_beach], [minecraft:mushroom_island_shore], [minecraft:beaches], [minecraft:stone_beach], [minecraft:cold_beach], [minecraft:river], [minecraft:frozen_ocean], [minecraft:deep_ocean], [mist:up_lake], [mist:up_lowland], [mist:up_cold_lowland], [atum:dried_river], [minecraft:frozen_river]]
     S:Biomes <
         minecraft:ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_beach
         minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
@@ -920,12 +1654,16 @@ cichlid {
         minecraft:river
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
         minecraft:frozen_river
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=5
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -933,61 +1671,141 @@ clownfish {
     #  [default: [minecraft:ocean], [midnight:deceitful_bog], [midnight:phantasmal_valley], [tropicraft:tc_tropics_ocean], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_lake], [minecraft:frozen_ocean], [minecraft:deep_ocean], [mist:up_lake], [mist:up_lowland], [mist:up_cold_lowland], [atum:dried_river], [erebus:submerged_swamp], [minecraft:swampland]]
     S:Biomes <
         minecraft:ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
+        erebus:submerged_swamp
         minecraft:swampland
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=30
 }
 
 
 coatimundi {
     #  [default: [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [minecraft:desert], [minecraft:desert_hills], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:volcanic_desert], [erebus:ulterior_outback], [traverse:red_desert], [traverse:mountainous_desert], [traverse:desert_shrubland], [minecraft:mutated_desert]]
     S:Biomes <
-        pvj:overgrown_spires
+        minecraft:mesa
+        minecraft:mesa_rock
+        minecraft:mesa_clear_rock
+        minecraft:desert
+        minecraft:desert_hills
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        traverse:red_desert
+        traverse:mountainous_desert
         traverse:desert_shrubland
-        traverse:woodlands
-        traverse:mini_jungle
-        traverse:temperate_rainforest
-        traverse:forested_hills
-        traverse:lush_hills
-        minecraft:mutated_jungle
-        minecraft:mutated_jungle_edge
-        minecraft:jungle
-        minecraft:jungle_hills
-        minecraft:jungle_edge
-        minecraft:forest
+        minecraft:mutated_desert
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
 cockatoo {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_jungle_hills], [mist:border_jungle], [pvj:overgrown_spires], [erebus:subterranean_savannah], [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_marsh], [pvj:willow_swamp], [traverse:green_swamp], [minecraft:mutated_swampland], [midnight:deceitful_bog], [minecraft:extreme_hills], [minecraft:forest_hills], [minecraft:taiga_hills], [minecraft:birch_forest_hills], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga_hills], [mist:up_hilly_taiga], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:cliffs], [traverse:lush_hills], [traverse:rocky_plains], [minecraft:mutated_forest], [midnight:black_ridge], [midnight:obscured_peaks], [midnight:warped_fields], [minecraft:mutated_ice_flats], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_redwood_taiga_hills]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        minecraft:savanna
+        minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
         traverse:badlands
+        traverse:mountainous_desert
+        traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
+        minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_rock
+        minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        minecraft:mesa
+        minecraft:mesa_rock
+        minecraft:mesa_clear_rock
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:subterranean_savannah
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
         minecraft:extreme_hills
         minecraft:forest_hills
         minecraft:taiga_hills
         minecraft:birch_forest_hills
+        minecraft:taiga_cold_hills
         minecraft:redwood_taiga_hills
+        mist:up_hilly_taiga
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
@@ -995,14 +1813,19 @@ cockatoo {
         traverse:lush_hills
         traverse:rocky_plains
         minecraft:mutated_forest
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:warped_fields
         minecraft:mutated_ice_flats
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_redwood_taiga_hills
      >
     B:Enabled=true
-    I:"Max Group"=4
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=6
+    I:"Min Group"=3
+    I:"Spawn Chance"=10
 }
 
 
@@ -1015,9 +1838,9 @@ coconutcrab {
         minecraft:cold_beach
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -1027,30 +1850,49 @@ commonchimpanzee {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=15
 }
 
 
 dwarfcrocodiles {
     S:Biomes <
         minecraft:river
+        mist:up_lake
+        mist:up_lowland
+        atum:dried_river
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        mist:up_dense_forest
+        mist:border_swamp
+        atum:oasis
         traverse:meadow
         traverse:lush_hills
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
         pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:forest
@@ -1058,10 +1900,13 @@ dwarfcrocodiles {
         minecraft:birch_forest
         minecraft:birch_forest_hills
         minecraft:roofed_forest
+        mist:up_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:aspen_grove
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -1078,15 +1923,24 @@ dwarfcrocodiles {
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
 echidna {
     #  [default: [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_jungle_hills], [mist:border_jungle], [pvj:overgrown_spires], [erebus:underground_jungle], [traverse:mini_jungle], [rats:ratlantis], [minecraft:mutated_jungle], [minecraft:mutated_jungle_edge], [minecraft:forest], [minecraft:taiga], [minecraft:forest_hills], [minecraft:taiga_hills], [minecraft:birch_forest], [minecraft:birch_forest_hills], [minecraft:roofed_forest], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [minecraft:extreme_hills_with_trees], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:snowy_coniferous_forest], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [minecraft:mutated_taiga], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_taiga_cold], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills]]
     S:Biomes <
+        minecraft:jungle
+        minecraft:jungle_hills
+        minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:forest
@@ -1096,33 +1950,49 @@ echidna {
         minecraft:birch_forest
         minecraft:birch_forest_hills
         minecraft:roofed_forest
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
         pvj:snowy_boreal_forest
         pvj:aspen_grove
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:snowy_coniferous_forest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
         minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_taiga_cold
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -1188,6 +2058,37 @@ feedtrader {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_plains
+        mist:border_desert
+        mist:border_cold
+        mist:border_swamp
+        mist:border_jungle
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
         pvj:prairie
         pvj:redwoods
         pvj:redwood_peaks
@@ -1197,6 +2098,29 @@ feedtrader {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        pvj:baobab_fields
+        randomthings:spectral
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:oasis
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:subterranean_savannah
+        erebus:elysian_fields
+        erebus:ulterior_outback
+        erebus:fungal_forest
+        erebus:submerged_swamp
+        erebus:fields_sub_forest
+        erebus:petrified_forest
+        fossil:lair of darkness
+        fossil:treasure
+        fossil:volcano
         integrateddynamics:biome_meneglin
         traverse:autumnal_woods
         traverse:woodlands
@@ -1220,11 +2144,35 @@ feedtrader {
         traverse:thicket
         traverse:arid_highland
         traverse:rocky_plains
+        rats:ratlantis
+        midnight:vigilant_forest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=0
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=3
 }
 
 
@@ -1238,6 +2186,25 @@ fijibandediguana {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:red_desert
         traverse:badlands
@@ -1245,25 +2212,45 @@ fijibandediguana {
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:roofed_forest
+        mist:up_dense_forest
+        erebus:fungal_forest
         traverse:thicket
+        midnight:runebush_grove
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:willow_swamp
+        atum:oasis
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
+        minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
         minecraft:cold_beach
@@ -1281,14 +2268,25 @@ fish {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:river
         minecraft:frozen_river
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
+        erebus:submerged_swamp
         minecraft:swampland
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=30
 }
 
 
@@ -1312,6 +2310,13 @@ frigate {
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -1319,6 +2324,8 @@ frigate {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -1326,8 +2333,13 @@ frigate {
         traverse:autumnal_wooded_hills
         traverse:snowy_coniferous_forest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
         minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -1337,11 +2349,17 @@ frigate {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Max Group"=4
+    I:"Min Group"=2
+    I:"Spawn Chance"=12
 }
 
 
@@ -1351,18 +2369,47 @@ galapagostortoise {
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
-        pvj:baobab_fields
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
         minecraft:desert
         minecraft:desert_hills
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        erebus:volcanic_desert
+        erebus:ulterior_outback
         traverse:red_desert
         traverse:mountainous_desert
         traverse:desert_shrubland
@@ -1371,7 +2418,7 @@ galapagostortoise {
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -1383,35 +2430,74 @@ gaur {
         minecraft:forest_hills
         minecraft:jungle_edge
         minecraft:roofed_forest
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
+        pvj:snowy_boreal_forest
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:plains
+        minecraft:savanna
+        minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        erebus:underground_jungle
+        erebus:fungal_forest
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
         pvj:willow_swamp
+        atum:oasis
         traverse:green_swamp
         traverse:lush_hills
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=1
-    I:"Spawn Chance"=4
+    I:"Max Group"=5
+    I:"Min Group"=2
+    I:"Spawn Chance"=5
 }
 
 
@@ -1423,6 +2509,19 @@ gilamonster {
         minecraft:mesa_clear_rock
         minecraft:desert
         minecraft:desert_hills
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
         traverse:red_desert
         traverse:mountainous_desert
         traverse:desert_shrubland
@@ -1431,7 +2530,7 @@ gilamonster {
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -1441,15 +2540,21 @@ goldenliontamarin {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
      >
     B:Enabled=true
-    I:"Max Group"=4
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=18
 }
 
 
@@ -1462,6 +2567,9 @@ greathornedowl {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -1477,14 +2585,27 @@ greathornedowl {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
+        pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -1496,23 +2617,44 @@ greathornedowl {
         minecraft:extreme_hills
         minecraft:ice_mountains
         minecraft:smaller_extreme_hills
+        atum:limestone_mountains
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:cliffs
+        traverse:glacier
+        traverse:glacier_spikes
         traverse:arid_highland
         minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
         minecraft:mutated_jungle
         minecraft:mutated_extreme_hills_with_trees
         minecraft:mutated_savanna
         minecraft:mutated_mesa
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        minecraft:desert
+        minecraft:desert_hills
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:dried_river
+        atum:limestone_crags
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        traverse:red_desert
         traverse:desert_shrubland
         minecraft:mutated_desert
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=9
 }
 
 
@@ -1522,11 +2664,17 @@ greatwhiteshark {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -1540,6 +2688,25 @@ greenanaconda {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:red_desert
         traverse:badlands
@@ -1547,55 +2714,132 @@ greenanaconda {
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
         minecraft:roofed_forest
+        erebus:fungal_forest
         traverse:thicket
+        midnight:runebush_grove
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
         pvj:overgrown_spires
         minecraft:river
+        minecraft:frozen_river
+        erebus:elysian_fields
+        erebus:fields_sub_forest
+        midnight:deceitful_bog
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
 grevyzebra {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [erebus:subterranean_savannah]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
+        minecraft:jungle
+        minecraft:jungle_hills
+        minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
+        traverse:mini_jungle
         traverse:red_desert
         traverse:badlands
+        traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
+        minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_rock
+        minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        minecraft:mesa
+        minecraft:mesa_rock
+        minecraft:mesa_clear_rock
+        erebus:subterranean_savannah
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=20
 }
 
 
@@ -1612,6 +2856,9 @@ grizzlybear {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -1622,19 +2869,32 @@ grizzlybear {
         minecraft:mutated_taiga_cold
         minecraft:forest
         minecraft:forest_hills
+        minecraft:jungle_edge
         minecraft:birch_forest
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -1643,31 +2903,60 @@ grizzlybear {
         minecraft:extreme_hills
         minecraft:ice_mountains
         minecraft:smaller_extreme_hills
+        atum:limestone_mountains
+        traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:cliffs
         traverse:glacier
         traverse:glacier_spikes
+        traverse:arid_highland
         minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
+        minecraft:mutated_jungle
         minecraft:mutated_extreme_hills_with_trees
         minecraft:mutated_savanna
         minecraft:mutated_mesa
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
         minecraft:plains
+        minecraft:savanna
+        minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
         minecraft:mutated_plains
+        midnight:deceitful_bog
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
         minecraft:swampland
+        mist:up_swamp
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=1
+    I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -1677,17 +2966,21 @@ harpyeagle {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
-        traverse:temperate_rainforest
-        traverse:lush_hills
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -1697,11 +2990,23 @@ hawksbillseaturtle {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
+        minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
         minecraft:cold_beach
         minecraft:river
         minecraft:frozen_river
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
+        erebus:submerged_swamp
      >
     B:Enabled=true
     I:"Max Group"=1
@@ -1716,11 +3021,17 @@ humpbackwhale {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Max Group"=4
+    I:"Min Group"=2
+    I:"Spawn Chance"=20
 }
 
 
@@ -1728,97 +3039,290 @@ indiangharial {
     #  [default: [minecraft:swampland], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [mist:up_dense_forest], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_lake], [mist:up_marsh], [mist:up_lowland], [mist:up_cold_lowland], [mist:border_swamp], [mist:border_jungle], [pvj:willow_swamp], [atum:oasis], [erebus:submerged_swamp], [traverse:mini_jungle], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [rats:ratlantis], [minecraft:mutated_swampland], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [mist:up_jungle_hills], [pvj:overgrown_spires], [erebus:underground_jungle], [minecraft:mutated_jungle_edge], [minecraft:taiga], [minecraft:taiga_hills], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [mist:up_snowfields], [mist:up_taiga], [mist:up_hilly_taiga], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [traverse:temperate_rainforest], [traverse:snowy_coniferous_forest], [minecraft:mutated_taiga], [minecraft:mutated_taiga_cold], [minecraft:river], [minecraft:frozen_river], [atum:dried_river], [minecraft:extreme_hills], [minecraft:ice_mountains], [minecraft:smaller_extreme_hills], [minecraft:extreme_hills_with_trees], [atum:limestone_mountains], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:cliffs], [traverse:glacier], [traverse:glacier_spikes], [traverse:arid_highland], [minecraft:mutated_extreme_hills], [midnight:black_ridge], [midnight:obscured_peaks], [midnight:obscured_plateau], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_extreme_hills_with_trees], [minecraft:mutated_savanna], [minecraft:mutated_mesa], [minecraft:mutated_mesa_clear_rock]]
     S:Biomes <
         minecraft:swampland
+        minecraft:jungle
+        minecraft:jungle_hills
+        minecraft:jungle_edge
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        erebus:submerged_swamp
+        traverse:mini_jungle
+        traverse:meadow
+        traverse:green_swamp
+        traverse:lush_hills
+        rats:ratlantis
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_ocean
+        minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        mist:up_jungle_hills
+        pvj:overgrown_spires
+        erebus:underground_jungle
+        minecraft:mutated_jungle_edge
+        minecraft:taiga
+        minecraft:taiga_hills
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
+        traverse:temperate_rainforest
+        traverse:snowy_coniferous_forest
+        minecraft:mutated_taiga
+        minecraft:mutated_taiga_cold
         minecraft:river
-        minecraft:beaches
+        minecraft:frozen_river
+        atum:dried_river
+        minecraft:extreme_hills
+        minecraft:ice_mountains
+        minecraft:smaller_extreme_hills
+        minecraft:extreme_hills_with_trees
+        atum:limestone_mountains
+        traverse:mountainous_desert
+        traverse:rocky_plateau
+        traverse:cliffs
+        traverse:glacier
+        traverse:glacier_spikes
+        traverse:arid_highland
+        minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:mutated_extreme_hills_with_trees
+        minecraft:mutated_savanna
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_clear_rock
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
 indianpangolin {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:swampland], [mist:up_dense_forest], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_lake], [mist:up_marsh], [mist:up_lowland], [mist:up_cold_lowland], [mist:border_swamp], [mist:border_jungle], [pvj:willow_swamp], [atum:oasis], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [minecraft:mutated_swampland], [minecraft:roofed_forest], [erebus:fungal_forest], [traverse:thicket], [midnight:runebush_grove], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [mist:up_jungle_hills], [pvj:overgrown_spires], [erebus:elysian_fields], [erebus:fields_sub_forest], [minecraft:plains], [jeid:error_biome], [mist:up_meadow], [mist:up_snowfields], [mist:border_plains], [pvj:prairie], [traverse:woodlands], [traverse:rocky_plains], [midnight:vigilant_forest], [minecraft:mutated_plains], [midnight:black_ridge], [midnight:deceitful_bog], [midnight:fungi_forest], [midnight:crystal_spires], [midnight:night_plains], [midnight:obscured_plateau], [midnight:phantasmal_valley]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        minecraft:savanna
+        minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
         traverse:badlands
         traverse:mountainous_desert
+        traverse:rocky_plateau
+        traverse:desert_shrubland
+        traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
+        pvj:willow_swamp
+        atum:oasis
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
         minecraft:roofed_forest
+        erebus:fungal_forest
         traverse:thicket
+        midnight:runebush_grove
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
         pvj:overgrown_spires
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:border_plains
         pvj:prairie
         traverse:woodlands
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
 jaguar {
     #  [default: [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_jungle_hills], [mist:border_jungle], [pvj:overgrown_spires], [erebus:underground_jungle], [traverse:mini_jungle], [rats:ratlantis], [minecraft:mutated_jungle], [minecraft:mutated_jungle_edge], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [pvj:baobab_fields], [erebus:subterranean_savannah], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_marsh], [pvj:willow_swamp], [erebus:submerged_swamp], [traverse:green_swamp], [minecraft:mutated_swampland], [midnight:deceitful_bog], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake]]
     S:Biomes <
-        minecraft:forest
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
-        traverse:thicket
-        traverse:lush_hills
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
+        minecraft:mesa
+        minecraft:mesa_rock
+        minecraft:mesa_clear_rock
+        minecraft:savanna
+        minecraft:savanna_rock
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
-        traverse:forested_hills
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
 japanesegiantsalamander {
     #  [default: [minecraft:taiga], [minecraft:frozen_ocean], [minecraft:frozen_river], [minecraft:ice_flats], [minecraft:ice_mountains], [minecraft:taiga_hills], [minecraft:cold_beach], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [mist:up_snowfields], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_cold_lowland], [mist:border_cold], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [integrateddynamics:biome_meneglin], [traverse:cliffs], [traverse:glacier], [traverse:glacier_spikes], [traverse:snowy_coniferous_forest], [minecraft:mutated_taiga], [minecraft:mutated_ice_flats], [minecraft:mutated_taiga_cold], [pvj:redwoods], [pvj:redwood_peaks], [traverse:temperate_rainforest], [minecraft:river], [mist:up_lake], [mist:up_lowland], [atum:dried_river]]
     S:Biomes <
+        minecraft:taiga
+        minecraft:frozen_ocean
+        minecraft:frozen_river
+        minecraft:ice_flats
+        minecraft:ice_mountains
+        minecraft:taiga_hills
+        minecraft:cold_beach
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_cold_lowland
+        mist:border_cold
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
+        integrateddynamics:biome_meneglin
+        traverse:cliffs
+        traverse:glacier
+        traverse:glacier_spikes
+        traverse:snowy_coniferous_forest
+        minecraft:mutated_taiga
+        minecraft:mutated_ice_flats
+        minecraft:mutated_taiga_cold
+        pvj:redwoods
+        pvj:redwood_peaks
         traverse:temperate_rainforest
-        traverse:forested_hills
         minecraft:river
-        minecraft:forest
-        minecraft:forest_hills
-        minecraft:birch_forest
-        minecraft:birch_forest_hills
-        minecraft:mutated_birch_forest
-        minecraft:mutated_birch_forest_hills
-        minecraft:mutated_forest
-        traverse:woodlands
-        traverse:lush_hills
+        mist:up_lake
+        mist:up_lowland
+        atum:dried_river
      >
     B:Enabled=true
     I:"Max Group"=1
@@ -1831,46 +3335,159 @@ koala {
     #  [default: [minecraft:forest], [minecraft:forest_hills], [minecraft:jungle_edge], [minecraft:birch_forest], [minecraft:birch_forest_hills], [minecraft:roofed_forest], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [erebus:fungal_forest], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [pvj:willow_swamp], [atum:oasis], [erebus:elysian_fields], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_marsh], [minecraft:mutated_swampland], [midnight:deceitful_bog]]
     S:Biomes <
         minecraft:forest
+        minecraft:forest_hills
+        minecraft:jungle_edge
+        minecraft:birch_forest
+        minecraft:birch_forest_hills
+        minecraft:roofed_forest
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
         pvj:aspen_grove
+        pvj:overgrown_spires
+        pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
+        traverse:temperate_rainforest
+        traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:jungle
+        minecraft:jungle_hills
+        minecraft:savanna
+        minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:rocky_plateau
+        traverse:desert_shrubland
+        traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
+        minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        erebus:fungal_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
         pvj:willow_swamp
+        atum:oasis
+        erebus:elysian_fields
+        traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_marsh
         minecraft:mutated_swampland
+        midnight:deceitful_bog
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
 komododragon {
     #  [default: [minecraft:mushroom_island_shore], [minecraft:beaches], [minecraft:stone_beach], [minecraft:cold_beach], [minecraft:forest], [minecraft:forest_hills], [minecraft:jungle_edge], [minecraft:extreme_hills_with_trees], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:snowy_coniferous_forest], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [pvj:baobab_fields], [erebus:subterranean_savannah], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock]]
     S:Biomes <
+        minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
+        minecraft:cold_beach
         minecraft:forest
+        minecraft:forest_hills
+        minecraft:jungle_edge
+        minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
         pvj:aspen_grove
+        pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
+        traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
+        traverse:snowy_coniferous_forest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
-        traverse:badlands
-        traverse:thicket
+        minecraft:mutated_savanna_rock
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -1881,55 +3498,181 @@ lowlandgorilla {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        erebus:submerged_swamp
         traverse:mini_jungle
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
+        rats:ratlantis
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        minecraft:roofed_forest
+        erebus:underground_jungle
+        erebus:fungal_forest
+        traverse:thicket
+        midnight:runebush_grove
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
         pvj:overgrown_spires
         minecraft:mutated_jungle_edge
-        pvj:baobab_fields
+        erebus:elysian_fields
+        erebus:fields_sub_forest
+        minecraft:extreme_hills
+        minecraft:desert_hills
+        minecraft:forest_hills
+        minecraft:taiga_hills
+        minecraft:birch_forest_hills
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga_hills
+        mist:up_dunes
+        mist:up_hilly_taiga
+        atum:limestone_crags
+        atum:sand_dunes
+        atum:sand_hills
+        traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
+        traverse:cliffs
+        traverse:arid_highland
+        traverse:rocky_plains
+        minecraft:mutated_forest
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:warped_fields
+        minecraft:mutated_ice_flats
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa_rock
      >
     B:Enabled=true
-    I:"Max Group"=4
+    I:"Max Group"=6
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=9
 }
 
 
 macaw {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:swampland], [mist:up_dense_forest], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_lake], [mist:up_marsh], [mist:up_lowland], [mist:up_cold_lowland], [mist:border_swamp], [mist:border_jungle], [pvj:willow_swamp], [atum:oasis], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [minecraft:mutated_swampland], [minecraft:roofed_forest], [erebus:fungal_forest], [traverse:thicket], [midnight:runebush_grove], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [mist:up_jungle_hills], [erebus:elysian_fields], [erebus:fields_sub_forest], [pvj:overgrown_spires], [midnight:deceitful_bog]]
     S:Biomes <
-        minecraft:forest
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
+        traverse:badlands
+        traverse:mountainous_desert
+        traverse:rocky_plateau
         traverse:desert_shrubland
-        traverse:temperate_rainforest
+        traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_rock
+        minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
         minecraft:roofed_forest
+        erebus:fungal_forest
         traverse:thicket
+        midnight:runebush_grove
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         pvj:overgrown_spires
-        traverse:woodlands
+        midnight:deceitful_bog
      >
     B:Enabled=true
-    I:"Max Group"=4
+    I:"Max Group"=6
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=12
 }
 
 
@@ -1939,12 +3682,12 @@ marineiguana {
         minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
-        traverse:cliffs
+        minecraft:cold_beach
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=14
 }
 
 
@@ -1954,11 +3697,17 @@ marinetang {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=30
 }
 
 
@@ -1969,24 +3718,56 @@ meerkat {
         minecraft:desert_hills
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:red_desert
         traverse:badlands
         traverse:desert_shrubland
+        rats:ratlantis
         minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
-        pvj:baobab_fields
+        traverse:mountainous_desert
+        traverse:arid_highland
+        erebus:subterranean_savannah
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=30
 }
 
 
@@ -1999,29 +3780,45 @@ moose {
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
         pvj:snowy_boreal_forest
+        traverse:temperate_rainforest
         traverse:snowy_coniferous_forest
         minecraft:mutated_taiga
         minecraft:mutated_taiga_cold
         minecraft:forest
         minecraft:forest_hills
+        minecraft:jungle_edge
         minecraft:birch_forest
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
-        pvj:prairie
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:aspen_grove
+        pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
-        traverse:woodlands
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
@@ -2031,7 +3828,7 @@ moose {
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -2041,11 +3838,17 @@ morayeel {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -2053,21 +3856,44 @@ nilehippo {
     #  [default: [minecraft:savanna], [mist:up_savanna], [pvj:baobab_fields], [erebus:subterranean_savannah], [minecraft:mutated_savanna], [minecraft:jungle_edge], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_jungle_hills], [mist:border_jungle], [pvj:overgrown_spires], [erebus:underground_jungle], [traverse:mini_jungle], [rats:ratlantis], [minecraft:mutated_jungle], [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_marsh], [pvj:willow_swamp], [erebus:submerged_swamp], [traverse:green_swamp], [minecraft:mutated_swampland], [midnight:deceitful_bog], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:river], [mist:up_lake], [mist:up_lowland], [mist:up_cold_lowland], [atum:dried_river]]
     S:Biomes <
         minecraft:savanna
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:river
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
      >
     B:Enabled=true
-    I:"Max Group"=4
-    I:"Min Group"=3
-    I:"Spawn Chance"=5
+    I:"Max Group"=6
+    I:"Min Group"=4
+    I:"Spawn Chance"=15
 }
 
 
@@ -2077,11 +3903,17 @@ octopus {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -2092,21 +3924,81 @@ okapi {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
+        erebus:submerged_swamp
         traverse:mini_jungle
         traverse:green_swamp
         traverse:lush_hills
+        rats:ratlantis
         minecraft:mutated_swampland
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        mist:up_jungle_hills
         pvj:overgrown_spires
+        erebus:underground_jungle
         minecraft:mutated_jungle_edge
         minecraft:forest
+        minecraft:taiga
         minecraft:forest_hills
+        minecraft:taiga_hills
+        minecraft:birch_forest
+        minecraft:birch_forest_hills
         minecraft:roofed_forest
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
+        pvj:aspen_grove
+        pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
+        traverse:snowy_coniferous_forest
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_taiga_cold
      >
     B:Enabled=true
     I:"Max Group"=1
@@ -2119,6 +4011,9 @@ opossums {
     S:Biomes <
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:forest
@@ -2127,10 +4022,15 @@ opossums {
         minecraft:birch_forest_hills
         minecraft:roofed_forest
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_swampy_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:aspen_grove
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -2144,13 +4044,30 @@ opossums {
         minecraft:mutated_redwood_taiga
         minecraft:mutated_redwood_taiga_hills
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
+        midnight:vigilant_forest
+        minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
         minecraft:extreme_hills
         minecraft:smaller_extreme_hills
+        atum:limestone_mountains
         traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:arid_highland
@@ -2159,14 +4076,17 @@ opossums {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_clear_rock
         minecraft:swampland
+        mist:up_swamp
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=6
+    I:"Spawn Chance"=20
 }
 
 
@@ -2176,11 +4096,17 @@ orca {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -2189,6 +4115,12 @@ pacificwalrus {
     S:Biomes <
         minecraft:ocean
         minecraft:frozen_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:frozen_river
         minecraft:ice_flats
         minecraft:ice_mountains
@@ -2197,9 +4129,9 @@ pacificwalrus {
         traverse:glacier_spikes
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=25
 }
 
 
@@ -2207,17 +4139,72 @@ platypus {
     #  [default: [minecraft:swampland], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_marsh], [pvj:willow_swamp], [erebus:submerged_swamp], [traverse:green_swamp], [minecraft:mutated_swampland], [midnight:deceitful_bog], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:forest], [minecraft:taiga], [minecraft:forest_hills], [minecraft:taiga_hills], [minecraft:jungle_edge], [minecraft:birch_forest], [minecraft:birch_forest_hills], [minecraft:roofed_forest], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [minecraft:extreme_hills_with_trees], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:snowy_coniferous_forest], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [minecraft:mutated_taiga], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_taiga_cold], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills]]
     S:Biomes <
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:forest
-        minecraft:river
-        traverse:woodlands
+        minecraft:taiga
+        minecraft:forest_hills
+        minecraft:taiga_hills
+        minecraft:jungle_edge
+        minecraft:birch_forest
+        minecraft:birch_forest_hills
+        minecraft:roofed_forest
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_jungle
+        mist:up_jungle_hills
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
+        pvj:aspen_grove
+        pvj:overgrown_spires
+        pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
+        traverse:temperate_rainforest
+        traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
+        traverse:snowy_coniferous_forest
+        traverse:thicket
+        midnight:vigilant_forest
+        minecraft:mutated_forest
+        minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:mutated_taiga_cold
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -2283,6 +4270,37 @@ poacher {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_plains
+        mist:border_desert
+        mist:border_cold
+        mist:border_swamp
+        mist:border_jungle
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
         pvj:prairie
         pvj:redwoods
         pvj:redwood_peaks
@@ -2292,6 +4310,29 @@ poacher {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        pvj:baobab_fields
+        randomthings:spectral
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:oasis
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:subterranean_savannah
+        erebus:elysian_fields
+        erebus:ulterior_outback
+        erebus:fungal_forest
+        erebus:submerged_swamp
+        erebus:fields_sub_forest
+        erebus:petrified_forest
+        fossil:lair of darkness
+        fossil:treasure
+        fossil:volcano
         integrateddynamics:biome_meneglin
         traverse:autumnal_woods
         traverse:woodlands
@@ -2315,11 +4356,35 @@ poacher {
         traverse:thicket
         traverse:arid_highland
         traverse:rocky_plains
+        rats:ratlantis
+        midnight:vigilant_forest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=1
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Min Group"=0
+    I:"Spawn Chance"=3
 }
 
 
@@ -2333,9 +4398,9 @@ polarbear {
         traverse:glacier_spikes
      >
     B:Enabled=true
-    I:"Max Group"=2
+    I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -2344,14 +4409,25 @@ pufferfish {
     S:Biomes <
         minecraft:ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:river
         minecraft:frozen_ocean
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
+        erebus:submerged_swamp
         minecraft:swampland
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=25
 }
 
 
@@ -2361,19 +4437,35 @@ pygmyhippopotamus {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
+        pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
-        minecraft:river
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=1
-    I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=20
 }
 
 
@@ -2381,51 +4473,125 @@ rattlesnake {
     #  [default: [minecraft:forest], [minecraft:taiga], [minecraft:forest_hills], [minecraft:taiga_hills], [minecraft:jungle_edge], [minecraft:birch_forest], [minecraft:birch_forest_hills], [minecraft:roofed_forest], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [minecraft:extreme_hills_with_trees], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:snowy_coniferous_forest], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [minecraft:mutated_taiga], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_taiga_cold], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [minecraft:extreme_hills], [minecraft:desert_hills], [minecraft:jungle_hills], [mist:up_dunes], [atum:limestone_crags], [atum:sand_dunes], [atum:sand_hills], [traverse:cliffs], [traverse:lush_hills], [traverse:arid_highland], [traverse:rocky_plains], [minecraft:mutated_swampland], [midnight:black_ridge], [midnight:obscured_peaks], [midnight:warped_fields], [minecraft:mutated_ice_flats], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa_rock], [minecraft:jungle], [mist:up_jungle_edge], [mist:border_jungle], [erebus:underground_jungle], [traverse:mini_jungle], [rats:ratlantis], [minecraft:mutated_jungle], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [minecraft:plains], [minecraft:savanna], [minecraft:savanna_rock], [jeid:error_biome], [mist:up_meadow], [mist:up_snowfields], [mist:up_swampy_meadow], [mist:border_plains], [pvj:prairie], [atum:sand_plains], [erebus:elysian_fields], [traverse:woodlands], [traverse:meadow], [traverse:badlands], [minecraft:mutated_plains], [midnight:deceitful_bog], [midnight:crystal_spires], [midnight:night_plains], [midnight:obscured_plateau], [midnight:phantasmal_valley], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [minecraft:desert], [mist:up_desert], [mist:border_desert], [atum:dead_oasis], [atum:dried_river], [atum:limestone_mountains], [erebus:volcanic_desert], [erebus:ulterior_outback], [traverse:red_desert], [traverse:mountainous_desert], [traverse:desert_shrubland], [minecraft:mutated_desert]]
     S:Biomes <
         minecraft:forest
+        minecraft:taiga
         minecraft:forest_hills
+        minecraft:taiga_hills
         minecraft:jungle_edge
+        minecraft:birch_forest
+        minecraft:birch_forest_hills
         minecraft:roofed_forest
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:redwoods
         pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
+        pvj:aspen_grove
+        pvj:overgrown_spires
+        pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
+        traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
+        traverse:snowy_coniferous_forest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_taiga_cold
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
         minecraft:extreme_hills
         minecraft:desert_hills
+        minecraft:jungle_hills
+        mist:up_dunes
+        atum:limestone_crags
+        atum:sand_dunes
+        atum:sand_hills
         traverse:cliffs
         traverse:lush_hills
         traverse:arid_highland
         traverse:rocky_plains
         minecraft:mutated_swampland
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:warped_fields
+        minecraft:mutated_ice_flats
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa_rock
+        minecraft:jungle
+        mist:up_jungle_edge
+        mist:border_jungle
+        erebus:underground_jungle
+        traverse:mini_jungle
+        rats:ratlantis
+        minecraft:mutated_jungle
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         minecraft:mutated_plains
+        midnight:deceitful_bog
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
         minecraft:desert
+        mist:up_desert
+        mist:border_desert
+        atum:dead_oasis
+        atum:dried_river
+        atum:limestone_mountains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
         traverse:red_desert
         traverse:mountainous_desert
         traverse:desert_shrubland
         minecraft:mutated_desert
-        minecraft:swampland
-        
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=8
 }
 
 
@@ -2434,76 +4600,240 @@ redkangaroo {
     S:Biomes <
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        minecraft:desert
+        minecraft:desert_hills
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
+        traverse:red_desert
         traverse:badlands
+        traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:mesa
         minecraft:mesa_rock
         minecraft:mesa_clear_rock
-        traverse:rocky_plains
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=5
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=12
 }
 
 
 redpanda {
     #  [default: [minecraft:taiga], [minecraft:frozen_ocean], [minecraft:frozen_river], [minecraft:ice_flats], [minecraft:ice_mountains], [minecraft:taiga_hills], [minecraft:cold_beach], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [mist:up_snowfields], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_cold_lowland], [mist:border_cold], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [integrateddynamics:biome_meneglin], [traverse:cliffs], [traverse:glacier], [traverse:glacier_spikes], [traverse:snowy_coniferous_forest], [minecraft:mutated_taiga], [minecraft:mutated_ice_flats], [minecraft:mutated_taiga_cold], [minecraft:desert], [minecraft:desert_hills], [minecraft:mesa], [minecraft:mesa_rock], [minecraft:mesa_clear_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:petrified_forest], [fossil:volcano], [traverse:red_desert], [traverse:badlands], [traverse:mountainous_desert], [traverse:desert_shrubland], [traverse:arid_highland], [minecraft:mutated_desert], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:roofed_forest], [mist:up_dense_forest], [erebus:underground_jungle], [erebus:fungal_forest], [traverse:mini_jungle], [traverse:thicket], [rats:ratlantis], [midnight:runebush_grove], [minecraft:mutated_jungle], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [pvj:redwoods], [pvj:redwood_peaks], [traverse:temperate_rainforest], [minecraft:extreme_hills], [minecraft:smaller_extreme_hills], [minecraft:extreme_hills_with_trees], [traverse:rocky_plateau], [minecraft:mutated_extreme_hills], [midnight:black_ridge], [midnight:obscured_peaks], [midnight:obscured_plateau], [minecraft:mutated_extreme_hills_with_trees], [tropicraft:tc_tropics_rainforest_island_mountains]]
     S:Biomes <
+        minecraft:taiga
+        minecraft:frozen_ocean
+        minecraft:frozen_river
+        minecraft:ice_flats
+        minecraft:ice_mountains
+        minecraft:taiga_hills
+        minecraft:cold_beach
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_cold_lowland
+        mist:border_cold
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
         integrateddynamics:biome_meneglin
         traverse:cliffs
+        traverse:glacier
+        traverse:glacier_spikes
+        traverse:snowy_coniferous_forest
+        minecraft:mutated_taiga
+        minecraft:mutated_ice_flats
+        minecraft:mutated_taiga_cold
+        minecraft:desert
+        minecraft:desert_hills
+        minecraft:mesa
+        minecraft:mesa_rock
+        minecraft:mesa_clear_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:petrified_forest
+        fossil:volcano
+        traverse:red_desert
+        traverse:badlands
+        traverse:mountainous_desert
+        traverse:desert_shrubland
         traverse:arid_highland
+        minecraft:mutated_desert
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
+        minecraft:mutated_mesa
+        minecraft:mutated_mesa_rock
+        minecraft:mutated_mesa_clear_rock
         minecraft:jungle
         minecraft:jungle_hills
-        minecraft:jungle_edge
         minecraft:roofed_forest
+        mist:up_dense_forest
+        erebus:underground_jungle
+        erebus:fungal_forest
         traverse:mini_jungle
         traverse:thicket
+        rats:ratlantis
+        midnight:runebush_grove
         minecraft:mutated_jungle
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        pvj:redwoods
+        pvj:redwood_peaks
         traverse:temperate_rainforest
-        traverse:lush_hills
-        pvj:overgrown_spires
+        minecraft:extreme_hills
+        minecraft:smaller_extreme_hills
+        minecraft:extreme_hills_with_trees
+        traverse:rocky_plateau
+        minecraft:mutated_extreme_hills
+        midnight:black_ridge
+        midnight:obscured_peaks
+        midnight:obscured_plateau
+        minecraft:mutated_extreme_hills_with_trees
+        tropicraft:tc_tropics_rainforest_island_mountains
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=4
 }
 
 
 reticulatedgiraffe {
     #  [default: [minecraft:jungle], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:red_desert], [traverse:badlands], [traverse:desert_shrubland], [rats:ratlantis], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [erebus:subterranean_savannah], [minecraft:plains], [jeid:error_biome], [mist:up_meadow], [mist:up_snowfields], [mist:up_swampy_meadow], [mist:border_plains], [pvj:prairie], [erebus:elysian_fields], [traverse:woodlands], [traverse:meadow], [traverse:rocky_plains], [midnight:vigilant_forest], [minecraft:mutated_plains], [midnight:black_ridge], [midnight:deceitful_bog], [midnight:fungi_forest], [midnight:crystal_spires], [midnight:night_plains], [midnight:obscured_plateau], [midnight:phantasmal_valley], [midnight:runebush_grove], [minecraft:desert], [minecraft:desert_hills], [traverse:mountainous_desert], [minecraft:mutated_desert]]
     S:Biomes <
+        minecraft:jungle
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        traverse:red_desert
         traverse:badlands
         traverse:desert_shrubland
+        rats:ratlantis
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        erebus:subterranean_savannah
         minecraft:plains
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:rocky_plains
+        midnight:vigilant_forest
         minecraft:mutated_plains
-        pvj:baobab_fields
-        traverse:arid_highland
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        minecraft:desert
+        minecraft:desert_hills
+        traverse:mountainous_desert
+        minecraft:mutated_desert
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
     I:"Spawn Chance"=5
 }
@@ -2524,6 +4854,13 @@ skunks {
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -2531,6 +4868,8 @@ skunks {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -2549,30 +4888,55 @@ skunks {
         minecraft:plains
         minecraft:savanna
         minecraft:savanna_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_snowfields
+        mist:up_swampy_meadow
+        mist:border_plains
         pvj:prairie
+        atum:sand_plains
+        erebus:elysian_fields
         traverse:woodlands
         traverse:meadow
         traverse:badlands
         traverse:rocky_plains
+        midnight:vigilant_forest
+        minecraft:mutated_plains
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        mist:up_savanna
+        pvj:baobab_fields
+        erebus:subterranean_savannah
+        minecraft:mutated_savanna
+        minecraft:mutated_savanna_rock
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
 smallclawedotters {
     S:Biomes <
         minecraft:river
+        mist:up_lake
+        mist:up_lowland
+        atum:dried_river
         minecraft:mushroom_island_shore
         minecraft:beaches
         minecraft:stone_beach
      >
     B:Enabled=true
-    I:"Max Group"=4
-    I:"Min Group"=3
-    I:"Spawn Chance"=5
+    I:"Max Group"=6
+    I:"Min Group"=4
+    I:"Spawn Chance"=20
 }
 
 
@@ -2580,16 +4944,27 @@ sockeyesalmon {
     #  [default: [minecraft:ocean], [midnight:deceitful_bog], [midnight:phantasmal_valley], [tropicraft:tc_tropics_ocean], [tropicraft:tc_tropics_kelp_forest], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_lake], [minecraft:river], [minecraft:frozen_ocean], [minecraft:deep_ocean], [mist:up_lake], [mist:up_lowland], [mist:up_cold_lowland], [atum:dried_river], [erebus:submerged_swamp], [minecraft:frozen_river], [minecraft:swampland]]
     S:Biomes <
         minecraft:ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
         minecraft:river
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        mist:up_lake
+        mist:up_lowland
+        mist:up_cold_lowland
+        atum:dried_river
+        erebus:submerged_swamp
         minecraft:frozen_river
         minecraft:swampland
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
@@ -2599,19 +4974,35 @@ sumatranrhinoceros {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
-    I:"Max Group"=3
-    I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Max Group"=5
+    I:"Min Group"=3
+    I:"Spawn Chance"=20
 }
 
 
@@ -2619,23 +5010,59 @@ tasmaniandevil {
     #  [default: [minecraft:forest], [minecraft:taiga], [minecraft:forest_hills], [minecraft:taiga_hills], [minecraft:jungle_edge], [minecraft:birch_forest], [minecraft:birch_forest_hills], [minecraft:roofed_forest], [minecraft:taiga_cold], [minecraft:taiga_cold_hills], [minecraft:redwood_taiga], [minecraft:redwood_taiga_hills], [minecraft:extreme_hills_with_trees], [mist:up_forest], [mist:up_dense_forest], [mist:up_taiga], [mist:up_hilly_taiga], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_hills], [pvj:redwoods], [pvj:redwood_peaks], [pvj:boreal_forest], [pvj:snowy_boreal_forest], [pvj:aspen_grove], [pvj:overgrown_spires], [pvj:blossoming_fields], [atum:deadwood_forest], [erebus:fields_sub_forest], [traverse:autumnal_woods], [traverse:temperate_rainforest], [traverse:forested_hills], [traverse:birch_forested_hills], [traverse:autumnal_wooded_hills], [traverse:snowy_coniferous_forest], [traverse:thicket], [midnight:vigilant_forest], [minecraft:mutated_forest], [minecraft:mutated_taiga], [midnight:fungi_forest], [midnight:runebush_grove], [midnight:hilly_vigilant_forest], [midnight:hilly_fungi_forest], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_taiga_cold], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills]]
     S:Biomes <
         minecraft:forest
+        minecraft:taiga
+        minecraft:forest_hills
+        minecraft:taiga_hills
+        minecraft:jungle_edge
+        minecraft:birch_forest
+        minecraft:birch_forest_hills
         minecraft:roofed_forest
-        minecraft:savanna
-        minecraft:savanna_rock
+        minecraft:taiga_cold
+        minecraft:taiga_cold_hills
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
+        minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_hills
+        pvj:redwoods
+        pvj:redwood_peaks
+        pvj:boreal_forest
+        pvj:snowy_boreal_forest
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
+        traverse:autumnal_woods
         traverse:temperate_rainforest
+        traverse:forested_hills
+        traverse:birch_forested_hills
+        traverse:autumnal_wooded_hills
+        traverse:snowy_coniferous_forest
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
-        traverse:desert_shrubland
-        traverse:badlands
+        minecraft:mutated_taiga_cold
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=15
 }
 
 
@@ -2645,19 +5072,35 @@ threetoedsloth {
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
+        erebus:underground_jungle
         traverse:mini_jungle
+        rats:ratlantis
         minecraft:mutated_jungle
         minecraft:mutated_jungle_edge
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_marsh
         pvj:willow_swamp
+        erebus:submerged_swamp
         traverse:green_swamp
         minecraft:mutated_swampland
+        midnight:deceitful_bog
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=3
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -2667,48 +5110,111 @@ tigershark {
         minecraft:ocean
         minecraft:frozen_ocean
         minecraft:deep_ocean
+        midnight:deceitful_bog
+        midnight:phantasmal_valley
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=20
 }
 
 
 toucan {
     #  [default: [minecraft:desert], [minecraft:desert_hills], [minecraft:jungle], [minecraft:jungle_hills], [minecraft:jungle_edge], [minecraft:savanna], [minecraft:savanna_rock], [mist:up_savanna], [mist:up_desert], [mist:up_dunes], [mist:border_desert], [pvj:baobab_fields], [atum:dead_oasis], [atum:deadwood_forest], [atum:dried_river], [atum:limestone_crags], [atum:limestone_mountains], [atum:sand_dunes], [atum:sand_hills], [atum:sand_plains], [erebus:underground_jungle], [erebus:volcanic_desert], [erebus:ulterior_outback], [erebus:submerged_swamp], [erebus:petrified_forest], [fossil:volcano], [traverse:mini_jungle], [traverse:badlands], [traverse:mountainous_desert], [traverse:rocky_plateau], [traverse:desert_shrubland], [traverse:arid_highland], [rats:ratlantis], [minecraft:mutated_desert], [tropicraft:tc_tropics_ocean], [minecraft:mutated_jungle], [tropicraft:tc_tropics_kelp_forest], [minecraft:mutated_jungle_edge], [tropicraft:tc_tropics], [tropicraft:tc_tropics_rainforest_plains], [tropicraft:tc_tropics_rainforest_hills], [tropicraft:tc_tropics_rainforest_mountains], [minecraft:mutated_savanna], [minecraft:mutated_savanna_rock], [minecraft:mutated_mesa], [minecraft:mutated_mesa_rock], [minecraft:mutated_mesa_clear_rock], [tropicraft:tc_tropics_rainforest_island_mountains], [tropicraft:tc_tropics_river], [tropicraft:tc_tropics_beach], [tropicraft:tc_tropics_lake], [minecraft:swampland], [mist:up_dense_forest], [mist:up_swamp], [mist:up_swampy_meadow], [mist:up_swampy_forest], [mist:up_jungle], [mist:up_jungle_edge], [mist:up_lake], [mist:up_marsh], [mist:up_lowland], [mist:up_cold_lowland], [mist:border_swamp], [mist:border_jungle], [pvj:willow_swamp], [atum:oasis], [traverse:meadow], [traverse:green_swamp], [traverse:lush_hills], [minecraft:mutated_swampland], [minecraft:roofed_forest], [erebus:fungal_forest], [traverse:thicket], [midnight:runebush_grove], [minecraft:mutated_birch_forest], [minecraft:mutated_birch_forest_hills], [minecraft:mutated_roofed_forest], [minecraft:mutated_redwood_taiga], [minecraft:mutated_redwood_taiga_hills], [mist:up_jungle_hills], [erebus:elysian_fields], [erebus:fields_sub_forest], [pvj:overgrown_spires]]
     S:Biomes <
+        minecraft:desert
+        minecraft:desert_hills
         minecraft:jungle
         minecraft:jungle_hills
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
         traverse:badlands
+        traverse:mountainous_desert
         traverse:rocky_plateau
         traverse:desert_shrubland
         traverse:arid_highland
+        rats:ratlantis
+        minecraft:mutated_desert
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
         minecraft:swampland
+        mist:up_dense_forest
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_swamp
+        mist:border_jungle
         pvj:willow_swamp
+        atum:oasis
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:mutated_swampland
         minecraft:roofed_forest
+        erebus:fungal_forest
         traverse:thicket
+        midnight:runebush_grove
+        minecraft:mutated_birch_forest
+        minecraft:mutated_birch_forest_hills
+        minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
+        mist:up_jungle_hills
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         pvj:overgrown_spires
      >
     B:Enabled=true
     I:"Max Group"=6
     I:"Min Group"=4
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -2720,22 +5226,69 @@ treefrog {
         minecraft:jungle_edge
         minecraft:savanna
         minecraft:savanna_rock
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:border_desert
+        pvj:baobab_fields
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:ulterior_outback
+        erebus:submerged_swamp
+        erebus:petrified_forest
+        fossil:volcano
         traverse:mini_jungle
+        rats:ratlantis
+        tropicraft:tc_tropics_ocean
         minecraft:mutated_jungle
+        tropicraft:tc_tropics_kelp_forest
         minecraft:mutated_jungle_edge
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
         minecraft:mutated_savanna
         minecraft:mutated_savanna_rock
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
+        erebus:subterranean_savannah
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:border_jungle
         pvj:overgrown_spires
         pvj:willow_swamp
+        atum:oasis
+        erebus:elysian_fields
+        erebus:fields_sub_forest
         traverse:meadow
         traverse:green_swamp
         traverse:lush_hills
         minecraft:forest
+        minecraft:taiga
         minecraft:forest_hills
+        minecraft:taiga_hills
         minecraft:birch_forest
         minecraft:birch_forest_hills
         minecraft:roofed_forest
+        minecraft:redwood_taiga
+        minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
@@ -2748,17 +5301,29 @@ treefrog {
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:thicket
+        midnight:vigilant_forest
         minecraft:mutated_forest
+        minecraft:mutated_taiga
+        midnight:fungi_forest
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_birch_forest_hills
         minecraft:mutated_roofed_forest
+        minecraft:mutated_redwood_taiga
+        minecraft:mutated_redwood_taiga_hills
         minecraft:swampland
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_marsh
         minecraft:mutated_swampland
+        midnight:deceitful_bog
      >
     B:Enabled=true
-    I:"Max Group"=3
+    I:"Max Group"=4
     I:"Min Group"=2
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=25
 }
 
 
@@ -2776,12 +5341,19 @@ treesquirrels {
         minecraft:redwood_taiga
         minecraft:redwood_taiga_hills
         minecraft:extreme_hills_with_trees
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swampy_forest
         pvj:redwoods
         pvj:redwood_peaks
         pvj:boreal_forest
         pvj:snowy_boreal_forest
         pvj:aspen_grove
         pvj:blossoming_fields
+        atum:deadwood_forest
+        erebus:fields_sub_forest
         traverse:autumnal_woods
         traverse:temperate_rainforest
         traverse:forested_hills
@@ -2801,7 +5373,7 @@ treesquirrels {
     B:Enabled=true
     I:"Max Group"=2
     I:"Min Group"=1
-    I:"Spawn Chance"=7
+    I:"Spawn Chance"=30
 }
 
 
@@ -2813,11 +5385,17 @@ tufteddeer {
         minecraft:birch_forest_hills
         minecraft:taiga_cold_hills
         minecraft:redwood_taiga_hills
+        mist:up_dunes
+        mist:up_hilly_taiga
         traverse:forested_hills
         traverse:birch_forested_hills
         traverse:autumnal_wooded_hills
         traverse:cliffs
         minecraft:mutated_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
         minecraft:mutated_birch_forest
         minecraft:mutated_redwood_taiga_hills
         minecraft:smaller_extreme_hills
@@ -2835,7 +5413,7 @@ tufteddeer {
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=1
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=10
 }
 
 
@@ -2901,6 +5479,37 @@ zookeeper {
         minecraft:mutated_mesa
         minecraft:mutated_mesa_rock
         minecraft:mutated_mesa_clear_rock
+        jeid:error_biome
+        mist:up_meadow
+        mist:up_forest
+        mist:up_dense_forest
+        mist:up_savanna
+        mist:up_desert
+        mist:up_dunes
+        mist:up_snowfields
+        mist:up_taiga
+        mist:up_hilly_taiga
+        mist:up_swamp
+        mist:up_swampy_meadow
+        mist:up_swampy_forest
+        mist:up_jungle
+        mist:up_jungle_edge
+        mist:up_jungle_hills
+        mist:up_lake
+        mist:up_marsh
+        mist:up_lowland
+        mist:up_cold_lowland
+        mist:border_plains
+        mist:border_desert
+        mist:border_cold
+        mist:border_swamp
+        mist:border_jungle
+        mist:border_down
+        mist:separator
+        mist:down
+        mist:down_forest
+        mist:down_swamp
+        mist:down_center
         pvj:prairie
         pvj:redwoods
         pvj:redwood_peaks
@@ -2910,6 +5519,29 @@ zookeeper {
         pvj:aspen_grove
         pvj:overgrown_spires
         pvj:blossoming_fields
+        pvj:baobab_fields
+        randomthings:spectral
+        atum:dead_oasis
+        atum:deadwood_forest
+        atum:dried_river
+        atum:limestone_crags
+        atum:limestone_mountains
+        atum:oasis
+        atum:sand_dunes
+        atum:sand_hills
+        atum:sand_plains
+        erebus:underground_jungle
+        erebus:volcanic_desert
+        erebus:subterranean_savannah
+        erebus:elysian_fields
+        erebus:ulterior_outback
+        erebus:fungal_forest
+        erebus:submerged_swamp
+        erebus:fields_sub_forest
+        erebus:petrified_forest
+        fossil:lair of darkness
+        fossil:treasure
+        fossil:volcano
         integrateddynamics:biome_meneglin
         traverse:autumnal_woods
         traverse:woodlands
@@ -2933,11 +5565,35 @@ zookeeper {
         traverse:thicket
         traverse:arid_highland
         traverse:rocky_plains
+        rats:ratlantis
+        midnight:vigilant_forest
+        midnight:black_ridge
+        midnight:deceitful_bog
+        midnight:fungi_forest
+        midnight:obscured_peaks
+        midnight:warped_fields
+        midnight:crystal_spires
+        midnight:night_plains
+        midnight:obscured_plateau
+        midnight:phantasmal_valley
+        midnight:runebush_grove
+        midnight:hilly_vigilant_forest
+        midnight:hilly_fungi_forest
+        tropicraft:tc_tropics_ocean
+        tropicraft:tc_tropics_kelp_forest
+        tropicraft:tc_tropics
+        tropicraft:tc_tropics_rainforest_plains
+        tropicraft:tc_tropics_rainforest_hills
+        tropicraft:tc_tropics_rainforest_mountains
+        tropicraft:tc_tropics_rainforest_island_mountains
+        tropicraft:tc_tropics_river
+        tropicraft:tc_tropics_beach
+        tropicraft:tc_tropics_lake
      >
     B:Enabled=true
     I:"Max Group"=1
     I:"Min Group"=0
-    I:"Spawn Chance"=5
+    I:"Spawn Chance"=3
 }
 
 
