@@ -1,3 +1,7 @@
+/*
+	100% Organic Free-Range Fossil and Archeology Sifter recipes script.
+	This script is for adding and removing recipes for Fossil and Archeology Sifter via Moretweaker.
+*/
 
 import moretweaker.fossil.Sifter;
 import crafttweaker.item.IItemStack;

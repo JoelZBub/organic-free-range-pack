@@ -122,5 +122,73 @@
   {
     "energy": 64000,
     "id": "headcrumbs:skull"
+  },
+  {
+    "energy": 64000,
+    "id": "zawa:ivory_tusk"
+  },
+  {
+    "energy": 64000,
+    "id": "zawa:rhino_horn"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item:5"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item:2"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item:19"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item:31"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item:32"
+  },
+  {
+    "energy": 64000,
+    "id": "fossil:bone_unique_item"
+  },
+  {
+    "energy": 32000,
+    "id": "zawa:crocodile_tooth"
+  },  
+  {
+    "energy": 32000,
+    "id": "zawa:tortoise_shell"
+  },  
+  {
+    "energy": 32000,
+    "id": "fossil:bone_unique_item:12"
+  },  
+  {
+    "energy": 32000,
+    "id": "fossil:bone_unique_item:18"
+  },  
+  {
+    "energy": 32000,
+    "id": "fossil:bone_unique_item:33"
+  },  
+  {
+    "energy": 32000,
+    "id": "zawa:snakeskin"
+  },  
+  {
+    "energy": 32000,
+    "id": "zawa:pangolin_scale"
+  },  
+  {
+    "energy": 32000,
+    "id": "zawa:mussels"
+  },  
+  {
+    "energy": 32000,
+    "id": "zawa:shrimp"
   }
 ]

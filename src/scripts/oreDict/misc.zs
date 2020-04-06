@@ -34,6 +34,7 @@ import crafttweaker.item.IIngredient;
 <ore:listAllmilk>.add(<pvj:coconut_milk>);
 <ore:listAllmilk>.add(<animania:milk_bottle>);
 <ore:bamboo>.add(<zawa:bamboo>);
+<ore:tallow>.add(<zawa:blubber>);
 
 static milkBuckets as IItemStack[] = [
 <erebus:bambucket>.withTag({Fluid: {FluidName: "milk_goat", Amount: 1000}}),

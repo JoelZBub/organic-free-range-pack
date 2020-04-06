@@ -3802,11 +3802,24 @@ Phosphor 0.2.6+build50
 
 -- Config Changes --
 --------------------
-
+capsule.cfg
+	S:overridableBlocks <
+		minecraft:deadbush
+simplegenerators/soul/fuels.cfg
+	Added Zawa and Fossil horns, teeth, etc.
 
 
 -- Script Changes --
 --------------------
+recipesCrafting/crayfishfurniture.zs
+	Fixed oredict for alarm clock recipes
+recipesMachines
+	/fossil/sifter.zs
+		Definitley didn't change this because Fossil's native CT support still doesn't work
+	/minecraft/brewingstand.zs
+		Added recipe for poison using toxin sac
+oredict/misc.zs
+	<ore:tallow>.add(<zawa:blubber>);
 
 
 -- Asset Changes --

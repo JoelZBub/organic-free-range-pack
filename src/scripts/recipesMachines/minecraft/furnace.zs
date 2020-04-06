@@ -34,3 +34,4 @@ furnace.addRecipe(<animania:plain_omelette>, <zawa:albatross_egg>, 0.3);
 /* Fuel
 furnace.setFuel(IIngredient input, int burnTime);
 */
+furnace.setFuel(<zawa:blubber>, 800);
