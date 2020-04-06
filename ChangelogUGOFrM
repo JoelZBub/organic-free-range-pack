@@ -3776,14 +3776,14 @@ remove zawa:ralphiki_book from JEI
 -----------------------------------------------------------------------------  
         Changelog
         April 5,6, 2020
-        Build Name / Splash Screen =  0.0.7.0
+        Build Name / Splash Screen = Medicinal ASMR 0.0.7.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
 JustEnoughIDs 1.0.3-48 (1.0.3-54 crashes game)
 Surge 2.0.77 (2.0.79 crashes game)
-Phosphor 0.2.6+build50 
+Phosphor 0.2.6+build50 (0.2.7 crashes game)
 
 -- Added Mods --
 ----------------
@@ -3792,6 +3792,22 @@ Phosphor 0.2.6+build50
 
 -- Updated Mods --
 -------------------
+Bookworm (2.5.0 to 2.5.1)
+CoFH Core (4.6.3.27 to 4.6.6.1)
+CoFH World (1.3.1.7 to 1.4.0.1)
+Common Capabilities (2.4.5 to 2.4.6)
+Cyclopse Core (1.6.1 to 1.6.2)
+Integrated Crafting (1.0.8 to 1.0.9)
+Integrated Dynamics (1.1.2 to 1.1.4)
+Integrated Tunnels (1.6.10 to 1.6.11)
+Redtone Flux (2.1.0.6 to 2.1.1.1)
+Thermal Dynamics (2.5.5.21 to 2.5.6.1)
+Thermal Expansion (5.5.4.43 to 5.5.6.1)
+Thermal Foundation (2.6.3.27 to 2.6.6.1)
+Thermal Innovation (0.3.3.12 to 0.3.6.1)
+Trophies (1.0 to 1.0.1)
+Xaero's Minmap (20.5.2 to 20.6.0)
+ZAWA (2.0.1 to 2.0.2)
 
 
 
@@ -3807,7 +3823,12 @@ capsule.cfg
 		minecraft:deadbush
 simplegenerators/soul/fuels.cfg
 	Added Zawa and Fossil horns, teeth, etc.
-
+ZooAndWildAnimalsRebuilt1.12.2-2.0.1
+    deleted unneeded version config folder
+ZooAndWildAnimalsRebuilt1.12.2-2.0.2/
+    ZAWA1.12.2-2.0.2
+        transferred custom settings from 2.0.1 build
+        
 
 -- Script Changes --
 --------------------
