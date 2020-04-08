@@ -35,6 +35,62 @@
     {
       "item": "minecraft:ender_eye",
       "cost": 32
+    },
+    {      
+      "item": "zawa:lion_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:orca_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:turtle_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:platypus_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:gorilla_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:elephant_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:monkey_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:tiger_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:bald_eagle_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:giraffe_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:grizzly_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:moose_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:octopus_plush",
+             "cost": 5
+    },
+    {      
+      "item": "zawa:red_panda_plush",
+             "cost": 5
     }
   ]
 }

@@ -116,6 +116,27 @@ for item in bagItems {
 	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
 }
 
+static zawaPlush as IItemStack[] = [
+	<zawa:lion_plush>,
+	<zawa:orca_plush>,
+	<zawa:turtle_plush>,
+	<zawa:platypus_plush>,
+	<zawa:gorilla_plush>,
+	<zawa:elephant_plush>,
+	<zawa:monkey_plush>,
+	<zawa:tiger_plush>,
+	<zawa:bald_eagle_plush>,
+	<zawa:giraffe_plush>,
+	<zawa:grizzly_plush>,
+	<zawa:moose_plush>,
+	<zawa:octopus_plush>,
+	<zawa:red_panda_plush>
+];
+
+for item in zawaPlush {
+	item.addTooltip(format.gold("This plush is a available from the Arcade Prize Counter or the Lucky Egg Machine"));
+}
+
 // Do NOT edit below this line //
 
 for item, tooltips in itemTooltipsAdd {

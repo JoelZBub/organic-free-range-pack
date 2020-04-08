@@ -292,5 +292,75 @@
     "item": "minecraft:golden_apple",
     "qty": 1,
     "weight": 2
+  },
+  "zawa:lion_plush": {
+    "item": "zawa:lion_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:orca_plush": {
+    "item": "zawa:orca_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:turtle_plush": {
+    "item": "zawa:turtle_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:platypus_plush": {
+    "item": "zawa:platypus_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:gorilla_plush": {
+    "item": "zawa:gorilla_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:elephant_plush": {
+    "item": "zawa:elephant_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:monkey_plush": {
+    "item": "zawa:monkey_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:tiger_plush": {
+    "item": "zawa:tiger_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:bald_eagle_plush": {
+    "item": "zawa:bald_eagle_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:giraffe_plush": {
+    "item": "zawa:giraffe_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:grizzly_plush": {
+    "item": "zawa:grizzly_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:moose_plush": {
+    "item": "zawa:moose_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:octopus_plush": {
+    "item": "zawa:octopus_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:red_panda_plush": {
+    "item": "zawa:red_panda_plush",
+    "qty": 1,
+    "weight": 5
   }
 }
