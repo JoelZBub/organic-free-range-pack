@@ -3823,6 +3823,8 @@ capsule.cfg
 		minecraft:deadbush
 simplegenerators/soul/fuels.cfg
 	Added Zawa and Fossil horns, teeth, etc.
+topography/examples/Cell_Nether.txt
+	adjustments to Nether generation
 ZooAndWildAnimalsRebuilt1.12.2-2.0.1
     deleted unneeded version config folder
 ZooAndWildAnimalsRebuilt1.12.2-2.0.2/
