@@ -34,12 +34,13 @@ vaporizeWater()
 
 //Adds a layer generator to create the lava at the bottom of the dimension.
 layers = new LayerGenerator()
-layers.addLayer(1~20, <minecraft:lava>)
+layers.addLayer(1~10, <minecraft:lava>)
 addGenerator(layers)
 
 //Adds a cell noise generator to generate tendrils of netherrack, set to form a roof at the top of the dimension.
 tendrils = new CellNoiseGenerator(<minecraft:netherrack>)
 tendrils.closeTop()
+tendrils.setCellFrequency(0.01)
 addGenerator(tendrils)
 
 //Adds a layer generator to create a layer of bedrock at the bottom of the dimension.
@@ -73,9 +74,23 @@ glowstone.addRequiredBlock(<minecraft:netherrack>)
 addGenerator(glowstone)
 
 //Adds a deformed sphere generator to generate small areas of nether quartz in the tendrils.
-quartz = new DeformedSphereGenerator(<minecraft:quartz_ore>, 2, 3, 32, 8)
+quartz = new DeformedSphereGenerator(<minecraft:quartz_ore>, 4, 6, 64, 16)
 quartz.setDeformScale(4)
 quartz.addRequiredBlock(<minecraft:netherrack>)
 addGenerator(quartz)
 
+//Adds a scattered block generator to generate nether wart on soul sand.
+wart = new ScatteredBlockGenerator(<minecraft:nether_wart>, 25, 64)
+wart.addRequiredBlock(<minecraft:soul_sand>)
+addGenerator(wart)
+
+//Adds a deformed sphere generator to generate magma blocks in lava.
+magmalava = new DeformedSphereGenerator(<minecraft:magma>, 4, 6, 64, 24)
+magmalava.addRequiredBlock(<minecraft:lava>)
+addGenerator(magmalava)
+
+//Adds a deformed sphere generator to generate small clumps of magma blocks on tendrils.
+magma = new DeformedSphereGenerator(<minecraft:magma>, 4, 8, 64, 8)
+magma.addRequiredBlock(<minecraft:netherrack>)
+addGenerator(magma)
 

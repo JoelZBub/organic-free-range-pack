@@ -10,3 +10,4 @@ setAsDefaultWorldType()
 default = registerPreset("Uncle Genny's", "images/TempTitle", "All the organic and free-range fun you could ever hope for!", "RTG")
 default.registerDimension(-1, "examples/Cell_Nether")
 
+//flat = registerPreset("Super Flat", "images/TempTitle", "Flat? Is your pecker limp too?", "flat")
