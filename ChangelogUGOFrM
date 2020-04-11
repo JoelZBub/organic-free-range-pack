@@ -3823,8 +3823,6 @@ capsule.cfg
 		minecraft:deadbush
 simplegenerators/soul/fuels.cfg
 	Added Zawa and Fossil horns, teeth, etc.
-topography/examples/Cell_Nether.txt
-	adjustments to Nether generation
 ZooAndWildAnimalsRebuilt1.12.2-2.0.1
     deleted unneeded version config folder
 ZooAndWildAnimalsRebuilt1.12.2-2.0.2/
@@ -3849,6 +3847,100 @@ oredict/misc.zs
 -------------------
 
 
+-- Other Changes --
+-------------------   
+
+
+-------------------------------------------------------------------------------
+		Above this line marks all updates included in version 0.0.7.0
+		Build Name / Splash Screen =  - April 6, 2020
+-------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of April 7-11, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+-- Added Mods --
+----------------
+Custom Backgrounds (by Lumien231)
+
+
+-- Updated Mods --
+-------------------
+Content Creator Integration (1.2.1 to 1.3.1)
+Dynamic Surroundings (3.6.0.2 to 3.6.1.0)
+Inventory Tweaks (1.6.4.150 to 1.6.4.151)
+JustEnoughIDs (1.0.3-48 to 1.0.3-55)
+MoreTweaker (1.0.13 to 1.0.14)
+Phosphor (0.2.6+build50 to 0.2.7)
+Quark (1.6-178 to 1.6-179)
+Signposts (1.08.3 to 1.08.4)
+Surge (2.0.77 to 2.0.79)
+Trophies (1.0.1 to 1.0.2)
+Xaero's Minimap (20.6.0 to 20.7.1)
+Xaero's World Map (1.5.6 to 1.5.7)
+
+
+--- Removed Mods ---
+--------------------
+Default World Generator (port)
+Macaw's Bridges
+
+
+-- Config Changes --
+--------------------
+capsule.cfg
+	loots
+		B:allowBlueprintReward=false
+	"loots:config/capsule/loot/rare"
+		I:weight=1
+	"loots:config/capsule/loot/uncommon"
+		I:weight=4		
+custombackgrounds.cfg
+	S:Fixed-Background=custombackgrounds:textures/smooth.png
+hatchery/
+	lucky_egg.json
+		added zawa plushies       
+projectvibrantvourneys.cfg
+	entities
+		I:fireflySpawnWeight=40
+		I:snailSpawnWeight=5
+		I:starfishBeachWeight=8
+    	I:starfishWeight=5
+quark.cfg
+	world
+		crabs 
+			I:"Spawn Weight"=10
+		frogs
+			I:"Spawn Weight"=5
+		"animals eat floor food"
+			D:"Maximum entity density"=0.0
+topography/examples/Cell_Nether.txt
+	adjustments to Nether generation
+
+			
+-- Script Changes --
+--------------------
+tooltips.zs
+	added info tooltip to zawa plushies
+zawa.zs
+	removed plushie recipes
+
+
+-- Asset Changes --
+-------------------
+oresources/custombackgrounds/textures/smooth.png
 
 -- Other Changes --
 -------------------   
+/arcademod/prizelist.json
+	added zawa plushies as prizes
+uncle_splash.txt
+	added splashes
