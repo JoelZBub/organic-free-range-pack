@@ -3905,9 +3905,18 @@ capsule.cfg
 		I:weight=4		
 custombackgrounds.cfg
 	S:Fixed-Background=custombackgrounds:textures/smooth.png
+fossil.cfg
+	B:"Feathered Compsognathus"=false
+	B:"Feathered Deinonychus"=false
+	B:"Feathered Gallimimus"=false
+	B:"Feathered Ornitholestes"=false
+	B:"Feathered Therizinosaurus"=false
+	B:"Feathered Velociraptor"=false
 hatchery/
 	lucky_egg.json
-		added zawa plushies       
+		added zawa plushies  
+metamorph/morphs.json
+	Added morphs for Fossil
 projectvibrantvourneys.cfg
 	entities
 		I:fireflySpawnWeight=40

@@ -710,5 +710,56 @@
     },
     "zawa:harpy_eagle": {
         "abilities": ["glide"]
+    },
+    "fossil:fossil.nautilus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.coelacanth": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.alligator_gar": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.sturgeon": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.mosasaurus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.plesiosaur": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.liopleurodon": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.icthyosaurus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.megalograptus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.megalodon": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.tiktaalik": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.crassigyrinus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.diplocaulus": {
+        "abilities": ["swim", "water_breath"]
+    },
+    "fossil:fossil.confuciusornis": {
+        "abilities": ["glide"]
+    },
+    "fossil:fossil.dodo": {
+        "abilities": ["glide"]
+    },
+    "fossil:fossil.meganeura": {
+        "abilities": ["glide"]
+    },
+    "fossil:fossil.pterosaur": {
+        "abilities": ["glide"]
     }
 }
