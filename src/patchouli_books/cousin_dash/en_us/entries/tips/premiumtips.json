@@ -2,6 +2,7 @@
     "name": "Premium Tips",
     "icon": "rats:psionic_rat_brain",
     "category": "tips",
+    "sortnum": 2,
     "pages": [
         {
             "type": "text",

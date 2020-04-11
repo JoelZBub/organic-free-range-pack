@@ -2,18 +2,19 @@
     "name": "Tips",
     "icon": "cyberware:body_part:1",
     "category": "tips",
+    "sortnum": 1,
     "pages": [
         {
             "type": "text",
-            "text": "• For early game ore doubling, craft a $(6)Furnus$() and Pulvus as soon as you are able.$(p)• $(6)Deep Mob Learning$() allows you to make Glitch Armor, which provides the only form of true creative flight in the pack.$(p)• Yo Yo Yo everybody… Not just a saying, but also a reusable ranged weapon. Check out the slime yoyo, if you’re feeling like swinging around!"
+            "text": "• For early game ore doubling, craft a $(6)Furnus$() and Pulvus as soon as you are able.$(p)• Yo Yo Yo everybody… Not just a saying, but also a reusable ranged weapon. Check out the slime yoyo, if you’re feeling like swinging around!$(p)• $(6)Birb Nests$() drop from leaves and can contain ore nuggets to feed your inventory pets"
         },
         {
             "type": "text",
-            "text": "• $(6)The Arcade$() mod is more than meets the eye. Tickets won from playing can be redeemed in the prize counter for items, including Ender Pearls.$(p)• $(6)Signposts$() and Waystones are used to teleport between locations and work across dimensions. Waystones are placed to mark locations, and signposts are used to travel to waystones.$(p)• $(6)Birb Nests$() drop from leaves and can contain ore nuggets to feed your inventory pets"  
+            "text": "• $(6)The Arcade$() mod is more than meets the eye. Tickets won from playing can be redeemed in the prize counter for items, including Ender Pearls.$(p)• Tribal masks from $(6)Mowzie's Mobs$() can allow you safely move among the Barakoa and even establish trade. It could even help you gain the powers of a sun god."  
         },
         {
             "type": "text",
-            "text": "• Looking for a specific mob? Make yo self a $(6)Simple Mob Radar$() tablet! (check controls for hotkeys)$(p)• Ender Tools from $(6)Ender Utilities$() can easily be configured to send materials DIRECTLY to the storage unit of your choice. Imagine mining, and all ya ores landing in your chests back at base. Genvintory, begone!$(p)• Throwing torches or a torch launcher from $(6)Cyclic$() will make life a lot easier in the caves."
+            "text": "• Ender Tools from $(6)Ender Utilities$() can easily be configured to send materials DIRECTLY to the storage unit of your choice. Imagine mining, and all ya ores landing in your chests back at base. Genvintory, begone!$(p)• Throwing torches or a torch launcher from $(6)Cyclic$() will make life a lot easier in the caves."
         },
         {
             "type": "text",

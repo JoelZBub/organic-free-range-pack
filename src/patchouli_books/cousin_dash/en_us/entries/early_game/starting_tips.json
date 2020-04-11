@@ -18,6 +18,14 @@
         {
                 "type": "text",
                 "text": "• $(6)Ore Excevation$() is a simple mod that allows you to mine entire veins of ore, chop whole trees, and accidentally dig up chunks of land and wear out your best tool with ease. Simply hold the vein miner key while mining (Default: $(5)grave/tilde$() key)$(p)• P.S. there is idjit draygons and you can ride them :)"
+        },
+        {
+                "type": "text",
+                "text": "• If you're looking for a specific ore, make a Divining Rod from $(6)Random Things$()! Hold the rod in your offhand and go caving...when you get close to an ore, the Diving Rod and the ore will begin to glow brightly. This works REALLY well in the Caverns Dimensions!"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
         }
     ]
 }

@@ -33,21 +33,32 @@
         },
         {
             "type": "text",
-            "text": "$(l)SNEAKY STORAGE$()$(p)When all else fails, there's always the tried and true method of hiding your stuff from others."
-        },
-        {
-            "type": "spotlight",
-            "item": "minecraft:bed:14",
-            "text": "Hide it in your mattress, yo."
-        },
-        {
-            "type": "text",
             "text": "$(l)ULTRA EFFICIENT STORAGE$()$(p)Want to hold a LOT of stuff in tiny space? We got you, boo."
         },
         {
             "type": "spotlight",
             "item": "rftools:modular_storage",
             "text": "With a tier 3 card, the RF Tools Modular Storage can hold up to 300 stacks of an item."
+        },
+        {
+            "type": "spotlight",
+            "item": "enderutilities:storage_0:4",
+            "text": "Handy Chests are extremely powerful! Through the use of memory cards they can hold up to 4096 items $(l)per slot$(), and each chest can hold up to 4 memory cards. If you connect these chests to a storage network system (such as Simple Storage Network), the system will only read the one memory card that is active and will ignore the others."
+        },
+        {
+            "type": "spotlight",
+            "item": "enderutilities:storage_0:7",
+            "text": "If you have loads of items that typically don't stack (armor, weapons, enchanted books, etc) toss 'em in a Junk Drawer! Not only does it have 270 slots of storage space, it will stack up to 256 non-stackable items. I could have sworn I put some spare AA batteries in here..."
+        },
+        {
+            "type": "spotlight",
+            "item": "enderutilities:asu",
+            "text": "If you need absolute control over what items are stored in a chest, the Adjustable Storage Unit is here to the rescue!  You can choose the number of slots, the max stack amount, and even lock each slot to a specific item for filter purposes. It's the perfect chest for storing specific crafting ingredients for automation, etc."
+        },
+        {
+            "type": "spotlight",
+            "item": "enderutilities:barrel",
+            "text": "For those times when you need to store a ridiculous amount of a single item, there are Barrels and Massive Storage Units, which can be configured to store up to a nearly infinite amount. Why you feel the need to store Brazilian items is beyond me...but hey, if you wanna be a dang sicko hoarder I can't stop ya!"
         }
     ]
 }

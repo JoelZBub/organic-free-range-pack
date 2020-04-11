@@ -1,0 +1,32 @@
+{
+    "name": "Getting Around",
+    "icon": "signpost:blockbase",
+    "category": "dimensions",
+    "sortnum": 1,
+    "pages": [
+        {
+                "type": "text",
+                "text": "Wouldn't it be nice if after you traveled to a place, you could just get back there instantly? If that's something you're in to, buckle up buttercup, we've got the hook up."
+        },
+        {
+                "type": "text",
+                "text": "Place down a Waystone from $(6)Signposts$() at a location you wish to bookmark and right click it to give the location a unique name. You can then link to that waystone from $(l)any$() location simply by placing down a Signpost and select the desired location. Multiple signposts can be linked to a single Waystone, even Waystones placed by other people (although you will have to $(o)discover$() the Waystone first by right clicking it)."
+        },
+        {
+                "type": "text",
+                "text": "Signposts can be customized in a variety of ways. Paint a post or sign by right clicking it with the signpost brush. This will turn the post/sign multi-colored. Right click it again with a block of your choice to assign this block's texture. Hitting a sign with bare hands will make it point directly at its destination, or use a signpost wrench for a fine tuned direction. Snowballs/seeds/vines will add unique sign toppings."
+        },
+        {
+                "type": "text",
+                "text": "Signposts can be customized in a variety of ways. Paint a post or sign by right clicking it with the signpost brush. This will turn the post/sign multi-colored. Right click it again with a block of your choice to assign this block's texture. Hitting a sign with bare hands will make it point directly at its destination, or use a signpost wrench for a fine tuned direction. Snowballs/seeds/vines will add unique sign toppings."
+        },
+        {
+                "type": "text",
+                "text": "There are other fun and cool ways to quickly travel as well...$(6)Ender Utilites$() has a custom portal that let's you dial up your desired destination. $(6)Random Things$() Floo Powder let's you travel via a magic fireplace network. Ender Books and Ender Wings form $(6)Cyclic$() let you quickly warp to certain destinations. Try them all out and see which you like the most!"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+        }
+    ]
+}
