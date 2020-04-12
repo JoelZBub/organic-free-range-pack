@@ -12,8 +12,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<atum:limestone_wall>,
-<atum:smooth_stairs>
+<atum:limestone_wall:0>
+<atum:smooth_stairs:0>
 ];
 
 /*
@@ -37,11 +37,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:limestone_wall> : {
+<atum:limestone_wall:0> : {
 		"atum_limestone_wall" : [
 			[
-	  			[<atum:limestone>, <atum:limestone>, <atum:limestone>],
-	   			[<atum:limestone>, <atum:limestone>, <atum:limestone>]
+	  			[<atum:limestone:0>, <atum:limestone:0>, <atum:limestone:0>],
+	   			[<atum:limestone:0>, <atum:limestone:0>, <atum:limestone:0>]
 			]
 		]
 	}
@@ -61,12 +61,12 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:smooth_stairs> : {
+<atum:smooth_stairs:0> : {
 		"atum_smooth_stairs" : [
 			[
-	  			[<atum:smooth_stairs>, null, null],
-	   			[<atum:smooth_stairs>, <atum:smooth_stairs>, null],
-	  			[<atum:smooth_stairs>, <atum:smooth_stairs>, <atum:smooth_stairs>]
+	  			[<atum:limestone:0>, null, null],
+	   			[<atum:limestone:0>, <atum:limestone:0>, null],
+	  			[<atum:limestone:0>, <atum:limestone:0>, <atum:limestone:0>]
 			]
 		]
 	}

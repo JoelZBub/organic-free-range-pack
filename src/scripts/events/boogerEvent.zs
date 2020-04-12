@@ -1,6 +1,6 @@
 /*
 	100% Organic Free-Range Booger Effects Script
-	This script provides a means to add effects to drinks.
+	This script provides a means to add effects to Booger item.
 	Script by darkphan and happybandit 
 */
 
@@ -11,7 +11,7 @@ import crafttweaker.entity.IEntityLivingBase;
 
 // Give effect after drinking a drink
 events.onEntityLivingUseItemFinish(function(event as crafttweaker.event.EntityLivingUseItemEvent.Finish){
-var booger = <contenttweaker:organic_booger>;
+var booger = <contenttweaker:organic_booger:0>;
 	if booger.matches(event.item) {
 		event.player.executeCommand("effect @s minecraft:nausea 15");
 		event.player.executeCommand("effect @s minecraft:speed 30 5");

@@ -7,6 +7,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.block.IBlock;
 import crafttweaker.block.IBlockDefinition;
 
-var gadget = <weirdinggadget:weirding_gadget>.asBlock().definition;
+var gadget = <weirdinggadget:weirding_gadget:0>.asBlock().definition;
 
 gadget.resistance = 3600000;

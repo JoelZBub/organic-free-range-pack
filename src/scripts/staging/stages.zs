@@ -1,4 +1,4 @@
-#priority 3999
+#priority 4000
 
 /*
 	100% Organic Free-Range Staging script.
@@ -6,12 +6,12 @@
 
 import mods.zenstages.ZenStager;
 import mods.zenstages.Stage;
-import scripts.staging.util.toCamelCase;
+import scripts.utils.toCamelCase;
 
 global stages as Stage[string] = {};
 
 var stageNames as string[] = [
-"gadget"
+	"gadget"
 ];
 
 for stageName in stageNames {

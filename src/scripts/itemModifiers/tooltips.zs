@@ -5,7 +5,64 @@
 import crafttweaker.formatting.IFormattedText;
 import crafttweaker.item.IItemStack;
 
-//	Tooltips
+/*
+	Arrays and loops for multiple items with the same tooltips 
+*/
+static netItems as IItemStack[] = [
+	<cyclicmagic:magic_net:0>,
+	<randomthings:summoningpendulum:0>,
+	<thermalexpansion:morb:0>,
+	<tinymobfarm:lasso:0>
+];
+
+for item in netItems {
+	item.addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
+}
+
+static bagItems as IItemStack[] = [
+	<cyclicmagic:sack_ender:0>,
+	<cyclicmagic:storage_bag:0>,
+	<enderutilities:enderbag:0>,
+	<enderutilities:handybag:0>,
+	<enderutilities:handybag:1>,
+	<thermalexpansion:satchel:0>,
+	<thermalexpansion:satchel:1>,
+	<thermalexpansion:satchel:2>,
+	<thermalexpansion:satchel:3>,
+	<thermalexpansion:satchel:4>,
+	<thermalexpansion:satchel:100>
+];
+
+for item in bagItems {
+	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
+}
+
+static zawaPlush as IItemStack[] = [
+	<zawa:bald_eagle_plush:0>,
+	<zawa:elephant_plush:0>,
+	<zawa:giraffe_plush:0>,
+	<zawa:gorilla_plush:0>,
+	<zawa:grizzly_plush:0>,
+	<zawa:lion_plush:0>,
+	<zawa:monkey_plush:0>,
+	<zawa:moose_plush:0>,
+	<zawa:octopus_plush:0>,
+	<zawa:orca_plush:0>,
+	<zawa:platypus_plush:0>,
+	<zawa:red_panda_plush:0>,
+	<zawa:tiger_plush:0>,
+	<zawa:turtle_plush:0>
+];
+
+for item in zawaPlush {
+	item.addTooltip(format.gold("This plush is a available from the Arcade Prize Counter or the Lucky Egg Machine"));
+}
+
+
+/*
+	Individual items with their own unique tooltip
+*/
+// Tooltips
 static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 /*	<mod:id:meta>: [
 		format.color("String")
@@ -13,16 +70,19 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<arcademod:ticket:0>: [
 		format.white("Redeem for Prizes!")
 	],
+	<cfm:fire_pit_on:0>: [
+		format.white("Place a series of Chopped Logs on the ground and light on fire to create")
+	],
 	<erebus:portal_activator:0>: [
 		format.red("If you don't make two, that's your own fault")
 	],
-	<erebus:portal_activator> : [
+	<erebus:portal_activator:0>: [
 		format.red("You need two of these!")
 	],
-	<fossil:fossil:0> : [
+	<fossil:fossil:0>: [
 		format.white("Found in the land of Atum")
 	],
-	<fossil:permafrost:0> : [
+	<fossil:permafrost:0>: [
 		format.white("Found in the depths of Atum")
 	],
 	<hatchery:manure_block:0>: [
@@ -37,6 +97,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<hatchery:fertilized_dirt:0>: [
 		format.white("Just needs a hoe")
 	],
+	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}): [
+		format.white("Bookshelves can be made from any kind of wood slab.")
+	],
 	<minecraft:chicken:0>: [
 		format.white("LUL... Chicken")
 	],
@@ -49,29 +112,21 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<tropicraft:coral:2>: [
 		format.white("Big Braim Energy!")
 	],
-	<yoyos:diamond_yoyo>: [
+	<yoyos:diamond_yoyo:0>: [
 		format.white("Diamond YoYo")
 	],
-	<yoyos:gold_yoyo>: [
+	<yoyos:gold_yoyo:0>: [
 		format.white("Gold YoYo")
 	],
-	<yoyos:iron_yoyo>: [
+	<yoyos:iron_yoyo:0>: [
 		format.white("Iron YoYo")
 	],
-	<yoyos:stone_yoyo>: [
+	<yoyos:stone_yoyo:0>: [
 		format.white("Stone YoYo")
 	],
-	<yoyos:wooden_yoyo>: [
+	<yoyos:wooden_yoyo:0>: [
 		format.white("Wooden YoYo")
-	],
-	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}) : [
-		format.white("Bookshelves can be made from any kind of wood slab.")
-	],
-	<cfm:fire_pit_on> : [
-		format.white("Place a series of Chopped Logs on the ground and light on fire to create")
 	]
-	
-
 };
 
 // Shift Tooltips
@@ -79,66 +134,19 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 /*	<mod:id:meta>: [
 		format.color("String")
 	] */
-	<erebus:portal_activator> : [
+	<erebus:portal_activator:0>: [
 		format.gold("Seriously, take an extra with you")
 	],
-	<fartgen:generator> : [
+	<fartgen:generator:0>: [
 		format.gray("Egg-Laying-Wool-Milk-Sow - 40 rf/t\nCow - 20 rf/t\nChicken - 5 rf/t\nDonkey - 10 rf/t\nHorse - 10 rf/t\nLlama - 10 rf/t\nMooshroom - 20 rf/t\nMule - 10 rf/t\nOcelot - 5 rf/t\nPig - 15 rf/t\nPolar Bear - 25 rf/t\nSheep - 5 rf/t\nWolf - 5 rf/t")
 	]
 };
 
-static netItems as IItemStack[] = [
-<cyclicmagic:magic_net>,
-<tinymobfarm:lasso>,
-<thermalexpansion:morb>,
-<randomthings:summoningpendulum>
-];
-
-for item in netItems {
-	item.addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
-}
-
-static bagItems as IItemStack[] = [
-<cyclicmagic:storage_bag>,
-<enderutilities:enderbag>,
-<enderutilities:handybag>,
-<enderutilities:handybag:1>,
-<thermalexpansion:satchel>,
-<thermalexpansion:satchel:1>,
-<thermalexpansion:satchel:2>,
-<thermalexpansion:satchel:3>,
-<thermalexpansion:satchel:4>,
-<thermalexpansion:satchel:100>,
-<cyclicmagic:sack_ender>
-];
-
-for item in bagItems {
-	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
-}
-
-static zawaPlush as IItemStack[] = [
-	<zawa:lion_plush>,
-	<zawa:orca_plush>,
-	<zawa:turtle_plush>,
-	<zawa:platypus_plush>,
-	<zawa:gorilla_plush>,
-	<zawa:elephant_plush>,
-	<zawa:monkey_plush>,
-	<zawa:tiger_plush>,
-	<zawa:bald_eagle_plush>,
-	<zawa:giraffe_plush>,
-	<zawa:grizzly_plush>,
-	<zawa:moose_plush>,
-	<zawa:octopus_plush>,
-	<zawa:red_panda_plush>
-];
-
-for item in zawaPlush {
-	item.addTooltip(format.gold("This plush is a available from the Arcade Prize Counter or the Lucky Egg Machine"));
-}
 
 // Do NOT edit below this line //
-
+/*
+	Loops for individual items with their own unique tooltip
+*/
 for item, tooltips in itemTooltipsAdd {
 	for tooltip in tooltips {
 		item.addTooltip(tooltip);

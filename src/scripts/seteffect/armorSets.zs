@@ -26,6 +26,22 @@ val mummy_armor_set = mods.SetEffect.newSet()
 <atum:mummy_legs:*>.addShiftTooltip(format.gold("Set Bonus: Strength, Resistance, Resilience, Slowness"));
 <atum:mummy_boots:*>.addShiftTooltip(format.gold("Set Bonus: Strength, Resistance, Resilience, Slowness"));
 
+// 	Danger Zone Armor Set
+val danger_zone_armor_set = mods.SetEffect.newSet()
+		.setName("Danger_Zone_Armor_Set")
+		.withHead(<erebus:rhino_exoskeleton_helmet:0>)
+		.withChest(<mist:niobium_chestplate:0>)
+		.withLegs(<fossil:shin_leggings:0>)
+		.withFeet(<midnight:tenebrum_boots:0>)
+		.addEffect(<potion:minecraft:regeneration>.makePotionEffect(200, 2))
+		.addEffect(<potion:minecraft:saturation>.makePotionEffect(200, 0))
+		.setIgnoreNBT()
+		.register();
+
+<erebus:rhino_exoskeleton_helmet:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<mist:niobium_chestplate:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<fossil:shin_leggings:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
+<midnight:tenebrum_boots:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
 
 // Erebus Bamboo Armor Set
 val bamboo_armor_set = mods.SetEffect.newSet()
@@ -45,6 +61,23 @@ val bamboo_armor_set = mods.SetEffect.newSet()
 <erebus:bamboo_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Swim Speed, Water Breathing, Water Walking"));
 <erebus:bamboo_boots:*>.addShiftTooltip(format.gold("Set Bonus: Swim Speed, Water Breathing, Water Walking"));
 
+// 	Hexcite Armor Set
+val hexcite_armor_set = mods.SetEffect.newSet()
+		.setName("Hexcite_Armor_Set")
+		.withHead(<cavern:hexcite_helmet:0>)
+		.withChest(<cavern:hexcite_chestplate:0>)
+		.withLegs(<cavern:hexcite_leggings:0>)
+		.withFeet(<cavern:hexcite_boots:0>)
+		.addEffect(<potion:cyclicmagic:potion.magnet>.makePotionEffect(200, 1))
+		.addEffect(<potion:minecraft:haste>.makePotionEffect(200, 1))
+		.addEffect(<potion:randomthings:imbue_experience>.makePotionEffect(200, 1))
+		.setIgnoreNBT()
+		.register();
+
+<cavern:hexcite_helmet:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
+<cavern:hexcite_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
+<cavern:hexcite_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
+<cavern:hexcite_boots:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue")); 
 
 //	Midnight Rockshroom Armor Set
 val rockshroom_armor_set = mods.SetEffect.newSet()
@@ -82,39 +115,3 @@ val scale_armor_set = mods.SetEffect.newSet()
 <tropicraft:scale_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Poison Imbue, Leaping, Poison Resistance, Fire Resistance"));
 <tropicraft:scale_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Poison Imbue, Leaping, Poison Resistance, Fire Resistance"));
 <tropicraft:scale_boots:*>.addShiftTooltip(format.gold("Set Bonus: Poison Imbue, Leaping, Poison Resistance, Fire Resistance"));
-
-
-// 	Hexcite Armor Set
-val hexcite_armor_set = mods.SetEffect.newSet()
-		.setName("Hexcite_Armor_Set")
-		.withHead(<cavern:hexcite_helmet:0>)
-		.withChest(<cavern:hexcite_chestplate:0>)
-		.withLegs(<cavern:hexcite_leggings:0>)
-		.withFeet(<cavern:hexcite_boots:0>)
-		.addEffect(<potion:cyclicmagic:potion.magnet>.makePotionEffect(200, 1))
-		.addEffect(<potion:minecraft:haste>.makePotionEffect(200, 1))
-		.addEffect(<potion:randomthings:imbue_experience>.makePotionEffect(200, 1))
-		.setIgnoreNBT()
-		.register();
-
-<cavern:hexcite_helmet:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
-<cavern:hexcite_chestplate:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
-<cavern:hexcite_leggings:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue"));
-<cavern:hexcite_boots:*>.addShiftTooltip(format.gold("Set Bonus: Magnet, Haste, XP Imbue")); 
-
-// 	Danger Zone Armor Set
-val danger_zone_armor_set = mods.SetEffect.newSet()
-		.setName("Danger_Zone_Armor_Set")
-		.withHead(<erebus:rhino_exoskeleton_helmet:0>)
-		.withChest(<mist:niobium_chestplate:0>)
-		.withLegs(<fossil:shin_leggings:0>)
-		.withFeet(<midnight:tenebrum_boots:0>)
-		.addEffect(<potion:minecraft:regeneration>.makePotionEffect(200, 2))
-		.addEffect(<potion:minecraft:saturation>.makePotionEffect(200, 0))
-		.setIgnoreNBT()
-		.register();
-
-<erebus:rhino_exoskeleton_helmet:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
-<mist:niobium_chestplate:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
-<fossil:shin_leggings:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));
-<midnight:tenebrum_boots:*>.addShiftTooltip(format.gold("Part of A Legendary Set"));

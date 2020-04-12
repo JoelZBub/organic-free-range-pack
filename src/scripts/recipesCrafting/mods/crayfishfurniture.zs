@@ -11,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<cfm:item_ink_cartridge>,
-	<cfm:digital_clock>,
+	<cfm:item_ink_cartridge:0>,
+	<cfm:digital_clock:0>,
 	<cfm:digital_clock:1>,
 	<cfm:digital_clock:2>,
 	<cfm:digital_clock:3>,
@@ -51,7 +51,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<cfm:item_ink_cartridge> : {
+	<cfm:item_ink_cartridge:0> : {
 		"cfm_item_ink_cartridge" : [
 			[
 	  			[<ore:stone>, <ore:stone>, <ore:stone>],
@@ -60,12 +60,12 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
     },
-	<cfm:digital_clock> : {
+	<cfm:digital_clock:0> : {
 		"cfm_digital_clock" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeWhite>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -73,8 +73,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_1" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeOrange>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -82,8 +82,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_2" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeMagenta>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -92,7 +92,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			[
 	  			[<ore:ingotIron>, <ore:dyeLightBlue>, <ore:ingotIron>],
 	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -100,8 +100,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_4" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeYellow>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -109,8 +109,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_5" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeLime>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -118,8 +118,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_6" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyePink>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -127,8 +127,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_7" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeGray>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -136,8 +136,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_8" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeLightGray>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -145,8 +145,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_9" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeCyan>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -154,8 +154,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_10" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyePurple>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -163,8 +163,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_11" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeBlue>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -172,8 +172,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_12" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeBrown>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -181,8 +181,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_13" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeGreen>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -190,8 +190,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_14" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeRed>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     },
@@ -199,8 +199,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_15" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeBlack>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
-	  			[<ore:ingotIron>, <minecraft:redstone>, <ore:ingotIron>]
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
     }

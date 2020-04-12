@@ -13,4 +13,4 @@ LootTables.getTable("minecraft:chests/stronghold_library").getPool("main").remov
 
 
 val shell = LootTables.getTable("minecraft:gameplay/fishing/treasure").getPool("main");
-shell.addItemEntry(<fossil:shell>, 1);
+shell.addItemEntry(<fossil:shell:0>, 1);

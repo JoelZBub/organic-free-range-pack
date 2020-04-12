@@ -12,8 +12,8 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<aim:generator:0>,
-	<aim:solargenerator:0>,
-	<aim:potionrelay>
+	<aim:potionrelay:0>,
+	<aim:solargenerator:0>
 ];
 
 /*
@@ -46,21 +46,21 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-	<aim:solargenerator:0> : {
-		"aim_solargenerator" : [
-			[
-	  			[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
-	  			[<ore:blockLapis>, <cavern:cave_block:3>, <ore:blockLapis>],
-	  			[<aim:craftingcomponent:2>, <aim:networkcable>, <aim:craftingcomponent:2>]
-			]
-		]
-	},
-	<aim:potionrelay> : {
+	<aim:potionrelay:0> : {
 		"aim_potionrelay" : [
 			[
 	  			[<aim:craftingcomponent:2>, <minecraft:glass_bottle>, <aim:craftingcomponent:2>],
 	  			[<aim:craftingcomponent>, <minecraft:dragon_breath>, <aim:craftingcomponent>],
 	  			[<aim:craftingcomponent:2>, <ore:listAllmilk>, <aim:craftingcomponent:2>]
+			]
+		]
+	},
+	<aim:solargenerator:0> : {
+		"aim_solargenerator" : [
+			[
+	  			[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
+	  			[<ore:blockLapis>, <cavern:cave_block:3>, <ore:blockLapis>],
+	  			[<aim:craftingcomponent:2>, <aim:networkcable:0>, <aim:craftingcomponent:2>]
 			]
 		]
 	}

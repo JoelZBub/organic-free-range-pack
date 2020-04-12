@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range ZAWA Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing ZAWA recipes.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;

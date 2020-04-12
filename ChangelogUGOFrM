@@ -3931,12 +3931,16 @@ quark.cfg
 			I:"Spawn Weight"=5
 		"animals eat floor food"
 			D:"Maximum entity density"=0.0
-topography/examples/Cell_Nether.txt
-	adjustments to Nether generation
+topography/
+    Topography.txt
+        changed generator options txt file to "organic/Cell_Nether_Organic"
+    organic/Cell_Nether_Organic.txt
+        adjustments to Nether generation
+	
 
-			
 -- Script Changes --
 --------------------
+general script clean-up
 tooltips.zs
 	added info tooltip to zawa plushies
 zawa.zs
@@ -3946,6 +3950,12 @@ zawa.zs
 -- Asset Changes --
 -------------------
 oresources/custombackgrounds/textures/smooth.png
+capsule
+    miniRVs fixed
+    starterRVs updated
+structures/inactive/
+    added nether structures in nbt format for conversion to reccomplex
+
 
 -- Other Changes --
 -------------------   
@@ -3953,3 +3963,42 @@ oresources/custombackgrounds/textures/smooth.png
 	added zawa plushies as prizes
 uncle_splash.txt
 	added splashes
+More Cousin Dash's Guide stuff.
+
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of April 12-18, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+	
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+-------------------   

@@ -18,7 +18,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-<bamboozled:rope>
+<bamboozled:rope:0>
 ];
 
 
@@ -35,11 +35,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<bamboozled:salt_ore> : {
+	<bamboozled:salt_ore:0> : {
 		"bamboozled_salt_ore" : [
 			[
-	  			[<bamboozled:salt_pile>, <bamboozled:salt_pile>, <bamboozled:salt_pile>],
-	   			[<bamboozled:salt_pile>, <bamboozled:salt_pile>, <bamboozled:salt_pile>]
+	  			[<bamboozled:salt_pile:0>, <bamboozled:salt_pile:0>, <bamboozled:salt_pile:0>],
+	   			[<bamboozled:salt_pile:0>, <bamboozled:salt_pile:0>, <bamboozled:salt_pile:0>]
 			]
 		]
     }

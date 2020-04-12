@@ -19,16 +19,16 @@ furnace.remove(<minecraft:brick>);
 furnace.addRecipe(IItemStack output, IIngredient input);
 furnace.addRecipe(IItemStack output, IIngredient input, double xp);
 */
-furnace.addRecipe(<ediblebugs:termitebrick>, <ediblebugs:termiteclay>, 0.25);
-furnace.addRecipe(<minecraft:brick>, <minecraft:clay_ball>, 0.3);
-furnace.addRecipe(<minecraft:brick>, <mist:clay_ball>, 0.3);
-furnace.addRecipe(<minecraft:brick>, <mist:clay_ball:1>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:albatross_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:cockatoo_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:macaw_egg>, 0.3);
+furnace.addRecipe(<animania:plain_omelette>, <zawa:toucan_egg>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <erebus:materials:3>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried>, <tropicraft:bamboo_shoot>, 0.3);
-furnace.addRecipe(<animania:plain_omelette>, <zawa:macaw_egg>, 0.3);
-furnace.addRecipe(<animania:plain_omelette>, <zawa:cockatoo_egg>, 0.3);
-furnace.addRecipe(<animania:plain_omelette>, <zawa:toucan_egg>, 0.3);
-furnace.addRecipe(<animania:plain_omelette>, <zawa:albatross_egg>, 0.3);
+furnace.addRecipe(<ediblebugs:termitebrick>, <ediblebugs:termiteclay>, 0.25);
+furnace.addRecipe(<minecraft:brick>, <minecraft:clay_ball>, 0.3);
+furnace.addRecipe(<minecraft:brick>, <mist:clay_ball:1>, 0.3);
+furnace.addRecipe(<minecraft:brick>, <mist:clay_ball>, 0.3);
 
 
 /* Fuel

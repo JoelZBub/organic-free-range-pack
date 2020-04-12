@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Animania Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Animania.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<animania:hamster_ball_clear>,
-<animania:hamster_ball_colored>,
+<animania:hamster_ball_clear:0>,
+<animania:hamster_ball_colored:0>,
 <animania:hamster_ball_colored:1>,
 <animania:hamster_ball_colored:2>,
 <animania:hamster_ball_colored:3>,
@@ -52,7 +51,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<animania:hamster_ball_clear> : {
+<animania:hamster_ball_clear:0> : {
 		"animania_hamster_ball_clear" : [
 			[
 	  			[<ore:plastic>, <ore:plastic>, <ore:plastic>],
@@ -61,7 +60,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<animania:hamster_ball_colored> : {
+<animania:hamster_ball_colored:0> : {
 		"animania_hamster_ball_colored" : [
 			[
 	  			[<ore:plastic>, <ore:plastic>, <ore:plastic>],
@@ -233,9 +232,9 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<animania:milk_bottle> : {
+<animania:milk_bottle:0> : {
 		"animania_milk_bottle_coconut" : [
-			[<minecraft:glass_bottle>, <ore:coconutPiece>, <ore:coconutPiece>, <ore:coconutPiece>]
+			[<minecraft:glass_bottle:0>, <ore:coconutPiece>, <ore:coconutPiece>, <ore:coconutPiece>]
 		]
 	}
 };

@@ -12,7 +12,7 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<arcademod:coin:0>,
-	<arcademod:prize_box>
+	<arcademod:prize_box:0>
 ];
 
 /*
@@ -36,12 +36,12 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<arcademod:prize_box> : {
+<arcademod:prize_box:0> : {
 		"arcademod_prize_box" : [
 			[
 	  			[<ore:ironIngot>, <ore:paneGlass>, <ore:ironIngot>],
 	   			[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],
-	  			[<ore:ironIngot>, <minecraft:redstone>, <ore:ironIngot>]
+	  			[<ore:ironIngot>, <minecraft:redstone:0>, <ore:ironIngot>]
 			]
 		]
 	}

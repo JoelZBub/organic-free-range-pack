@@ -4,6 +4,7 @@
 
 import mods.dropt.Dropt;
 
+//remove fernspores from permafrost drop list
 Dropt.list("remove_fernspores")
 
   .add(Dropt.rule()

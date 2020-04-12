@@ -4,6 +4,7 @@
 
 import mods.dropt.Dropt;
 
+//remove fossil plant from fossil block drops
 Dropt.list("remove_plantfossil")
 
   .add(Dropt.rule()

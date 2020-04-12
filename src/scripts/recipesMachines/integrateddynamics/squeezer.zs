@@ -8,9 +8,9 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
 
 //Squeezer.addRecipe(IItemStack inputStack, @Optional IItemStack outputStack, @Optional ILiquidStack outputFluid);
-Squeezer.addRecipe(<minecraft:wheat_seeds>, null, <liquid:vegetableoil> * 100);
-Squeezer.addRecipe(<minecraft:pumpkin_seeds>, null, <liquid:vegetableoil> * 100);
-Squeezer.addRecipe(<minecraft:melon_seeds>, null, <liquid:vegetableoil> * 100);
 Squeezer.addRecipe(<minecraft:beetroot_seeds>, null, <liquid:vegetableoil> * 100);
 Squeezer.addRecipe(<minecraft:carrot>, null, <liquid:vegetableoil> * 100);
+Squeezer.addRecipe(<minecraft:melon_seeds>, null, <liquid:vegetableoil> * 100);
 Squeezer.addRecipe(<minecraft:potato>, null, <liquid:vegetableoil> * 100);
+Squeezer.addRecipe(<minecraft:pumpkin_seeds>, null, <liquid:vegetableoil> * 100);
+Squeezer.addRecipe(<minecraft:wheat_seeds>, null, <liquid:vegetableoil> * 100);

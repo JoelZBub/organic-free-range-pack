@@ -6,4 +6,4 @@
 import crafttweaker.item.IItemStack;
 
 
-<cyclicmagic:ender_lightning>.maxDamage = 6;
+<cyclicmagic:ender_lightning:0>.maxDamage = 6;

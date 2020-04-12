@@ -1,4 +1,5 @@
-#priority 4000
+#norun
+#priority 4050
 
 /*
 	100% Organic Free-Range Utility script.

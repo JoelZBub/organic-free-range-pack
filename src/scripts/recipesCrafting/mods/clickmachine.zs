@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<clickmachine:auto_clicker>
+	<clickmachine:auto_clicker:0>
 ];
 
 /*
@@ -35,11 +35,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<clickmachine:auto_clicker> : {
+	<clickmachine:auto_clicker:0> : {
 		"clickmachine_auto_clicker" : [
 			[
 	  			[<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>],
-	   			[<minecraft:stone:3>, <midnight:dark_pearl>, <minecraft:stone:3>],
+	   			[<minecraft:stone:3>, <midnight:dark_pearl:0>, <minecraft:stone:3>],
 	  			[<minecraft:stone:3>, <cavern:cave_block:3>, <minecraft:stone:3>]
 			]
 		]

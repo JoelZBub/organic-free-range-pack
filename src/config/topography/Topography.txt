@@ -8,6 +8,6 @@ setAsDefaultWorldType()
 
 //Registers a preset. First argument is name, second is the image name, third is a description, fourth is WorldType, fifth is generator options Json.
 default = registerPreset("Uncle Genny's", "images/TempTitle", "All the organic and free-range fun you could ever hope for!", "RTG")
-default.registerDimension(-1, "examples/Cell_Nether")
+default.registerDimension(-1, "organic/Cell_Nether_Organic")
 
 //flat = registerPreset("Super Flat", "images/TempTitle", "Flat? Is your pecker limp too?", "flat")
