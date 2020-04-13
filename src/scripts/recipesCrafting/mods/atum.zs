@@ -12,7 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<atum:limestone_wall:0>
+<atum:limestone_wall:0>,
 <atum:smooth_stairs:0>
 ];
 

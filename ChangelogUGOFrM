@@ -3990,7 +3990,19 @@ More Cousin Dash's Guide stuff.
 
 -- Config Changes --
 --------------------
-	
+caverns/general.cfg
+	S:randomiteExcludeItems <
+        mist:niobium_ingot
+		cgm:machine_pistol
+		Cyberware items
+MovingWorld/Main.cfg
+	S:allowed_blocks <
+		zawatrophies:trophy_head
+        zawatrophies:trophy_plaque
+	S:forbidden_blocks <
+		minecraft:stone
+		All of PVJ's random ground stuff
+
 
 -- Script Changes --
 --------------------
