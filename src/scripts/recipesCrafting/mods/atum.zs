@@ -37,7 +37,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:limestone_wall:0> : {
+<atum:limestone_wall:0> * 6 : {
 		"atum_limestone_wall" : [
 			[
 	  			[<atum:limestone:0>, <atum:limestone:0>, <atum:limestone:0>],
@@ -61,7 +61,7 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:smooth_stairs:0> : {
+<atum:smooth_stairs:0> * 8 : {
 		"atum_smooth_stairs" : [
 			[
 	  			[<atum:limestone:0>, null, null],
