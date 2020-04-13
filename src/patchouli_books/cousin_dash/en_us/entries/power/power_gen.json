@@ -1,0 +1,45 @@
+{
+    "name": "Power Generation",
+    "icon": "simplegenerators:combustion_simple",
+    "category": "power",
+    "sortnum": 1,
+    "pages": [
+        {
+                "type": "text",
+                "text": "While there's not a lot of tech in here, you'll still need some power. Here's some ways you can get it."
+        },
+        {
+            "type": "spotlight",
+            "item": "fartgen:generator",
+            "text": "Power from farts. Need I say more? I don't need to, but I will. You can put almost any animal in there. The amount of power you can get depends on the animal. And, of course, the power comes out the bottom."
+        },
+        {
+            "type": "spotlight",
+            "item": "simplegenerators:soul_simple",
+            "text": "$(6)Simple Generators$() offers 8 generators in both simple and upgraded versions that will you power from everything from coal to food and even souls. Where you get the souls from is up to you. The upgraded versions can take speed modifiers to increase output."
+        },
+        {
+            "type": "spotlight",
+            "item": "thermalexpansion:dynamo",
+            "text": "$(6)Thermal Expansion$() dynamos not only come in 6 varieties, but can be augmented to run off different fuels. They also can be upgraded to really pump out the jams."
+        },
+        {
+            "type": "spotlight",
+            "item": "energeticsheep:energetic_shears",
+            "text": "$(6)Energetic Sheep are$() a fun and wacky way to produce energy. Their Energetic Wool can be sheared and right-clicked directly onto batteries and machines to add RF to them.$(p)$(o)Different colors of wool provide different amounts of RF.$()"
+        },
+        {
+            "type": "text",
+            "text": "Energetic Shears can be used to collect raw RF from the sheep and can hold 1M RF. Just right-click on a machine or battery with the shears to transfer the engergy.$(p)An automated, late-game solution can be made using a World Energy Importer from $(6)Integrated Dynamics$() and long with an energetic sheep."
+        },
+        {
+            "type": "spotlight",
+            "item": "randomthings:spectrecoil_number",
+            "text": "You can find rare numbered Spectre Coils in dungeons which $(o)magically$() provide 128 RF/t and are great for early/mid-game power generation. Place them directly on a machine or battery for free power!"
+        },
+        {
+            "type": "text",
+            "text": "There are various other power generation options in this pack, using everything from ender pearls to chicken poop!  Play around with different ideas and see what kind of weird contraption you can make!"
+        }
+    ]
+}

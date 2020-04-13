@@ -1,0 +1,40 @@
+{
+    "name": "Cool Nerdy Power Ideas",
+    "icon": "thermalexpansion:dynamo:5",
+    "category": "power",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "It may be your initial instinct to grab a Geothermal Generator or Magmatic Dynamo and try to set up some kind of lava pumping system. That's so old school! Instead, how about some of these SUPER BIG BRAIM ideas for power generation:"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Gone Fishin'...for POWER!$()$(p)A $(6)Cyclic$() Automatic Fishing Net will give you loads of fish, junk, and enchanted items...and nearly $(o)all$() of it can be used as generator fuel! Combustion generators for lily pads and sticks, culinary generators for the fish (some you can cook first for even more RF!), and an Enervation Dynamo with a Disjunctive Extraction Augment to turn those enchanted books and fishing poles into loads of RF!"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Villager Braim Power!$()$(p)Use a Villager Block from $(6)Cubic Villagers$() to automatically trade items into emeralds, then feed those into a Numismatic Dynamo. Some say this is considered slave labor...I call it Big Braim Power Production!"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Reading Rainbowwww Power!$()$(p)Combine as many enchants as possible onto a single book, then use the Printer from $(6)MrCrayfish's Furniture Mod$() to make cheap copies! These books can be fed into an Enervation Dynamo with a Disjunctive Extraction Augment and will give you an $(l)insane$() amount of power. Who knew reading would come in handy one day?!"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Yummy Tummy Power!$()$(p)There are certain foods in this pack (cooked bugs, sandwiches, Confit Byaldi, etc) that can give huge amount of saturation...which translates into a HUGE amount of power when fed into a Culinary Generator. Bone Apple Teeth y'all!"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Stoopid Draygon Power!$()$(p)The vanilla Minecraft Dragon Egg produces 2 $(l)BILLION$() RF when placed into a Soul Generator. But how do you get enough Dragon Eggs to sustain your power needs? With $(6)Deep Mob Learning$() and Pristine Ender Dragon Matter, of course! This is a bit more of an end-game power solution, but once set up you will have enough RF to last you multiple lifetimes!"
+        },
+        {
+            "type": "text",
+            "text": "Those are just a few ideas, but there's plenty of weird stuff in this modpack...dig deep and see what you can come up with!"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Power Storage",
+    "icon": "thermalexpansion:cell",
+    "category": "power",
+    "sortnum": 2,
+    "pages": [
+        {
+                "type": "text",
+                "text": "Now that you know how to make power, you need some way to store it, right? Of course you do!"
+        },
+        {
+            "type": "spotlight",
+            "item": "integrateddynamics:energy_battery",
+            "text": "$(6)Integrated Dynamic$() Energy Batteries hold up to 1M RF by default, and can be combined in a crafting grid to increase the capacity. These batteries need a redstone signal (such as a lever) to output power."
+        },
+        {
+            "type": "spotlight",
+            "item": "thermalexpansion:cell",
+            "text": "$(6)Thermal Expansion$() Energy Cells hold up to 2M RF by default, and can be upgraded to increase capacity and throughput. You can configure the input/output of each side, throttle input/output amounts, as well as set the redstone controls."
+        },
+        {
+            "type": "spotlight",
+            "item": "cyclicmagic:battery",
+            "text": "$(6)Cyclic$() Batteries can hold up to 1M RF and cannot be upgraded. But the crafting recipe is cheap and they can be $(o)daisy-chained$() together to increase the storage capacity. It also has a slot that allows you to charge items such as Flux Capacitors, Fluxbores, etc."
+        },
+        {
+            "type": "spotlight",
+            "item": "rftoolspower:cell1",
+            "text": "There are two types of Powercells from $(6)RFTools$(). The type that uses Power Cores honestly aren't that great $(o)except$() you can place an Information Screen on it and view real-time RF info (amount stored, input/output rate, etc). You will need to use a Smart Wrench to change the input/output settings of the Powercell sides."
+        },
+        {
+            "type": "text",
+            "text": "The other RFTools Powercells are $(l)really$() cool and will be explained in the next section...Power Transfer!"
+        }
+    ]
+}

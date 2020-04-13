@@ -1,0 +1,44 @@
+{
+    "name": "Power Transfer",
+    "icon": "thermaldynamics:duct_0:4",
+    "category": "power",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The easiest way to connect power to your machines is with Fluxducts from $(6)Thermal Dynamics$(). They come in different levels and can trasfer from 1000 RF/t up to $(l)INFINITE$() RF/t. Just pipe them from your generators/batteries to your machines and you're good to go!"
+        },
+        {
+            "type": "spotlight",
+            "item": "thermaldynamics:duct_32:4",
+            "text": "There are also Signalum-Plated itemducts/fluiducts which combine both power and item/fluid transfer in the same pipe. $(o)Very$() handy when trying to simplify all these pipes running all over your base!"
+        },
+        {
+            "type": "text",
+            "text": "$(l) WIRELESS POWER$()$(p)Ducts are great, but you know what's even better? Wireless power! Here are some options for that."
+        },
+        {
+            "type": "spotlight",
+            "item": "randomthings:spectrecoil_normal",
+            "text": "$(6)Random Thing$()'s Spectre Energy Injector and Spectre Coils are one another wireless power option. Place the injector on your power generation setup, and Spectre Coils (the craftable ones) on any machines/batteries that you want to remotely power. That's it! Super simple!"
+        },
+        {
+            "type": "spotlight",
+            "item": "rftools:powercell",
+            "text": "Powercells from $(6)RFTools$() (the ones that come in Simple/ Regular/Advanced options) are $(l)amazing$() because they act as wireless power as well as a multiblock storage using Powercell Cards. Place one Powercell on your power generation setup and a Powercell Card in the top slot. Then place an additional Powercell Card in the $(o)Link:$()"
+        },
+        {
+            "type": "text",
+            "text": "slot to link the two Powercell cards together. Now you can place another Powercell wherever you want and put the linked Powercell Card in the top slot. PRESTO! Not only do you now have wireless power transfer, your RF Network is sharing the power storage of $(l)both$() Powercells! Pretty cool, huh? You can add as many Powercells to your network as you want, create multiple sub-networks with different Powercell Card Link id's, etc. They even work cross-dimensionally!"
+        },
+        {
+            "type": "text",
+            "text": "If you wanna get $(l)really$() weird...you can tame a rat and give it an Energy Transfer Rat Upgrade. You can then train the rat to gather energy from point A and transfer it over to point B. There are four levels of transfer rate available."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/power_rat.png"],
+            "border": "true"
+        }
+    ]
+}
