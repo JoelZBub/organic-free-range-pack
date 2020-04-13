@@ -16,7 +16,7 @@ import crafttweaker.player.IPlayer;
 
 events.onPlayerInteractBlock(function(event as crafttweaker.event.PlayerInteractBlockEvent) {
 	
-		if (!event.canceled && !event.world.isRemote() && !isNull(event.player.currentItem) && event.player.currentItem.definition.id == "ironchest:wood_iron_chest_upgrade" && event.block.definition.id == "midnight:shadowroot_chest") {
+		if (!event.world.isRemote() && !isNull(event.player.currentItem) && event.player.currentItem.definition.id == "ironchest:wood_iron_chest_upgrade" && event.block.definition.id == "midnight:shadowroot_chest") {
 
    				 event.player.sendChat("This upgrade has been disabled on this chest to protect its inventory");
    				 event.cancel();
@@ -25,7 +25,7 @@ events.onPlayerInteractBlock(function(event as crafttweaker.event.PlayerInteract
 
 events.onPlayerInteractBlock(function(event as crafttweaker.event.PlayerInteractBlockEvent) {
 	
-		if (!event.canceled && !event.world.isRemote() && !isNull(event.player.currentItem) && event.player.currentItem.definition.id == "ironchest:wood_copper_chest_upgrade" && event.block.definition.id == "midnight:shadowroot_chest") {
+		if (!event.world.isRemote() && !isNull(event.player.currentItem) && event.player.currentItem.definition.id == "ironchest:wood_copper_chest_upgrade" && event.block.definition.id == "midnight:shadowroot_chest") {
 
    				 event.player.sendChat("This upgrade has been disabled on this chest to protect its inventory");
    				 event.cancel();

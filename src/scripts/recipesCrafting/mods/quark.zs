@@ -11,13 +11,13 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<quark:stonebrick_mossy_slab>,
-<quark:stonebrick_mossy_stairs>,
-<quark:spruce_trapdoor>,
-<quark:birch_trapdoor>,
-<quark:jungle_trapdoor>,
-<quark:acacia_trapdoor>,
-<quark:dark_oak_trapdoor>
+	<quark:acacia_trapdoor:0>,
+	<quark:birch_trapdoor:0>,
+	<quark:dark_oak_trapdoor:0>,
+	<quark:jungle_trapdoor:0>,
+	<quark:spruce_trapdoor:0>,
+	<quark:stonebrick_mossy_slab:0>,
+	<quark:stonebrick_mossy_stairs:0>
 ];
 
 /*
@@ -69,34 +69,34 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<quark:slime_bucket> : {
-		"quark_slime_bucket" : [
-			[<minecraft:water_bucket>.noReturn(), <pvj:goon_bile>, <pvj:goon_bile>]
-		]
-	},
-	<quark:spruce_trapdoor> : {
-		"minecraft_spruce_trapdoor" : [
-			[<minecraft:trapdoor>, <minecraft:planks:1>]
-		]
-	},
-	<quark:birch_trapdoor> : {
-		"minecraft_birch_trapdoor" : [
-			[<minecraft:trapdoor>, <minecraft:planks:2>]
-		]
-	},
-	<quark:jungle_trapdoor> : {
-		"minecraft_jungle_trapdoor" : [
-			[<minecraft:trapdoor>, <minecraft:planks:3>]
-		]
-	},
-	<quark:acacia_trapdoor> : {
+	<quark:acacia_trapdoor:0> : {
 		"minecraft_acacia_trapdoor" : [
-			[<minecraft:trapdoor>, <minecraft:planks:4>]
+			[<minecraft:trapdoor:0>, <minecraft:planks:4>]
 		]
 	},
-	<quark:dark_oak_trapdoor> : {
+	<quark:birch_trapdoor:0> : {
+		"minecraft_birch_trapdoor" : [
+			[<minecraft:trapdoor:0>, <minecraft:planks:2>]
+		]
+	},
+	<quark:dark_oak_trapdoor:0> : {
 		"minecraft_dark_oak_trapdoor" : [
-			[<minecraft:trapdoor>, <minecraft:planks:5>]
+			[<minecraft:trapdoor:0>, <minecraft:planks:5>]
+		]
+	},
+	<quark:jungle_trapdoor:0> : {
+		"minecraft_jungle_trapdoor" : [
+			[<minecraft:trapdoor:0>, <minecraft:planks:3>]
+		]
+	},
+	<quark:slime_bucket:0> : {
+		"quark_slime_bucket" : [
+			[<minecraft:water_bucket:0>.noReturn(), <pvj:goon_bile:0>, <pvj:goon_bile:0>]
+		]
+	},
+	<quark:spruce_trapdoor:0> : {
+		"minecraft_spruce_trapdoor" : [
+			[<minecraft:trapdoor:0>, <minecraft:planks:1>]
 		]
 	}
 };

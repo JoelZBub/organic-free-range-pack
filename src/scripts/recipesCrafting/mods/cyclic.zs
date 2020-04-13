@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<cyclicmagic:ender_lightning>
+	<cyclicmagic:ender_lightning:0>
 ];
 
 /*
@@ -38,8 +38,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<cyclicmagic:ender_lightning> : {
 		"cyclicmagic_ender_lightning" : [
 			[
-	  			[null, <midnight:bloomcrystal_rock>, <randomthings:ingredient:1>],
-	   			[<cavern:cave_block:3>, <rftools:infused_enderpearl>, <midnight:bloomcrystal_rock>],
+	  			[null, <midnight:bloomcrystal_rock:0>, <randomthings:ingredient:1>],
+	   			[<cavern:cave_block:3>, <rftools:infused_enderpearl:0>, <midnight:bloomcrystal_rock:0>],
 	  			[<erebus:materials:41>, <cavern:cave_block:3>, null]
 			]
 		]

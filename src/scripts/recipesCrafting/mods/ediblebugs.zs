@@ -13,8 +13,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<ediblebugs:termitebricks>,
-	<ediblebugs:vegetableoil>
+	<ediblebugs:termitebricks:0>,
+	<ediblebugs:vegetableoil:0>
 ];
 
 /*
@@ -38,20 +38,20 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<ediblebugs:vegetableoil> : {
-		"ediblebugs_vegetableoil_1" : [
+	<ediblebugs:termitebricks:0> : {
+		"ediblebugs_termitebricks" : [
 			[
-	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>],
-	   			[<ore:oilSeed>, <minecraft:glass_bottle>, <ore:oilSeed>],
-	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>]
+	  			[<ediblebugs:termitebrick:0>, <ediblebugs:termitebrick:0>],
+	   			[<ediblebugs:termitebrick:0>, <ediblebugs:termitebrick:0>]
 			]
 		]
 	},
-	<ediblebugs:termitebricks> : {
-		"ediblebugs_termitebricks" : [
+	<ediblebugs:vegetableoil:0> : {
+		"ediblebugs_vegetableoil_1" : [
 			[
-	  			[<ediblebugs:termitebrick>, <ediblebugs:termitebrick>],
-	   			[<ediblebugs:termitebrick>, <ediblebugs:termitebrick>]
+	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>],
+	   			[<ore:oilSeed>, <minecraft:glass_bottle:0>, <ore:oilSeed>],
+	  			[<ore:oilSeed>, <ore:oilSeed>, <ore:oilSeed>]
 			]
 		]
 	}
@@ -83,9 +83,9 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<ediblebugs:vegetableoil> * 2 : {
+<ediblebugs:vegetableoil:0> * 2 : {
 		"ediblebugs_vegetableoil_2" : [
-			[<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}), <minecraft:glass_bottle>, <minecraft:glass_bottle>]
+			[<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}), <minecraft:glass_bottle:0>, <minecraft:glass_bottle:0>]
 		]
 	}
 };

@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Midnight Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Midnight.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,12 +11,12 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<midnight:shadowroot_trapdoor>,
-<midnight:dead_wood_trapdoor>,
-<midnight:dark_willow_trapdoor>,
-<midnight:nightshroom_trapdoor>,
-<midnight:dewshroom_trapdoor>,
-<midnight:viridshroom_trapdoor>
+	<midnight:dark_willow_trapdoor:0>,
+	<midnight:dead_wood_trapdoor:0>,
+	<midnight:dewshroom_trapdoor:0>,
+	<midnight:nightshroom_trapdoor:0>,
+	<midnight:shadowroot_trapdoor:0>,
+	<midnight:viridshroom_trapdoor:0>
 ];
 
 /*
@@ -69,34 +68,34 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<midnight:shadowroot_trapdoor> : {
-		"midnight_shadowroot_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:shadowroot_planks>]
-		]
-	},
-<midnight:dead_wood_trapdoor> : {
-		"midnight_dead_wood_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:dead_wood_planks>]
-		]
-	},
-<midnight:dark_willow_trapdoor> : {
+	<midnight:dark_willow_trapdoor:0> : {
 		"midnight_dark_willow_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:dark_willow_planks>]
+			[<minecraft:trapdoor:0>, <midnight:dark_willow_planks:0>]
 		]
 	},
-<midnight:nightshroom_trapdoor> : {
-		"midnight_nightshroom_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:nightshroom_planks>]
+	<midnight:dead_wood_trapdoor:0> : {
+		"midnight_dead_wood_trapdoor" : [
+			[<minecraft:trapdoor:0>, <midnight:dead_wood_planks:0>]
 		]
 	},
-<midnight:dewshroom_trapdoor> : {
+	<midnight:dewshroom_trapdoor:0> : {
 		"midnight_dewshroom_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:dewshroom_planks>]
+			[<minecraft:trapdoor:0>, <midnight:dewshroom_planks:0>]
 		]
 	},
-<midnight:viridshroom_trapdoor> : {
+	<midnight:nightshroom_trapdoor:0> : {
+		"midnight_nightshroom_trapdoor" : [
+			[<minecraft:trapdoor:0>, <midnight:nightshroom_planks:0>]
+		]
+	},
+	<midnight:shadowroot_trapdoor:0> : {
+		"midnight_shadowroot_trapdoor" : [
+			[<minecraft:trapdoor:0>, <midnight:shadowroot_planks:0>]
+		]
+	},
+	<midnight:viridshroom_trapdoor:0> : {
 		"midnight_viridshroom_trapdoor" : [
-			[<minecraft:trapdoor>, <midnight:viridshroom_planks>]
+			[<minecraft:trapdoor:0>, <midnight:viridshroom_planks:0>]
 		]
 	}
 };

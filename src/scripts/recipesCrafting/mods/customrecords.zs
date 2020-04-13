@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Custom Records Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Custom Records.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,11 +11,11 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<customrecord:elybeatmaker_clap_praise_lord>,
-<customrecord:elybeatmaker_summertime_logs>,
-<customrecord:elybeatmaker_dancing_in_chair>,
-<customrecord:elybeatmaker_doin_the_work>,
-<customrecord:elybeatmaker_nether_brick>
+	<customrecord:elybeatmaker_clap_praise_lord:0>,
+	<customrecord:elybeatmaker_summertime_logs:0>,
+	<customrecord:elybeatmaker_dancing_in_chair:0>,
+	<customrecord:elybeatmaker_doin_the_work:0>,
+	<customrecord:elybeatmaker_nether_brick:0>
 ];
 
 /*
@@ -40,48 +39,48 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<customrecord:elybeatmaker_clap_praise_lord> : {
+	<customrecord:elybeatmaker_clap_praise_lord:0> : {
 		"customrecord_elybeatmaker_clap_praise_lord" : [
 			[
-	  			[<cyclicmagic:glove_climb>, <minecraft:stained_hardened_clay:15>, <cyclicmagic:glove_climb>],
+	  			[<cyclicmagic:glove_climb:0>, <minecraft:stained_hardened_clay:15>, <cyclicmagic:glove_climb:0>],
 	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot>, <minecraft:stained_hardened_clay:15>],
 	  			[null, <minecraft:stained_hardened_clay:15>, null]
 			]
 		]
 	},
-<customrecord:elybeatmaker_summertime_logs> : {
+	<customrecord:elybeatmaker_summertime_logs:0> : {
 		"customrecord_elybeatmaker_summertime_logs" : [
 			[
-	  			[<minecraft:double_plant>, <minecraft:stained_hardened_clay:15>, <minecraft:double_plant>],
-	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot>, <minecraft:stained_hardened_clay:15>],
+	  			[<minecraft:double_plant:0>, <minecraft:stained_hardened_clay:15>, <minecraft:double_plant:0>],
+	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot:0>, <minecraft:stained_hardened_clay:15>],
 	  			[<ore:logWood>, <minecraft:stained_hardened_clay:15>, <ore:logWood>]
 			]
 		]
 	},
-<customrecord:elybeatmaker_dancing_in_chair> : {
+	<customrecord:elybeatmaker_dancing_in_chair:0> : {
 		"customrecord_elybeatmaker_dancing_in_chair" : [
 			[
-	  			[<cfm:modern_chair>, <minecraft:stained_hardened_clay:15>, <cfm:modern_chair>],
-	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot>, <minecraft:stained_hardened_clay:15>],
-	  			[<minecraft:leather_leggings>, <minecraft:stained_hardened_clay:15>, <minecraft:leather_leggings>]
+	  			[<cfm:modern_chair:0>, <minecraft:stained_hardened_clay:15>, <cfm:modern_chair:0>],
+	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot:0>, <minecraft:stained_hardened_clay:15>],
+	  			[<minecraft:leather_leggings:0>, <minecraft:stained_hardened_clay:15>, <minecraft:leather_leggings:0>]
 			]
 		]
 	},
-<customrecord:elybeatmaker_doin_the_work> : {
+	<customrecord:elybeatmaker_doin_the_work:0> : {
 		"customrecord_elybeatmaker_doin_the_work" : [
 			[
-	  			[<minecraft:emerald>, <minecraft:stained_hardened_clay:15>, <minecraft:emerald>],
+	  			[<minecraft:emerald:0>, <minecraft:stained_hardened_clay:15>, <minecraft:emerald:0>],
 	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot>, <minecraft:stained_hardened_clay:15>],
-	  			[<minecraft:emerald>, <minecraft:stained_hardened_clay:15>, <minecraft:emerald>]
+	  			[<minecraft:emerald:0>, <minecraft:stained_hardened_clay:15>, <minecraft:emerald:0>]
 			]
 		]
 	},
-<customrecord:elybeatmaker_nether_brick> : {
+	<customrecord:elybeatmaker_nether_brick:0> : {
 		"customrecord_elybeatmaker_nether_brick" : [
 			[
-	  			[<minecraft:netherbrick>, <minecraft:stained_hardened_clay:15>, <minecraft:redstone>],
-	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot>, <minecraft:stained_hardened_clay:15>],
-	  			[<minecraft:dye:1>, <minecraft:stained_hardened_clay:15>, <minecraft:brick>]
+	  			[<minecraft:netherbrick:0>, <minecraft:stained_hardened_clay:15>, <minecraft:redstone:0>],
+	   			[<minecraft:stained_hardened_clay:15>, <minecraft:beetroot:0>, <minecraft:stained_hardened_clay:15>],
+	  			[<minecraft:dye:1>, <minecraft:stained_hardened_clay:15>, <minecraft:brick:0>]
 			]
 		]
 	}

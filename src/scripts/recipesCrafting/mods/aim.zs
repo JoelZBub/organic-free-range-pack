@@ -49,8 +49,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<aim:potionrelay:0> : {
 		"aim_potionrelay" : [
 			[
-	  			[<aim:craftingcomponent:2>, <minecraft:glass_bottle>, <aim:craftingcomponent:2>],
-	  			[<aim:craftingcomponent>, <minecraft:dragon_breath>, <aim:craftingcomponent>],
+	  			[<aim:craftingcomponent:2>, <minecraft:glass_bottle:0>, <aim:craftingcomponent:2>],
+	  			[<aim:craftingcomponent:0>, <minecraft:dragon_breath:0>, <aim:craftingcomponent:0>],
 	  			[<aim:craftingcomponent:2>, <ore:listAllmilk>, <aim:craftingcomponent:2>]
 			]
 		]

@@ -91,7 +91,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"cfm_digital_clock_3" : [
 			[
 	  			[<ore:ingotIron>, <ore:dyeLightBlue>, <ore:ingotIron>],
-	   			[<ore:ingotIron>, <minecraft:clock>, <ore:ingotIron>],
+	   			[<ore:ingotIron>, <minecraft:clock:0>, <ore:ingotIron>],
 	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]

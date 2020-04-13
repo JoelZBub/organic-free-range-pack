@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Atum Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Atum 2
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<atum:limestone_wall:0>,
-<atum:smooth_stairs:0>
+	<atum:limestone_wall:0>,
+	<atum:smooth_stairs:0>
 ];
 
 /*
@@ -37,7 +36,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:limestone_wall:0> * 6 : {
+	<atum:limestone_wall:0> * 6 : {
 		"atum_limestone_wall" : [
 			[
 	  			[<atum:limestone:0>, <atum:limestone:0>, <atum:limestone:0>],
@@ -61,7 +60,7 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<atum:smooth_stairs:0> * 8 : {
+	<atum:smooth_stairs:0> * 8: {
 		"atum_smooth_stairs" : [
 			[
 	  			[<atum:limestone:0>, null, null],

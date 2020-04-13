@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<inspirations:path>
+	<inspirations:path:0>
 ];
 
 /*
@@ -52,7 +52,7 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<inspirations:path> : {
+	<inspirations:path:0> : {
 		"inspirations_path" : [
 			[
 	  			[<ore:gravel>, <ore:cobblestone>]

@@ -18,7 +18,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-<bamboozled:rope:0>
+	<bamboozled:rope:0>
 ];
 
 

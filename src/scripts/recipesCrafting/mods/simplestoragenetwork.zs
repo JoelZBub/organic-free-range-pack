@@ -11,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<storagenetwork:remote:3>,
-	<storagenetwork:master:0>
+	<storagenetwork:master:0>,
+	<storagenetwork:remote:3>
 ];
 
 /*
@@ -36,22 +36,22 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<storagenetwork:remote:3> : {
-		"storagenetwork_remote3" : [
+	<storagenetwork:master:0> : {
+		"storagenetwork_master" : [
 			[
-	  			[<ore:slimeball>, <minecraft:glowstone>, <ore:slimeball>],
-                [<minecraft:gold_ingot>, <storagenetwork:master>, <minecraft:gold_ingot>], 
-                [<ore:slimeball>, null, <ore:slimeball>]
+	  			[<minecraft:quartz_block:0>, <storagenetwork:kabel:0>, <minecraft:quartz_block:0>],
+	  			[<storagenetwork:kabel:0>, <tropicraft:coral:2>, <storagenetwork:kabel:0>],
+	  			[<minecraft:quartz_block:0>, <storagenetwork:kabel:0>, <minecraft:quartz_block:0>]
 
 			]
 		]
 	},
-	<storagenetwork:master:0> : {
-		"storagenetwork_master" : [
+	<storagenetwork:remote:3> : {
+		"storagenetwork_remote3" : [
 			[
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>],
-	  			[<storagenetwork:kabel>, <tropicraft:coral:2>, <storagenetwork:kabel>],
-	  			[<minecraft:quartz_block>, <storagenetwork:kabel>, <minecraft:quartz_block>]
+	  			[<ore:slimeball:0>, <minecraft:glowstone:0>, <ore:slimeball:0>],
+                [<minecraft:gold_ingot:0>, <storagenetwork:master:0>, <minecraft:gold_ingot:0>], 
+                [<ore:slimeball>, null, <ore:slimeball>]
 
 			]
 		]

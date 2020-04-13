@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Yoyos Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Yoyos.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<yoyos:cord>
+	<yoyos:cord:0>
 ];
 
 /*
@@ -36,15 +35,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<yoyos:cord> : {
-		"yoyos_cord" : [
-			[
-	  			[<ore:string>, <ore:string>, <ore:string>],
-	   			[<ore:string>, <ore:stickWood>, <ore:string>],
-	  			[<ore:string>, <ore:string>, <ore:string>]
+	<yoyos:cord:0> : {
+			"yoyos_cord" : [
+				[
+		  			[<ore:string>, <ore:string>, <ore:string>],
+		   			[<ore:string>, <ore:stickWood>, <ore:string>],
+		  			[<ore:string>, <ore:string>, <ore:string>]
+				]
 			]
-		]
-	}
+		}
 };
 
 

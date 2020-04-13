@@ -11,20 +11,20 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<zawa:lion_plush>,
-<zawa:orca_plush>,
-<zawa:turtle_plush>,
-<zawa:platypus_plush>,
-<zawa:gorilla_plush>,
-<zawa:elephant_plush>,
-<zawa:monkey_plush>,
-<zawa:tiger_plush>,
-<zawa:bald_eagle_plush>,
-<zawa:giraffe_plush>,
-<zawa:grizzly_plush>,
-<zawa:moose_plush>,
-<zawa:octopus_plush>,
-<zawa:red_panda_plush>
+	<zawa:lion_plush:0>,
+	<zawa:orca_plush:0>,
+	<zawa:turtle_plush:0>,
+	<zawa:platypus_plush:0>,
+	<zawa:gorilla_plush:0>,
+	<zawa:elephant_plush:0>,
+	<zawa:monkey_plush:0>,
+	<zawa:tiger_plush:0>,
+	<zawa:bald_eagle_plush:0>,
+	<zawa:giraffe_plush:0>,
+	<zawa:grizzly_plush:0>,
+	<zawa:moose_plush:0>,
+	<zawa:octopus_plush:0>,
+	<zawa:red_panda_plush:0>
 ];
 
 /*
@@ -32,6 +32,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+	<zawa:ralphiki_book:0>
 ];
 
 

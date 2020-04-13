@@ -9,4 +9,4 @@ import crafttweaker.item.IIngredient;
 
 //brewing.addBrew(IIngredient input, IIngredient ingredient, IItemStack output, @Optional boolean hidden);
 
-brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <zawa:toxin_sac>, <minecraft:potion>.withTag({Potion: "minecraft:poison"}));
+brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <zawa:toxin_sac:0>, <minecraft:potion>.withTag({Potion: "minecraft:poison"}));

@@ -9,7 +9,7 @@ import crafttweaker.data.IData;
 // Pirate Hat
 val pirate_hat = mods.SetEffect.newSet()
 		.setName("Pirate_Hat")
-		.withHead(<quark:pirate_hat>)
+		.withHead(<quark:pirate_hat:*>)
 		.addEffect(<potion:minecraft:luck>.makePotionEffect(75, 0))
 		.setIgnoreNBT()
 		.register();

@@ -11,15 +11,30 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<dragonmounts:pileofsticks>,
-	<dragonmounts:diamond_shears>
+	<dragonmounts:diamond_shears:0>,
+	<dragonmounts:pileofsticks:0>
 ];
 
 /*
 	Recipe and JEI Removals by Item
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
-//	<modid:itemname:meta>,
+//	<modid:itemname:meta>
+	<dragonmounts:aether_dragon_essence:0>,
+	<dragonmounts:enchant_dragon_essence:0>,
+	<dragonmounts:end_dragon_essence:0>,
+	<dragonmounts:fire_dragon_essence:0>,
+	<dragonmounts:forest_dragon_essence:0>,
+	<dragonmounts:ice_dragon_essence:0>,
+	<dragonmounts:moonlight_dragon_essence:0>,
+	<dragonmounts:nether_dragon_essence:0>,
+	<dragonmounts:skeleton_dragon_essence:0>,
+	<dragonmounts:storm_dragon_essence:0>,
+	<dragonmounts:sunlight_dragon_essence:0>,
+	<dragonmounts:terra_dragon_essence:0>,
+	<dragonmounts:water_dragon_essence:0>,
+	<dragonmounts:wither_dragon_essence:0>,
+	<dragonmounts:zombie_dragon_essence:0>
 ];
 
 
@@ -33,20 +48,20 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+	<dragonmounts:diamond_shears> : {
+		"dragonmounts_diamond_shears" : [
+			[
+	  			[<dragonmounts:pileofsticks:0>, <ore:gemDiamond>],
+	   			[<ore:gemDiamond>, null]
+			]
+		]
+	},
 	<dragonmounts:pileofsticks> : {
 		"dragonmounts_pileofsticks" : [
 			[
 	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
 	   			[<ore:stickWood>, <ore:dirt>, <ore:stickWood>],
 	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
-			]
-		]
-	},
-	<dragonmounts:diamond_shears> : {
-		"dragonmounts_diamond_shears" : [
-			[
-	  			[<dragonmounts:pileofsticks>, <ore:gemDiamond>],
-	   			[<ore:gemDiamond>, null]
 			]
 		]
 	}

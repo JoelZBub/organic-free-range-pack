@@ -1,6 +1,7 @@
 /*
-	100% Organic Free-Range Recipe Hide and Remove Script
-	General 'Hide and Remove' script for items that should never show in JEI.
+	100% Organic Free-Range Recipe Hide and Recipe Remove Script
+	This script handles the removal of recipes by a modId or other means and as
+	a general 'Hide and Remove' script for items that should never show in JEI.
 	CATCH-ALL script for individual items or 'to-be-moved' items
 */
 
@@ -8,33 +9,31 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 
 
-static hiddenItems as IItemStack[] = [
-//	<mod:itemname:meta>
-	<arcademod:coin_pusher:0>,
-	<arcademod:invisible:0>,
-	<dragonmounts:aether_dragon_essence:0>,
-	<dragonmounts:enchant_dragon_essence:0>,
-	<dragonmounts:end_dragon_essence:0>,
-	<dragonmounts:fire_dragon_essence:0>,
-	<dragonmounts:forest_dragon_essence:0>,
-	<dragonmounts:ice_dragon_essence:0>,
-	<dragonmounts:moonlight_dragon_essence:0>,
-	<dragonmounts:nether_dragon_essence:0>,
-	<dragonmounts:skeleton_dragon_essence:0>,
-	<dragonmounts:storm_dragon_essence:0>,
-	<dragonmounts:sunlight_dragon_essence:0>,
-	<dragonmounts:terra_dragon_essence:0>,
-	<dragonmounts:water_dragon_essence:0>,
-	<dragonmounts:wither_dragon_essence:0>,
-	<dragonmounts:zombie_dragon_essence:0>,
-	<zawa:ralphiki_book:0>
+// String Array listing of the modId's to which we want ALL recipes removed.
+static modIdRecipeRemoval as string[] = [
+//	"modname"
 ];
 
-static removeItems as IIngredient[] = [
+// Array listing the recipes we want removed by item's name.
+static itemRecipeRemoval as IItemStack[] = [
+//	<mod:itemname:meta>
+	<chisel:block_charcoal2:1>,
+	<stupidthings:rubber_chicken:0>,
+	<tt:bottled_milk:0>
+];
+
+// String array listing recipes we want removed by recipe name.
+static recipeNameRemoval as string[] = [
+//	"mod:itemname"
+];
+
+static hiddenItemsJEI as IItemStack[] = [
+//	<mod:itemname:meta>
+];
+
+static removeItemsJEI as IIngredient[] = [
 //	<mod:itemname:meta>
 	<chisel:chisel_hitech:0>,
-	<randomthings:timeinabottle:0>,
-	<randomthings:eclipsedclock:0>,
 	<theoneprobe:probe:0>,
 	<theoneprobe:creativeprobe:0>,
 	<theoneprobe:diamond_helmet_probe:0>,
@@ -47,12 +46,31 @@ static removeItems as IIngredient[] = [
 
 // Do NOT edit below this line //
 
+// Remove ModId Recipes
+for modId in modIdRecipeRemoval {
+	if (loadedMods in modId) {
+		for item in loadedMods[modId].items {
+			recipes.remove(item);
+		}
+	}
+}
+
+// Remove Item Recipes
+for item in itemRecipeRemoval {
+	recipes.remove(item);
+}
+
+// Remove by Recipes Name
+for item in recipeNameRemoval {
+	recipes.removeByRecipeName(item);
+}
+
 // Hide items from JEI
-for item in hiddenItems {
+for item in hiddenItemsJEI {
 	mods.jei.JEI.hide(item);
 }
 
 // Hide items from JEI and  remove recipe
-for ingredient in removeItems {
+for ingredient in removeItemsJEI {
 	mods.jei.JEI.removeAndHide(ingredient);
 }

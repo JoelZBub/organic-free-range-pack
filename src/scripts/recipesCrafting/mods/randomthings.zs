@@ -11,17 +11,19 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<randomthings:soundbox>,
-	<randomthings:blockofsticks>,
+	<randomthings:blockbreaker:0>,
+	<randomthings:blockofsticks:0>,
 	<randomthings:diviningrod:7>,
-	<randomthings:blockbreaker>
+	<randomthings:soundbox:0>
 ];
 
 /*
 	Recipe and JEI Removals by Item
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
-//	<modid:itemname:meta>,
+//	<modid:itemname:meta>
+	<randomthings:eclipsedclock:0>,
+	<randomthings:timeinabottle:0>
 ];
 
 
@@ -38,16 +40,16 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<randomthings:soundbox> : {
-		"randomthings_soundbox" : [
+	<randomthings:blockbreaker:0> : {
+		"randomthings_blockbreaker" : [
 			[
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-	   			[<ore:plankWood>, <randomthings:soundpattern>, <ore:plankWood>],
-	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
+	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>],
+	   			[<minecraft:diamond_pickaxe:0>, <midnight:dark_pearl:0>, <minecraft:cobblestone:0>],
+	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>]
 			]
 		]
 	},
-	<randomthings:blockofsticks> : {
+	<randomthings:blockofsticks:0> : {
 		"randomthings_blockofsticks" : [
 			[
 	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
@@ -59,19 +61,19 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<randomthings:diviningrod:7> : {
 		"randomthings_diviningrod_universal" : [
 			[
-	  			[<randomthings:diviningrod>, <minecraft:stick>, <randomthings:diviningrod:6>],
+	  			[<randomthings:diviningrod:0>, <minecraft:stick:0>, <randomthings:diviningrod:6>],
 				[<randomthings:diviningrod:1>, <ore:slimeball>, <randomthings:diviningrod:5>],
 				[<randomthings:diviningrod:2>, <randomthings:diviningrod:3>, <randomthings:diviningrod:4>]
 
 			]
 		]
 	},
-	<randomthings:blockbreaker> : {
-		"randomthings_blockbreaker" : [
+	<randomthings:soundbox:0> : {
+		"randomthings_soundbox" : [
 			[
-	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>],
-	   			[<minecraft:diamond_pickaxe>, <midnight:dark_pearl>, <minecraft:cobblestone>],
-	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>]
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+	   			[<ore:plankWood>, <randomthings:soundpattern:0>, <ore:plankWood>],
+	  			[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
 			]
 		]
 	}

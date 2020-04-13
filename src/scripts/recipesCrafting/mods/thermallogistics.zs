@@ -39,7 +39,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"thermallogistics_terminal_item" : [
 			[
 	  			[<tropicraft:coral:2>, <thermallogistics:manager:*>, <tropicraft:coral:2>],
-	  			[<thermaldynamics:duct_32>, <thermalexpansion:frame>, <thermaldynamics:duct_32>],
+	  			[<thermaldynamics:duct_32:0>, <thermalexpansion:frame>, <thermaldynamics:duct_32:0>],
 	  			[<ore:gearCopper>, <thermalfoundation:material:513>, <ore:gearCopper>]
 	  		]
 		]

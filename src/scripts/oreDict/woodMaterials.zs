@@ -23,19 +23,19 @@ import crafttweaker.item.IIngredient;
 //<ore:logWood>.remove(<mod:item:meta>);
 
 static pvjLogs as IItemStack[] = [
-	<pvj:log_aspen>,
-	<pvj:log_baobab>,
-	<pvj:log_cherry_blossom>,
-	<pvj:log_cottonwood>,
-	<pvj:log_fir>,
-	<pvj:log_jacaranda>,
-	<pvj:log_juniper>,
-	<pvj:log_mangrove>,
-	<pvj:log_maple>,
-	<pvj:log_palm>,
-	<pvj:log_pine>,
-	<pvj:log_redwood>,
-	<pvj:log_willow>
+	<pvj:log_aspen:0>,
+	<pvj:log_baobab:0>,
+	<pvj:log_cherry_blossom:0>,
+	<pvj:log_cottonwood:0>,
+	<pvj:log_fir:0>,
+	<pvj:log_jacaranda:0>,
+	<pvj:log_juniper:0>,
+	<pvj:log_mangrove:0>,
+	<pvj:log_maple:0>,
+	<pvj:log_palm:0>,
+	<pvj:log_pine:0>,
+	<pvj:log_redwood:0>,
+	<pvj:log_willow:0>
 ];
 
 for item in pvjLogs {
@@ -46,9 +46,9 @@ for item in pvjLogs {
 //<ore:plankWood>.add(<mod:item:meta>);
 //<ore:plankWood>.remove(<mod:item:meta>);
 <ore:plankBamboo>.add(<tropicraft:bundle:1>);
-<ore:plankBamboo>.add(<zawa:dried_bamboo_decortation>);
-<ore:plankWood>.remove(<atum:deadwood_planks>);
-<ore:plankWood>.remove(<atum:palm_planks>);
+<ore:plankBamboo>.add(<zawa:dried_bamboo_decortation:0>);
+<ore:plankWood>.remove(<atum:deadwood_planks:0>);
+<ore:plankWood>.remove(<atum:palm_planks:0>);
 
 //	Slabs
 //<ore:slabWood>.add(<mod:item:meta>);
@@ -61,6 +61,6 @@ for item in pvjLogs {
 // 	Sticks
 //<ore:stickWood>.add(<mod:item:meta>);
 //<ore:stickWood>.remove(<mod:item:meta>);
-<ore:stickWood>.remove(<atum:deadwood_stick>);
-<ore:stickWood>.remove(<atum:dusty_bone_stick>);
-<ore:stickWood>.remove(<atum:palm_stick>);
+<ore:stickWood>.remove(<atum:deadwood_stick:0>);
+<ore:stickWood>.remove(<atum:dusty_bone_stick:0>);
+<ore:stickWood>.remove(<atum:palm_stick:0>);

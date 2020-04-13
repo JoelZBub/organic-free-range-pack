@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<minetraps:fall_trap>
+	<minetraps:fall_trap:0>
 ];
 
 /*
@@ -35,7 +35,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<minetraps:fall_trap> : {
+	<minetraps:fall_trap:0> : {
 		"minetraps_fall_trap" : [
 			[
 	  			[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],

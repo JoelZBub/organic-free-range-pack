@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Fossils and Archeology Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Fossils and Archeolgy.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<fossil:tardrop>
+	<fossil:tardrop:0>
 ];
 
 /*
@@ -64,7 +63,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<fossil:tardrop> * 4 : {
+	<fossil:tardrop:0> * 4 : {
 		"fossil_tardrop" : [
 			[<ore:tarBucket>]
 		]

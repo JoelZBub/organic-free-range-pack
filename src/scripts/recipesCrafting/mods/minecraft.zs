@@ -1,7 +1,6 @@
 /*
-	100% Organic Free-Range Vanilla Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	100% Organic Free-Range Minecraft Crafting Table recipes script.
+	This script is for adding and removing recipes for Minecraft
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,13 +11,13 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>,
-<minecraft:purpur_block>,
-<minecraft:cake>,
-<minecraft:spruce_boat>,
-<minecraft:birch_boat>,
-<minecraft:jungle_boat>,
-<minecraft:acacia_boat>,
-<minecraft:dark_oak_boat>,
+	<minecraft:acacia_boat:0>,
+	<minecraft:birch_boat:0>,
+	<minecraft:cake:0>,
+	<minecraft:dark_oak_boat:0>,
+	<minecraft:jungle_boat:0>,
+	<minecraft:purpur_block:0>,
+	<minecraft:spruce_boat:0>
 
 ];
 
@@ -43,40 +42,40 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<minecraft:chest> * 4 : {
-		"minecraft_chest_modbulk" : [
-			[
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
-	   			[<ore:modLogs>, null, <ore:modLogs>],
-	  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
-			]
-		]
+	<minecraft:cake:0>: {
+	    "minecraft_cake_oredict" : [
+	        [
+	            [<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
+	            [<minecraft:sugar:0>, <ore:egg>, <minecraft:sugar:0>],
+	            [<minecraft:wheat:0>, <minecraft:wheat:0>, <minecraft:wheat:0>]
+	        ]
+	    ]
 	},
-<minecraft:stick> * 16 : {
-    "minecraft_stick_bulk" : [
-        [
-            [<ore:logWood>],
-            [<ore:logWood>]
-        ]
-    ]
-},
-<minecraft:purpur_block> * 4 : {
-    "minecraft_purpur_block_test" : [
-        [
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>],
-            [<minecraft:chorus_fruit_popped>, <ore:cobblestone>, <minecraft:chorus_fruit_popped>]
-        ]
-    ]
-},
-<minecraft:cake>: {
-    "minecraft_cake_oredict" : [
-        [
-            [<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
-            [<minecraft:sugar>, <ore:egg>, <minecraft:sugar>],
-            [<minecraft:wheat>, <minecraft:wheat>, <minecraft:wheat>]
-        ]
-    ]
-}
+	<minecraft:chest:0> * 4 : {
+			"minecraft_chest_modbulk" : [
+				[
+		  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
+		   			[<ore:modLogs>, null, <ore:modLogs>],
+		  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
+				]
+			]
+		},
+	<minecraft:purpur_block:0> * 4 : {
+	    "minecraft_purpur_block" : [
+	        [
+	            [<minecraft:chorus_fruit_popped:0>, <minecraft:end_stone>, <minecraft:chorus_fruit_popped:0>],
+	            [<minecraft:chorus_fruit_popped:0>, <minecraft:end_stone>, <minecraft:chorus_fruit_popped:0>]
+	        ]
+	    ]
+	},
+	<minecraft:stick:0> * 16 : {
+	    "minecraft_stick_bulk" : [
+	        [
+	            [<ore:logWood>],
+	            [<ore:logWood>]
+	        ]
+	    ]
+	}
 };
 
 
@@ -105,31 +104,31 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<minecraft:spruce_boat> : {
-		"minecraft_spruce_boat" : [
-			[<minecraft:boat>, <minecraft:planks:1>]
-		]
-	},
-<minecraft:birch_boat> : {
-		"minecraft_birch_boat" : [
-			[<minecraft:boat>, <minecraft:planks:2>]
-		]
-	},
-<minecraft:jungle_boat> : {
-		"minecraft_jungle_boat" : [
-			[<minecraft:boat>, <minecraft:planks:3>]
-		]
-	},
-<minecraft:acacia_boat> : {
-		"minecraft_acacia_boat" : [
-			[<minecraft:boat>, <minecraft:planks:4>]
-		]
-	},
-<minecraft:dark_oak_boat> : {
-		"minecraft_dark_oak_boat" : [
-			[<minecraft:boat>, <minecraft:planks:5>]
-		]
-	}
+	<minecraft:acacia_boat:0> : {
+			"minecraft_acacia_boat" : [
+				[<minecraft:boat:0>, <minecraft:planks:4>]
+			]
+		},
+	<minecraft:birch_boat:0> : {
+			"minecraft_birch_boat" : [
+				[<minecraft:boat:0>, <minecraft:planks:2>]
+			]
+		},
+	<minecraft:dark_oak_boat:0> : {
+			"minecraft_dark_oak_boat" : [
+				[<minecraft:boat:0>, <minecraft:planks:5>]
+			]
+		},
+	<minecraft:jungle_boat:0> : {
+			"minecraft_jungle_boat" : [
+				[<minecraft:boat:0>, <minecraft:planks:3>]
+			]
+		},
+	<minecraft:spruce_boat:0> : {
+			"minecraft_spruce_boat" : [
+				[<minecraft:boat:0>, <minecraft:planks:1>]
+			]
+		}
 };
 
 

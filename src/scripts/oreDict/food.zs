@@ -13,32 +13,32 @@ import crafttweaker.item.IIngredient;
 // Individual Entries
 <ore:coconut>.add(<pvj:coconut:0>);
 <ore:coconut>.add(<tropicraft:coconut:0>);
-<ore:coconutPiece>.add(<pvj:cracked_coconut>);
-<ore:coconutPiece>.add(<tropicraft:coconut_chunk>);
-<ore:listAllmilk>.add(<animania:milk_bottle>);
-<ore:listAllmilk>.add(<pvj:coconut_milk>);
+<ore:coconutPiece>.add(<pvj:cracked_coconut:0>);
+<ore:coconutPiece>.add(<tropicraft:coconut_chunk:0>);
+<ore:listAllmilk>.add(<animania:milk_bottle:0>);
+<ore:listAllmilk>.add(<pvj:coconut_milk:0>);
 
 
 // Arrays
 static bugRaw as IItemStack[] = [
+	<ediblebugs:dirtbugs:0>,
 	<ediblebugs:dirtbugs:1>,
 	<ediblebugs:dirtbugs:2>,
 	<ediblebugs:dirtbugs:3>,
-	<ediblebugs:dirtbugs>,
+	<ediblebugs:grassbugs:0>,
 	<ediblebugs:grassbugs:1>,
 	<ediblebugs:grassbugs:2>,
 	<ediblebugs:grassbugs:3>,
-	<ediblebugs:grassbugs>,
+	<ediblebugs:sandbugs:0>,
 	<ediblebugs:sandbugs:1>,
 	<ediblebugs:sandbugs:2>,
 	<ediblebugs:sandbugs:3>,
-	<ediblebugs:sandbugs>,
-	<ediblebugs:termite>,
-	<ediblebugs:termitelarva>,
+	<ediblebugs:termite:0>,
+	<ediblebugs:termitelarva:0>,
+	<ediblebugs:woodbugs:0>,
 	<ediblebugs:woodbugs:1>,
 	<ediblebugs:woodbugs:2>,
-	<ediblebugs:woodbugs:3>,
-	<ediblebugs:woodbugs>
+	<ediblebugs:woodbugs:3>
 ];
 
 for item in bugRaw {

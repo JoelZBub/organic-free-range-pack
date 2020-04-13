@@ -19,7 +19,9 @@ static itemRecipeRemoval as IItemStack[] = [
 	Recipe and JEI Removals by Item
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
-//	<modid:itemname:meta>,
+//	<modid:itemname:meta>
+	<arcademod:coin_pusher:0>,
+	<arcademod:invisible:0>
 ];
 
 
@@ -36,7 +38,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<arcademod:prize_box:0> : {
+	<arcademod:prize_box:0> : {
 		"arcademod_prize_box" : [
 			[
 	  			[<ore:ironIngot>, <ore:paneGlass>, <ore:ironIngot>],
@@ -44,7 +46,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<ore:ironIngot>, <minecraft:redstone:0>, <ore:ironIngot>]
 			]
 		]
-	}
+	}	
 };
 
 

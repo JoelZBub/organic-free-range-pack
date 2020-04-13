@@ -1,7 +1,6 @@
 /*
-	100% Organic Free-Range Project Vibrant Journey Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	100% Organic Free-Range Project: Vibrant Journeys Crafting Table recipes script.
+	This script is for adding and removing recipes for Project: Vibrant Journeys.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,32 +11,32 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<pvj:willow_boat>,
-<pvj:mangrove_boat>,
-<pvj:palm_boat>,
-<pvj:redwood_boat>,
-<pvj:fir_boat>,
-<pvj:pine_boat>,
-<pvj:aspen_boat>,
-<pvj:maple_boat>,
-<pvj:baobab_boat>,
-<pvj:cottonwood_boat>,
-<pvj:juniper_boat>,
-<pvj:cherry_blossom_boat>,
-<pvj:jacaranda_boat>,
-<pvj:willow_trapdoor>,
-<pvj:mangrove_trapdoor>,
-<pvj:cottonwood_trapdoor>,
-<pvj:palm_trapdoor>,
-<pvj:redwood_trapdoor>,
-<pvj:fir_trapdoor>,
-<pvj:pine_trapdoor>,
-<pvj:aspen_trapdoor>,
-<pvj:maple_trapdoor>,
-<pvj:baobab_trapdoor>,
-<pvj:juniper_trapdoor>,
-<pvj:cherry_blossom_trapdoor>,
-<pvj:jacaranda_trapdoor>
+	<pvj:aspen_boat:0>,
+	<pvj:aspen_trapdoor:0>,
+	<pvj:baobab_boat:0>,
+	<pvj:baobab_trapdoor:0>,
+	<pvj:cherry_blossom_boat:0>,
+	<pvj:cherry_blossom_trapdoor:0>,
+	<pvj:cottonwood_boat:0>,
+	<pvj:cottonwood_trapdoor:0>,
+	<pvj:fir_boat:0>,
+	<pvj:fir_trapdoor:0>,
+	<pvj:jacaranda_boat:0>,
+	<pvj:jacaranda_trapdoor:0>,
+	<pvj:juniper_boat:0>,
+	<pvj:juniper_trapdoor:0>,
+	<pvj:mangrove_boat:0>,
+	<pvj:mangrove_trapdoor:0>,
+	<pvj:maple_boat:0>,
+	<pvj:maple_trapdoor:0>,
+	<pvj:palm_boat:0>,
+	<pvj:palm_trapdoor:0>,
+	<pvj:pine_boat:0>,
+	<pvj:pine_trapdoor:0>,
+	<pvj:redwood_boat:0>,
+	<pvj:redwood_trapdoor:0>,
+	<pvj:willow_boat:0>,
+	<pvj:willow_trapdoor:0>
 ];
 
 /*
@@ -45,7 +44,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-<pvj:coconut_milk>
+	<pvj:coconut_milk:0>
 ];
 
 
@@ -90,136 +89,136 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<pvj:willow_boat> : {
-		"pvj_willow_boat" : [
-			[<minecraft:boat>, <pvj:planks_willow>]
-		]
-	},
-<pvj:mangrove_boat> : {
-		"pvj_mangrove_boat" : [
-			[<minecraft:boat>, <pvj:planks_mangrove>]
-		]
-	},
-<pvj:cottonwood_boat> : {
-		"pvj_cottonwood_boat" : [
-			[<minecraft:boat>, <pvj:planks_cottonwood>]
-		]
-	},
-<pvj:palm_boat> : {
-		"pvj_palm_boat" : [
-			[<minecraft:boat>, <pvj:planks_palm>]
-		]
-	},
-<pvj:redwood_boat> : {
-		"pvj_redwood_boat" : [
-			[<minecraft:boat>, <pvj:planks_redwood>]
-		]
-	},
-<pvj:fir_boat> : {
-		"pvj_fir_boat" : [
-			[<minecraft:boat>, <pvj:planks_fir>]
-		]
-	},
-<pvj:pine_boat> : {
-		"pvj_pine_boat" : [
-			[<minecraft:boat>, <pvj:planks_pine>]
-		]
-	},
-<pvj:aspen_boat> : {
+	<pvj:aspen_boat:0> : {
 		"pvj_aspen_boat" : [
-			[<minecraft:boat>, <pvj:planks_aspen>]
+			[<minecraft:boat:0>, <pvj:planks_aspen:0>]
 		]
 	},
-<pvj:maple_boat> : {
-		"pvj_maple_boat" : [
-			[<minecraft:boat>, <pvj:planks_maple>]
-		]
-	},
-<pvj:baobab_boat> : {
-		"pvj_baobab_boat" : [
-			[<minecraft:boat>, <pvj:planks_baobab>]
-		]
-	},
-<pvj:juniper_boat> : {
-		"pvj_juniper_boat" : [
-			[<minecraft:boat>, <pvj:planks_juniper>]
-		]
-	},
-<pvj:cherry_blossom_boat> : {
-		"pvj_cherry_blossom_boat" : [
-			[<minecraft:boat>, <pvj:planks_cherry_blossom>]
-		]
-	},
-<pvj:jacaranda_boat> : {
-		"pvj_jacaranda_boat" : [
-			[<minecraft:boat>, <pvj:planks_jacaranda>]
-		]
-	},
-<pvj:willow_trapdoor> : {
-		"pvj_willow_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_willow>]
-		]
-	},
-<pvj:mangrove_trapdoor> : {
-		"pvj_mangrove_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_mangrove>]
-		]
-	},
-<pvj:cottonwood_trapdoor> : {
-		"pvj_cottonwood_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_cottonwood>]
-		]
-	},
-<pvj:palm_trapdoor> : {
-		"pvj_palm_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_palm>]
-		]
-	},
-<pvj:redwood_trapdoor> : {
-		"pvj_redwood_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_redwood>]
-		]
-	},
-<pvj:fir_trapdoor> : {
-		"pvj_fir_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_fir>]
-		]
-	},
-<pvj:pine_trapdoor> : {
-		"pvj_pine_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_pine>]
-		]
-	},
-<pvj:aspen_trapdoor> : {
+	<pvj:aspen_trapdoor:0> : {
 		"pvj_aspen_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_aspen>]
+			[<minecraft:trapdoor:0>, <pvj:planks_aspen:0>]
 		]
 	},
-<pvj:maple_trapdoor> : {
-		"pvj_maple_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_maple>]
+	<pvj:baobab_boat:0> : {
+		"pvj_baobab_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_baobab:0>]
 		]
 	},
-<pvj:baobab_trapdoor> : {
+	<pvj:baobab_trapdoor:0> : {
 		"pvj_baobab_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_baobab>]
+			[<minecraft:trapdoor:0>, <pvj:planks_baobab:0>]
 		]
 	},
-<pvj:juniper_trapdoor> : {
-		"pvj_juniper_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_juniper>]
+	<pvj:cherry_blossom_boat:0> : {
+		"pvj_cherry_blossom_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_cherry_blossom:0>]
 		]
 	},
-<pvj:cherry_blossom_trapdoor> : {
+	<pvj:cherry_blossom_trapdoor:0> : {
 		"pvj_cherry_blossom_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_cherry_blossom>]
+			[<minecraft:trapdoor:0>, <pvj:planks_cherry_blossom:0>]
 		]
 	},
-<pvj:jacaranda_trapdoor> : {
+	<pvj:cottonwood_boat:0> : {
+		"pvj_cottonwood_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_cottonwood:0>]
+		]
+	},
+	<pvj:cottonwood_trapdoor:0> : {
+		"pvj_cottonwood_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_cottonwood:0>]
+		]
+	},
+	<pvj:fir_boat:0> : {
+		"pvj_fir_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_fir:0>]
+		]
+	},
+	<pvj:fir_trapdoor:0> : {
+		"pvj_fir_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_fir:0>]
+		]
+	},
+	<pvj:jacaranda_boat:0> : {
+		"pvj_jacaranda_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_jacaranda:0>]
+		]
+	},
+	<pvj:jacaranda_trapdoor:0> : {
 		"pvj_jacaranda_trapdoor" : [
-			[<minecraft:trapdoor>, <pvj:planks_jacaranda>]
+			[<minecraft:trapdoor:0>, <pvj:planks_jacaranda:0>]
 		]
 	},
+	<pvj:juniper_boat:0> : {
+		"pvj_juniper_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_juniper:0>]
+		]
+	},
+	<pvj:juniper_trapdoor:0> : {
+		"pvj_juniper_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_juniper:0>]
+		]
+	},
+	<pvj:mangrove_boat:0> : {
+		"pvj_mangrove_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_mangrove:0>]
+		]
+	},
+	<pvj:mangrove_trapdoor:0> : {
+		"pvj_mangrove_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_mangrove:0>]
+		]
+	},
+	<pvj:maple_boat:0> : {
+		"pvj_maple_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_maple:0>]
+		]
+	},
+	<pvj:maple_trapdoor:0> : {
+		"pvj_maple_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_maple:0>]
+		]
+	},
+	<pvj:palm_boat:0> : {
+		"pvj_palm_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_palm:0>]
+		]
+	},
+	<pvj:palm_trapdoor:0> : {
+		"pvj_palm_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_palm:0>]
+		]
+	},
+	<pvj:pine_boat:0> : {
+		"pvj_pine_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_pine:0>]
+		]
+	},
+	<pvj:pine_trapdoor:0> : {
+		"pvj_pine_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_pine:0>]
+		]
+	},
+	<pvj:redwood_boat:0> : {
+		"pvj_redwood_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_redwood:0>]
+		]
+	},
+	<pvj:redwood_trapdoor:0> : {
+		"pvj_redwood_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_redwood:0>]
+		]
+	},
+	<pvj:willow_boat:0> : {
+		"pvj_willow_boat" : [
+			[<minecraft:boat:0>, <pvj:planks_willow:0>]
+		]
+	},
+	<pvj:willow_trapdoor:0> : {
+		"pvj_willow_trapdoor" : [
+			[<minecraft:trapdoor:0>, <pvj:planks_willow:0>]
+		]
+	}
 };
 
 

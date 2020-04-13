@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Overlord Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Overlord.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<guideapi:overlord-overlord_guide>
+	<guideapi:overlord-overlord_guide:0>
 ];
 
 /*
@@ -64,7 +63,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<guideapi:overlord-overlord_guide> : {
+	<guideapi:overlord-overlord_guide:0> : {
 		"guideapi_overlord-overlord_guide" : [
 			[<ore:book>, <ore:bone>, <ore:listAllmilk>]
 		]

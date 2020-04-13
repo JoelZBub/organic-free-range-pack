@@ -11,9 +11,9 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<openblocks:block_breaker>,
-	<openblocks:block_placer>,
-	<openblocks:tasty_clay>
+	<openblocks:block_breaker:0>,
+	<openblocks:block_placer:0>,
+	<openblocks:tasty_clay:0>
 ];
 
 /*
@@ -37,21 +37,21 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<openblocks:block_breaker> : {
+	<openblocks:block_breaker:0> : {
 		"openblocks_block_breaker" : [
 			[
-	  			[<minecraft:cobblestone>, <minecraft:iron_pickaxe>, <minecraft:cobblestone>],
-	   			[<minecraft:cobblestone>, <midnight:dark_pearl>, <minecraft:cobblestone>],
-	  			[<minecraft:cobblestone>, <minecraft:cobblestone>, <minecraft:cobblestone>]
+	  			[<minecraft:cobblestone:0>, <minecraft:iron_pickaxe:0>, <minecraft:cobblestone:0>],
+	   			[<minecraft:cobblestone:0>, <midnight:dark_pearl:0>, <minecraft:cobblestone:0>],
+	  			[<minecraft:cobblestone:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>]
 			]
 		]
 	},
-	<openblocks:block_placer> : {
+	<openblocks:block_placer:0> : {
 		"openblocks_block_placer" : [
 			[
-	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>],
-	   			[<minecraft:piston>, <midnight:dark_pearl>, <minecraft:cobblestone>],
-	  			[<minecraft:iron_ingot>, <minecraft:cobblestone>, <minecraft:cobblestone>]
+	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>],
+	   			[<minecraft:piston:0>, <midnight:dark_pearl:0>, <minecraft:cobblestone:0>],
+	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>]
 			]	
 		]
 	}
@@ -83,7 +83,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<openblocks:tasty_clay> : {
+<openblocks:tasty_clay:0> : {
 		"openblocks_tasty_clay" : [
 			[<ore:clay>, <minecraft:dye:3>, <ore:listAllmilk>]
 		]

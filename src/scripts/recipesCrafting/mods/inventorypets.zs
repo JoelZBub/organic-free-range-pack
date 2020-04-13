@@ -1,7 +1,6 @@
 /*
-	100% Organic Free-Range Template Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	100% Organic Free-Range Inventory Pets Crafting Table recipes script.
+	This script is for adding and removing recipesfor Inventory Pets.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,10 +11,10 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<inventorypets:siamese_pet>,
-<inventorypets:spider_pet>,
-<inventorypets:cheetah_pet>,
-<inventorypets:wolf_pet>
+	<inventorypets:cheetah_pet:0>,
+	<inventorypets:siamese_pet:0>,
+	<inventorypets:spider_pet:0>,
+	<inventorypets:wolf_pet:0>
 ];
 
 /*
@@ -39,39 +38,39 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<inventorypets:siamese_pet> : {
-		"inventorypets_siamese_pet" : [
-			[
-	  			[<minecraft:baked_potato>, <ore:listAllcookedchicken>, <minecraft:baked_potato>],
-	   			[<minecraft:baked_potato>, <minecraft:diamond>, <minecraft:baked_potato>],
-	  			[<minecraft:baked_potato>, <ore:ingotGold>, <minecraft:baked_potato>]
-			]
-		]
-	},
-<inventorypets:spider_pet> : {
-		"inventorypets_spider_pet" : [
-			[
-	  			[<inventorypets:nugget_coal>, <ore:meatRaw>, <inventorypets:nugget_coal>],
-	   			[<inventorypets:nugget_coal>, <minecraft:diamond>, <inventorypets:nugget_coal>],
-	  			[<inventorypets:nugget_coal>, <ore:ingotGold>, <inventorypets:nugget_coal>]
-			]
-		]
-	},
-<inventorypets:cheetah_pet> : {
+	<inventorypets:cheetah_pet:0> : {
 		"inventorypets_cheetah_pet" : [
 			[
-	  			[<minecraft:blaze_powder>, <ore:meatRaw>, <minecraft:blaze_powder>],
-	   			[<minecraft:blaze_powder>, <minecraft:diamond>, <minecraft:blaze_powder>],
-	  			[<minecraft:blaze_powder>, <ore:ingotGold>, <minecraft:blaze_powder>]
+	  			[<minecraft:blaze_powder:0>, <ore:meatRaw>, <minecraft:blaze_powder:0>],
+	   			[<minecraft:blaze_powder:0>, <minecraft:diamond:0>, <minecraft:blaze_powder:0>],
+	  			[<minecraft:blaze_powder:0>, <ore:ingotGold>, <minecraft:blaze_powder:0>]
 			]
 		]
 	},
-<inventorypets:wolf_pet> : {
+	<inventorypets:siamese_pet:0> : {
+		"inventorypets_siamese_pet" : [
+			[
+	  			[<minecraft:baked_potato:0>, <ore:listAllcookedchicken>, <minecraft:baked_potato:0>],
+	   			[<minecraft:baked_potato:0>, <minecraft:diamond:0>, <minecraft:baked_potato:0>],
+	  			[<minecraft:baked_potato:0>, <ore:ingotGold>, <minecraft:baked_potato:0>]
+			]
+		]
+	},
+	<inventorypets:spider_pet:0> : {
+		"inventorypets_spider_pet" : [
+			[
+	  			[<inventorypets:nugget_coal:0>, <ore:meatRaw>, <inventorypets:nugget_coal:0>],
+	   			[<inventorypets:nugget_coal:0>, <minecraft:diamond:0>, <inventorypets:nugget_coal:0>],
+	  			[<inventorypets:nugget_coal:0>, <ore:ingotGold>, <inventorypets:nugget_coal:0>]
+			]
+		]
+	},
+	<inventorypets:wolf_pet:0> : {
 		"inventorypets_wolf_pet" : [
 			[
-	  			[<minecraft:iron_nugget>, <ore:meatRaw>, <minecraft:iron_nugget>],
-	   			[<minecraft:iron_nugget>, <minecraft:diamond>, <minecraft:iron_nugget>],
-	  			[<minecraft:iron_nugget>, <ore:ingotGold>, <minecraft:iron_nugget>]
+	  			[<minecraft:iron_nugget:0>, <ore:meatRaw>, <minecraft:iron_nugget:0>],
+	   			[<minecraft:iron_nugget:0>, <minecraft:diamond:0>, <minecraft:iron_nugget:0>],
+	  			[<minecraft:iron_nugget:0>, <ore:ingotGold>, <minecraft:iron_nugget:0>]
 			]
 		]
 	}

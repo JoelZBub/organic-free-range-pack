@@ -21,16 +21,16 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-<rftools:shape_card:1>,
-<rftools:shape_card:2>,
-<rftools:shape_card:3>,
-<rftools:shape_card:4>,
-<rftools:shape_card:5>,
-<rftools:shape_card:6>,
-<rftools:shape_card:7>,
-<rftools:shape_card:8>,
-<rftools:shape_card:9>,
-<rftools:shape_card:10>
+	<rftools:shape_card:1>,
+	<rftools:shape_card:2>,
+	<rftools:shape_card:3>,
+	<rftools:shape_card:4>,
+	<rftools:shape_card:5>,
+	<rftools:shape_card:6>,
+	<rftools:shape_card:7>,
+	<rftools:shape_card:8>,
+	<rftools:shape_card:9>,
+	<rftools:shape_card:10>
 ];
 
 
@@ -59,9 +59,9 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<rftools:endergenic:0> : {
 		"rftools_endergenic" : [
 			[
-	  			[<minecraft:diamond>, <minecraft:ender_pearl>, <minecraft:diamond>],
-	  			[<minecraft:ender_pearl>, <rftools:machine_frame>, <minecraft:ender_pearl>],
-	  			[<minecraft:diamond>, <cavern:cave_item:1>, <minecraft:diamond>]
+	  			[<minecraft:diamond:0>, <minecraft:ender_pearl:0>, <minecraft:diamond:0>],
+	  			[<minecraft:ender_pearl:0>, <rftools:machine_frame:0>, <minecraft:ender_pearl:0>],
+	  			[<minecraft:diamond:0>, <cavern:cave_item:1>, <minecraft:diamond:0>]
 			]
 		]
 	},

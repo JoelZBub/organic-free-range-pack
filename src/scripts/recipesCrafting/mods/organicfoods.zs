@@ -25,18 +25,18 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 	Named Shaped Recipes
 */	
 static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
-	<contenttweaker:hard_bug_taco> : {
+	<contenttweaker:hard_bug_taco:0> : {
 		"ct_hard_bug_taco" : [
 			[
-	  			[<tt:hard_tortilla>],
+	  			[<tt:hard_tortilla:0>],
 	   			[<ediblebugs:cookedbugs:*>]	  			
 			]
 		]
 	},
-	<contenttweaker:soft_bug_taco> : {
+	<contenttweaker:soft_bug_taco:0> : {
 		"ct_soft_bug_taco" : [
 			[
-  				[<tt:soft_tortilla>],
+  				[<tt:soft_tortilla:0>],
    				[<ediblebugs:cookedbugs:*>]	  			
 			]
 		]
@@ -69,7 +69,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<contenttweaker:organic_booger> * 4 : {
+	<contenttweaker:organic_booger:0> * 4 : {
 		"ct_organic_booger" : [
   				[<ore:listAllmilk>, <ore:flesh>, <ore:slimeball>]		
 		]

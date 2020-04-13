@@ -1,7 +1,6 @@
 /*
 	100% Organic Free-Range Integrated Dynamics Crafting Table recipes script.
-	This script is for adding and removing recipes by mod.
-	Rename this script for the mod it's modifying.
+	This script is for adding and removing recipes for Integrated Dynamics.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -12,8 +11,8 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<integrateddynamics:part_entity_reader_item>,
-<integrateddynamics:part_entity_writer_item>
+	<integrateddynamics:part_entity_reader_item:0>,
+	<integrateddynamics:part_entity_writer_item:0>
 ];
 
 /*
@@ -37,7 +36,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-<integrateddynamics:part_entity_reader_item> : {
+	<integrateddynamics:part_entity_reader_item:0> : {
 		"integrateddynamics_part_entity_reader_item" : [
 			[
 	  			[null, <ore:listAllmeatraw>, null],
@@ -46,11 +45,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-<integrateddynamics:part_entity_writer_item> : {
+	<integrateddynamics:part_entity_writer_item:0> : {
 		"integrateddynamics_part_entity_writer_item" : [
 			[
 	  			[null, <ore:listAllmeatraw>, null],
-	   			[<ore:listAllmeatraw>, <integrateddynamics:variable_transformer>, <ore:listAllmeatraw>],
+	   			[<ore:listAllmeatraw>, <integrateddynamics:variable_transformer:0>, <ore:listAllmeatraw>],
 	  			[null, <ore:listAllmeatraw>, null]
 			]
 		]
