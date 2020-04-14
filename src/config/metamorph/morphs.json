@@ -759,7 +759,16 @@
     "fossil:fossil.meganeura": {
         "abilities": ["glide"]
     },
-    "fossil:fossil.pterosaur": {
-        "abilities": ["glide"]
+    "mist:forest_spider": {
+        "abilities": ["climb"]
+    },
+    "mist:sloth": {
+        "abilities": ["climb"]
+    },
+    "mist:galaga": {
+        "attack": "poison"
+    },
+    "mist:desert_fish": {
+        "attack": "poison"
     }
 }

@@ -31,6 +31,7 @@ import crafttweaker.item.IIngredient;
 <ore:tarBucket>.add(<erebus:bambucket>.withTag({Fluid: {FluidName: "tar", Amount: 1000}}));
 <ore:tarBucket>.add(<forge:bucketfilled>.withTag({FluidName: "tar", Amount: 1000}));
 <ore:tarBucket>.remove(<forge:bucketfilled>.withTag({FluidName: "vegetableoil", Amount: 1000}));
+<ore:itemRubber>.add(<mist:rubber>);
 
 // Arrays
 static seedList as IItemStack[] = [
