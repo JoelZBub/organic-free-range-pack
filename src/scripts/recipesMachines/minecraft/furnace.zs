@@ -29,7 +29,7 @@ furnace.addRecipe(<ediblebugs:termitebrick:0>, <ediblebugs:termiteclay:0>, 0.25)
 furnace.addRecipe(<minecraft:brick:0>, <minecraft:clay_ball:0>, 0.3);
 furnace.addRecipe(<minecraft:brick:0>, <mist:clay_ball:1>, 0.3);
 furnace.addRecipe(<minecraft:brick:0>, <mist:clay_ball:0>, 0.3);
-furnace.addRecipe(<mist:rubber>, <mist:latex>, 0.3);
+furnace.addRecipe(<mist:rubber:0>, <mist:latex:0>, 0.3);
 
 /* Fuel
 furnace.setFuel(IIngredient input, int burnTime);

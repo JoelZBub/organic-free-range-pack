@@ -26,12 +26,7 @@
           "weight": 5,
           "groupcountmin": 1,
           "groupcountmax": 2
-        }
-      ]
-    },
-    {
-        "dimension": 69,
-        "mobs": [
+        },
         {
             "mob": "drones:drones.drone",
             "weight": 5,

@@ -3975,7 +3975,7 @@ More Cousin Dash's Guide stuff.
 
 -- Mod Freezes --
 -----------------
-MoreTweaker 1.0.14 (1.0.15 server crash)
+
 
 
 -- Added Mods --
@@ -3991,7 +3991,11 @@ Changeling (1.2-command-fixes to 1.2_golem)
 Content Creator Integration (1.3.1 to 1.4.3)
 Controlling (3.0.8 to 3.0.9)
 CraftTweaker (4.1.20 to 4.1.20.564)
-MoreTweaker (1.0.14 to 1.0.15)
+Cyclic (1.19.21 to 1.02.1)
+Cyclops Core (1.6.2 to 1.6.3)
+Integrated Dynamics (1.1.4 to 1.1.5)
+Misty World (alpha_c_09 to 1.2.4.0 to 1.2.4.1)
+MoreTweaker (1.0.14 to 1.0.16)
 Reborn Core (3.19.2.522 to 3.19.3.524)
 Thermal Expansion (5.5.6.1 to 5.5.7.1)
 Thermal Foundation (2.6.6.1 to 2.6.7.1)
@@ -4009,6 +4013,26 @@ caverns/general.cfg
         mist:niobium_ingot
 		cgm:machine_pistol
 		Cyberware items
+DamageSourceConfigurator.cfg
+	serveroptions
+		S:"Damage Sources" 
+            mist.in_fog
+            mist.dissolution
+incontrol/
+	potentialspawn.json
+		set drones to spawn under 100
+	spawn.json
+		denied animania in caverns
+		denied energetic sheep in mistyworld
+		denied zawa in caverns
+metamorph/
+	morphs.json
+		added mist spider sloth galaga desert_fish abilities
+		List has mods in alphabetical order now 
+mist.cfg
+	campfire
+		S:stoneAndColors
+			removed cobblestone to match our changes in earlier version of this config
 MovingWorld/Main.cfg
 	S:allowed_blocks <
 		zawatrophies:trophy_head
@@ -4022,7 +4046,12 @@ MovingWorld/Main.cfg
 --------------------
 Script Cleanup
     all Scripts
-
+oreDict/
+	misc.zs
+		added mist rubber to itemRubber oreDict
+recipesMachines/minecraft/
+	furnace.zs
+		added recipe for mist latex from mist rubber
 
 -- Asset Changes --
 -------------------
