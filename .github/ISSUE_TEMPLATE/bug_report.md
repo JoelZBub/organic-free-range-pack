@@ -7,29 +7,31 @@ assignees: ''
 
 ---
 
-**Describe the Bug:**
+### Describe the Bug:
 
 
-**How Can We Reproduce the Bug:**
+### How Can We Reproduce the Bug:
 1.
 2.
 3.
 4.
 More steps...
 
-**Expected behavior:**
+### Expected behavior:
 
 
-**If Applicable, Add Screenshots or Video to Explain the Bug**
+### If Applicable, Add Screenshots or Video to Explain the Bug:
 
 
-** Crash Report or Game Log**
+### Crash Report or Game Log
 Paste your crash report or log file to https://hatebin.com/ and paste the link here.
 
 
-**Please complete the following information):**
+### Please complete the following information:
  - Modpack Version Number :
  - Is OptiFine installed? : 
-
-**Additional context**
+ - Does this issue affect Server, Client, or Both? :
+ 
+ 
+### Additional context:
 
