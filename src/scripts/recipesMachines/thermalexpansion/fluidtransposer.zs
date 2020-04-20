@@ -9,3 +9,6 @@ import crafttweaker.liquid.ILiquidStack;
 
 //Transposer.addFillRecipe(IItemStack output, IItemStack input, ILiquidStack fluid, int energy);
 Transposer.addFillRecipe(<ediblebugs:vegetableoil:0>, <minecraft:glass_bottle:0>, <liquid:vegetableoil> * 250 , 250);
+
+Transposer.addFillRecipe(<mist:latex>, <thermalfoundation:material:771>, <liquid:liquidlatex> * 1000 , 250);
+Transposer.addFillRecipe(<mist:latex>, <mist:sulfur>, <liquid:liquidlatex> * 1000 , 250);

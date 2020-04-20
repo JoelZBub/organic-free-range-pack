@@ -770,6 +770,9 @@
     "mist:galaga": {
         "attack": "poison"
     },
+    "mist:grave_bug": {
+        "attack": "poison"
+    },
     "mist:sloth": {
         "abilities": ["climb"]
     }

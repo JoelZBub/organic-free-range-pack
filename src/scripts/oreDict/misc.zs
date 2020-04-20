@@ -20,7 +20,6 @@ import crafttweaker.item.IIngredient;
 <ore:dyeBlack>.add(<quark:black_ash:0>);
 <ore:flesh>.add(<cannibalism:playerflesh:0>);
 <ore:flesh>.add(<cannibalism:playerfleshcooked:0>);
-<ore:itemRubber>.add(<mist:rubber:0>);
 <ore:plastic>.add(<hatchery:plastic:0>);
 <ore:slimeball>.add(<minecraft:magma_cream:0>);
 <ore:slimeball>.add(<thermalfoundation:material:832>);

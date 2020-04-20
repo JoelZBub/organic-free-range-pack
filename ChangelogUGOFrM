@@ -4046,9 +4046,6 @@ MovingWorld/Main.cfg
 --------------------
 Script Cleanup
     all Scripts
-oreDict/
-	misc.zs
-		added mist rubber to itemRubber oreDict
 recipesMachines/minecraft/
 	furnace.zs
 		added recipe for mist latex from mist rubber
@@ -4060,3 +4057,54 @@ Additions made to Cousin Dash's book
 
 -- Other Changes --
 -------------------   
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of April 19-25, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+ContentTweaker/fluids.zs
+	Added liquid latex
+recipesCrafting/mistyworld.zs
+	Removed default rubber recipe
+recipesCrafting/stupidthings.zs
+	Fixed recipes with dye oredict
+recipesMachines/integrateddynamics
+	/squeezer
+		Added recipe for Misty wood into latex
+	/mechanicalsqueezer
+		Added recipe for Misty wood into latex
+recipesMachines/minecraft/brewingstand.zs
+	Added recipe to create latex from liquid latex
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+------------------- 
