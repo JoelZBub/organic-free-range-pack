@@ -222,3 +222,9 @@ key.metamorph.morph.prev_var
 key.metamorph.morph.select
 key.metamorph.morph.demorph
 gui.xaero_toggle_map_waypoints
+key.vehicle.horn
+key.vehicle.cycle_seats
+keybind.mist.mask_inventory
+keybind.mist.skill_inventory
+gui.xaero_map_zoom_in
+gui.xaero_map_zoom_out

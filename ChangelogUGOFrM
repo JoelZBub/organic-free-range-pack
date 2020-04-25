@@ -3969,7 +3969,7 @@ More Cousin Dash's Guide stuff.
 
 -------------------------------------------------------------------------------  
         Changelog
-        Week of April 12-18, 2020
+        Week of April 12-15, 2020
         Build Name / Splash Screen = TBD
 -------------------------------------------------------------------------------
 
@@ -4059,14 +4059,21 @@ Additions made to Cousin Dash's book
 -------------------   
 
 
+-------------------------------------------------------------------------------
+        Above this line marks all updates included in version 0.0.7.1-201
+        Build Name / Splash Screen =  - April 15, 2020
+-------------------------------------------------------------------------------
+
+
 -------------------------------------------------------------------------------  
         Changelog
-        Week of April 19-25, 2020
+        April 15-18, 2020
         Build Name / Splash Screen = TBD
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
+
 
 
 -- Added Mods --
@@ -4075,6 +4082,10 @@ Additions made to Cousin Dash's book
 
 -- Updated Mods --
 -------------------
+GameStages (2.0.117 to2.0.119)
+Misty World (1.2.4.1 to 1.2.4.2 to 1.2.4.3)
+Rats (3.2.8 to 3.2.9)
+Signposts (1.08.4 to 1.08.5)
 
 
 --- Removed Mods ---
@@ -4083,16 +4094,96 @@ Additions made to Cousin Dash's book
 
 -- Config Changes --
 --------------------
+capsules.cfg
+    loots
+        S:lootTablesList
+            removed desert_pyramid
+            removed jungle_temple
+            removed village_blacksmith
+        S:starterTemplatesPath=config/capsule/rewards
+    "loots:config/capsule/loot/common" 
+        I:weight=5
+    "loots:config/capsule/loot/empty" 
+        I:weight=10
+    "loots:config/capsule/loot/rare" 
+        I:weight=1
+    "loots:config/capsule/loot/uncommon" 
+        I:weight=2
+
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+Changed shotgun sound back to actual shotgun
+
+
+
+-- Other Changes --
+-------------------   
+removed contents of capsule prefabs folder
+removed contents of starters folder as it duplicated rewards folder
+
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of April 19-25, 2020
+        Build Name / Splash Screen = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+Cosmetic Armor Reworked (v4b to v5a)
+Culinary Constructs (1.3.3.2 to 1.3.4)
+Cyclic (1.20.1 to 1.20.2)
+Misty World (1.2.4.3 to1.2.4.4)
+ZAWA (2.0.2 to 2.0.3 to 2.0.32)
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+animania.cfg
+	gamerules
+		B:replaceVanillaHorses=false [default=false]
+capsule/prefabs/
+	deleted all prefab content
+CustomMainMenu/mainmenu.json
+	adjust button size and location
+defaultoptions/keybindings.txt
+	extensive keybind rework	
+mist.cfg
+	backup and regen configs
+	transfer new config options to custom config
+ZAWA configs
+	move 2.0.2 configs to 2.0.3 folder to 2.0.32 folder
 
 
 -- Script Changes --
 --------------------
 ContentTweaker/fluids.zs
 	Added liquid latex
-recipesCrafting/mistyworld.zs
+recipesCrafting/mods/mistyworld.zs
 	Removed default rubber recipe
-recipesCrafting/stupidthings.zs
+recipesCrafting/mods/stupidthings.zs
 	Fixed recipes with dye oredict
+recipesCrafting/mods/sync.zs
+	add item placeholder recipe
 recipesMachines/integrateddynamics
 	/squeezer
 		Added recipe for Misty wood into latex
@@ -4108,3 +4199,9 @@ recipesMachines/minecraft/brewingstand.zs
 
 -- Other Changes --
 ------------------- 
+patchouli_books/cousin_dash/book.json
+	added author info line
+patchouli_books/cousin_dash/en_us/entries/intro/intro.json
+	added Organic Keybinds mention to intro
+reccomplex
+	updated Tropicraft structures 

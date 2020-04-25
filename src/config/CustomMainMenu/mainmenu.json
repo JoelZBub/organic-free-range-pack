@@ -20,7 +20,7 @@
             "normalTextColor" : -256,
             "posX" : 20,
             "posY" : 128,
-            "width" : 92,
+            "width" : 125,
             "height" : 18,
             "alignment" : "top_left",
             "action" : 
@@ -34,9 +34,9 @@
         {
             "text" : "menu.multiplayer",
             "normalTextColor" : -256,
-            "posX" : 120,
+            "posX" : 150,
             "posY" : 128,
-            "width" : 92,
+            "width" : 125,
             "height" : 18,
             "alignment" : "top_left",
             "action" : 
@@ -51,7 +51,7 @@
             "text" : "menu.options",
             "posX" : 20,
             "posY" : 154,
-            "width" : 92,
+            "width" : 125,
             "height" : 18,
             "alignment" : "top_left",
             "action" : 
@@ -64,9 +64,9 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : 120,
+            "posX" : 150,
             "posY" : 154,
-            "width" : 92,
+            "width" : 125,
             "height" : 18,
             "alignment" : "top_left",
             "action" : 
@@ -82,7 +82,7 @@
             "hoverText" : "twitch.tv/generikb",                       
             "posX" : 20,
             "posY" : 178,
-            "width" :92,
+            "width" :125,
             "height" : 18,
             "alignment" : "top_left",
             "action" :
@@ -96,9 +96,9 @@
         {
             "text" : "Get A Server",
             "hoverText" : "cubedhost.com/generikb",                       
-            "posX" : 120,
+            "posX" : 150,
             "posY" : 178,
-            "width" :92,
+            "width" :125,
             "height" : 18,
             "alignment" : "top_left",
             "action" :
@@ -112,9 +112,9 @@
         {
             "text" : "menu.quit",
             "normalTextColor" : 3125670,
-            "posX" : 70,
+            "posX" : 95,
             "posY" : 206,
-            "width" : 92,
+            "width" : 107,
             "height" : 20,
             "height" : 18,
             "alignment" : "top_left",
@@ -127,7 +127,7 @@
         "language":
         {
             "text" : "",
-            "posX" : 220,
+            "posX" : 280,
             "posY" : 154,
             "width" : 20,
             "height" : 20,
@@ -142,7 +142,7 @@
         "refresh":
         {
             "text" : "",
-            "posX" : 220,
+            "posX" : 280,
             "posY" : 128,
             "width" : 20,
             "height" : 20,
@@ -183,7 +183,7 @@
 
         "packTxt":
         {
-            "text" : "Closed-Beta Build: Medicinal ASMR-0.0.7.0",
+            "text" : "Closed-Beta Build: -0.0.7.2",
             "posX" : -250,
             "posY" : 10,
             "color" : -1,

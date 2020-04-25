@@ -1,6 +1,7 @@
 {
 	"name": "Cousin Dash’s Guide",
 	"landing_text": "COUSIN DASH’S HOW TO BE REAL COOL AND DO COOL THINGS GUIDEBOOK: GOLD EDITION",
-	"version": 1,
+	"subtitle": "by Happybandit",
+	"version": 0,
 	"model": "patchouli:book_green"
 }
