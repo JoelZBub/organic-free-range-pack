@@ -4232,14 +4232,26 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Config Changes --
 --------------------
+deepmoblearning.cfg
+	S:slime <
+		fossil:fossil.tarslime
 
 
 -- Script Changes --
 --------------------
+itemModifiers/tooltips.zs
+	Added tooltip for Robosurgeon
+	Changed Fart Generator tooltip
+	Added clarification tooltip to AIM Generator
+recipesCrafting/mods/simplemobradar.zs
+	Removed Passive Mob Radar recipe and hid in JEI
 
 
 -- Asset Changes --
 -------------------
+Replaced default Netherrack texture with 1.15 texture
+Added custom texture for Nether Dimensional Share Ore to match changed netherrack texture
+Changed Fart Gen localized name to try to fix confusion with AIM
 
 
 -- Other Changes --

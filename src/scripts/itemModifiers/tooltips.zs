@@ -126,6 +126,16 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<yoyos:wooden_yoyo:0>: [
 		format.white("Wooden YoYo")
+	],
+	<cyberware:surgery:0>: [
+		format.white("A trip into the mists may display this item's use.")
+	],
+	<fartgen:generator:0>: [
+		format.red("Fart Generator. Need I say more?"),
+		format.white("Different animals provide different RF generation rates.")
+	],
+	<aim:generator:0>: [
+		format.red("Solid Fuel Generator for your AIM system.")
 	]
 };
 
@@ -136,9 +146,6 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 	] */
 	<erebus:portal_activator:0>: [
 		format.gold("Seriously, take an extra with you")
-	],
-	<fartgen:generator:0>: [
-		format.gray("Egg-Laying-Wool-Milk-Sow - 40 rf/t\nCow - 20 rf/t\nChicken - 5 rf/t\nDonkey - 10 rf/t\nHorse - 10 rf/t\nLlama - 10 rf/t\nMooshroom - 20 rf/t\nMule - 10 rf/t\nOcelot - 5 rf/t\nPig - 15 rf/t\nPolar Bear - 25 rf/t\nSheep - 5 rf/t\nWolf - 5 rf/t")
 	]
 };
 

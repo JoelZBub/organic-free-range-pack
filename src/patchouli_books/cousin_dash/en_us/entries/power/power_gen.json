@@ -11,7 +11,7 @@
         {
             "type": "spotlight",
             "item": "fartgen:generator",
-            "text": "Power from farts. Need I say more? I don't need to, but I will. You can put almost any animal in there. The amount of power you can get depends on the animal. And, of course, the power comes out the bottom."
+            "text": "$(6)Fart Generator$(). Need I say more? I don't need to, but I will. You can put almost any animal in there. The amount of power you can get depends on the animal. And, of course, the power comes out the bottom."
         },
         {
             "type": "spotlight",
