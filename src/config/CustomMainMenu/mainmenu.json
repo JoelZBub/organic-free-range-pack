@@ -1,6 +1,16 @@
 {  
     "images":
     {
+        "gamma":
+        {
+            "image" : "custommainmenu:textures/gui/gamma.png",
+            "posX" : 10,
+            "posY" : 0,
+            "width" : 300,
+            "height" : 1080,
+            "alignment" : "top_left"
+        },
+
         "logo":
         {
             "image" : "custommainmenu:textures/gui/logo.png",
@@ -9,7 +19,7 @@
             "width" : 280,
             "height" : 101,
             "alignment" : "top_left"
-        }
+        }        
     },
 
     "buttons":
@@ -17,7 +27,7 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "normalTextColor" : -256,
+            "normalTextColor" : 10352115,
             "posX" : 20,
             "posY" : 128,
             "width" : 125,
@@ -33,7 +43,7 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "normalTextColor" : -256,
+            "normalTextColor" : 10352115,
             "posX" : 150,
             "posY" : 128,
             "width" : 125,
@@ -94,7 +104,7 @@
 
          "server":
         {
-            "text" : "Get A Server",
+            "text" : "Get a Server",
             "hoverText" : "cubedhost.com/generikb",                       
             "posX" : 150,
             "posY" : 178,
@@ -111,7 +121,7 @@
         "quit":
         {
             "text" : "menu.quit",
-            "normalTextColor" : 3125670,
+            "normalTextColor" : 10352115,
             "posX" : 95,
             "posY" : 206,
             "width" : 107,
@@ -175,7 +185,7 @@
         "fml":
         {
             "text" : "",
-            "posX" : 6,
+            "posX" : 20,
             "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_left"
@@ -183,7 +193,7 @@
 
         "packTxt":
         {
-            "text" : "Closed-Beta Build: -0.0.7.2",
+            "text" : "Closed-Beta Build: -0.0.7.2-",
             "posX" : -250,
             "posY" : 10,
             "color" : -1,
@@ -199,7 +209,7 @@
             "posY" : 34,
             "color" : 10352115,
             "alignment" : "top_left",
-            "texts" : "file:custommainmenu:texts/uncle_splash.txt"
+            "texts" : "file:custommainmenu:texts/uncle_splash_disabled.txt"
         },
         
         "background":

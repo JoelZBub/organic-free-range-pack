@@ -4164,7 +4164,7 @@ animania.cfg
 capsule/prefabs/
 	deleted all prefab content
 CustomMainMenu/mainmenu.json
-	adjust button size and location
+	adjust button size, location and color
 defaultoptions/keybindings.txt
 	extensive keybind rework	
 mist.cfg
@@ -4195,7 +4195,7 @@ recipesMachines/minecraft/brewingstand.zs
 
 -- Asset Changes --
 -------------------
-
+added main menu assets
 
 -- Other Changes --
 ------------------- 
