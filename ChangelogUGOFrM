@@ -4232,6 +4232,8 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Config Changes --
 --------------------
+CustomMainMenu/mainmenu.json
+	changed referral link to pack server link
 deepmoblearning.cfg
 	S:slime <
 		fossil:fossil.tarslime
