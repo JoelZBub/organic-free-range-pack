@@ -1,0 +1,47 @@
+{
+  "data": {
+    "factors": [
+      {
+        "type": "limit",
+        "factor": {
+          "priority": 1.0,
+          "rays": [
+            {
+              "type": "dynpos",
+              "ray": {
+                "type": "bedrock"
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": 170
+              }
+            },
+            {
+              "type": "matcher",
+              "ray": {
+                "up": false,
+                "requiredRatio": 0.7029703,
+                "destExpression": "blocks:movement"
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": 0,
+                "weight": 0.9309369
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Place TendrilWarts on Tendrils ",
+    "description": [
+      "Places TendrilWarts between 30Y \u0026 170Y"
+    ]
+  }
+}
