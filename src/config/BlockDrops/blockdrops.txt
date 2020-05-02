@@ -9200,36 +9200,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "rats:garbage_pile",
-    "meta": 0,
-    "length": 1,
-    "name0": "rats:plastic_waste",
-    "meta0": 0,
-    "0chance0": 33.875,
-    "1chance0": 33.274998,
-    "2chance0": 34.45,
-    "3chance0": 33.899998,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "rats:marbled_cheese_grass",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dirt",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
     "name": "mist:acacia_trunk",
     "meta": 0,
     "length": 2,
@@ -11183,5 +11153,35 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 24\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 36\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}"
+  },
+  {
+    "name": "rats:garbage_pile",
+    "meta": 0,
+    "length": 1,
+    "name0": "rats:plastic_waste",
+    "meta0": 0,
+    "0chance0": 33.675,
+    "1chance0": 33.975,
+    "2chance0": 32.45,
+    "3chance0": 32.600002,
+    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "rats:marbled_cheese_grass",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:dirt",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 100.0,
+    "2chance0": 100.0,
+    "3chance0": 100.0,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   }
 ]

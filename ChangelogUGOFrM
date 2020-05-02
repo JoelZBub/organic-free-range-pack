@@ -4224,8 +4224,10 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Updated Mods --
 -------------------
+Aethenaeum (1.17.4 to 1.18.0)
 Content Creator Integration (1.4.3 to 1.4.4)
 Misty World (1.2.4.4 to 1.2.4.5)
+Rats (3.2.9 to 3.2.10)
 Xaero's Minimap (20.7.1 to 20.9.0)
 ZAWA (2.0.32 to 2.0.35)
 
@@ -4240,10 +4242,17 @@ CustomMainMenu/mainmenu.json
 deepmoblearning.cfg
 	S:slime <
 		fossil:fossil.tarslime
+dragonmounts
+	worldgen
+		B:canSpawnNetherNest=false
+		I:"Water Nest Rarity"=18000 [default=180]
 reccomplex
 	balancing
 		 S:spawnTweaks
 		 	added nether structure tweaks
+ZooAndWildAnimalsRebuilt1.12.2-2.0.35
+	transferred all 2.0.32 settings to new configs
+
 
 -- Script Changes --
 --------------------
@@ -4266,3 +4275,4 @@ Changed Fart Gen localized name to try to fix confusion with AIM
 ------------------- 
 reccomplex
 	Added all nether structures 
+	Added water dragon nests

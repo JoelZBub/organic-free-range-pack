@@ -1,0 +1,48 @@
+{
+  "data": {
+    "factors": [
+      {
+        "type": "limit",
+        "factor": {
+          "priority": 1.0,
+          "rays": [
+            {
+              "type": "dynpos",
+              "ray": {
+                "type": "bedrock"
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": 120
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": -80,
+                "weight": 0.9309369
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "match",
+        "factor": {
+          "priority": 1.0,
+          "sourceExpression": "dirt",
+          "destExpression": "air",
+          "requiredConformity": 0.6008584
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Floating",
+    "description": [
+      "Floating between 80y and 120y"
+    ]
+  }
+}
