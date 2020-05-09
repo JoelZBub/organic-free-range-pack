@@ -4216,6 +4216,8 @@ reccomplex
 -- Mod Freezes --
 -----------------
 LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+Misty World 1.2.4.4  (Client hang with 1.2.4.5)
+	TEST THIS AGAIN
 
 
 -- Added Mods --
@@ -4226,7 +4228,6 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 -------------------
 Aethenaeum (1.17.4 to 1.18.0)
 Content Creator Integration (1.4.3 to 1.4.4)
-Misty World (1.2.4.4 to 1.2.4.5)
 Rats (3.2.9 to 3.2.10)
 Xaero's Minimap (20.7.1 to 20.9.0)
 ZAWA (2.0.32 to 2.0.35)
@@ -4239,6 +4240,7 @@ ZAWA (2.0.32 to 2.0.35)
 --------------------
 CustomMainMenu/mainmenu.json
 	changed referral link to pack server link
+	changed version number - 0.0.8.0
 deepmoblearning.cfg
 	S:slime <
 		fossil:fossil.tarslime
@@ -4250,6 +4252,8 @@ reccomplex
 	balancing
 		 S:spawnTweaks
 		 	added nether structure tweaks
+topography.txt
+	added new image to preset
 ZooAndWildAnimalsRebuilt1.12.2-2.0.35
 	transferred all 2.0.32 settings to new configs
 
@@ -4269,10 +4273,101 @@ recipesCrafting/mods/simplemobradar.zs
 Replaced default Netherrack texture with 1.15 texture
 Added custom texture for Nether Dimensional Share Ore to match changed netherrack texture
 Changed Fart Gen localized name to try to fix confusion with AIM
-
+Added background screen for topography Uncle Genny's world type
 
 -- Other Changes --
 ------------------- 
 reccomplex
 	Added all nether structures 
 	Added water dragon nests
+
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of May 3-9, 2020
+        Build Name / Splash Screen = SO freaking close - 0.0.8.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+
+
+-- Added Mods --
+----------------
+NetherPortalFix (by BlayTheNinth)
+
+-- Updated Mods --
+-------------------
+Cannibalism (5.6.4 to 5.6.5)
+Content Creator Integration (1.4.4 to 1.4.5)
+GameStages (2.0.119 to 2.0.123)
+Inventory Pets (2.0.4 to 2.0.5)
+Misty World (1.2.4.4 to 1.2.4.5 to 1.2.4.6)
+Path Under Gates (2.1.0 to 2.2.0)
+ZenStages (0.4.1-19 to 0.4.2)
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+CustomMainMenu/
+	mainmenu.json
+		new menu configs
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+new Main Menu background, logo, image, buttons
+
+
+-- Other Changes --
+------------------- 
+updated atumFossilLibrary with correct loot
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of May 10-16, 2020
+        Build Name / Splash Screen = SO freaking close - 0.0.8.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Other Changes --
+------------------- 

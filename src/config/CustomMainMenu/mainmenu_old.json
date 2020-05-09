@@ -1,0 +1,221 @@
+{  
+    "images":
+    {
+        "gamma":
+        {
+            "image" : "custommainmenu:textures/gui/gamma.png",
+            "posX" : 10,
+            "posY" : 0,
+            "width" : 300,
+            "height" : 1080,
+            "alignment" : "top_left"
+        },
+
+        "logo":
+        {
+            "image" : "custommainmenu:textures/gui/logo.png",
+            "posX" : 20,
+            "posY" : 16,
+            "width" : 280,
+            "height" : 101,
+            "alignment" : "top_left"
+        }        
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "normalTextColor" : 10352115,
+            "posX" : 20,
+            "posY" : 128,
+            "width" : 125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "normalTextColor" : 10352115,
+            "posX" : 150,
+            "posY" : 128,
+            "width" : 125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 20,
+            "posY" : 154,
+            "width" : 125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 150,
+            "posY" : 154,
+            "width" : 125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "twitch":
+        {
+            "text" : "Watch Generikb",
+            "hoverText" : "twitch.tv/generikb",                       
+            "posX" : 20,
+            "posY" : 178,
+            "width" :125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.twitch.tv/generikb"
+            }  
+        },
+
+         "server":
+        {
+            "text" : "Get a Server",
+            "hoverText" : "cubedhost.com/unclegennys",                       
+            "posX" : 150,
+            "posY" : 178,
+            "width" :125,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://cubedhost.com/unclegennys"
+            }  
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+            "normalTextColor" : 10352115,
+            "posX" : 95,
+            "posY" : 206,
+            "width" : 107,
+            "height" : 20,
+            "height" : 18,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 280,
+            "posY" : 154,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 280,
+            "posY" : 128,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "top_left",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "posX" : -200,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 20,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "packTxt":
+        {
+            "text" : "Closed-Beta Build: -0.0.8.0-",
+            "posX" : -250,
+            "posY" : 10,
+            "color" : -1,
+            "alignment" : "top_right"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 80,
+            "posY" : 34,
+            "color" : 10352115,
+            "alignment" : "top_left",
+            "texts" : "file:custommainmenu:texts/uncle_splash_disabled.txt"
+        },
+        
+        "background":
+        {
+            "image" : "custommainmenu:scrn/temptitle.jpg",
+            "mode" : "fill"
+        }
+    }
+}

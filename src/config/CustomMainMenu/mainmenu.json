@@ -1,38 +1,48 @@
 {  
     "images":
     {
-        "gamma":
+        "hermit":
         {
-            "image" : "custommainmenu:textures/gui/gamma.png",
-            "posX" : 10,
-            "posY" : 0,
-            "width" : 300,
-            "height" : 1080,
-            "alignment" : "top_left"
+            "image" : "custommainmenu:textures/gui/hermit.png",
+            "posX" : -785,
+            "posY" : 3,
+            "width" : 906,
+            "height" : 800,
+            "alignment" : "top_center"
+        },
+
+        "booger":
+        {
+            "image" : "custommainmenu:textures/gui/booger.png",
+            "posX" : -900,
+            "posY" : -540,
+            "width" : 960,
+            "height" : 540,
+            "alignment" : "bottom_right"
         },
 
         "logo":
         {
             "image" : "custommainmenu:textures/gui/logo.png",
-            "posX" : 20,
-            "posY" : 16,
-            "width" : 280,
-            "height" : 101,
-            "alignment" : "top_left"
-        }        
+            "posX" : -190,
+            "posY" : 0,
+            "width" : 410,
+            "height" : 258,
+            "alignment" : "c1"
+        }         
     },
 
     "buttons":
     {
         "singleplayer":
         {
-            "text" : "menu.singleplayer",
-            "normalTextColor" : 10352115,
-            "posX" : 20,
-            "posY" : 128,
-            "width" : 125,
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/singleplayer.png",
+            "posX" : -120,
+            "posY" : -234,
+            "width" : 117,
             "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
             "action" : 
             {
                 "type" : "openGui",
@@ -42,13 +52,13 @@
         
         "multiplayer":
         {
-            "text" : "menu.multiplayer",
-            "normalTextColor" : 10352115,
-            "posX" : 150,
-            "posY" : 128,
-            "width" : 125,
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/multiplayer.png",
+            "posX" : -113,
+            "posY" : -211,
+            "width" : 110,
             "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
             "action" : 
             {
                 "type" : "openGui",
@@ -58,12 +68,13 @@
             
         "options":
         {
-            "text" : "menu.options",
-            "posX" : 20,
-            "posY" : 154,
-            "width" : 125,
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/options.png",
+            "posX" : -75,
+            "posY" : -180,
+            "width" : 71,
             "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
             "action" : 
             {
                 "type" : "openGui",
@@ -73,12 +84,13 @@
         
         "mods":
         {
-            "text" : "fml.menu.mods",
-            "posX" : 150,
-            "posY" : 154,
-            "width" : 125,
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/mods.png",
+            "posX" : -51,
+            "posY" : -157,
+            "width" : 47,
             "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
             "action" : 
             {
                 "type" : "openGui",
@@ -86,31 +98,18 @@
             }
         },
 
-        "twitch":
+        "server":
         {
-            "text" : "Watch Generikb",
-            "hoverText" : "twitch.tv/generikb",                       
-            "posX" : 20,
-            "posY" : 178,
-            "width" :125,
+            "text" : "",
+            "hoverText" : "Go to https://cubedhost.com/unclegennys",
+            "hoverTextColor" : 10352115,
+            "textOffsetY" : -14,
+            "texture" : "custommainmenu:textures/gui/server.png",                       
+            "posX" : -260,
+            "posY" : -126,
+            "width" :257,
             "height" : 18,
-            "alignment" : "top_left",
-            "action" :
-            {
-                "type" : "openLink",
-                "link" : "https://www.twitch.tv/generikb"
-            }  
-        },
-
-         "server":
-        {
-            "text" : "Get a Server",
-            "hoverText" : "cubedhost.com/unclegennys",                       
-            "posX" : 150,
-            "posY" : 178,
-            "width" :125,
-            "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
             "action" :
             {
                 "type" : "openLink",
@@ -118,45 +117,52 @@
             }  
         },
 
+        "twitch":
+        {
+            "text" : "",
+            "hoverText" : "Go to https://www.twitch.tv/generikb",
+            "hoverTextColor" : 10352115,
+            "textOffsetY" : 14,
+            "texture" : "custommainmenu:textures/gui/twitch.png",                       
+            "posX" : -179,
+            "posY" : -103,
+            "width" : 176,
+            "height" : 18,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.twitch.tv/generikb"
+            }  
+        },
+
+         
+
         "quit":
         {
-            "text" : "menu.quit",
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/quit.png",
             "normalTextColor" : 10352115,
-            "posX" : 95,
-            "posY" : 206,
-            "width" : 107,
-            "height" : 20,
+            "posX" : -94,
+            "posY" : -70,
+            "width" : 90,
             "height" : 18,
-            "alignment" : "top_left",
+            "alignment" : "bottom_right",
+            "tooltip": "Take care. Brush your hair. I'll see ya when I see ya. Peace!",
             "action" : 
             {
                 "type" : "quit"
             }
         },
         
-        "language":
-        {
-            "text" : "",
-            "posX" : 280,
-            "posY" : 154,
-            "width" : 20,
-            "height" : 20,
-            "alignment" : "top_left",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
         "refresh":
         {
             "text" : "",
-            "posX" : 280,
-            "posY" : 128,
+            "posX" : -25,
+            "posY" : 5,
             "width" : 20,
             "height" : 20,
-            "alignment" : "top_left",
+            "alignment" : "top_right",
             "texture" : "custommainmenu:textures/gui/buttons.png",
             "action" : 
             {
@@ -169,35 +175,58 @@
     {
         "mojang":
         {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
-            "posX" : -200,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
-        
-        "fml":
-        {
-            "text" : "",
-            "posX" : 20,
-            "posY" : -40,
-            "color" : -1,
-            "alignment" : "bottom_left"
+            "text" : "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : -413,
+            "posY" : -13,
+            "color" : -256,
+            "alignment" : "bottom_right"
         },
 
         "packTxt":
         {
-            "text" : "Closed-Beta Build: -0.0.7.2-",
-            "posX" : -250,
-            "posY" : 10,
-            "color" : -1,
-            "alignment" : "top_right"
+            "text" : "Closed-Beta Build: RELEASE CANDIDATE-0.1-build-1",
+            "posX" : -258,
+            "posY" : -23,
+            "color" : -256,
+            "alignment" : "bottom_right"
+        },
+
+        "ely":
+        {
+            "text" : "Music by Elybeatmaker used with permission.",
+            "posX" : -225,
+            "posY" : -33,
+            "color" : 10352115,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/user/ElyBeatmaker"
+            }
+        },
+
+        "modcounts":
+        {
+            "text" : "#modsloaded# Mods loaded, #modsactive# Mods active.",
+            "posX" : -176,
+            "posY" : -43,
+            "color" : -256,
+            "alignment" : "bottom_right"
+        }
+    },
+
+     "alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.01
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.0,
+            "factorHeight" : 0.16
         }
     },
     
@@ -207,15 +236,16 @@
         {
             "posX" : 80,
             "posY" : 34,
-            "color" : 10352115,
+            "color" : -256,
             "alignment" : "top_left",
-            "texts" : "file:custommainmenu:texts/uncle_splash_disabled.txt"
+            "texts" : "file:custommainmenu:texts/uncle_splash_.txt"
         },
-        
+
         "background":
         {
-            "image" : "custommainmenu:scrn/temptitle.jpg",
+            "image" : "custommainmenu:scrn/background.png",
             "mode" : "fill"
         }
+
     }
 }
