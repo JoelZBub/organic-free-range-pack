@@ -456,7 +456,6 @@
         "hostile": true
     },
     "minecraft:silverfish": {
-        "action": "silverfish",
         "health": 8,
         "hostile": true
     },

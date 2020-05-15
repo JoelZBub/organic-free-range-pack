@@ -4350,6 +4350,14 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Updated Mods --
 -------------------
+Cavern II (2.2.0 to 2.2.1)
+Corpse (1.0.6 to 1.0.7)
+CraftPresence (1.6.1 to 1.6.5)
+Cyclops Core (1.6.3 to 1.6.4)
+Integrated Dynamics (1.1.5 to 1.1.6)
+Rats (3.2.10 to 3.2.11)
+Soviet Era Mod (0.4.0.15 to 0.4-b26)
+Unique Enchantments (1.8 to 1.9)
 
 
 --- Removed Mods ---
@@ -4358,14 +4366,20 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Config Changes --
 --------------------
+Metamorph/morphs.json
+	Removed silverfish action due to it's ability to delete inventories
 
 
 -- Script Changes --
 --------------------
-
+itemModifiers/tooltips.zs
+	Moved some Soviet name information to tooltips
+jei/itemBlacklist.cfg
+	
 
 -- Asset Changes --
 -------------------
+Soviet Era Mod lang file
 
 
 
