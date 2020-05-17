@@ -1,0 +1,30 @@
+
+//This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
+
+//Set icon item
+setIcon(<soviet:item_red_banner>)
+
+//Set title String
+setTitle("Back To The Lab")
+
+//Set description String
+setDescription("There's Something Hidden In the Depths of the Mists.")
+
+//Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
+setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(-108,-108)
+
+//Adds a single criteria. 
+criteria = addCriteria("entersMists", "triumph:completed_advancement")
+criteria.setAdvancement("mist:story/second_breath")
+
+//function
+setRewardFunction("triumph:soviet")

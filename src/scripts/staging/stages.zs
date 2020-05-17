@@ -11,7 +11,8 @@ import scripts.utils.toCamelCase;
 global stages as Stage[string] = {};
 
 var stageNames as string[] = [
-	"gadget"
+	"gadget",
+	"soviet"
 ];
 
 for stageName in stageNames {
