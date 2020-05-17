@@ -12,7 +12,8 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<storagenetwork:master:0>,
-	<storagenetwork:remote:3>
+	<storagenetwork:remote:3>,
+	<storagenetwork:remote:1>
 ];
 
 /*
@@ -49,13 +50,24 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<storagenetwork:remote:3> : {
 		"storagenetwork_remote3" : [
 			[
-	  			[<ore:slimeball:0>, <minecraft:glowstone:0>, <ore:slimeball:0>],
+	  			[<ore:slimeball>, <minecraft:glowstone:0>, <ore:slimeball>],
                 [<minecraft:gold_ingot:0>, <storagenetwork:master:0>, <minecraft:gold_ingot:0>], 
                 [<ore:slimeball>, null, <ore:slimeball>]
 
 			]
 		]
+	},
+	<storagenetwork:remote:1> : {
+		"storagenetwork_remote_1" : [
+			[
+	  			[<minecraft:ender_pearl>, <minecraft:blaze_rod>, <minecraft:ender_pearl>],
+                [<minecraft:purpur_block>, <minecraft:nether_star>, <minecraft:purpur_block>], 
+                [<minecraft:ender_pearl>, <mist:niobium_ingot>, <minecraft:ender_pearl>]
+
+			]
+		]
 	}
+
 };
 
 

@@ -13,7 +13,8 @@ static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<rftools:coalgenerator:0>,
 	<rftools:endergenic:0>,
-	<rftools:storage_scanner:0>
+	<rftools:storage_scanner:0>,
+	<rftools:storage_module_tablet>
 ];
 
 /*
@@ -71,6 +72,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<minecraft:redstone_torch:0>, <minecraft:ender_pearl:0>, <minecraft:redstone_torch:0>],
 	   			[<tropicraft:coral:2>, <rftools:machine_frame:0>, <tropicraft:coral:2>],
 	  			[<minecraft:redstone_torch:0>, <minecraft:ender_pearl:0>, <minecraft:redstone_torch:0>]
+			]
+		]
+	},	
+	<rftools:storage_module_tablet> : {
+		"rftools_storage_module_tablet" : [
+			[
+	  			[<minecraft:quartz>, <minecraft:emerald>, <minecraft:quartz>],
+	   			[<minecraft:redstone_block>, <mist:niobium_ingot>, <minecraft:redstone_block>],
+	  			[<minecraft:quartz>, <minecraft:redstone_block>, <minecraft:quartz>]
 			]
 		]
 	}	
