@@ -16,7 +16,7 @@ static netItems as IItemStack[] = [
 ];
 
 for item in netItems {
-	item.addTooltip(format.gold("Can be used like a net to capture and carry mobs."));
+	item.addTooltip(format.gold("Can be used like a net to capture and carry mobs"));
 }
 
 static bagItems as IItemStack[] = [
@@ -34,7 +34,7 @@ static bagItems as IItemStack[] = [
 ];
 
 for item in bagItems {
-	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack."));
+	item.addTooltip(format.gold("A bag you can carry your stuff in like a backpack"));
 }
 
 static zawaPlush as IItemStack[] = [
@@ -55,7 +55,7 @@ static zawaPlush as IItemStack[] = [
 ];
 
 for item in zawaPlush {
-	item.addTooltip(format.gold("This plush is a available from the Arcade Prize Counter or the Lucky Egg Machine"));
+	item.addTooltip(format.gold("Available from the Arcade Prize Counter or the Lucky Egg Machine"));
 }
 
 
@@ -68,104 +68,104 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 		format.color("String")
 	] */
 	<arcademod:ticket:0>: [
-		format.white("Redeem for Prizes!")
+		format.gold("Redeem for Prizes!")
 	],
 	<cfm:fire_pit_on:0>: [
-		format.white("Place a series of Chopped Logs on the ground and light on fire to create")
+		format.gold("Place a series of Chopped Logs on the ground and light on fire to create")
 	],
 	<erebus:portal_activator:0>: [
-		format.red("If you don't make two, that's your own fault")
+		format.gold("If you don't make two, that's your own fault")
 	],
 	<erebus:portal_activator:0>: [
 		format.red("You need two of these!")
 	],
 	<fossil:fossil:0>: [
-		format.white("Found in the land of Atum")
+		format.gold("Found in the land of Atum")
 	],
 	<fossil:permafrost:0>: [
-		format.white("Found in the depths of Atum")
+		format.gold("Found in the depths of Atum")
 	],
 	<hatchery:manure_block:0>: [
-		format.white("Chicken Manure Dung Caca Poop as a Block")
+		format.gold("Chicken Manure Dung Caca Poop as a Block")
 	],
 	<hatchery:chickenmanure:0>: [
-		format.white("Chicken Manure Dung Caca Poop")
+		format.gold("Chicken Manure Dung Caca Poop")
 	],
 	<hatchery:feeder:0>: [
-		format.white("Chickens need food too")
+		format.gold("Chickens need food too")
 	],
 	<hatchery:fertilized_dirt:0>: [
-		format.white("Just needs a hoe")
+		format.gold("Just needs a hoe")
 	],
 	<inspirations:bookshelf>.withTag({texture: {id: "minecraft:wooden_slab", Count: 1 as byte, Damage: 0 as short}}): [
-		format.white("Bookshelves can be made from any kind of wood slab.")
+		format.gold("Bookshelves can be made from any kind of wood slab")
 	],
 	<minecraft:chicken:0>: [
-		format.white("LUL... Chicken")
+		format.gold("LUL... Chicken")
 	],
 	<minecraft:cooked_chicken:0>: [
-		format.white("What is Chicken?")
+		format.gold("What is Chicken?")
 	],
 	<mist:humus:0>: [
-		format.white("Not the kind made of chick peas and tahini")
+		format.gold("Not the kind made of chick peas and tahini")
 	],
 	<tropicraft:coral:2>: [
-		format.white("Big Braim Energy!")
+		format.gold("Big Braim Energy!")
 	],
 	<yoyos:diamond_yoyo:0>: [
-		format.white("Diamond YoYo")
+		format.gold("Diamond YoYo")
 	],
 	<yoyos:gold_yoyo:0>: [
-		format.white("Gold YoYo")
+		format.gold("Gold YoYo")
 	],
 	<yoyos:iron_yoyo:0>: [
-		format.white("Iron YoYo")
+		format.gold("Iron YoYo")
 	],
 	<yoyos:stone_yoyo:0>: [
-		format.white("Stone YoYo")
+		format.gold("Stone YoYo")
 	],
 	<yoyos:wooden_yoyo:0>: [
-		format.white("Wooden YoYo")
+		format.gold("Wooden YoYo")
 	],
 	<cyberware:surgery:0>: [
-		format.white("A trip into the mists may display this item's use.")
+		format.gold("A trip into the mists may display this item's use")
 	],
 	<fartgen:generator:0>: [
-		format.red("Fart Generator. Need I say more?"),
-		format.white("Different animals provide different RF generation rates.")
+		format.gold("Fart Generator. Need I say more?"),
+		format.gold("Different animals provide different RF generation rates")
 	],
 	<aim:generator:0>: [
-		format.red("Solid Fuel Generator for your AIM system.")
+		format.gold("Solid Fuel Generator for your AIM system")
 	],
 	<soviet:ug_rail_rot>: [
-		format.red("Barrier On Inside")
+		format.gold("Barrier On Inside")
 	],
 	<soviet:ug_rail_rot2>: [
-		format.red("Barrier On Outside")
+		format.gold("Barrier On Outside")
 	],
 	<soviet:ug_rail_rot3>: [
-		format.red("Barrier On Outside")
+		format.gold("Barrier On Outside")
 	],
 	<soviet:ug_rail_rot4>: [
-		format.red("Barrier On Inside")
+		format.gold("Barrier On Inside")
 	],
 	<soviet:ug_rail_diag>: [
-		format.red("Diagonal")
+		format.gold("Diagonal")
 	],
 	<soviet:e>: [
-		format.red("Pronounced the same as 'Yeah'")
+		format.gold("Pronounced the same as 'Yeah'")
 	],
 	<soviet:shc>: [
-		format.red("Pronounced as a longer SH")
+		format.gold("Pronounced as a longer SH")
 	],
 	<soviet:ui>: [
-		format.red("(This letter sounds like the 'i' in 'igloo'")
+		format.gold("This letter sounds like the 'i' in 'igloo'")
 	],
 	<soviet:bi>: [
-		format.red("This Letter only assists in the pronounciation of words, it's not pronounced itself and has no sound.")
+		format.gold("This letter only assists in pronunciation. It's not pronounced & has no sound.")
 	],
 	<soviet:ue>: [
-		format.red("Pronounced as it would be in 'set', 'debt', etc")
+		format.gold("Pronounced as it would be in 'set' or 'debt'")
 	]
 };
 
@@ -175,7 +175,7 @@ static itemShiftTooltipsAdd as IFormattedText[][IItemStack] = {
 		format.color("String")
 	] */
 	<erebus:portal_activator:0>: [
-		format.gold("Seriously, take an extra with you")
+		format.red("Seriously, take an extra with you")
 	]
 };
 

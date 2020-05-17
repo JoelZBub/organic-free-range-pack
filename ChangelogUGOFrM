@@ -4346,14 +4346,17 @@ LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 
 -- Added Mods --
 ----------------
-
+Item Stages (by DarkhaxDev)
 
 -- Updated Mods --
 -------------------
-Cavern II (2.2.0 to 2.2.1)
+Cavern II (2.2.0 to 2.2.1 to 2.2.2 to 2.2.4)
+Content Creator Integration (1.4.5 to 1.4.8)
 Corpse (1.0.6 to 1.0.7)
 CraftPresence (1.6.1 to 1.6.5)
+CraftTweaker (4.1.20.564 to 4.1.20.573 to 4.1.20.574)
 Cyclops Core (1.6.3 to 1.6.4)
+Dropt (1.17.0 to 1.18.0)
 Integrated Dynamics (1.1.5 to 1.1.6)
 Rats (3.2.10 to 3.2.11)
 Soviet Era Mod (0.4.0.15 to 0.4-b26)
@@ -4368,14 +4371,25 @@ Unique Enchantments (1.8 to 1.9)
 --------------------
 Metamorph/morphs.json
 	Removed silverfish action due to it's ability to delete inventories
-
+Triumph
+	root.txt
+		soviet advancement and criteria
+Zawa
+	Removed config folders for 2.0.32 that somehow got committed again.
 
 -- Script Changes --
 --------------------
 itemModifiers/tooltips.zs
 	Moved some Soviet name information to tooltips
+	adjusted text colors to be more unified (gold is for information, red is for imperative)
+	unified punctuation
+	simplified/shortened wording on some tooltips
+	fixed some typos
 jei/itemBlacklist.cfg
-	
+staging/soviet.zs	
+staging/stages.zs
+	added soviet items to stage
+
 
 -- Asset Changes --
 -------------------

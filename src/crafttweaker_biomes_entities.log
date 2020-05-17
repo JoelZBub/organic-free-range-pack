@@ -124,25 +124,25 @@ Biomes:
 -midnight:hilly_vigilant_forest	hilly_vigilant_forest
 -midnight:hilly_fungi_forest	hilly_fungi_forest
 -jeid:error_biome	A mod doesn't support extended biome IDs -- report to JEID
--mist:up_meadow	Meadow
--mist:up_forest	Forest
+-mist:up_cold_lowland	Cold Lowland
 -mist:up_dense_forest	Dense Forest
--mist:up_savanna	Savanna
 -mist:up_desert	Desert
 -mist:up_dunes	Dunes
--mist:up_snowfields	Snowfields
--mist:up_taiga	Taiga
+-mist:up_forest	Forest
 -mist:up_hilly_taiga	Hilly Taiga
--mist:up_swamp	Swampland
--mist:up_swampy_meadow	Swampy Meadow
--mist:up_swampy_forest	Swampy Forest
 -mist:up_jungle	Jungle
 -mist:up_jungle_edge	Jungle Edge
 -mist:up_jungle_hills	Jungle Hills
 -mist:up_lake	Lake
--mist:up_marsh	Marsh
 -mist:up_lowland	Lowland
--mist:up_cold_lowland	Cold Lowland
+-mist:up_marsh	Marsh
+-mist:up_meadow	Meadow
+-mist:up_savanna	Savanna
+-mist:up_snowfields	Snowfields
+-mist:up_swamp	Swampland
+-mist:up_swampy_forest	Swampy Forest
+-mist:up_swampy_meadow	Swampy Meadow
+-mist:up_taiga	Taiga
 -mist:border_plains	Plains Border
 -mist:border_desert	Desert Border
 -mist:border_cold	Cold Border
