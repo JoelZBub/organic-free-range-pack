@@ -4369,8 +4369,12 @@ Unique Enchantments (1.8 to 1.9)
 
 -- Config Changes --
 --------------------
+Forge * 
+	B:logCascadingWorldGeneration=false
 Metamorph/morphs.json
 	Removed silverfish action due to it's ability to delete inventories
+Quark * 
+	B:"Print suppressor"=true
 Triumph
 	root.txt
 		soviet advancement and criteria
