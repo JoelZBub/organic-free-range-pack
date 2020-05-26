@@ -22,7 +22,7 @@ oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:true
-zoom:3
+zoom:2
 mapSize:-1
 entityAmount:1
 chunkGrid:-5
@@ -57,7 +57,7 @@ worldMap:true
 terrainDepth:true
 terrainSlopes:true
 terrainSlopesExperiment:false
-alwaysArrow:false
+mainEntityAs:0
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -77,6 +77,9 @@ entityNametags:false
 minimapTextAlign:0
 showAngles:false
 waypointsMutualEdit:true
+compass:true
+caveMapsDepth:30
+hideWaypointCoordinates:false
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false

@@ -4403,3 +4403,98 @@ Soviet Era Mod lang file
 
 -- Other Changes --
 ------------------- 
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of May 10-16, 2020
+        Build Name / Splash Screen = SO freaking close - 0.0.8.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+Anthenaeum (1.18.0 to 1.18.1)
+Capsule (3.3.7 to 3.3.11)
+Cavern II (2.2.1 to 2.3.0)
+CraftTweaker (4.1.20.573 to 4.1.20.574)
+Dropt (1.17.0 to 1.18.0)
+MrCrayfish's Vehicle Mod (0.43.5 to 0.44.0)
+Xaero's Minimap (20.9.0 to 20.11.0)
+XP From Harvest (1.1.0 to 1.2.0)
+
+
+--- Removed Mods ---
+--------------------
+NoMoreRecipeConflict
+
+
+-- Config Changes --
+--------------------
+COFH/thermalexpansion/common.cfg
+	B:AbyssalCraft=false
+	B:"Actually Additions"=false
+	B:"Applied Energistics 2"=false
+	B:"Astral Sorcery"=false
+	B:"Biomes O' Plenty"=false
+	B:Computronics=false
+	B:"Elemental Dimensions"=false
+	B:EvilCraft=false
+	B:"Extra Alchemy"=false
+	B:"Extra Bees"=false
+	B:"Extra Trees"=false
+	B:"Extra Utilities 2"=false
+	B:"Familiar Fauna"=false
+	B:Forestry=false
+	B:Gendustry=false
+	B:"Gregtech Classic"=false
+	B:"Gregtech Classic Expansion"=false
+	B:"Ice and Fire"=false
+	B:"Immersive Engineering"=false
+	B:"IndustrialCraft 2"=false
+	B:"Magic Bees"=false
+	B:"Mystical Agriculture"=false
+	B:"Mystical Wildlife"=false
+	B:Natura=false
+	B:"Pam's BoneCraft"=false
+	B:"Pam's HarvestCraft"=false
+	B:"Pam's Redbud Tree"=false
+	B:"Pam's Spooky Tree"=false
+	B:Plants=false
+	B:"Primal Core"=false
+	B:Rustic=false
+	B:"Tech Reborn"=false
+	B:Terraqueous=false
+	B:Thaumcraft=false
+	B:"The Betweenlands"=false
+	B:"Tinkers' Construct"=false
+	B:"Twilight Forest"=false
+	B:"Underground Biomes"=false
+JEI/blacklist
+	Hid more items
+recipehandler.cfg	
+	B:"Enable Craft In Creative Inventory"=true
+	B:"Limit Button To Conflict"=true
+
+
+-- Script Changes --
+--------------------
+Added Niobium as crafting component for cross-dimensional inventory acess (SSN & RFTools)
+
+
+-- Asset Changes --
+-------------------
+Generikb overrides Alex
+
+
+-- Other Changes --
+------------------- 

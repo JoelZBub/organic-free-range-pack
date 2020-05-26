@@ -153,21 +153,6 @@
             {
                 "type" : "quit"
             }
-        },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -25,
-            "posY" : 5,
-            "width" : 20,
-            "height" : 20,
-            "alignment" : "top_right",
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
         }
     },
     

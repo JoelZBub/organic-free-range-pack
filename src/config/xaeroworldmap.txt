@@ -14,4 +14,4 @@ compression:false
 coordinates:true
 biomeColorsVanillaMode:false
 waypoints:true
-globalVersion:13
+globalVersion:14
