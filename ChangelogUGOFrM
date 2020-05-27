@@ -4342,7 +4342,7 @@ updated atumFossilLibrary with correct loot
 -- Mod Freezes --
 -----------------
 LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
-
+Soviet Era Mod 0.4.0.15 (update is dumb)
 
 -- Added Mods --
 ----------------
@@ -4354,12 +4354,10 @@ Cavern II (2.2.0 to 2.2.1 to 2.2.2 to 2.2.4)
 Content Creator Integration (1.4.5 to 1.4.8)
 Corpse (1.0.6 to 1.0.7)
 CraftPresence (1.6.1 to 1.6.5)
-CraftTweaker (4.1.20.564 to 4.1.20.573 to 4.1.20.574)
+CraftTweaker (4.1.20.564 to 4.1.20.573)
 Cyclops Core (1.6.3 to 1.6.4)
-Dropt (1.17.0 to 1.18.0)
 Integrated Dynamics (1.1.5 to 1.1.6)
 Rats (3.2.10 to 3.2.11)
-Soviet Era Mod (0.4.0.15 to 0.4-b26)
 Unique Enchantments (1.8 to 1.9)
 
 
@@ -4397,7 +4395,8 @@ staging/stages.zs
 
 -- Asset Changes --
 -------------------
-Soviet Era Mod lang file
+guns mod machine pistol sounds added
+Soviet Mod lang file
 
 
 
@@ -4407,7 +4406,7 @@ Soviet Era Mod lang file
 
 -------------------------------------------------------------------------------  
         Changelog
-        Week of May 10-16, 2020
+        Week of May 24-30, 2020
         Build Name / Splash Screen = SO freaking close - 0.0.8.0
 -------------------------------------------------------------------------------
 
@@ -4425,7 +4424,7 @@ Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 -------------------
 Anthenaeum (1.18.0 to 1.18.1)
 Capsule (3.3.7 to 3.3.11)
-Cavern II (2.2.1 to 2.3.0)
+Cavern II (2.2.4 to 2.3.0)
 CraftTweaker (4.1.20.573 to 4.1.20.574)
 Dropt (1.17.0 to 1.18.0)
 MrCrayfish's Vehicle Mod (0.43.5 to 0.44.0)
@@ -4435,7 +4434,7 @@ XP From Harvest (1.1.0 to 1.2.0)
 
 --- Removed Mods ---
 --------------------
-NoMoreRecipeConflict
+
 
 
 -- Config Changes --
@@ -4494,7 +4493,9 @@ Added Niobium as crafting component for cross-dimensional inventory acess (SSN &
 -- Asset Changes --
 -------------------
 Generikb overrides Alex
-
+barbossa hat item texture
+barbossa hat item model json
 
 -- Other Changes --
 ------------------- 
+bunker structures and biomes

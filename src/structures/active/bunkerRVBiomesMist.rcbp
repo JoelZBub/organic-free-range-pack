@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "biomes": "mist:up_forest | mist:up_lowland | mist:up_meadow | mist:up_savanna | mist:up_snowfields "
+    }
+  ],
+  "metadata": {
+    "title": "RV Biomes Mist",
+    "description": [
+      "Biomes in Misty World for RV Generation"
+    ]
+  }
+}
