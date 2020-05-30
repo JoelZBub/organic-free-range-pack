@@ -2634,7 +2634,7 @@ naturescompass.cfg
      >
 sasit.cfg
 	added entry
-teamreborn/mainmeuscale/config.cfg
+teamreborn/mainmenuscale/config.cfg
 	config
 		I:GUI_SCALE=2 
 
@@ -4407,7 +4407,7 @@ Soviet Mod lang file
 -------------------------------------------------------------------------------  
         Changelog
         Week of May 24-30, 2020
-        Build Name / Splash Screen = SO freaking close - 0.0.8.0
+        Build Name / Splash Screen = OMG, OMG, OMG! - 0.0.8.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -4422,13 +4422,16 @@ Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 -- Updated Mods --
 -------------------
+-Forge- (14.23.5.2847 to 14.23.5.2854)
 Anthenaeum (1.18.0 to 1.18.1)
 Capsule (3.3.7 to 3.3.11)
 Cavern II (2.2.4 to 2.3.0)
 CraftTweaker (4.1.20.573 to 4.1.20.574)
 Dropt (1.17.0 to 1.18.0)
+Inventory Pets (2.0.5 to 2.0.6)
 MrCrayfish's Vehicle Mod (0.43.5 to 0.44.0)
-Xaero's Minimap (20.9.0 to 20.11.0)
+Xaero's Minimap (20.9.0 to 20.11.0 to 20.12.1)
+Xaeroo's World Map (1.5.7 to 1.6.1)
 XP From Harvest (1.1.0 to 1.2.0)
 
 
@@ -4480,6 +4483,8 @@ COFH/thermalexpansion/common.cfg
 	B:"Underground Biomes"=false
 JEI/blacklist
 	Hid more items
+reccomplex.cfg
+	structure tweaks spawn rate adjustments	
 recipehandler.cfg	
 	B:"Enable Craft In Creative Inventory"=true
 	B:"Limit Button To Conflict"=true
@@ -4499,3 +4504,5 @@ barbossa hat item model json
 -- Other Changes --
 ------------------- 
 bunker structures and biomes
+added missing loot to atumFossilMuseum
+removed nestDragonWater1 and 2 from spawning in Misty
