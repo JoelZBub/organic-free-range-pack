@@ -4481,6 +4481,10 @@ COFH/thermalexpansion/common.cfg
 	B:"Tinkers' Construct"=false
 	B:"Twilight Forest"=false
 	B:"Underground Biomes"=false
+fartgen/
+	general.cfg
+		added animania and misty mobs
+	general_backup.cfg -- removed
 JEI/blacklist
 	Hid more items
 reccomplex.cfg

@@ -137,34 +137,34 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<aim:generator:0>: [
 		format.gold("Solid Fuel Generator for your AIM system")
 	],
-	<soviet:ug_rail_rot>: [
+	<soviet:ug_rail_rot:0>: [
 		format.gold("Barrier On Inside")
 	],
 	<soviet:ug_rail_rot2>: [
 		format.gold("Barrier On Outside")
 	],
-	<soviet:ug_rail_rot3>: [
+	<soviet:ug_rail_rot3:0>: [
 		format.gold("Barrier On Outside")
 	],
-	<soviet:ug_rail_rot4>: [
+	<soviet:ug_rail_rot4:0>: [
 		format.gold("Barrier On Inside")
 	],
-	<soviet:ug_rail_diag>: [
+	<soviet:ug_rail_diag:0>: [
 		format.gold("Diagonal")
 	],
-	<soviet:e>: [
+	<soviet:e:0>: [
 		format.gold("Pronounced the same as 'Yeah'")
 	],
-	<soviet:shc>: [
+	<soviet:shc:0>: [
 		format.gold("Pronounced as a longer SH")
 	],
-	<soviet:ui>: [
+	<soviet:ui:0>: [
 		format.gold("This letter sounds like the 'i' in 'igloo'")
 	],
-	<soviet:bi>: [
+	<soviet:b:0i>: [
 		format.gold("This letter only assists in pronunciation. It's not pronounced & has no sound.")
 	],
-	<soviet:ue>: [
+	<soviet:ue:0>: [
 		format.gold("Pronounced as it would be in 'set' or 'debt'")
 	]
 };
