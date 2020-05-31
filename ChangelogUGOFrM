@@ -4510,3 +4510,4 @@ barbossa hat item model json
 bunker structures and biomes
 added missing loot to atumFossilMuseum
 removed nestDragonWater1 and 2 from spawning in Misty
+Added layers to nestDragonWater1 to minimize weird floating effect on hills
