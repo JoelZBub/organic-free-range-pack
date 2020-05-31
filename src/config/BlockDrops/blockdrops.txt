@@ -9040,21 +9040,6 @@
     "3pair0": "{\n  \"left\": 3,\n  \"right\": 3\n}"
   },
   {
-    "name": "rats:garbage_pile",
-    "meta": 0,
-    "length": 1,
-    "name0": "rats:plastic_waste",
-    "meta0": 0,
-    "0chance0": 34.575,
-    "1chance0": 33.5,
-    "2chance0": 33.649998,
-    "3chance0": 32.5,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
     "name": "mist:snow_stairs",
     "meta": 0,
     "length": 1,
@@ -10705,21 +10690,6 @@
     "3pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}"
   },
   {
-    "name": "rats:marbled_cheese_grass",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dirt",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
     "name": "cavern:perverted_log",
     "meta": 1,
     "length": 4,
@@ -11193,5 +11163,35 @@
     "1pair19": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "2pair19": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "3pair19": "{\n  \"left\": 0,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "rats:marbled_cheese_grass",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:dirt",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 100.0,
+    "2chance0": 100.0,
+    "3chance0": 100.0,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "rats:garbage_pile",
+    "meta": 0,
+    "length": 1,
+    "name0": "rats:plastic_waste",
+    "meta0": 0,
+    "0chance0": 32.7,
+    "1chance0": 33.899998,
+    "2chance0": 33.55,
+    "3chance0": 33.55,
+    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   }
 ]

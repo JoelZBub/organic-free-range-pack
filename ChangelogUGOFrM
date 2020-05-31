@@ -4407,11 +4407,12 @@ Soviet Mod lang file
 -------------------------------------------------------------------------------  
         Changelog
         Week of May 24-30, 2020
-        Build Name / Splash Screen = OMG, OMG, OMG! - 0.0.8.0
+        Build Name  = OMG, OMG, OMG! - 0.0.8.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
+CraftTweaker 4.1.20.574 (Release branch)
 LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
 Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
@@ -4427,9 +4428,13 @@ Anthenaeum (1.18.0 to 1.18.1)
 Capsule (3.3.7 to 3.3.11)
 Cavern II (2.2.4 to 2.3.0)
 CraftTweaker (4.1.20.573 to 4.1.20.574)
+Deep Mob Learning (2.5.2 to 2.5.4)
 Dropt (1.17.0 to 1.18.0)
 Inventory Pets (2.0.5 to 2.0.6)
-MrCrayfish's Vehicle Mod (0.43.5 to 0.44.0)
+MrCrayfish's Vehicle Mod (0.43.5 to 0.44.0 to 0.44.1)
+Rats (3.2.11 to 3.2.12)
+Reborn Core (3.19.4.524 to 3.19.4.529)
+Robotic Parts(Cyberware) (0.2.11.23 to 0.2.11.24)
 Xaero's Minimap (20.9.0 to 20.11.0 to 20.12.1)
 Xaero's World Map (1.5.7 to 1.6.1)
 XP From Harvest (1.1.0 to 1.2.0)
@@ -4481,6 +4486,9 @@ COFH/thermalexpansion/common.cfg
 	B:"Tinkers' Construct"=false
 	B:"Twilight Forest"=false
 	B:"Underground Biomes"=false
+custommainmenu.cfg
+	updated version number
+	minor layout change
 fartgen/
 	general.cfg
 		added animania and misty mobs
@@ -4492,7 +4500,15 @@ reccomplex.cfg
 recipehandler.cfg	
 	B:"Enable Craft In Creative Inventory"=true
 	B:"Limit Button To Conflict"=true
-
+ZAWASpawnConfigurations.cfg
+	animaltrader
+		I:"Spawn Chance"=3
+	feedtrader
+		I:"Spawn Chance"=3
+	poacher
+		I:"Spawn Chance"=3
+	zookeeper
+		I:"Spawn Chance"=3
 
 -- Script Changes --
 --------------------
@@ -4511,3 +4527,8 @@ bunker structures and biomes
 added missing loot to atumFossilMuseum
 removed nestDragonWater1 and 2 from spawning in Misty
 Added layers to nestDragonWater1 to minimize weird floating effect on hills
+
+-------------------------------------------------------------------------------
+        Above this line marks all updates included in version 0.0.8.0-Build 237
+        Build Name / Splash Screen =  - April 15, 2020
+-------------------------------------------------------------------------------

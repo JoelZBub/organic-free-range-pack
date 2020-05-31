@@ -161,7 +161,7 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<soviet:ui:0>: [
 		format.gold("This letter sounds like the 'i' in 'igloo'")
 	],
-	<soviet:b:0i>: [
+	<soviet:bi:0>: [
 		format.gold("This letter only assists in pronunciation. It's not pronounced & has no sound.")
 	],
 	<soviet:ue:0>: [
