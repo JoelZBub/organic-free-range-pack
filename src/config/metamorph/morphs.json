@@ -774,5 +774,111 @@
     },
     "mist:sloth": {
         "abilities": ["climb"]
+    },
+    "erebus:erebus.wasp": {
+        "abilities": ["glide"],
+        "attack": "poison"
+    },
+    "erebus:erebus.centipede": {
+        "attack": "poison"
+    },
+    "erebus:erebus.fly": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.mosquito": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.tarantule": {
+        "abilities": ["climb"],
+        "attack": "poison"
+    },
+    "erebus:erebus.bot_fly": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.scorpion": {
+        "abilities": ["climb"],
+        "attack": "poison"
+    },
+    "erebus:erebus.solifuge": {
+        "abilities": ["climb"]
+    },
+    "erebus:erebus.solifuge_small": {
+        "abilities": ["climb"]
+    },
+    "erebus:erebus.grasshopper": {
+        "abilities": ["jumping"],
+        "action": "jump"
+    },
+    "erebus:erebus.locust": {
+        "abilities": ["glide", "jumping"],
+        "action": "jump"
+    },
+    "erebus:erebus.moth": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.rhino_beetle": {
+        "attack": "knockback",
+        "speed": 0.15
+    },
+    "erebus:erebus.black_widow": {
+        "abilities": ["climb"],
+        "attack": "wither"
+    },
+    "erebus:erebus.bombardier_beetle": {
+        "action": "fireball"
+    },
+    "erebus:erebus.scytodes": {
+        "abilities": ["climb"]
+    },
+    "erebus:erebus.money_spider": {
+        "abilities": ["climb"]
+    },
+    "erebus:erebus.praying_mantis": {
+        "action": "jump"
+    },
+    "erebus:erebus.jumping_spider": {
+        "abilities": ["climb"],
+        "attack": "poison",
+        "action": "jump"
+    },
+    "erebus:erebus.fire_ant": {
+        "abilities": ["climb", "fire_proof"],
+        "action": "small_fireball"
+    },
+    "erebus:erebus.worker_bee": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.dragon_fly": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.cicada": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.fire_ant_soldier": {
+        "abilities": ["climb", "fire_proof"],
+        "action": "fireball"
+    },
+    "erebus:erebus.lava_web_spider": {
+        "abilities": ["climb", "fire_proof"],
+        "action": "small_fireball"
+    },
+    "erebus:erebus.midge_swarm": {
+        "abilities": ["glide"]
+    },
+    "erebus:erebus.punchroom": {
+        "abilities": ["jumping"],
+        "attack": "knockback"
+    },
+    "erebus:erebus.tarantula_baby": {
+        "abilities": ["climb"],
+        "attack": "poison"
+    },
+    "erebus:erebus.bog_maw": {
+        "abilities": ["jumping"],
+        "attack": "poison"
+    },
+    "erebus:erebus.magma_crawler": {
+        "abilities": ["fire_proof"],
+        "action": "small_fireball"
     }
 }
