@@ -64,3 +64,18 @@ for item in pvjLogs {
 <ore:stickWood>.remove(<atum:deadwood_stick:0>);
 <ore:stickWood>.remove(<atum:dusty_bone_stick:0>);
 <ore:stickWood>.remove(<atum:palm_stick:0>);
+
+// Misty "Planks"
+<ore:plankWood>.remove(<mist:acacia_step>);
+<ore:plankWood>.remove(<mist:aspen_step>);
+<ore:plankWood>.remove(<mist:a_tree_step>);
+<ore:plankWood>.remove(<mist:birch_step>);
+<ore:plankWood>.remove(<mist:oak_step>);
+<ore:plankWood>.remove(<mist:pine_step>);
+<ore:plankWood>.remove(<mist:poplar_step>);
+<ore:plankWood>.remove(<mist:snow_step>);
+<ore:plankWood>.remove(<mist:spruce_step>);
+<ore:plankWood>.remove(<mist:s_tree_step>);
+<ore:plankWood>.remove(<mist:t_tree_step>);
+<ore:plankWood>.remove(<mist:willow_step>);
+<ore:plankWood>.remove(<mist:r_tree_step>);

@@ -1,6 +1,7 @@
 /*
-	100% Organic Free-Range ZAWA Crafting Table recipes script.
-	This script is for adding and removing ZAWA recipes.
+	100% Organic Free-Range Traverse Crafting Table recipes script.
+	This script is for adding and removing recipes by mod.
+	Rename this script for the mod it's modifying.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -11,21 +12,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<zawa:lion_plush:0>,
-	<zawa:orca_plush:0>,
-	<zawa:turtle_plush:0>,
-	<zawa:platypus_plush:0>,
-	<zawa:gorilla_plush:0>,
-	<zawa:elephant_plush:0>,
-	<zawa:monkey_plush:0>,
-	<zawa:tiger_plush:0>,
-	<zawa:bald_eagle_plush:0>,
-	<zawa:giraffe_plush:0>,
-	<zawa:grizzly_plush:0>,
-	<zawa:moose_plush:0>,
-	<zawa:octopus_plush:0>,
-	<zawa:red_panda_plush:0>,
-	<zawa:steel_bars>
+<traverse:fir_door>
 ];
 
 /*
@@ -33,7 +20,6 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
-	<zawa:ralphiki_book:0>
 ];
 
 
@@ -50,15 +36,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<zawa:steel_bars> : {
-		"zawa_steel_bars" : [
-			[
-	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
-	   			[null, <ore:ingotIron>, null],
-	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]
-			]
-		]
-	}	
 };
 
 
@@ -87,6 +64,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+    <traverse:fir_door> : {
+        "traverse_fir_door" : [
+            [<minecraft:wooden_door:0>, <traverse:fir_planks:0>]
+        ]
+    }
 };
 
 

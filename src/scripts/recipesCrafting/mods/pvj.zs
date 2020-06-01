@@ -36,7 +36,20 @@ static itemRecipeRemoval as IItemStack[] = [
 	<pvj:redwood_boat:0>,
 	<pvj:redwood_trapdoor:0>,
 	<pvj:willow_boat:0>,
-	<pvj:willow_trapdoor:0>
+	<pvj:willow_trapdoor:0>,
+	<pvj:willow_door_item>,
+	<pvj:mangrove_door_item>,
+	<pvj:palm_door_item>,
+	<pvj:redwood_door_item>,
+	<pvj:fir_door_item>,
+	<pvj:pine_door_item>,
+	<pvj:aspen_door_item>,
+	<pvj:maple_door_item>,
+	<pvj:baobab_door_item>,
+	<pvj:cottonwood_door_item>,
+	<pvj:juniper_door_item>,
+	<pvj:cherry_blossom_door_item>,
+	<pvj:jacaranda_door_item>
 ];
 
 /*
@@ -218,7 +231,72 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 		"pvj_willow_trapdoor" : [
 			[<minecraft:trapdoor:0>, <pvj:planks_willow:0>]
 		]
-	}
+	},
+	<pvj:willow_door_item:0> : {
+		"pvj_willow_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_willow:0>]
+		]
+	},
+	<pvj:mangrove_door_item:0> : {
+		"pvj_mangrovw_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_mangrove:0>]
+		]
+	},
+	<pvj:palm_door_item:0> : {
+		"pvj_palm_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_palm:0>]
+		]
+	},
+	<pvj:redwood_door_item:0> : {
+		"pvj_redwood_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_redwood:0>]
+		]
+	},
+	<pvj:fir_door_item:0> : {
+		"pvj_fir_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_fir:0>]
+		]
+	},
+	<pvj:pine_door_item:0> : {
+		"pvj_pine_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_pine:0>]
+		]
+	},
+	<pvj:aspen_door_item:0> : {
+		"pvj_aspen_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_aspen:0>]
+		]
+	},
+	<pvj:maple_door_item:0> : {
+		"pvj_maple_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_maple:0>]
+		]
+	},
+	<pvj:baobab_door_item:0> : {
+		"pvj_baobab_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_baobab:0>]
+		]
+	},
+	<pvj:cottonwood_door_item:0> : {
+		"pvj_cottonwood_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_cottonwood:0>]
+		]
+	},
+	<pvj:juniper_door_item:0> : {
+		"pvj_juniper_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_juniper:0>]
+		]
+	},
+	<pvj:cherry_blossom_door_item:0> : {
+		"pvj_cherry_blossom_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_cherry_blossom:0>]
+		]
+	},
+	<pvj:jacaranda_door_item:0> : {
+		"pvj_jacaranda_door" : [
+			[<minecraft:wooden_door:0>, <pvj:planks_jacaranda:0>]
+		]
+	},
 };
 
 
