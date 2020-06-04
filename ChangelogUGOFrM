@@ -4560,6 +4560,9 @@ Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 -- Config Changes --
 --------------------
+midnight.cfg
+	I:rift_spawn_rarity=1000
+	I:rifter_spawn_rarity=1500
 
 
 -- Script Changes --
