@@ -9,7 +9,7 @@ import crafttweaker.events.IEventManager;
 import crafttweaker.entity.IEntityLivingBase;
 
 
-// Give effect after drinking a drink
+// Give effect after eating a booger
 events.onEntityLivingUseItemFinish(function(event as crafttweaker.event.EntityLivingUseItemEvent.Finish){
 var booger = <contenttweaker:organic_booger:0>;
 	if booger.matches(event.item) {
