@@ -774,6 +774,9 @@
     },
     "mist:sloth": {
         "abilities": ["climb"]
+    },    
+    "mist:barvog": {
+        "attack": "poison"
     },
     "erebus:erebus.wasp": {
         "abilities": ["glide"],
