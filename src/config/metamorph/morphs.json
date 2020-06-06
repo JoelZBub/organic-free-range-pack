@@ -774,6 +774,15 @@
     },
     "mist:sloth": {
         "abilities": ["climb"]
+    },    
+    "mist:barvog": {
+        "attack": "poison"
+    },    
+    "mist:prickler": {
+        "attack": "knockback"
+    },
+    "mist:cyclops": {
+        "attack": "hunger"
     },
     "erebus:erebus.wasp": {
         "abilities": ["glide"],
