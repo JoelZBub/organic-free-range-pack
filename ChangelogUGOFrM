@@ -4536,7 +4536,7 @@ Added layers to nestDragonWater1 to minimize weird floating effect on hills
 -------------------------------------------------------------------------------  
         Changelog
         Week of May 31-June 6, 2020
-        Build Name  = OMG, OMG, OMG! - 0.0.8.0
+        Build Name  = TBD
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -4548,7 +4548,7 @@ Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 -- Added Mods --
 ----------------
-
+Organic Additions 1.0.0 (by SoggyStache) - Added custom jar - not on Curseforge yet
 
 -- Updated Mods --
 -------------------
@@ -4560,10 +4560,14 @@ Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 -- Config Changes --
 --------------------
+metamorph/morphs.json
+    added Erebus mobs
 midnight.cfg
 	I:rift_spawn_rarity=1000
 	I:rifter_spawn_rarity=1500
-
+OrganicAdditions.cfg
+     S:"Booger Eater Phrases" 
+            Meeeee!!
 
 -- Script Changes --
 --------------------
@@ -4582,15 +4586,12 @@ Removed Misty World steps from plank oredict
 
 -------------------------------------------------------------------------------  
         Changelog
-        Week of May 31-June 6, 2020
-        Build Name  = OMG, OMG, OMG! - 0.0.8.0
+        Week of June 7 - 13, 2020
+        Build Name  = TBD
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
-CraftTweaker 4.1.20.574 (Release branch)
-LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
-Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 
 -- Added Mods --
