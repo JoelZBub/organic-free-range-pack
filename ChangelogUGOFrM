@@ -4578,3 +4578,46 @@ Removed Misty World steps from plank oredict
 
 -- Other Changes --
 ------------------- 
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of May 31-June 6, 2020
+        Build Name  = OMG, OMG, OMG! - 0.0.8.0
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+CraftTweaker 4.1.20.574 (Release branch)
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+JEI/itemBlacklist
+	Hid Super Worm from Water Strainer
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+Special custom slime sounds
+
+-- Other Changes --
+------------------- 
