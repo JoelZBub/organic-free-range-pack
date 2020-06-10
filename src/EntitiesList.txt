@@ -1,43 +1,4 @@
-Mods:
-
-Untouched - 
-Better Animals Plus
-Erebus
-Fossil
-Golems/Thermal Golems
-Mechanical Soldiers ?
-Overlord ?
-
-Worked on, but may need health/speed adjustments
-Animania - added abilities
-Atum - added abilities
-Caverns - added abilities
-Cyberware - added abilities
-Deep Mob Learning - added abilities
-Drones - added abilities
-Ender Utilities - added abilities
-Energetic Sheep - N/A
-Fampack - N/A
-Hatchery - added abilities
-Headcrumbs - N/A
-LCRDRFS - added abilities
-Midnight - added abilities
-Minecraft - added abilities
-Mowzie's Mobs - added abilities
-Openblocks - added abilities
-Pirates - N/A
-Project Vibrant Journey - added abilities
-Quark - added abilities
-Random Things - added abilities
-Rats - added abilities*
-Simply Cats - added abilities
-Thermal Foundation - added abilities*
-Tropicraft - added abilities
-Wither Crumbs - added abilities
-
-
-Entities:
-
+Entities List
 animania:buck_alpine -- animania:buck_alpine
 animania:buck_angora -- animania:buck_angora
 animania:buck_chinchilla -- animania:buck_chinchilla
@@ -69,6 +30,7 @@ animania:calf_holstein -- animania:calf_holstein
 animania:calf_jersey -- animania:calf_jersey
 animania:calf_longhorn -- animania:calf_longhorn
 animania:calf_mooshroom -- animania:calf_mooshroom
+animania:cart -- animania:cart
 animania:chick_leghorn -- animania:chick_leghorn
 animania:chick_orpington -- animania:chick_orpington
 animania:chick_plymouth_rock -- animania:chick_plymouth_rock
@@ -189,27 +151,44 @@ animania:sow_large_white -- animania:sow_large_white
 animania:sow_old_spot -- animania:sow_old_spot
 animania:sow_yorkshire -- animania:sow_yorkshire
 animania:stallion_draft -- animania:stallion_draft
+animania:tiller -- animania:tiller
 animania:toad -- animania:toad
-
+animania:wagon -- animania:wagon
+atum:arrow_double_shot_black -- atum.arrowDoubleShotBlack
+atum:arrow_double_shot_white -- atum.arrowDoubleShotWhite
+atum:arrow_explosive -- atum.arrowExplosive
+atum:arrow_fire -- atum.arrowFire
+atum:arrow_poison -- atum.arrowPoison
+atum:arrow_quickdraw -- atum.arrowQuickdraw
+atum:arrow_rain -- atum.arrowRain
+atum:arrow_slowness -- atum.arrowSlowness
+atum:arrow_straight -- atum.arrowStraight
 atum:assassin -- atum.assassin
 atum:barbarian -- atum.barbarian
 atum:bonestorm -- atum.bonestorm
 atum:brigand -- atum.brigand
 atum:camel -- atum.camel
+atum:camel_spit -- atum.camelSpit
 atum:desert_rabbit -- atum.desertRabbit
 atum:desert_wolf -- atum.desertWolf
 atum:forsaken -- atum.forsaken
+atum:heart_of_ra -- atum.heartOfRa
 atum:mummy -- atum.mummy
 atum:nomad -- atum.nomad
 atum:pharaoh -- atum.pharaoh
 atum:scarab -- atum.scarab
+atum:small_bone -- atum.smallBone
 atum:stoneguard -- atum.stoneguard
 atum:stonewarden -- atum.stonewarden
 atum:sunspeaker -- atum.sunspeaker
 atum:tarantula -- atum.tarantula
+atum:tefnuts_call -- atum.tefnutsCall
 atum:warlord -- atum.warlord
 atum:wraith -- atum.wraith
-
+bamboozled:falling_salt_block -- bamboozled.falling_salt_block
+buildinggadgets:blockbuildentity -- LaserGunEntity
+buildinggadgets:constructionblockentity -- ConstructionBlockEntity
+cavern:beam -- Beam
 cavern:caveman -- Caveman
 cavern:cavenic_bear -- CavenicBear
 cavern:cavenic_creeper -- CavenicCreeper
@@ -221,27 +200,44 @@ cavern:crazy_creeper -- CrazyCreeper
 cavern:crazy_skeleton -- CrazySkeleton
 cavern:crazy_spider -- CrazySpider
 cavern:crazy_zombie -- CrazyZombie
+cavern:crystal_turret -- CrystalTurret
+cavern:durang_hog -- DurangHog
+cavern:magic_torcher -- MagicTorcher
+cavern:sky_seeker -- SkySeeker
 cavern:squid -- Squid
 cavern:summon_cavenic_skeleton -- CavenicSkeleton
 cavern:summon_cavenic_zombie -- CavenicZombie
 cavern:summon_skeleton -- Skeleton
 cavern:summon_zombie -- Zombie
-
+clumps:xp_orb_big -- xp_orb_big
 cyberware:cyberzombie -- cyberzombie
-
+cyclicmagic:boomerang -- cyclicmagic.boomerang
+cyclicmagic:ender_eye_orb -- cyclicmagic.ender_eye_orb
+cyclicmagic:lightningbolt -- cyclicmagic.lightningbolt
+cyclicmagic:magicnetempty -- cyclicmagic.magicnetempty
+cyclicmagic:magicnetfull -- cyclicmagic.magicnetfull
+cyclicmagic:torchbolt -- cyclicmagic.torchbolt
+cyclicmagic:woolbolt -- cyclicmagic.woolbolt
+davincisvessels:parachute -- parachute
+davincisvessels:seat -- attachment.seat
+davincisvessels:ship -- shipmod
 deepmoblearning:glitch -- deepmoblearning.glitch
+deepmoblearning:glitch_orb -- deepmoblearning.glitch_orb
+deepmoblearning:item_glitch_fragment -- deepmoblearning.item_glitch_fragment
 deepmoblearning:trial_cave_spider -- deepmoblearning.trial_cave_spider
 deepmoblearning:trial_enderman -- deepmoblearning.trial_enderman
 deepmoblearning:trial_slime -- deepmoblearning.trial_slime
 deepmoblearning:trial_spider -- deepmoblearning.trial_spider
-
 drones:drones.drone -- drones.drone
+drones:drones.laser -- drones.laser
 drones:drones.player_drone -- drones.player_drone
-
+drones:drones.saw_blade -- drones.saw_blade
+enderutilities:chair -- enderutilities.chair
+enderutilities:enderarrow -- enderutilities.enderarrow
 enderutilities:endermanfighter -- enderutilities.endermanfighter
-
+enderutilities:enderpearlreusable -- enderutilities.enderpearlreusable
+enderutilities:fallingblock -- enderutilities.fallingblock
 energeticsheep:energetic_sheep -- energeticsheep.energetic_sheep
-
 erebus:erebus.animated_bamboo_crate -- erebus.animated_bamboo_crate
 erebus:erebus.animated_block -- erebus.animated_block
 erebus:erebus.animated_chest -- erebus.animated_chest
@@ -266,9 +262,12 @@ erebus:erebus.crushroom -- erebus.crushroom
 erebus:erebus.dragon_fly -- erebus.dragon_fly
 erebus:erebus.fire_ant -- erebus.fire_ant
 erebus:erebus.fire_ant_soldier -- erebus.fire_ant_soldier
+erebus:erebus.fire_resistent_item -- erebus.fire_resistent_item
 erebus:erebus.fly -- erebus.fly
 erebus:erebus.fungal_weevil -- erebus.fungal_weevil
+erebus:erebus.gas_vent -- erebus.gas_vent
 erebus:erebus.glow_worm -- erebus.glow_worm
+erebus:erebus.goo_ball -- erebus.goo_ball
 erebus:erebus.grasshopper -- erebus.grasshopper
 erebus:erebus.honey_pot_ant -- erebus.honey_pot_ant
 erebus:erebus.jumping_spider -- erebus.jumping_spider
@@ -279,30 +278,37 @@ erebus:erebus.midge_swarm -- erebus.midge_swarm
 erebus:erebus.money_spider -- erebus.money_spider
 erebus:erebus.mosquito -- erebus.mosquito
 erebus:erebus.moth -- erebus.moth
+erebus:erebus.mucus_bomb_primed -- erebus.mucus_bomb_primed
+erebus:erebus.poison_jet -- erebus.poison_jet
 erebus:erebus.pond_skater -- erebus.pond_skater
 erebus:erebus.praying_mantis -- erebus.praying_mantis
+erebus:erebus.preserved_block -- erebus.preserved_block
 erebus:erebus.punchroom -- erebus.punchroom
 erebus:erebus.rhino_beetle -- erebus.rhino_beetle
 erebus:erebus.scorpion -- erebus.scorpion
 erebus:erebus.scytodes -- erebus.scytodes
 erebus:erebus.solifuge -- erebus.solifuge
 erebus:erebus.solifuge_small -- erebus.solifuge_small
+erebus:erebus.spore_ball -- erebus.spore_ball
 erebus:erebus.stag_beetle -- erebus.stag_beetle
 erebus:erebus.tarantula -- erebus.tarantula
 erebus:erebus.tarantula_baby -- erebus.tarantula_baby
+erebus:erebus.tarantula_egg -- erebus.tarantula_egg
 erebus:erebus.tarantula_mini_boss -- erebus.tarantula_mini_boss
+erebus:erebus.thrown_sand -- erebus.thrown_sand
 erebus:erebus.titan_beetle -- erebus.titan_beetle
 erebus:erebus.umber_golem -- erebus.umber_golem
 erebus:erebus.umber_golem_idol -- erebus.umber_golem_idol
 erebus:erebus.velvet_worm -- erebus.velvet_worm
 erebus:erebus.wasp -- erebus.wasp
+erebus:erebus.wasp_dagger -- erebus.wasp_dagger
+erebus:erebus.web_sling -- erebus.web_sling
 erebus:erebus.woodlouse -- erebus.woodlouse
+erebus:erebus.woodlouse_ball -- erebus.woodlouse_ball
 erebus:erebus.worker_bee -- erebus.worker_bee
 erebus:erebus.zombie_ant -- erebus.zombie_ant
 erebus:erebus.zombie_ant_soldier -- erebus.zombie_ant_soldier
-
 fampack:elwms -- fampack:elwms
-
 fossil:fossil.alligator_gar -- fossil.alligator_gar
 fossil:fossil.allosaurus -- fossil.allosaurus
 fossil:fossil.ancient_javelin -- fossil.ancient_javelin
@@ -321,10 +327,12 @@ fossil:fossil.compsognathus -- fossil.compsognathus
 fossil:fossil.confuciusornis -- fossil.confuciusornis
 fossil:fossil.crassigyrinus -- fossil.crassigyrinus
 fossil:fossil.debugtest -- fossil.debugtest
+fossil:fossil.debugtest_2 -- fossil.debugtest_2
 fossil:fossil.deinonychus -- fossil.deinonychus
 fossil:fossil.dilophosaurus -- fossil.dilophosaurus
 fossil:fossil.dinoegg -- fossil.dinoegg
 fossil:fossil.diplocaulus -- fossil.diplocaulus
+fossil:fossil.diplodocus -- fossil.diplodocus
 fossil:fossil.dodo -- fossil.dodo
 fossil:fossil.dryosaurus -- fossil.dryosaurus
 fossil:fossil.edaphosaurus -- fossil.edaphosaurus
@@ -346,6 +354,7 @@ fossil:fossil.megalograptus -- fossil.megalograptus
 fossil:fossil.meganeura -- fossil.meganeura
 fossil:fossil.mosasaurus -- fossil.mosasaurus
 fossil:fossil.nautilus -- fossil.nautilus
+fossil:fossil.ornitholestes -- fossil.ornitholestes
 fossil:fossil.pachycephalosaurus -- fossil.pachycephalosaurus
 fossil:fossil.parasaurolophus -- fossil.parasaurolophus
 fossil:fossil.phorusrhacos -- fossil.phorusrhacos
@@ -358,16 +367,18 @@ fossil:fossil.sentrypigman -- fossil.sentrypigman
 fossil:fossil.smilodon -- fossil.smilodon
 fossil:fossil.spinosaurus -- fossil.spinosaurus
 fossil:fossil.stegosaurus -- fossil.stegosaurus
+fossil:fossil.stone_tablet -- fossil.stone_tablet
 fossil:fossil.sturgeon -- fossil.sturgeon
 fossil:fossil.tarslime -- fossil.tarslime
 fossil:fossil.therizinosaurus -- fossil.therizinosaurus
 fossil:fossil.tiktaalik -- fossil.tiktaalik
 fossil:fossil.titanis -- fossil.titanis
+fossil:fossil.toyball -- fossil.toyball
 fossil:fossil.toyscratchingpost -- fossil.toyscratchingpost
+fossil:fossil.toytetheredlog -- fossil.toytetheredlog
 fossil:fossil.triceratops -- fossil.triceratops
 fossil:fossil.tyrannosaurus -- fossil.tyrannosaurus
 fossil:fossil.velociraptor -- fossil.velociraptor
-
 golems:golem_bedrock -- golems.golem_bedrock
 golems:golem_bone -- golems.golem_bone
 golems:golem_bookshelf -- golems.golem_bookshelf
@@ -428,67 +439,110 @@ golems_thermal:golem_signalum_tf -- golems_thermal.golem_signalum_tf
 golems_thermal:golem_silver_tf -- golems_thermal.golem_silver_tf
 golems_thermal:golem_steel_tf -- golems_thermal.golem_steel_tf
 golems_thermal:golem_tin_tf -- golems_thermal.golem_tin_tf
-
 hatchery:roosterentity -- Rooster
-
+hatchery:thrownegg -- HatcheryEgg
 headcrumbs:human -- Human
-
+ichunutil:entity_block -- EntityBlock
+inspirations:arrow -- inspirations.arrow
+integrateddynamics:entityitemtargetted -- entityitemtargetted
 lcrdrfs:creepssile -- lcrdrfs.creepssile
 lcrdrfs:jet_pack_spider -- lcrdrfs.jet_pack_spider
 lcrdrfs:laser_beam -- lcrdrfs.laser_beam
 lcrdrfs:laser_creeper -- lcrdrfs.laser_creeper
 lcrdrfs:robo_dino -- lcrdrfs.robo_dino
-
+lilcritters:bandedpenguin -- lilcritters.bandedpenguin
+lilcritters:boxturtle -- lilcritters.boxturtle
+lilcritters:dwarfcrocodile -- lilcritters.dwarfcrocodile
+lilcritters:opossum -- lilcritters.opossum
+lilcritters:skunk -- lilcritters.skunk
+lilcritters:smallclawedotter -- lilcritters.smallclawedotter
+lilcritters:treesquirrel -- lilcritters.treesquirrel
+lilcritters:tufteddeer -- lilcritters.tufteddeer
 mechsoldiers:mechanical_skeleton -- mechanical_skeleton
-
+metamorph:morph -- Morph
+midnight:bladeshroom_cap -- midnight.bladeshroom_cap
+midnight:cloud -- midnight.cloud
 midnight:crystal_bug -- midnight.crystal_bug
 midnight:deceitful_snapper -- midnight.deceitful_snapper
 midnight:hunter -- midnight.hunter
 midnight:nightstag -- midnight.nightstag
 midnight:nova -- midnight.nova
 midnight:penumbrian -- midnight.penumbrian
+midnight:rift -- midnight.rift
 midnight:rifter -- midnight.rifter
 midnight:skulk -- midnight.skulk
+midnight:spore_bomb -- midnight.spore_bomb
 midnight:stinger -- midnight.stinger
+midnight:thrown_geode -- midnight.thrown_geode
 midnight:tree_hopper -- midnight.tree_hopper
-
+minecraft:area_effect_cloud -- AreaEffectCloud
+minecraft:armor_stand -- ArmorStand
+minecraft:arrow -- Arrow
 minecraft:bat -- Bat
 minecraft:blaze -- Blaze
+minecraft:boat -- Boat
 minecraft:cave_spider -- CaveSpider
+minecraft:chest_minecart -- MinecartChest
 minecraft:chicken -- Chicken
+minecraft:commandblock_minecart -- MinecartCommandBlock
 minecraft:cow -- Cow
 minecraft:creeper -- Creeper
 minecraft:donkey -- Donkey
+minecraft:dragon_fireball -- DragonFireball
+minecraft:egg -- ThrownEgg
 minecraft:elder_guardian -- ElderGuardian
+minecraft:ender_crystal -- EnderCrystal
 minecraft:ender_dragon -- EnderDragon
+minecraft:ender_pearl -- ThrownEnderpearl
 minecraft:enderman -- Enderman
 minecraft:endermite -- Endermite
+minecraft:evocation_fangs -- EvocationFangs
 minecraft:evocation_illager -- EvocationIllager
+minecraft:eye_of_ender_signal -- EyeOfEnderSignal
+minecraft:falling_block -- FallingSand
+minecraft:fireball -- Fireball
+minecraft:fireworks_rocket -- FireworksRocketEntity
+minecraft:furnace_minecart -- MinecartFurnace
 minecraft:ghast -- Ghast
 minecraft:giant -- Giant
 minecraft:guardian -- Guardian
+minecraft:hopper_minecart -- MinecartHopper
 minecraft:horse -- Horse
 minecraft:husk -- Husk
 minecraft:illusion_illager -- IllusionIllager
+minecraft:item -- Item
+minecraft:item_frame -- ItemFrame
+minecraft:leash_knot -- LeashKnot
 minecraft:llama -- Llama
+minecraft:llama_spit -- LlamaSpit
 minecraft:magma_cube -- LavaSlime
+minecraft:minecart -- MinecartRideable
 minecraft:mooshroom -- MushroomCow
 minecraft:mule -- Mule
 minecraft:ocelot -- Ozelot
+minecraft:painting -- Painting
 minecraft:parrot -- Parrot
 minecraft:pig -- Pig
 minecraft:polar_bear -- PolarBear
+minecraft:potion -- ThrownPotion
 minecraft:rabbit -- Rabbit
 minecraft:sheep -- Sheep
 minecraft:shulker -- Shulker
+minecraft:shulker_bullet -- ShulkerBullet
 minecraft:silverfish -- Silverfish
 minecraft:skeleton -- Skeleton
 minecraft:skeleton_horse -- SkeletonHorse
 minecraft:slime -- Slime
+minecraft:small_fireball -- SmallFireball
+minecraft:snowball -- Snowball
 minecraft:snowman -- SnowMan
+minecraft:spawner_minecart -- MinecartSpawner
+minecraft:spectral_arrow -- SpectralArrow
 minecraft:spider -- Spider
 minecraft:squid -- Squid
 minecraft:stray -- Stray
+minecraft:tnt -- PrimedTnt
+minecraft:tnt_minecart -- MinecartTNT
 minecraft:vex -- Vex
 minecraft:villager -- Villager
 minecraft:villager_golem -- VillagerGolem
@@ -496,43 +550,97 @@ minecraft:vindication_illager -- VindicationIllager
 minecraft:witch -- Witch
 minecraft:wither -- WitherBoss
 minecraft:wither_skeleton -- WitherSkeleton
+minecraft:wither_skull -- WitherSkull
 minecraft:wolf -- Wolf
+minecraft:xp_bottle -- ThrownExpBottle
+minecraft:xp_orb -- XPOrb
 minecraft:zombie -- Zombie
 minecraft:zombie_horse -- ZombieHorse
 minecraft:zombie_pigman -- PigZombie
 minecraft:zombie_villager -- ZombieVillager
-
+mist:barvog -- mist.barvog
+mist:brachiodon -- mist.brachiodon
+mist:caravan -- mist.caravan
+mist:cyclops -- mist.cyclops
+mist:desert_fish -- mist.desert_fish
+mist:forest_runner -- mist.forest_runner
+mist:forest_spider -- mist.forest_spider
+mist:galaga -- mist.galaga
+mist:grave_bug -- mist.grave_bug
+mist:horb -- mist.horb
+mist:hulter -- mist.hulter
+mist:momo -- mist.momo
+mist:monk -- mist.monk
+mist:mossling -- mist.mossling
+mist:painting -- mist.painting
+mist:prickler -- mist.prickler
+mist:rubber_ball -- mist.rubber_ball
+mist:sloth -- mist.sloth
+mist:sniff -- mist.sniff
+mist:snow_flea -- mist.snow_flea
+mist:swamp_crab -- mist.swamp_crab
+mist:woodlouse -- mist.woodlouse
+mist:wulder -- mist.wulder
+mowziesmobs:axe_attack -- axe_attack
 mowziesmobs:baby_foliaath -- baby_foliaath
 mowziesmobs:barako -- barako
 mowziesmobs:barakoan_barakoana -- barakoan_barakoana
 mowziesmobs:barakoan_player -- barakoan_player
 mowziesmobs:barakoana -- barakoana
 mowziesmobs:barakoaya -- barakoaya
+mowziesmobs:block_swapper -- block_swapper
+mowziesmobs:boulder -- boulder
+mowziesmobs:dart -- dart
 mowziesmobs:ferrous_wroughtnaut -- ferrous_wroughtnaut
 mowziesmobs:foliaath -- foliaath
 mowziesmobs:frostmaw -- frostmaw
+mowziesmobs:frozen_controller -- frozen_controller
 mowziesmobs:grottol -- grottol
+mowziesmobs:ice_ball -- ice_ball
+mowziesmobs:icebreath -- icebreath
 mowziesmobs:lantern -- lantern
 mowziesmobs:naga -- naga
-
+mowziesmobs:poison_ball -- poison_ball
+mowziesmobs:ring -- ring
+mowziesmobs:solar_beam -- solar_beam
+mowziesmobs:sunstrike -- sunstrike
+openblocks:cartographer -- openblocks.cartographer
+openblocks:glyph -- openblocks.glyph
+openblocks:golden_eye -- openblocks.golden_eye
+openblocks:hang_glider -- openblocks.hang_glider
+openblocks:item_projectile -- openblocks.item_projectile
 openblocks:luggage -- openblocks.luggage
+openblocks:magnet -- openblocks.magnet
 openblocks:mini_me -- openblocks.mini_me
-
+openblocks:mounted_block -- openblocks.mounted_block
+openblocks:player_magnet -- openblocks.player_magnet
+openblocks:xp_orb_no_fly -- openblocks.xp_orb_no_fly
+openmods:block -- Block
+organicadd:boogereater -- organicadd.boogereater
+organicadd:chatbubble -- organicadd.chatbubble
+overlord:custom_xp_orb -- custom_xp_orb
+overlord:milk_bottle -- milk_bottle
 overlord:skeleton_baby -- skeleton_baby
 overlord:skeleton_converted -- skeleton_converted
 overlord:skeleton_curing -- skeleton_curing
 overlord:skeleton_warrior -- skeleton_warrior
-
+pirates:bucket_water -- bucket_water
+pirates:bullet -- bullet
+pirates:cannon_ball -- cannon_ball
 pirates:cursed_pirate -- cursed_pirate
+pirates:dingy -- dingy
+pirates:grapple_hook -- grapple_hook
 pirates:kraken -- kraken
 pirates:mermaid -- mermaid
 pirates:pirate -- pirate
 pirates:pirate_villager -- pirate_villager
+pirates:pulled_block -- pulled_block
 pirates:shark -- shark
-
 pvj:pvj_banshee -- pvj_banshee
 pvj:pvj_beach_starfish -- pvj_beach_starfish
+pvj:pvj_boat -- pvj_boat
 pvj:pvj_clam -- pvj_clam
+pvj:pvj_coconut -- pvj_coconut
 pvj:pvj_coyote -- pvj_coyote
 pvj:pvj_duck -- pvj_duck
 pvj:pvj_firefly -- pvj_firefly
@@ -540,48 +648,107 @@ pvj:pvj_fly -- pvj_fly
 pvj:pvj_ghost -- pvj_ghost
 pvj:pvj_goon -- pvj_goon
 pvj:pvj_grizzly_bear -- pvj_grizzly_bear
+pvj:pvj_icecube -- pvj_icecube
 pvj:pvj_shade -- pvj_shade
 pvj:pvj_skeletal_knight -- pvj_skeletal_knight
 pvj:pvj_small_spider -- pvj_small_spider
 pvj:pvj_snail -- pvj_snail
 pvj:pvj_starfish -- pvj_starfish
 pvj:pvj_watcher -- pvj_watcher
-
 quark:archaeologist -- quark:archaeologist
+quark:arrow_ender -- quark:arrow_ender
+quark:arrow_explosive -- quark:arrow_explosive
+quark:arrow_torch -- quark:arrow_torch
 quark:ashen -- quark:ashen
+quark:chest_passenger -- quark:chest_passenger
+quark:colored_item_frame -- quark:colored_item_frame
 quark:crab -- quark:crab
+quark:dragon_breath_bottle -- quark:dragon_breath_bottle
 quark:dweller -- quark:dweller
+quark:flat_item_frame -- quark:flat_item_frame
 quark:foxhound -- quark:foxhound
 quark:frog -- quark:frog
+quark:glass_item_frame -- quark:glass_item_frame
+quark:gravisand -- quark:gravisand
+quark:leash_knot -- quark:leash_knot
+quark:parrot_egg -- quark:parrot_egg
+quark:pickarang -- quark:pickarang
 quark:pirate -- quark:pirate
+quark:seat -- quark:seat
+quark:soul_powder -- quark:soul_powder
 quark:stoneling -- quark:stoneling
 quark:wraith -- quark:wraith
-
+randomthings:artificialendportal -- artificialEndPortal
+randomthings:eclipsedclock -- eclipsedClock
+randomthings:fallingblockspecial -- fallingBlockSpecial
+randomthings:floofireplace -- flooFirePlace
 randomthings:goldenchicken -- goldenChicken
-
+randomthings:goldenegg -- goldenEgg
+randomthings:playersoul -- playerSoul
+randomthings:projecteditem -- projectedItem
+randomthings:revivecircle -- reviveCircle
+randomthings:spectreilluminator -- spectreIlluminator
+randomthings:spirit -- spirit
+randomthings:thrownweatheregg -- thrownWeatherEgg
+randomthings:timeaccelerator -- timeAccelerator
+randomthings:weathercloud -- weatherCloud
 rats:black_death -- black_death
+rats:cheese_cannonball -- cheese_cannonball
 rats:feral_ratlantean -- feral_ratlantean
 rats:illager_piper -- illager_piper
+rats:laser_beam -- laser_beam
 rats:marbled_cheese_golem -- marbled_cheese_golem
+rats:marbled_cheese_golem_beam -- marbled_cheese_golem_beam
 rats:neo_ratlantean -- neo_ratlantean
+rats:neo_ratlantean_portal -- neo_ratlantean_portal
 rats:pirat -- pirat
+rats:pirat_boat -- pirat_boat
 rats:plague_beast -- plague_beast
 rats:plague_cloud -- plague_cloud
 rats:plague_doctor -- plague_doctor
+rats:plague_shot -- plague_shot
+rats:purifying_liquid -- purifying_liquid
 rats:rat -- rat
 rats:rat_arrow -- rat_arrow
 rats:rat_capture_net -- rat_capture_net
 rats:rat_dragon_fire -- rat_dragon_fire
 rats:ratlantean_flame -- ratlantean_flame
 rats:ratlantean_spirit -- ratlantean_spirit
-
+rats:thrown_block -- thrown_block
+rats:vial_of_sentience -- vial_of_sentience
 simplycats:cat -- Cat
-
+snowrealmagic:snow -- snowrealmagic.snow
+soviet:dsp_panel_1 -- soviet:dsp_panel_1
+soviet:entityredbanner -- soviet:entityredbanner
+soviet:entitywallcarpet -- soviet:entitywallcarpet
+soviet:entitywallpaper -- soviet:entitywallpaper
+soviet:entitywallpaper2 -- soviet:entitywallpaper2
+soviet:entitywallpaper3 -- soviet:entitywallpaper3
+soviet:entitywallpaper4 -- soviet:entitywallpaper4
+soviet:entitywallpaper5 -- soviet:entitywallpaper5
+soviet:entitywalltile1 -- soviet:entitywalltile1
+soviet:entitywalltile2 -- soviet:entitywalltile2
+soviet:sit_block -- sit_block
+stupidthings:balloon -- balloon
+stupidthings:balloonliquid -- balloonLiquid
+stupidthings:blockbomb -- blockBomb
+stupidthings:reversetntprimed -- reverseTntPrimed
+stupidthings:smokebomb -- smokeBomb
+swanboat:spawnboat -- SpawnBoat
+thermaldynamics:transport -- transport
+thermalexpansion:florb -- florb
+thermalexpansion:morb -- morb
 thermalfoundation:basalz -- thermalfoundation.basalz
+thermalfoundation:basalz_bolt -- thermalfoundation.basalz_bolt
 thermalfoundation:blitz -- thermalfoundation.blitz
+thermalfoundation:blitz_bolt -- thermalfoundation.blitz_bolt
 thermalfoundation:blizz -- thermalfoundation.blizz
-
+thermalfoundation:blizz_bolt -- thermalfoundation.blizz_bolt
 tropicraft:ashen -- tropicraft.ashen
+tropicraft:beach_chair -- tropicraft.beach_chair
+tropicraft:beach_float -- tropicraft.beach_float
+tropicraft:beach_umbrella -- tropicraft.beach_umbrella
+tropicraft:coconut_bomb -- tropicraft.coconut_bomb
 tropicraft:dolphin -- tropicraft.dolphin
 tropicraft:eagleray -- tropicraft.eagleray
 tropicraft:eih -- tropicraft.eih
@@ -590,22 +757,61 @@ tropicraft:fish -- tropicraft.fish
 tropicraft:hammerhead -- tropicraft.hammerhead
 tropicraft:iguana -- tropicraft.iguana
 tropicraft:koa -- tropicraft.koa
+tropicraft:lavaball -- tropicraft.lavaball
+tropicraft:lost_mask -- tropicraft.lost_mask
 tropicraft:marlin -- tropicraft.marlin
 tropicraft:monkey -- tropicraft.monkey
 tropicraft:mow -- tropicraft.mow
 tropicraft:piranha -- tropicraft.piranha
+tropicraft:poisonblot -- tropicraft.poisonblot
 tropicraft:sardine -- tropicraft.sardine
+tropicraft:sea_turtle_egg -- tropicraft.sea_turtle_egg
 tropicraft:seahorse -- tropicraft.seahorse
 tropicraft:seaurchin -- tropicraft.seaurchin
+tropicraft:seaurchinegg -- tropicraft.seaurchinegg
 tropicraft:starfish -- tropicraft.starfish
+tropicraft:starfishegg -- tropicraft.starfishegg
+tropicraft:tc_item_frame -- tropicraft.tc_item_frame
 tropicraft:treefrog -- tropicraft.treefrog
 tropicraft:tropicreeper -- tropicraft.tropicreeper
+tropicraft:tropifishhook -- tropicraft.tropifishhook
+tropicraft:tropihook -- tropicraft.tropihook
 tropicraft:tropiskelly -- tropicraft.tropiskelly
 tropicraft:tropispider -- tropicraft.tropispider
+tropicraft:tropispideregg -- tropicraft.tropispideregg
 tropicraft:turtle -- tropicraft.turtle
-
+tropicraft:wall_item -- tropicraft.wall_item
+vehicle:aluminum_boat -- vehicle.aluminum_boat
+vehicle:atv -- vehicle.atv
+vehicle:bath -- vehicle.bath
+vehicle:bumper_car -- vehicle.bumper_car
+vehicle:couch -- vehicle.couch
+vehicle:dirt_bike -- vehicle.dirt_bike
+vehicle:dune_buggy -- vehicle.dune_buggy
+vehicle:fertilizer_trailer -- vehicle.fertilizer_trailer
+vehicle:fluid_trailer -- vehicle.fluid_trailer
+vehicle:go_kart -- vehicle.go_kart
+vehicle:golf_cart -- vehicle.golf_cart
+vehicle:jack -- vehicle.jack
+vehicle:jet_ski -- vehicle.jet_ski
+vehicle:lawn_mower -- vehicle.lawn_mower
+vehicle:mini_bike -- vehicle.mini_bike
+vehicle:mini_bus -- vehicle.mini_bus
+vehicle:moped -- vehicle.moped
+vehicle:off_roader -- vehicle.off_roader
+vehicle:seeder_trailer -- vehicle.seeder_trailer
+vehicle:shopping_cart -- vehicle.shopping_cart
+vehicle:smart_car -- vehicle.smart_car
+vehicle:sofacopter -- vehicle.sofacopter
+vehicle:speed_boat -- vehicle.speed_boat
+vehicle:sports_plane -- vehicle.sports_plane
+vehicle:storage_trailer -- vehicle.storage_trailer
+vehicle:tractor -- vehicle.tractor
+vehicle:trailer -- vehicle.trailer
 withercrumbs:wither crumb -- Wither_Crumb
-
+yoyos:yoyo -- YoYo
+yoyos:yoyo_chaser -- Anything_YoYo
+yoyos:yoyo_sticky -- Sticky_YoYo
 zawa:africanelephant -- zawa.africanelephant
 zawa:africanlion -- zawa.AfricanLion
 zawa:albatross -- zawa.Albatross
@@ -616,9 +822,12 @@ zawa:amurleopard -- zawa.AmurLeopard
 zawa:anacondasnakepart -- zawa.AnacondaSnakePart
 zawa:andeancondor -- zawa.AndeanCondor
 zawa:animaltrader -- zawa.AnimalTrader
+zawa:animaltransportvehicle -- zawa.AnimalTransportVehicle
 zawa:asianelephant -- zawa.AsianElephant
 zawa:baldeagle -- zawa.baldeagle
+zawa:ball -- zawa.Ball
 zawa:beaver -- zawa.beaver
+zawa:bench -- zawa.Bench
 zawa:bengaltiger -- zawa.BengalTiger
 zawa:blackrhinoceros -- zawa.BlackRhinoceros
 zawa:blackspidermonkey -- zawa.BlackSpiderMonkey
@@ -650,14 +859,17 @@ zawa:grevyszebra -- zawa.GrevysZebra
 zawa:grizzlybear -- zawa.grizzlybear
 zawa:harpyeagle -- zawa.harpyeagle
 zawa:hawksbillseaturtle -- zawa.HawksbillSeaTurtle
+zawa:hawksbillseaturtleegg -- zawa.HawksbillSeaTurtleEgg
 zawa:humpbackwhale -- zawa.humpbackwhale
 zawa:indiangharial -- zawa.IndianGharial
 zawa:indianpangolin -- zawa.IndianPangolin
 zawa:jaguar -- zawa.jaguar
 zawa:japanesegiantsalamander -- zawa.JapaneseGiantSalamander
+zawa:japanesegiantsalamanderegg -- zawa.JapaneseGiantSalamanderEgg
 zawa:koala -- zawa.Koala
 zawa:komododragon -- zawa.komododragon
 zawa:macaw -- zawa.Macaw
+zawa:macawegg -- zawa.MacawEgg
 zawa:marineiguana -- zawa.marineiguana
 zawa:marinetang -- zawa.marinetang
 zawa:meerkat -- zawa.Meerkat
@@ -665,6 +877,7 @@ zawa:moose -- zawa.moose
 zawa:morayeel -- zawa.morayeel
 zawa:nilehippopotamus -- zawa.NileHippopotamus
 zawa:octopus -- zawa.octopus
+zawa:offroadvehicle -- zawa.OffRoadVehicle
 zawa:okapi -- zawa.Okapi
 zawa:orca -- zawa.Orca
 zawa:pacificwalrus -- zawa.PacificWalrus
@@ -677,12 +890,21 @@ zawa:rattlesnake -- zawa.rattlesnake
 zawa:redkangaroo -- zawa.RedKangaroo
 zawa:redpanda -- zawa.RedPanda
 zawa:reticulatedgiraffe -- zawa.ReticulatedGiraffe
+zawa:riflebullet -- zawa.RifleBullet
+zawa:saltlick -- zawa.saltlick
+zawa:shotgunbullet -- zawa.ShotgunBullet
 zawa:sockeyesalmon -- zawa.SockeyeSalmon
 zawa:sumatranrhinoceros -- zawa.sumatranrhinoceros
 zawa:tasmaniandevil -- zawa.tasmaniandevil
 zawa:threetoedsloth -- zawa.threetoedsloth
 zawa:tigershark -- zawa.tigershark
 zawa:toucan -- zawa.Toucan
+zawa:toucanegg -- zawa.ToucanEgg
+zawa:tranquilizerdart -- zawa.TranquilizerDart
 zawa:treefrog -- zawa.TreeFrog
 zawa:westernlowlandgorilla -- zawa.WesternLowlandGorilla
+zawa:whalefloater -- zawa.whalefloater
+zawa:zebrapinata -- zawa.zebrapinata
 zawa:zookeeper -- zawa.ZooKeeper
+zawa:zoopainting -- zawa.ZooPainting
+zawa:zoosigns -- zawa.zoosigns

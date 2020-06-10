@@ -130,6 +130,7 @@
   "mclib": "1.0.4",
   "cyclopscore": "1.6.4",
   "lilcritters": "1.12.2-1.0.0.1",
+  "organicadd": "1.0.0",
   "tropicraft": "7.1.9.115",
   "netherportalfix": "5.3.17",
   "universalmodifiers": "1.12.2-1.0.16.1",
