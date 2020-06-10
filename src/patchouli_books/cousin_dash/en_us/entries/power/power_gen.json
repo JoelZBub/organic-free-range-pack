@@ -11,7 +11,7 @@
         {
             "type": "spotlight",
             "item": "fartgen:generator",
-            "text": "$(6)Fart Generator$(). Need I say more? I don't need to, but I will. You can put almost any animal in there. The amount of power you can get depends on the animal. And, of course, the power comes out the bottom."
+            "text": "$(6)Fart Generator$(). Need I say more? I don't need to, but I will. You can put many, but not all, animals in there. The amount of power you can get depends on the animal. And, of course, the power comes out the bottom."
         },
         {
             "type": "spotlight",
@@ -30,7 +30,7 @@
         },
         {
             "type": "text",
-            "text": "Energetic Shears can be used to collect raw RF from the sheep and can hold 1M RF. Just right-click on a machine or battery with the shears to transfer the engergy.$(p)An automated, late-game solution can be made using a World Energy Importer from $(6)Integrated Dynamics$() and long with an energetic sheep."
+            "text": "Energetic Shears can be used to collect raw RF from the sheep and can hold 1M RF. Just right-click on a machine or battery with the shears to transfer the engergy.$(p)An automated, late-game solution can be made using a World Energy Importer from $(6)Integrated Dynamics$() along with an energetic sheep."
         },
         {
             "type": "spotlight",
