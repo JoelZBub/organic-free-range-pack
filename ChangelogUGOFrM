@@ -4592,7 +4592,9 @@ Removed Misty World steps from plank oredict
 
 -- Mod Freezes --
 -----------------
-
+CraftTweaker 4.1.20.574 (Release branch)
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 
 -- Added Mods --
 ----------------
@@ -4600,6 +4602,11 @@ Removed Misty World steps from plank oredict
 
 -- Updated Mods --
 -------------------
+Emojicord (1.0.2.15 to 1.1.1.39)
+Misty World (1.2.4.6 to 1.2.4.7)
+Mowzie's Mobs (1.5.4 to 1.5.5)
+Xaero's Minmap (20.12.1 to 20.12.2)
+Xaero's World Map (1.6.1 to 1.6.2)
 
 
 --- Removed Mods ---
@@ -4610,6 +4617,8 @@ Removed Misty World steps from plank oredict
 --------------------
 JEI/itemBlacklist
 	Hid Super Worm from Water Strainer
+mowziesmobs.cfg
+	delete and regen with new values
 
 
 -- Script Changes --
@@ -4620,5 +4629,53 @@ JEI/itemBlacklist
 -------------------
 Special custom slime sounds
 
+
 -- Other Changes --
 ------------------- 
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of June 14-20, 2020
+        Build Name  = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+CraftTweaker 4.1.20.574 (Release branch)
+LootTweaker 0.1.6  (Conflict with Capsules causes crash - 0.1.7)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+recomplex.cfg
+	S:spawnTweaks <
+        bunkerSurfaceStructures:2.2266085
+	removed large bunker spawntweaks
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+------------------- 
+Added Bunker surface structures, vents and stairs
+Added Bunker corridors for North and West wings.

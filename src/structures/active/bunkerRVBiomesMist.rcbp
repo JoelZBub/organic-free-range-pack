@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "biomes": "mist:up_forest | mist:up_lowland | mist:up_meadow | mist:up_savanna | mist:up_snowfields "
+      "biomes": "mist:up_desert | mist:up_lowland | mist:up_meadow | mist:up_savanna | mist:up_snowfields | mist:up_swamp |mist:up_swampy_meadow"
     }
   ],
   "metadata": {
