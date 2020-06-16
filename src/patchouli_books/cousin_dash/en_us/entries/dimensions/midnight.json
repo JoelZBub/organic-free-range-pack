@@ -11,7 +11,7 @@
             "type": "image",
             "images": ["assets:guidebook/midnight.png"],
             "border": "true",
-            "text": "Once you're in the Midnight, using a Rift Machine or finding a rift are your ways out."
+            "text": "Once you're in the Midnight, using a Rift Machine or finding a rift are your only ways out."
         }
     ]
 }

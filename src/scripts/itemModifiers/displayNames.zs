@@ -26,7 +26,14 @@ static displayNameChange as string[IItemStack] = {
 	<yoyos:stone_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:wooden_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<withercrumbs:crumb_star:0>: "BoogerStar",
-	<coffeespawner:coffee_machine_pan:0>: "Limited Edition Gennybucks™ Coffee Maker"
+	<coffeespawner:coffee_machine_pan:0>: "Limited Edition Gennybucks™ Coffee Maker",
+	<birdsnests:birdsnest>: "Birb's Nest",
+	<cfm:bird_bath>: "Birb Bath",
+	<zawa:bird_meat>: "Raw Birb Meat",
+	<zawa:bird_meat_cooked>: "Cooked Birb Meat",
+	<zawa:bird_kibble>: "Birb Kibble",
+	<zawa:bird_vial>: "Birb Vial",
+	<zawa:bird_perch>: "Birb Perch"
 };
 
 
