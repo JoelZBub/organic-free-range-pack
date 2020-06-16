@@ -4667,10 +4667,13 @@ recomplex.cfg
 	removed large bunker spawntweaks
 sasit.cfg
 	added 'Skipping BlockEntity with id'
+triumph/script/triumph/soviet/root.txt
+	Changed advancement trigger to first_breath
 
 -- Script Changes --
 --------------------
-
+Added recipe to reset FartGen to default
+Added recipe for Soviet wrench
 
 -- Asset Changes --
 -------------------

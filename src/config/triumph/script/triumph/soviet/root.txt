@@ -24,7 +24,7 @@ setPos(-108,-108)
 
 //Adds a single criteria. 
 criteria = addCriteria("entersMists", "triumph:completed_advancement")
-criteria.setAdvancement("mist:story/second_breath")
+criteria.setAdvancement("mist:story/first_breath")
 
 //function
 setRewardFunction("triumph:soviet")

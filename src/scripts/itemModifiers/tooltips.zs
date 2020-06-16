@@ -166,6 +166,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<soviet:ue:0>: [
 		format.gold("Pronounced as it would be in 'set' or 'debt'")
+	],
+	<soviet:wrench> : [
+		format.gold("Used to open rusty Soviet doors and trapdoors.")
 	]
 };
 
