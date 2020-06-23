@@ -1,6 +1,7 @@
 /*
-	100% Organic Free-Range Minecraft Crafting Table recipes script.
-	This script is for adding and removing recipes for Minecraft
+	100% Organic Free-Range Template Crafting Table recipes script.
+	This script is for adding and removing recipes by mod.
+	Rename this script for the mod it's modifying.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -10,15 +11,7 @@ import crafttweaker.item.IIngredient;
 	Recipe Removals by Item
 */
 static itemRecipeRemoval as IItemStack[] = [
-//	<modid:itemname:meta>,
-	<minecraft:acacia_boat:0>,
-	<minecraft:birch_boat:0>,
-	<minecraft:cake:0>,
-	<minecraft:dark_oak_boat:0>,
-	<minecraft:jungle_boat:0>,
-	<minecraft:purpur_block:0>,
-	<minecraft:spruce_boat:0>
-
+//	<modid:itemname:meta>
 ];
 
 /*
@@ -42,40 +35,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<minecraft:cake:0>: {
-	    "minecraft_cake_oredict" : [
-	        [
-	            [<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
-	            [<minecraft:sugar:0>, <ore:egg>, <minecraft:sugar:0>],
-	            [<minecraft:wheat:0>, <minecraft:wheat:0>, <minecraft:wheat:0>]
-	        ]
-	    ]
-	},
-	<minecraft:chest:0> * 4 : {
-			"minecraft_chest_modbulk" : [
-				[
-		  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>],
-		   			[<ore:modLogs>, null, <ore:modLogs>],
-		  			[<ore:modLogs>, <ore:modLogs>, <ore:modLogs>]
-				]
-			]
-		},
-	<minecraft:purpur_block:0> * 4 : {
-	    "minecraft_purpur_block" : [
-	        [
-	            [<minecraft:chorus_fruit_popped:0>, <minecraft:end_stone>, <minecraft:chorus_fruit_popped:0>],
-	            [<minecraft:chorus_fruit_popped:0>, <minecraft:end_stone>, <minecraft:chorus_fruit_popped:0>]
-	        ]
-	    ]
-	},
-	<minecraft:stick:0> * 16 : {
-	    "minecraft_stick_bulk" : [
-	        [
-	            [<ore:logWood>],
-	            [<ore:logWood>]
-	        ]
-	    ]
-	}
 };
 
 
@@ -92,6 +51,15 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+	<soviet:wrench> : {
+		"soviet_wrench" : [
+			[
+	  			[<ore:ingotIron>, <ore:ingotIron>],
+	   			[<ore:ingotIron>, <ore:ingotNiobium>],
+	  			[<ore:ingotIron>, null]
+			]
+		]
+	}	
 };
 
 
@@ -104,36 +72,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<minecraft:acacia_boat:0> : {
-			"minecraft_acacia_boat" : [
-				[<minecraft:boat:0>, <minecraft:planks:4>]
-			]
-		},
-	<minecraft:birch_boat:0> : {
-			"minecraft_birch_boat" : [
-				[<minecraft:boat:0>, <minecraft:planks:2>]
-			]
-		},
-	<minecraft:dark_oak_boat:0> : {
-			"minecraft_dark_oak_boat" : [
-				[<minecraft:boat:0>, <minecraft:planks:5>]
-			]
-		},
-	<minecraft:jungle_boat:0> : {
-			"minecraft_jungle_boat" : [
-				[<minecraft:boat:0>, <minecraft:planks:3>]
-			]
-		},
-	<minecraft:spruce_boat:0> : {
-			"minecraft_spruce_boat" : [
-				[<minecraft:boat:0>, <minecraft:planks:1>]
-			]
-		},
-	<fartgen:generator> : {
-		"fartgen_recycle" : [
-			[<fartgen:generator>]
-		]
-	}
 };
 
 

@@ -5,7 +5,7 @@
     "pages": [
         {
                 "type": "text",
-                "text": "Same as vanilla; except portals can be any size AND you can change the color of the portal by placing stained glass blocks under the frame."
+                "text": "Same as vanilla; except portals can be any size AND you can change the color of the portal by placing stained glass blocks under the frame.$(p)The portal may be made the same, but this ain't your grandma's Nether!"
         },
         {
             "type": "image",

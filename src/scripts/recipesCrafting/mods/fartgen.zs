@@ -38,7 +38,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<fartgen:generator:0> : {
 		"<fartgen_generator>" : [
 			[
-	  			[null, null, null],
 	   			[<minecraft:glass_pane:0>, <minecraft:iron_bars:0>, null],
 	  			[<cavern:cave_block:3>, <minecraft:heavy_weighted_pressure_plate:0>, <minecraft:heavy_weighted_pressure_plate:0>]
 			]
@@ -71,7 +70,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 		"string_for_recipe_name" : [
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
-	}	*/
+	}	*/	
 };
 
 
