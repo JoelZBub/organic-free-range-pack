@@ -1,0 +1,39 @@
+{
+  "booger.eater.hurt": {
+    "category": "neutral",
+    "replace": true,
+    "subtitle": "organicadd.boogereater.hurt",
+    "sounds": [
+      {"name": "organicadd:growl1", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:growl2", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:hurt1", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:hurt2", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:hurt3", "pitch": 0.8, "stream": "true"}
+    ]
+  },
+  "booger.eater.idle": {
+    "category": "neutral",
+    "replace": true,
+    "subtitle": "organicadd.boogereater.idle",
+    "sounds": [
+      {"name": "organicadd:hermitcraft", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:meee1", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:meee2", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:meee3", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:meee4", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:meeegrowl", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:server", "pitch": 0.8, "stream": "true"}
+    ]
+  },
+  "booger.eater.death": {
+    "category": "neutral",
+    "replace": true,
+    "subtitle": "organicadd.boogereater.death",
+    "sounds": [
+      {"name": "organicadd:death1", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:death2", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:death3", "pitch": 0.8, "stream": "true"},
+      {"name": "organicadd:death4", "pitch": 0.8, "stream": "true"}
+    ]
+  }
+}
