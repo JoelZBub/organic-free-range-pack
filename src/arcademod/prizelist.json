@@ -91,6 +91,50 @@
     {      
       "item": "zawa:red_panda_plush",
              "cost": 5
+    },
+    {
+      "item": "zawa:cockatoo_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:dolphin_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:kangaroo_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:okapi_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:rhino_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:shark_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:zebra_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:zebra_rainbow_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:macaw_plush",
+            "cost": 5
+    },
+    {
+      "item": "zawa:macaw_plush_red",
+            "cost": 5
+    },
+    {
+      "item": "zawa:koala_plush",
+            "cost": 5
     }
   ]
 }

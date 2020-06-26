@@ -362,5 +362,61 @@
     "item": "zawa:red_panda_plush",
     "qty": 1,
     "weight": 5
-  }
+  },
+  "zawa:cockatoo_plush": {
+    "item": "zawa:cockatoo_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:dolphin_plush": {
+    "item": "zawa:dolphin_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:kangaroo_plush": {
+    "item": "zawa:kangaroo_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:okapi_plush": {
+    "item": "zawa:okapi_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:rhino_plush": {
+    "item": "zawa:rhino_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:shark_plush": {
+    "item": "zawa:shark_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:zebra_plush": {
+    "item": "zawa:zebra_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:zebra_rainbow_plush": {
+    "item": "zawa:zebra_rainbow_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:macaw_plush": {
+    "item": "zawa:macaw_plush",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:macaw_plush_red": {
+    "item": "zawa:macaw_plush_red",
+    "qty": 1,
+    "weight": 5
+  },
+  "zawa:koala_plush": {
+    "item": "zawa:koala_plush",
+    "qty": 1,
+    "weight": 5
+  }  
+
 }
