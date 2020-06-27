@@ -39,19 +39,30 @@ for item in bagItems {
 
 static zawaPlush as IItemStack[] = [
 	<zawa:bald_eagle_plush:0>,
+	<zawa:cockatoo_plush:0>,
+	<zawa:dolphin_plush:0>,
 	<zawa:elephant_plush:0>,
 	<zawa:giraffe_plush:0>,
 	<zawa:gorilla_plush:0>,
 	<zawa:grizzly_plush:0>,
+	<zawa:kangaroo_plush:0>,
+	<zawa:koala_plush:0>,
 	<zawa:lion_plush:0>,
+	<zawa:macaw_plush:0>,
+	<zawa:macaw_plush_red:0>,
 	<zawa:monkey_plush:0>,
 	<zawa:moose_plush:0>,
 	<zawa:octopus_plush:0>,
+	<zawa:okapi_plush:0>,
 	<zawa:orca_plush:0>,
 	<zawa:platypus_plush:0>,
 	<zawa:red_panda_plush:0>,
+	<zawa:rhino_plush:0>,
+	<zawa:shark_plush:0>,
 	<zawa:tiger_plush:0>,
-	<zawa:turtle_plush:0>
+	<zawa:turtle_plush:0>,
+	<zawa:zebra_plush:0>,
+	<zawa:zebra_rainbow_plush:0>
 ];
 
 for item in zawaPlush {

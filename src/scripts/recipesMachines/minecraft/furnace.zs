@@ -19,10 +19,7 @@ furnace.remove(<minecraft:brick:0>);
 furnace.addRecipe(IItemStack output, IIngredient input);
 furnace.addRecipe(IItemStack output, IIngredient input, double xp);
 */
-furnace.addRecipe(<animania:plain_omelette:0>, <zawa:albatross_egg:0>, 0.3);
-furnace.addRecipe(<animania:plain_omelette:0>, <zawa:cockatoo_egg:0>, 0.3);
-furnace.addRecipe(<animania:plain_omelette:0>, <zawa:macaw_egg:0>, 0.3);
-furnace.addRecipe(<animania:plain_omelette:0>, <zawa:toucan_egg:0>, 0.3);
+
 furnace.addRecipe(<bamboozled:bamboo_dried:0>, <erebus:materials:3>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried:0>, <tropicraft:bamboo_shoot:0>, 0.3);
 furnace.addRecipe(<ediblebugs:termitebrick:0>, <ediblebugs:termiteclay:0>, 0.25);

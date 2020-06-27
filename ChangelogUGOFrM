@@ -4685,9 +4685,93 @@ Added recipe for Soviet wrench
 
 -- Asset Changes --
 -------------------
-
+Boogereater json and sounds
 
 -- Other Changes --
 ------------------- 
 Added Bunker surface structures, vents and stairs
 Added Bunker corridors for North and West wings.
+
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of June 21-27, 2020
+        Build Name  = TBD
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+CraftTweaker 4.1.20.574 (Release branch)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+-------------------
+AppleSkin (1.0.9 to 1.0.14)
+Bookworm (2.5.1 to 2.5.2.1)
+Cavern (2.3.0 to 2.3.1)
+CCI (1.4.8 to 1.4.9)
+JEI (4.15.0.294 to 4.15.0.296)
+Lil' Critters (1.0.0.1 to 1.1.0.0)
+LootTweaker (0.1.6 to 0.2.0)
+Xaero's Minimap ( 20.14.0 to 20.15.0)
+Xaero's WorldMap (1.6.4 to 1.7.0)
+ZAWA (2.0.35 to 2.1.0)
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+/ZooAndWildAnimalsRebuilt1.12.2-2.1.0/
+	ZAWA1.12.2-2.10.cfg
+		clientoptions
+			I:"ZAWA Flag"=3 [you don't need to know what this does]
+		serveroptions
+			B:"ZAWA give care guide"=false
+			B:"Net can only get tranquilized animals"=false
+	ZAWAModules
+		enrichment
+			B:.Enabled=false
+		hunger
+			B:.Enabled=false
+		thirst
+			B:.Enabled=false
+	ZAWASpawnConfigurations
+		moved config settings from 2.0.35
+		raccoons
+			added biomes
+			I:"Spawn Chance"=5
+
+			
+-- Script Changes --
+--------------------
+/itemModifiers/tooltips.zs
+	"Available from the Arcade Prize Counter or the Lucky Egg Machine"
+		<zawa:cockatoo_plush:0>,
+		<zawa:dolphin_plush:0>,
+		<zawa:kangaroo_plush:0>,
+		<zawa:okapi_plush:0>,
+		<zawa:rhino_plush:0>,
+		<zawa:shark_plush:0>,
+		<zawa:zebra_plush:0>,
+		<zawa:zebra_rainbow_plush:0>,
+		<zawa:macaw_plush:0>,
+		<zawa:macaw_plush_red:0>,
+		<zawa:koala_plush:0>	
+/recipesMachines/minecraft/furnace.zs
+	zawa eggs removed from latest update removed as omelet ingredients
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+------------------- 
+Added new ZAWA plushies to arcade prizes and hatchery lucky eggs
