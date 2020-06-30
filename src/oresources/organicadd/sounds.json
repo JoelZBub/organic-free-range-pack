@@ -35,5 +35,105 @@
       {"name": "organicadd:death3", "pitch": 0.8, "stream": "true"},
       {"name": "organicadd:death4", "pitch": 0.8, "stream": "true"}
     ]
+  },
+  "tex.sound.0": {
+    "category": "ambient",
+    "subtitle": "tex.sound.0",
+    "sounds": [
+      {
+        "name": "tex.sound.0",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.1": {
+    "category": "ambient",
+    "subtitle": "tex.sound.1",
+    "sounds": [
+      {
+        "name": "tex.sound.1",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.2": {
+    "category": "ambient",
+    "subtitle": "tex.sound.2",
+    "sounds": [
+      {
+        "name": "tex.sound.2",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.3": {
+    "category": "ambient",
+    "subtitle": "tex.sound.3",
+    "sounds": [
+      {
+        "name": "tex.sound.3",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.4": {
+    "category": "ambient",
+    "subtitle": "tex.sound.4",
+    "sounds": [
+      {
+        "name": "tex.sound.4",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.5": {
+    "category": "ambient",
+    "subtitle": "tex.sound.5",
+    "sounds": [
+      {
+        "name": "tex.sound.5",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.6": {
+    "category": "ambient",
+    "subtitle": "tex.sound.6",
+    "sounds": [
+      {
+        "name": "tex.sound.6",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.7": {
+    "category": "ambient",
+    "subtitle": "tex.sound.7",
+    "sounds": [
+      {
+        "name": "tex.sound.7",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.8": {
+    "category": "ambient",
+    "subtitle": "tex.sound.8",
+    "sounds": [
+      {
+        "name": "tex.sound.8",
+        "stream": true
+      }
+    ]
+  },
+  "tex.sound.9": {
+    "category": "ambient",
+    "subtitle": "tex.sound.9",
+    "sounds": [
+      {
+        "name": "tex.sound.9",
+        "stream": true
+      }
+    ]
   }
 }

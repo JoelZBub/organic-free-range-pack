@@ -4748,7 +4748,7 @@ ZAWA (2.0.35 to 2.1.0)
 			added biomes
 			I:"Spawn Chance"=5
 
-			
+
 -- Script Changes --
 --------------------
 /itemModifiers/tooltips.zs
@@ -4775,3 +4775,50 @@ ZAWA (2.0.35 to 2.1.0)
 -- Other Changes --
 ------------------- 
 Added new ZAWA plushies to arcade prizes and hatchery lucky eggs
+
+
+-------------------------------------------------------------------------------  
+        Changelog
+        Week of June 2-Release Candidate 1
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+BnBGamingCore 0.11.0 (No needed features in update)
+CraftTweaker 4.1.20.574 (Release branch)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+Topography 1.10.1 (no need to upset the cart with update.)
+
+
+-- Added Mods --
+----------------
+Organic Additions (Wait for Upload on Curse - change from experimental)
+
+
+-- Updated Mods --
+Content Creator Integration (1.4.9 to 1.4.10)
+Patchouli (1.0-20 to 1.0-21)
+Rats (3.2.12 to 3.2.13)
+Simple Storage Network (1.7.10 to 1.7.11)
+Trophies (1.0.2 to 1.0.4) (Wait for Update on Curse)
+
+
+--- Removed Mods ---
+--------------------
+
+
+-- Config Changes --
+--------------------
+
+			
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+oresources/organicadd/sounds.json
+	added tex sound
+
+-- Other Changes --
+------------------- 
