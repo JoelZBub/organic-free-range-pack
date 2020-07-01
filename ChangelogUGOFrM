@@ -4809,7 +4809,9 @@ Trophies (1.0.2 to 1.0.4) (Wait for Update on Curse)
 
 -- Config Changes --
 --------------------
-
+/ZooAndWildAnimalsRebuilt1.12.2-2.1.0/
+	ZAWASpawnConfigurations.cfg
+		fixed typo on raccoons config. that caused double entries
 			
 -- Script Changes --
 --------------------
