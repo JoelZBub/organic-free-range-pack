@@ -1,0 +1,9 @@
+entity.organicadd.tex.name=Tex Mexican
+entity.organicadd.boogereater.name=Booger Eater
+
+organicadd.boogereater.idle=Booger Eater eats boogers
+organicadd.boogereater.hurt=Booger Eater hurt
+organicadd.boogereater.death=Booger Eater dies
+
+tex.sound.4=Hat Dance Plays
+tex.sound.12=Hat Dance Plays

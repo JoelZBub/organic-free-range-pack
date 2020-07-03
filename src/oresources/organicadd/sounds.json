@@ -1,7 +1,7 @@
 {
   "booger.eater.hurt": {
     "category": "neutral",
-    "replace": true,
+    "replace": "true",
     "subtitle": "organicadd.boogereater.hurt",
     "sounds": [
       {"name": "organicadd:growl1", "pitch": 0.8, "stream": "true"},
@@ -13,7 +13,7 @@
   },
   "booger.eater.idle": {
     "category": "neutral",
-    "replace": true,
+    "replace": "true",
     "subtitle": "organicadd.boogereater.idle",
     "sounds": [
       {"name": "organicadd:hermitcraft", "pitch": 0.8, "stream": "true"},
@@ -27,7 +27,7 @@
   },
   "booger.eater.death": {
     "category": "neutral",
-    "replace": true,
+    "replace": "true",
     "subtitle": "organicadd.boogereater.death",
     "sounds": [
       {"name": "organicadd:death1", "pitch": 0.8, "stream": "true"},
@@ -37,103 +37,117 @@
     ]
   },
   "tex.sound.0": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.0",
     "sounds": [
-      {
-        "name": "tex.sound.0",
-        "stream": true
-      }
+      {"name": "tex.sound.0", "stream": "true"}
     ]
   },
   "tex.sound.1": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.1",
     "sounds": [
-      {
-        "name": "tex.sound.1",
-        "stream": true
-      }
+      {"name": "tex.sound.1", "stream": "true"}
     ]
   },
   "tex.sound.2": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.2",
     "sounds": [
-      {
-        "name": "tex.sound.2",
-        "stream": true
-      }
+      {"name": "tex.sound.2", "stream": "true"}
     ]
   },
   "tex.sound.3": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.3",
     "sounds": [
-      {
-        "name": "tex.sound.3",
-        "stream": true
-      }
+      {"name": "tex.sound.3", "stream": "true"}
     ]
   },
   "tex.sound.4": {
-    "category": "ambient",
+    "category": "neutral",
+    "replace": "true",
     "subtitle": "tex.sound.4",
     "sounds": [
-      {
-        "name": "tex.sound.4",
-        "stream": true
-      }
+      {"name": "organicadd:hatdance", "stream": "true"}
     ]
   },
   "tex.sound.5": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.5",
     "sounds": [
-      {
-        "name": "tex.sound.5",
-        "stream": true
-      }
+      {"name": "tex.sound.5", "stream": "true"}
     ]
   },
   "tex.sound.6": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.6",
     "sounds": [
-      {
-        "name": "tex.sound.6",
-        "stream": true
-      }
+      {"name": "tex.sound.6", "stream": "true"}
     ]
   },
   "tex.sound.7": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.7",
     "sounds": [
-      {
-        "name": "tex.sound.7",
-        "stream": true
-      }
+      {"name": "tex.sound.7", "stream": "true"}
     ]
   },
   "tex.sound.8": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.8",
     "sounds": [
-      {
-        "name": "tex.sound.8",
-        "stream": true
-      }
+      {"name": "tex.sound.8", "stream": "true"}
     ]
   },
   "tex.sound.9": {
-    "category": "ambient",
+    "category": "neutral",
     "subtitle": "tex.sound.9",
     "sounds": [
-      {
-        "name": "tex.sound.9",
-        "stream": true
-      }
+      {"name": "tex.sound.9", "stream": "true"}
+    ]
+  },
+  "tex.sound.10": {
+    "category": "neutral",
+    "subtitle": "tex.sound.10",
+    "sounds": [
+      {"name": "tex.sound.10", "stream": "true"}
+    ]
+  },
+  "tex.sound.11": {
+    "category": "neutral",
+    "subtitle": "tex.sound.11",
+    "sounds": [
+      {"name": "tex.sound.11", "stream": "true"}
+    ]
+  },
+  "tex.sound.12": {
+    "category": "neutral",
+    "replace": "true",
+    "subtitle": "tex.sound.12",
+    "sounds": [
+      {"name": "organicadd:hatdance", "stream": "true"}
+    ]
+  },
+  "tex.sound.13": {
+    "category": "neutral",
+    "subtitle": "tex.sound.13",
+    "sounds": [
+      {"name": "tex.sound.13", "stream": "true"}
+    ]
+  },
+  "tex.sound.14": {
+    "category": "neutral",
+    "subtitle": "tex.sound.14",
+    "sounds": [
+      {"name": "tex.sound.14", "stream": "true"}
+    ]
+  },
+  "tex.sound.15": {
+    "category": "neutral",
+    "subtitle": "tex.sound.15",
+    "sounds": [
+      {"name": "tex.sound.15", "stream": "true"}
     ]
   }
 }

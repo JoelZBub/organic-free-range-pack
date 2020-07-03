@@ -4779,11 +4779,13 @@ Added new ZAWA plushies to arcade prizes and hatchery lucky eggs
 
 -------------------------------------------------------------------------------  
         Changelog
-        Week of June 2-Release Candidate 1
+        Week of June 28- 
+        Release Candidate 1 to Version 1.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
+Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
 BnBGamingCore 0.11.0 (No needed features in update)
 CraftTweaker 4.1.20.574 (Release branch)
 Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
@@ -4792,15 +4794,18 @@ Topography 1.10.1 (no need to upset the cart with update.)
 
 -- Added Mods --
 ----------------
-Organic Additions (Wait for Upload on Curse - change from experimental)
+Chunk-Pregenerator
+Global GameRules
+Organic Additions 1.0.4
 
 
 -- Updated Mods --
+------------------
 Content Creator Integration (1.4.9 to 1.4.10)
 Patchouli (1.0-20 to 1.0-21)
 Rats (3.2.12 to 3.2.13)
 Simple Storage Network (1.7.10 to 1.7.11)
-Trophies (1.0.2 to 1.0.4) (Wait for Update on Curse)
+Trophies (1.0.2 to 1.0.3)
 
 
 --- Removed Mods ---
@@ -4809,9 +4814,14 @@ Trophies (1.0.2 to 1.0.4) (Wait for Update on Curse)
 
 -- Config Changes --
 --------------------
+globalgamerules.cfg
+	B:commandBlockOutput=false
+	B:disableElytraMovementCheck=true
+	B:saveGameRules=true
 /ZooAndWildAnimalsRebuilt1.12.2-2.1.0/
 	ZAWASpawnConfigurations.cfg
 		fixed typo on raccoons config. that caused double entries
+pregenerator/PreGennyrator.txt
 			
 -- Script Changes --
 --------------------
@@ -4819,8 +4829,13 @@ Trophies (1.0.2 to 1.0.4) (Wait for Update on Curse)
 
 -- Asset Changes --
 -------------------
-oresources/organicadd/sounds.json
-	added tex sound
+oresources/organicadd/
+	sounds.json
+		added tex sound
+	sounds/
+		hatdance.ogg
+
 
 -- Other Changes --
 ------------------- 
+Fixed nestDragonWater3 spawning in non-overworld dimensions

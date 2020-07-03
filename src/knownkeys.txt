@@ -229,3 +229,4 @@ keybind.mist.skill_inventory
 gui.xaero_map_zoom_in
 gui.xaero_map_zoom_out
 gui.xaero_quick_confirm
+Options Gui
