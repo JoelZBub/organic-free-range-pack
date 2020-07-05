@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------  
+       	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - Week of 2020/07/04 - 2020/07/04
+        Version : 1.0.1
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
+BnBGamingCore 0.11.0 (No needed features in update)
+Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+CraftTweaker 4.1.20.574 (Release branch)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+Topography 1.10.1 (no need to upset the cart with update.)
+
+
+-- Added Mods --
+----------------
+
+
+-- Updated Mods --
+------------------
+
+
+-- Reverted Mods --
+-------------------
+Caverns (2.3.1 to 2.3.0)
+
+
+--- Removed Mods ---
+--------------------
+Chunk-Pregenerator
+PerfectSpawn
+
+
+-- Config Changes --
+--------------------
+capsule/blueprint_whitelist.json
+	removed references to betteranimalsplus and immersiveengineering
+CustomMainMenu/mainmenu.json
+	added correct version number
+PerfectSpawn.json
+	removed
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+------------------- 

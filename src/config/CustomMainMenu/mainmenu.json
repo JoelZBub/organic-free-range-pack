@@ -136,7 +136,6 @@
             }  
         },
 
-         
 
         "quit":
         {
@@ -171,9 +170,9 @@
 
         "packTxt":
         {
-            "text" : "Closed-Beta Build: 0.0.8.0-Build 237",
-            "posX" : -180,
-            "posY" : -33,
+            "text" : "Public Release Build: 1.0.1",
+            "posX" : -132,
+            "posY" : -43,
             "color" : -256,
             "alignment" : "bottom_right"
         },
@@ -196,7 +195,7 @@
         {
             "text" : "#modsloaded# Mods loaded, #modsactive# Mods active.",
             "posX" : -176,
-            "posY" : -43,
+            "posY" : -33,
             "color" : -256,
             "alignment" : "bottom_right"
         }
