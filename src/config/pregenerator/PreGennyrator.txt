@@ -15,8 +15,6 @@ startradius circle s s 200 69
 startradius circle 0 0 400 17
 //Generate a circle 300 chunks around 0,0 in Tropics:
 startradius circle 0 0 300 -127
-//Generate a circle 400 chunks around 0,0 in Atum:
-startradius circle 0 0 400 17
 //Generate a circle 200 chunks around 0,0 in Huge Cavern:
 startradius circle 0 0 200 -51
 //Generate a circle 300 chunks around 0,0 in Erebus:
