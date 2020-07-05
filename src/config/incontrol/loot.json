@@ -13,5 +13,11 @@
             ]
         },
         "item": "stupidthings:rubber_chicken"
+    },
+    {
+        "mob": "withercrumbs:wither crumb",
+        "player": true,
+        "item": "contenttweaker:organic_booger",
+        "itemcount": "2/5-10/10-15"
     }
 ]
