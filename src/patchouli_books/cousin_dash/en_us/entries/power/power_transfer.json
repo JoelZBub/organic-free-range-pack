@@ -20,7 +20,7 @@
         {
             "type": "spotlight",
             "item": "randomthings:spectrecoil_normal",
-            "text": "$(6)Random Thing$()'s Spectre Energy Injector and Spectre Coils are one another wireless power option. Place the injector on your power generation setup, and Spectre Coils (the craftable ones) on any machines/batteries that you want to remotely power. That's it! Super simple!"
+            "text": "$(6)Random Things'$() Spectre Energy Injector and Spectre Coils are one another wireless power option. Place the injector on your power generation setup, and Spectre Coils (the craftable ones) on any machines/batteries that you want to remotely power. That's it! Super simple!"
         },
         {
             "type": "spotlight",

@@ -11,7 +11,7 @@
         {
             "type": "spotlight",
             "item": "integrateddynamics:energy_battery",
-            "text": "$(6)Integrated Dynamic$() Energy Batteries hold up to 1M RF by default, and can be combined in a crafting grid to increase the capacity. These batteries need a redstone signal (such as a lever) to output power."
+            "text": "$(6)Integrated Dynamics'$() Energy Batteries hold up to 1M RF by default, and can be combined in a crafting grid to increase the capacity. These batteries need a redstone signal (such as a lever) to output power."
         },
         {
             "type": "spotlight",
