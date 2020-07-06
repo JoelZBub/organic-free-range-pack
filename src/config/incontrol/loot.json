@@ -19,5 +19,11 @@
         "player": true,
         "item": "contenttweaker:organic_booger",
         "itemcount": "2/5-10/10-15"
+    },
+    {
+        "mob": "organicadd:boogereater",
+        "player": true,
+        "item": "contenttweaker:ketchup_hotdog",
+        "itemcount": "1/1-2/2-3"
     }
 ]

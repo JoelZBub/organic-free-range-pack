@@ -37,8 +37,16 @@ PerfectSpawn
 --------------------
 capsule/blueprint_whitelist.json
 	removed references to betteranimalsplus and immersiveengineering
+capsule.cfg
+	S:excludedBlocks <
+		signpost:
+	S:opExcludedBlocks <
+		signpost:
 CustomMainMenu/mainmenu.json
 	added correct version number
+incontrol/loot.json
+	Added booger drops to Withercrumbs
+	Added drop to Booger Eaters
 PerfectSpawn.json
 	removed
 
@@ -48,6 +56,7 @@ PerfectSpawn.json
 
 -- Asset Changes --
 -------------------
+Added hot dog as special mob drop
 
 
 -- Other Changes --

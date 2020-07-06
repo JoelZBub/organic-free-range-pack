@@ -21,6 +21,10 @@ var bugTaco = VanillaFactory.createItemFood("hard_bug_taco",6);
 bugTaco.setSaturation(2);
 bugTaco.register();
 
+// contenttweaker:ketchup_hotdog
+var hotDog = VanillaFactory.createItemFood("ketchup_hotdog",4);
+hotDog.setSaturation(1);
+hotDog.register();
 
 
 
