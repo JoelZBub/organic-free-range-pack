@@ -61,3 +61,4 @@ Added hot dog as special mob drop
 
 -- Other Changes --
 ------------------- 
+Typo fixes in guide book
