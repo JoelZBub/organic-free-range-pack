@@ -25,7 +25,18 @@ static itemRecipeRemoval as IItemStack[] = [
 	<zawa:moose_plush:0>,
 	<zawa:octopus_plush:0>,
 	<zawa:red_panda_plush:0>,
-	<zawa:steel_bars>
+	<zawa:cockatoo_plush:0>,
+	<zawa:dolphin_plush:0>,
+	<zawa:kangaroo_plush:0>,
+	<zawa:okapi_plush:0>,
+	<zawa:rhino_plush:0>,
+	<zawa:shark_plush:0>,
+	<zawa:zebra_plush:0>,
+	<zawa:zebra_rainbow_plush:0>,
+	<zawa:macaw_plush:0>,
+	<zawa:macaw_plush_red:0>,
+	<zawa:koala_plush:0>,
+	<zawa:steel_bars:0>
 ];
 
 /*
