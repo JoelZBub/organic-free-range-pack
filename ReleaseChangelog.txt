@@ -41,6 +41,8 @@ recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
+recipesCrafting/rftools.zs
+	Removed custom Storage Tablet recipe due to bug, changed Storage Control Screen Module recipe to maintain intended crafting difficulty
 recipesCrafting/tacotuesday.zs
 	Made Tier 3 Taco (OP Taco) more difficult to craft
 
