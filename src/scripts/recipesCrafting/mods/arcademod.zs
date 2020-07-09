@@ -41,9 +41,9 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<arcademod:prize_box:0> : {
 		"arcademod_prize_box" : [
 			[
-	  			[<ore:ironIngot>, <ore:paneGlass>, <ore:ironIngot>],
+	  			[<ore:ingotIron>, <ore:paneGlass>, <ore:ingotIron>],
 	   			[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],
-	  			[<ore:ironIngot>, <minecraft:redstone:0>, <ore:ironIngot>]
+	  			[<ore:ingotIron>, <minecraft:redstone:0>, <ore:ingotIron>]
 			]
 		]
 	}	
