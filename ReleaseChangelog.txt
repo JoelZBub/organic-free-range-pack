@@ -1,5 +1,59 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - Week of 2020/07/05 - 2020/07/11
+        Version : 1.0.2
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
+BnBGamingCore 0.11.0 (No needed features in update)
+Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+CraftTweaker 4.1.20.574 (Release branch)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+Topography 1.10.1 (no need to upset the cart with update.)
+
+
+-- Added Mods --
+----------------
+
+-- Updated Mods --
+------------------
+
+-- Reverted Mods --
+-------------------
+Xaero's Minimap (20.12.2)
+Xaero's World Map (1.6.2)
+
+--- Removed Mods ---
+--------------------
+
+-- Config Changes --
+--------------------
+incontrol/loot.json
+	Added a true story (Easter Egg)
+randomthings.cfg
+	B:EnderAnchorChunkloading=false
+
+-- Script Changes --
+--------------------
+recipesCrafting/arcademod.zs
+	Fixed recipe for Prize Counter
+recipesCrafting/openblocks.zs
+	Removed broken ".name" recipes
+recipesCrafting/tacotuesday.zs
+	Made Tier 3 Taco (OP Taco) more difficult to craft
+
+-- Asset Changes --
+-------------------
+
+-- Other Changes --
+------------------- 
+
+
+
+-------------------------------------------------------------------------------  
+       	Uncle Genny's 100% Organic & Free-Range Modpack
         Changelog - Week of 2020/07/04 - 2020/07/04
         Version : 1.0.1
 -------------------------------------------------------------------------------

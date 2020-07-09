@@ -15,6 +15,17 @@
         "item": "stupidthings:rubber_chicken"
     },
     {
+        "mob": "headcrumbs:human",
+        "biome": "Beach",
+        "player": true,
+        "item": "vehicle:key",
+        "nbt": {
+            "display": {
+                "Name": "Genny's Skooter Keys"
+            }
+        }
+    },
+    {
         "mob": "withercrumbs:wither crumb",
         "player": true,
         "item": "contenttweaker:organic_booger",

@@ -1,6 +1,8 @@
+#norun
 /*
-	100% Organic Free-Range Open Blocks Crafting Table recipes script.
-	This script is for adding and removing recipes for Open Blocks.
+	100% Organic Free-Range Taco Tuesday Crafting Table recipes script.
+	This script is for adding and removing recipes by mod.
+	Rename this script for the mod it's modifying.
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -11,9 +13,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<openblocks:block_breaker:0>,
-	<openblocks:block_placer:0>,
-	<openblocks:tasty_clay:0>
+<tt:super_op_taco>
 ];
 
 /*
@@ -23,8 +23,6 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
 ];
 
-recipes.removeByRecipeName("openblocks:miracle_magnet_1");
-recipes.removeByRecipeName("openblocks:miracle_magnet_0");
 
 /*
 	Named Shaped Recipes
@@ -39,24 +37,15 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<openblocks:block_breaker:0> : {
-		"openblocks_block_breaker" : [
+	<tt:super_op_taco> : {
+		"tt_super_op_taco" : [
 			[
-	  			[<minecraft:cobblestone:0>, <minecraft:iron_pickaxe:0>, <minecraft:cobblestone:0>],
-	   			[<minecraft:cobblestone:0>, <midnight:dark_pearl:0>, <minecraft:cobblestone:0>],
-	  			[<minecraft:cobblestone:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>]
+	  			[<tt:secret_spice>, <erebus:materials:64>, <tt:secret_spice>],
+	   			[<tt:op_soft_taco>, <tt:secret_spice>, <tt:op_hard_taco>],
+	  			[<tt:secret_spice>, <tt:secret_spice>, <tt:secret_spice>]
 			]
 		]
-	},
-	<openblocks:block_placer:0> : {
-		"openblocks_block_placer" : [
-			[
-	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>],
-	   			[<minecraft:piston:0>, <midnight:dark_pearl:0>, <minecraft:cobblestone:0>],
-	  			[<minecraft:iron_ingot:0>, <minecraft:cobblestone:0>, <minecraft:cobblestone:0>]
-			]	
-		]
-	}
+	}	
 };
 
 
@@ -85,11 +74,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<openblocks:tasty_clay:0> : {
-		"openblocks_tasty_clay" : [
-			[<ore:clay>, <minecraft:dye:3>, <ore:listAllmilk>]
-		]
-	}
 };
 
 
