@@ -27,6 +27,7 @@ Xaero's World Map (1.6.2)
 
 --- Removed Mods ---
 --------------------
+Content Creator Integration - easier to be added as needed
 
 -- Config Changes --
 --------------------
@@ -112,12 +113,20 @@ PerfectSpawn.json
 
 -- Script Changes --
 --------------------
+itemModifiers/tooltips.zs
+	Added helpful tips for Edible Bugs mod items
+recipesCrafting/mods/lcrdrs.zs
+	Removed T-R3X eggs because they don't work
+recipesCrafting/mods/tacotuesday.zs
+	Changed recipes to use oredict
 recipesCrafting/mods/zawa.zs
 	remove plushie recipes
 
 -- Asset Changes --
 -------------------
 Added hot dog as special mob drop
+Fixed Taco Tuesday lang issue
+Hid additional unnecessary items in JEI
 
 
 -- Other Changes --

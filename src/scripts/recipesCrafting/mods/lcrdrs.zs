@@ -1,5 +1,5 @@
 /*
-	100% Organic Free-Range Taco Tuesday Crafting Table recipes script.
+	100% Organic Free-Range Laser Creeper Robot Dino Riders From Space Crafting Table recipes script.
 	This script is for adding and removing recipes by mod.
 	Rename this script for the mod it's modifying.
 */
@@ -12,13 +12,6 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<tt:super_op_taco>,
-<tt:soft_beef_taco>,
-<tt:hard_beef_taco>,
-<tt:soft_pork_taco>,
-<tt:hard_pork_taco>,
-<tt:soft_chicken_taco>,
-<tt:hard_chicken_taco>
 ];
 
 /*
@@ -26,6 +19,8 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<lcrdrfs:robo_dino_egg_crafted>,
+<lcrdrfs:robo_dino_egg_item>
 ];
 
 
@@ -42,15 +37,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<tt:super_op_taco> : {
-		"tt_super_op_taco" : [
-			[
-	  			[<tt:secret_spice>, <erebus:materials:64>, <tt:secret_spice>],
-	   			[<tt:op_soft_taco>, <tt:secret_spice>, <tt:op_hard_taco>],
-	  			[<tt:secret_spice>, <tt:secret_spice>, <tt:secret_spice>]
-			]
-		]
-	}	
 };
 
 
@@ -79,36 +65,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-<tt:soft_beef_taco> : {
-		"tt_soft_beef_taco" : [
-			[<tt:soft_tortilla>, <ore:listAllbeefcooked>]
-		]
-	},
-<tt:soft_pork_taco> : {
-		"tt_soft_pork_taco" : [
-			[<tt:soft_tortilla>,  <ore:listAllporkcooked>]
-		]
-	},
-<tt:soft_chicken_taco> : {
-		"tt_soft_chicken_taco" : [
-			[<tt:soft_tortilla>,  <ore:listAllchickencooked>]
-		]
-	},
-<tt:hard_beef_taco> : {
-		"tt_hard_beef_taco" : [
-			[<tt:hard_tortilla>, <ore:listAllbeefcooked>]
-		]
-	},
-<tt:hard_pork_taco> : {
-		"tt_hard_pork_taco" : [
-			[<tt:hard_tortilla>,  <ore:listAllporkcooked>]
-		]
-	},
-<tt:hard_chicken_taco> : {
-		"tt_hard_chicken_taco" : [
-			[<tt:hard_tortilla>,  <ore:listAllchickencooked>]
-		]
-	}
 };
 
 

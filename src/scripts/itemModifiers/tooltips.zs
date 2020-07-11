@@ -69,6 +69,30 @@ for item in zawaPlush {
 	item.addTooltip(format.gold("Available from the Arcade Prize Counter or the Lucky Egg Machine"));
 }
 
+static rawBugs as IItemStack[] = [
+	<ediblebugs:termite>,
+	<ediblebugs:grassbugs>,
+	<ediblebugs:grassbugs:1>,
+	<ediblebugs:grassbugs:2>,
+	<ediblebugs:grassbugs:3>,
+	<ediblebugs:woodbugs>,
+	<ediblebugs:woodbugs:1>,
+	<ediblebugs:woodbugs:2>,
+	<ediblebugs:woodbugs:3>,
+	<ediblebugs:dirtbugs>,
+	<ediblebugs:dirtbugs:1>,
+	<ediblebugs:dirtbugs:2>,
+	<ediblebugs:dirtbugs:3>,
+	<ediblebugs:sandbugs>,
+	<ediblebugs:sandbugs:1>,
+	<ediblebugs:sandbugs:2>,
+	<ediblebugs:sandbugs:3>
+];
+
+for item in rawBugs {
+	item.addTooltip(format.gold("Can be cooked in Fryer"));
+}
+
 
 /*
 	Individual items with their own unique tooltip
@@ -180,6 +204,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<soviet:wrench> : [
 		format.gold("Used to open rusty Soviet doors and trapdoors.")
+	],
+	<ediblebugs:ebfryeridle> : [
+		format.gold("Cooks bugs using Vegetable Oil bottles.")
 	]
 };
 
