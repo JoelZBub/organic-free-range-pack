@@ -33,6 +33,10 @@ PerfectSpawn (By Lumien231)
 
 -- Config Changes --
 --------------------
+cgm.cfg	
+	deafen {
+		D:"Ring Volume"=0.5
+		I:"Sound Fade Threshold"=50
 CustomMainMenu/mainmenu.json
 	"packTxt":
         "text" : "Public Release Build: 1.0.2",
@@ -75,6 +79,7 @@ recipesCrafting/tacotuesday.zs
 
 -- Asset Changes --
 -------------------
+Lowered volume of stun grenade sounds
 
 -- Other Changes --
 ------------------- 
