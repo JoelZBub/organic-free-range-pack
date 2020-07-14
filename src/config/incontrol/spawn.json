@@ -57,7 +57,7 @@
         "dimension": 69,
         "mob": "lcrdrfs:jet_pack_spider",
         "mincount": {
-          "amount": 10
+          "amount": 5
         },
         "result": "deny"
     },

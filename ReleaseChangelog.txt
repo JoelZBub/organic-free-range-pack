@@ -16,28 +16,54 @@ Topography 1.10.1 (no need to upset the cart with update.)
 
 -- Added Mods --
 ----------------
+Bad Wither No Cookie - Reloaded (By Kreezxil)
+PerfectSpawn (By Lumien231)
 
 -- Updated Mods --
 ------------------
 
+
 -- Reverted Mods --
 -------------------
-Xaero's Minimap (20.12.2)
-Xaero's World Map (1.6.2)
+
 
 --- Removed Mods ---
 --------------------
-Content Creator Integration - easier to be added as needed
+
 
 -- Config Changes --
 --------------------
+CustomMainMenu/mainmenu.json
+	"packTxt":
+        "text" : "Public Release Build: 1.0.2",
+defaultoptions/keybindings.txt
+	Adjusted default keys based on player feedback
 incontrol/loot.json
+	"item": "stupidthings:rubber_chicken"
+		"random": 0.25,
 	Added a true story (Easter Egg)
+incontrol/spawn.json
+	"mob": "lcrdrfs:jet_pack_spider",
+		"amount": 5
+inventorypets/inventorypets.cfg
+	B:"Disable Quiver"=true
+	B:"Disable Quiver Recipe"=true
+	I:"Juggernaut Cooldown (0-10) minutes"=5
+    I:"Juggernaut Cooldown (0-5) minutes"=5
+JEI/itemBlacklist.cfg
+	dragonmounts:block_dragon_shulker
+mowziesmobs.cfg
+	naga {
+		I:spawn_rate=5
+PerfectSpawn.json
+	Prevent respawning in Cavern, Huge Cavern, and Aqua Cavern
 randomthings.cfg
 	B:EnderAnchorChunkloading=false
 
 -- Script Changes --
 --------------------
+itemModifiers/oreDict/woodMaterials.zs
+	Added all additional wooden trapdoors to <ore:trapdoorWood>
 recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/openblocks.zs
@@ -105,11 +131,18 @@ CustomMainMenu/mainmenu.json
 incontrol/loot.json
 	Added booger drops to Withercrumbs
 	Added drop to Booger Eaters
+incontrol/spawn.json
+	"mob": "lcrdrfs:jet_pack_spider",
+    "mincount": {
+        "amount": 4
 reccomplex.cfg
     S:spawnTweaks
         lowered chance on nestDragonWater1-3
 PerfectSpawn.json
 	removed
+tinymobfarm.cfg
+	    S:"Mob Blacklist" <
+        	minecraft:villager_golem (changed from incorrect iron_golem)
 
 -- Script Changes --
 --------------------

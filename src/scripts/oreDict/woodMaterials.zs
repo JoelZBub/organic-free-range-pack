@@ -79,3 +79,25 @@ for item in pvjLogs {
 <ore:plankWood>.remove(<mist:t_tree_step>);
 <ore:plankWood>.remove(<mist:willow_step>);
 <ore:plankWood>.remove(<mist:r_tree_step>);
+
+// Trapdoors
+<ore:trapdoorWood>.add(<midnight:shadowroot_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:dark_willow_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:dead_wood_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:tenebrum_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:nightshroom_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:dewshroom_trapdoor>);
+<ore:trapdoorWood>.add(<midnight:viridshroom_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:willow_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:mangrove_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:palm_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:redwood_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:fir_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:pine_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:aspen_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:maple_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:baobab_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:cottonwood_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:juniper_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:cherry_blossom_trapdoor>);
+<ore:trapdoorWood>.add(<pvj:jacaranda_trapdoor>);

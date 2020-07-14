@@ -1,0 +1,25 @@
+{
+    "general": {
+        "initialSpawnDimension": 0
+    },
+    "rules": [
+        {
+            "appliesTo": [
+                -50
+            ],
+            "canRespawnHere": false
+        },
+        {
+            "appliesTo": [
+                -51
+            ],
+            "canRespawnHere": false
+        },
+        {
+            "appliesTo": [
+                -52
+            ],
+            "canRespawnHere": false
+        }
+    ]
+}

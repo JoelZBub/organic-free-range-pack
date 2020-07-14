@@ -3,7 +3,7 @@
         "mob": "headcrumbs:human",
         "player": true,
         "helditem": "cyclicmagic:emerald_sword",
-        "random": 0.75,
+        "random": 0.25,
         "nbt": {
             "ench": [
                 {
