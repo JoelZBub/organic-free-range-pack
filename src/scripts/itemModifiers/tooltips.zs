@@ -207,6 +207,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<ediblebugs:ebfryeridle> : [
 		format.gold("Cooks bugs using Vegetable Oil bottles.")
+	],
+	<thermalfoundation:wrench> : [
+		format.gold("The wrench you're probably looking for.")
 	]
 };
 
