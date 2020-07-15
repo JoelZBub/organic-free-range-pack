@@ -11,8 +11,7 @@ import crafttweaker.item.IItemStack;
 static netItems as IItemStack[] = [
 	<cyclicmagic:magic_net:0>,
 	<randomthings:summoningpendulum:0>,
-	<thermalexpansion:morb:0>,
-	<tinymobfarm:lasso:0>
+	<thermalexpansion:morb:0>
 ];
 
 for item in netItems {

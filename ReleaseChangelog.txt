@@ -69,6 +69,8 @@ tinymobfarm.cfg
 
 -- Script Changes --
 --------------------
+itemModifiers/tooltips.zs
+	Removed tip from Tiny Mob Farm Lasso about treating like a mob net, since it doesn't really work that way.
 itemModifiers/oreDict/woodMaterials.zs
 	Added all additional wooden trapdoors to <ore:trapdoorWood>
 recipesCrafting/arcademod.zs
