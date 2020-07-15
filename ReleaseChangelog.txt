@@ -63,6 +63,9 @@ PerfectSpawn.json
 	Prevent respawning in Cavern, Huge Cavern, and Aqua Cavern
 randomthings.cfg
 	B:EnderAnchorChunkloading=false
+tinymobfarm.cfg
+	S:"Mob Blacklist" <
+		deepmoblearning:glitch
 
 -- Script Changes --
 --------------------
