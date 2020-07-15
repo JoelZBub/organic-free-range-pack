@@ -39,6 +39,8 @@ static itemRecipeRemoval as IItemStack[] = [
 	<zawa:steel_bars:0>
 ];
 
+recipes.removeByRecipeName("zawa:leather_tiger");
+
 /*
 	Recipe and JEI Removals by Item
 */
