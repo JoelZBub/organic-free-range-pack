@@ -33,6 +33,8 @@ PerfectSpawn (By Lumien231)
 
 -- Config Changes --
 --------------------
+animania.cfg
+	B:tamedAnimalsTeleport=false
 cgm.cfg	
 	deafen {
 		D:"Ring Volume"=0.5
