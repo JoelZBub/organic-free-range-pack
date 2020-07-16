@@ -21,6 +21,8 @@ furnace.addRecipe(IItemStack output, IIngredient input, double xp);
 */
 
 furnace.addRecipe(<bamboozled:bamboo_dried:0>, <erebus:materials:3>, 0.3);
+furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
+furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);
 furnace.addRecipe(<bamboozled:bamboo_dried:0>, <tropicraft:bamboo_shoot:0>, 0.3);
 furnace.addRecipe(<ediblebugs:termitebrick:0>, <ediblebugs:termiteclay:0>, 0.25);
 furnace.addRecipe(<minecraft:brick:0>, <minecraft:clay_ball:0>, 0.3);

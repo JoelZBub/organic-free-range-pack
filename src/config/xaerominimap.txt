@@ -18,7 +18,7 @@ showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:false
+oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:true
