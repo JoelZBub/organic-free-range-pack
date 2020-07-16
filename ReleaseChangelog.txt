@@ -83,6 +83,8 @@ recipesCrafting/tacotuesday.zs
 	Made Tier 3 Taco (OP Taco) more difficult to craft
 recipesCrafting/zawa.zs
 	Fixed broken recipe in mod
+recipesMachines/thermalexpansion/redstonefurnace.zs
+	Removed script contents due to changes to Rats nuggets item IDs
 
 -- Asset Changes --
 -------------------
