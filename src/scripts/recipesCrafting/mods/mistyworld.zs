@@ -12,7 +12,6 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<mist:latex_pot>
 ];
 
 /*
@@ -20,6 +19,7 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+<mist:latex_pot>
 ];
 
 recipes.removeByRecipeName("mist:rubber");

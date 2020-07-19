@@ -71,6 +71,13 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]
 			]
 		]
+	},	
+	<zawa:rope> : {
+		"zawa_rope" : [
+			[
+	  			[<zawa:thin_rope>, null, <zawa:thin_rope>]
+			]
+		]
 	}	
 };
 
