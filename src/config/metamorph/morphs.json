@@ -706,34 +706,34 @@
     "zawa:octopus": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:marine_tang": {
+    "zawa:marinetang": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:puffer_fish": {
+    "zawa:pufferfish": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:sockeye_salmon": {
+    "zawa:sockeyesalmon": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:clown_fish": {
+    "zawa:clownfish": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:blue_fish": {
+    "zawa:bluefish": {
         "abilities": ["swim", "water_breath"]
     },
-    "zawa:great_white_shark": {
+    "zawa:greatwhiteshark": {
         "abilities": ["swim", "water_breath", "night_vision"]
     },
-    "zawa:moray_eel": {
+    "zawa:morayeel": {
         "abilities": ["swim", "water_breath", "night_vision"]
     },
-    "zawa:common_chimpanzee": {
+    "zawa:commonchimpanzee": {
         "abilities": ["climb"]
     },
-    "zawa:tree_squirrel": {
+    "lilcritters:treesquirrel": {
         "abilities": ["climb"]
     },
-    "zawa:black_spider_monkey": {
+    "zawa:blackspidermonkey": {
         "abilities": ["climb"]
     },
     "zawa:koala": {
@@ -748,16 +748,16 @@
     "zawa:toucan": {
         "abilities": ["glide"]
     },
-    "zawa:great_horned_owl": {
+    "zawa:greathornedowl": {
         "abilities": ["glide"]
     },
-    "zawa:bald_eagle": {
+    "zawa:baldeagle": {
         "abilities": ["glide"]
     },
-    "zawa:andean_condor": {
+    "zawa:andeancondor": {
         "abilities": ["glide"]
     },
-    "zawa:harpy_eagle": {
+    "zawa:harpyeagle": {
         "abilities": ["glide"]
     },
     "mist:desert_fish": {
