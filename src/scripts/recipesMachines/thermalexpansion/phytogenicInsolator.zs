@@ -16,6 +16,8 @@ Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_green:0> * 9, <thermalf
 Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink:0> * 3, <thermalfoundation:fertilizer:0>, <leopardengruen37:glowing_cocoa_dust_pink:0>, 4800);
 Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink:0> * 6, <thermalfoundation:fertilizer:1>, <leopardengruen37:glowing_cocoa_dust_pink:0>, 7200);
 Insolator.addRecipe(<leopardengruen37:glowing_cocoa_dust_pink:0> * 9, <thermalfoundation:fertilizer:2>, <leopardengruen37:glowing_cocoa_dust_pink:0>, 9600);
+/*
 Insolator.addRecipe(<minecraft:poisonous_potato>, <thermalfoundation:fertilizer:0>, <minecraft:poisonous_potato>, 4800);
 Insolator.addRecipe(<minecraft:poisonous_potato> * 2, <thermalfoundation:fertilizer:1>, <minecraft:poisonous_potato>, 7200);
-Insolator.addRecipe(<minecraft:poisonous_potato> * 3, <thermalfoundation:fertilizer:2>, <minecraft:poisonous_potato>, 9600);
+Insolator.addRecipe(<minecraft:poisonous_potato> * 3, <thermalfoundation:fertilizer:2>, <minecraft:poisonous_potato>, 9600); 
+*/

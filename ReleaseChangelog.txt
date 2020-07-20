@@ -1,23 +1,26 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - Week of 2020/07/05 - 2020/07/11
-        Version : 1.0.2
+        Changelog - 2020/07/20 - 
+        Version : TBD
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
 -----------------
 Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
+Building Gadgets 2.8.3 (No needed features in update)
 BnBGamingCore 0.11.0 (No needed features in update)
 Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
 CraftTweaker 4.1.20.574 (Release branch)
+InControl 3.9.16 (No needed features in update)
+JEI (4.15.0.296) (Release branch)
+Misty World 1.2.4.7 (Just can't take more of this, mkay?)
 Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 Topography 1.10.1 (no need to upset the cart with update.)
 
 
 -- Added Mods --
 ----------------
-Bad Wither No Cookie - Reloaded (By Kreezxil)
-PerfectSpawn (By Lumien231)
+
 
 -- Updated Mods --
 ------------------
@@ -29,6 +32,61 @@ PerfectSpawn (By Lumien231)
 
 --- Removed Mods ---
 --------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Other Changes --
+------------------- 
+
+
+
+-------------------------------------------------------------------------------  
+       	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/07/05 - 2020/07/19
+        Version : 1.0.2
+-------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
+Building Gadgets 2.8.3 (No needed features in update)
+BnBGamingCore 0.11.0 (No needed features in update)
+Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+CraftTweaker 4.1.20.574 (Release branch)
+InControl 3.9.16 (No needed features in update)
+JEI (4.15.0.296) (Release branch)
+Misty World 1.2.4.7 (Just can't take more of this, mkay?)
+Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
+Topography 1.10.1 (no need to upset the cart with update.)
+
+
+-- Added Mods --
+----------------
+Bad Wither No Cookie - Reloaded (By Kreezxil)
+PerfectSpawn (By Lumien231)
+
+
+-- Updated Mods --
+------------------
+Cyclic (1.20.3 to 1.20.4)
+Cyclops Core (1.6.4 to 1.6.5)
+DaVinci's Vessels (6.340 to 6.355)
+Integrated Dynamics (1.1.6 to 1.1.7)
+Moving World (6.342 to 6.353)
+Trophies:ZAWA Addon (1.0.3 to 1.0.4)
+Xaero's Minimap (20.12.2 to 20.16.0.2)
+Xaero's World Map (1.6.2 to 1.7.4)
 
 
 -- Config Changes --
@@ -57,14 +115,35 @@ inventorypets/inventorypets.cfg
 	I:"Juggernaut Cooldown (0-10) minutes"=5
     I:"Juggernaut Cooldown (0-5) minutes"=5
 JEI/itemBlacklist.cfg
+	cfm:item_drink
+	chisel:block_coal_coke
+	chisel:blockcobalt
+	chisel:block_coal_coke1
+	chisel:block_coal_coke2
 	dragonmounts:block_dragon_shulker
+metamorph/morphs.json
+	fixed zawa names
 mowziesmobs.cfg
 	naga {
-		I:spawn_rate=5
+		spawn_data
+			S:allowed_blocks <
+            	grass
+            	stone
+            	sand
+            	gravel
+        	>
+			I:spawn_rate=5
+		biome_data
+			S:biome_type <
+                BEACH,EXTREME HILLS
+                BEACH,EXTREME HILLS+
+             >
 PerfectSpawn.json
 	Prevent respawning in Cavern, Huge Cavern, and Aqua Cavern
 randomthings.cfg
 	B:EnderAnchorChunkloading=false
+reccomplex
+	lowered spawn rates further on water dragon nests.
 tinymobfarm.cfg
 	S:"Mob Blacklist" <
 		deepmoblearning:glitch
@@ -77,6 +156,9 @@ itemModifiers/tooltips.zs
 	Removed tip from Tiny Mob Farm Lasso about treating like a mob net, since it doesn't really work that way.
 itemModifiers/oreDict/woodMaterials.zs
 	Added all additional wooden trapdoors to <ore:trapdoorWood>
+jei/categories.zs
+	mods.jei.JEI.hideCategory("jev:fluid_extractor");
+	mods.jei.JEI.hideCategory("jev:fluid_mixer");
 recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/openblocks.zs
@@ -90,6 +172,8 @@ recipesCrafting/zawa.zs
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
 	furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);
+recipesMachines/thermalexpansion/phytogenicinsolator.zs
+	added and commented out poison potato recipe
 recipesMachines/thermalexpansion/redstonefurnace.zs
 	Removed script contents due to changes to Rats nuggets item IDs
 

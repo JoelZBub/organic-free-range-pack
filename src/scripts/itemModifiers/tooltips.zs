@@ -144,7 +144,7 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 		format.gold("Not the kind made of chick peas and tahini")
 	],
 	<tropicraft:coral:2>: [
-		format.gold("Big Braim Energy!")
+		format.gold("Big Braim Energy! Get it in the Tropics!")
 	],
 	<yoyos:diamond_yoyo:0>: [
 		format.gold("Diamond YoYo")
