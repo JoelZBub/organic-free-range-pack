@@ -78,7 +78,24 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<zawa:thin_rope>, null, <zawa:thin_rope>]
 			]
 		]
-	}	
+	},
+	<zawa:river_stone> * 4: {
+		"zawa_river_stone" : [
+			[
+	  			[null, <minecraft:gravel>, null],
+	  			[<minecraft:clay>, <ore:cobblestone>, <minecraft:clay>],
+	  			[null, <minecraft:gravel>, null]
+			]
+		]
+	},
+	<zawa:mixed_stone> * 4 : {
+		"zawa_mixed_stone" : [
+			[
+	  			[<zawa:river_stone>, <zawa:river_stone>],
+	  			[<zawa:river_stone>, <zawa:river_stone>]
+			]
+		]
+	}
 };
 
 

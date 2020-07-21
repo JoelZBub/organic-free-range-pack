@@ -125,6 +125,7 @@ recipesCrafting/tacotuesday.zs
 	Made Tier 3 Taco (OP Taco) more difficult to craft
 recipesCrafting/zawa.zs
 	Fixed broken recipe in mod
+	Added recipes for rope, river stone, mixed stone, and mossy mixed stone
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
 	furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);

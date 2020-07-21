@@ -12,3 +12,6 @@ Transposer.addFillRecipe(<ediblebugs:vegetableoil:0>, <minecraft:glass_bottle:0>
 
 Transposer.addFillRecipe(<mist:latex>, <thermalfoundation:material:771>, <liquid:liquidlatex> * 1000 , 250);
 Transposer.addFillRecipe(<mist:latex>, <mist:sulfur>, <liquid:liquidlatex> * 1000 , 250);
+
+
+Transposer.addFillRecipe(<zawa:mixed_stone_mossy>, <zawa:mixed_stone>, <liquid:water> * 100 , 100);
