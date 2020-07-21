@@ -9,7 +9,7 @@
         },
         {
                 "type": "text",
-                "text": "• $(l)Emerald:$() This is your first cavern, where you earn skill by mining to access the more advanced caverns below$(p)• $(l)Diamond:$() Large cavern$(p)• $(l)Aquamarine:$() Aqua Cavern$(p)• $(l)Mirage World Books:$() found in cavern libraries, these books access unique and rare Mirage dimensions. These libraries are hidden withing the stone of the first cavern dimension."
+                "text": "• $(l)Emerald:$() This is your first cavern, where you earn skill by mining to access the more advanced caverns below$(p)• $(l)Diamond:$() Large cavern$(p)• $(l)Aquamarine:$() Aqua Cavern$(p)• $(l)Mirage World Books:$() found in cavern libraries, these books access unique and rare Mirage dimensions. These libraries are hidden within the stone of the first cavern dimension."
         },
         {
             "type": "image",
