@@ -33,7 +33,8 @@ static displayNameChange as string[IItemStack] = {
 	<zawa:bird_meat_cooked>: "Cooked Birb Meat",
 	<zawa:bird_kibble>: "Birb Kibble",
 	<zawa:bird_vial>: "Birb Vial",
-	<zawa:bird_perch>: "Birb Perch"
+	<zawa:bird_perch>: "Birb Perch",
+	<tropicraft:coral:2>: "Big Braim Coral"
 };
 
 

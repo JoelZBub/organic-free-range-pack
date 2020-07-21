@@ -22,8 +22,7 @@ Topography 1.10.1 (no need to upset the cart with update.)
 -- Added Mods --
 ----------------
 Bad Wither No Cookie - Reloaded (By Kreezxil)
-
-Overworld Respawn (by Noobanidus)		or		PerfectSpawn (By Lumien231)
+Overworld Respawn (by Noobanidus)
 
 
 -- Updated Mods --
@@ -43,6 +42,8 @@ Xaero's World Map (1.6.2 to 1.7.4)
 --------------------
 animania.cfg
 	B:tamedAnimalsTeleport=false
+caverns/mirageworld-dimension.cfg
+	I:skyland=0
 cgm.cfg	
 	deafen {
 		D:"Ring Volume"=0.5
@@ -88,8 +89,6 @@ mowziesmobs.cfg
                 BEACH,EXTREME HILLS
                 BEACH,EXTREME HILLS+
              >
-PerfectSpawn.json
-	Prevent respawning in Cavern, Huge Cavern, and Aqua Cavern
 randomthings.cfg
 	B:EnderAnchorChunkloading=false
 reccomplex
@@ -105,8 +104,12 @@ xaerominimap.txt
 
 -- Script Changes --
 --------------------
+itemModifiers/displayNames.zs
+	Renamed Tropicraft Brain Coral to help clear up confusions
 itemModifiers/tooltips.zs
 	Removed tip from Tiny Mob Farm Lasso about treating like a mob net, since it doesn't really work that way.
+	Added tip to ZAWA Brain Coral to help clear up confusion, good luck
+	Aded tip about silk touching villager blocks to keep trades
 itemModifiers/oreDict/woodMaterials.zs
 	Added all additional wooden trapdoors to <ore:trapdoorWood>
 jei/categories.zs
@@ -125,6 +128,11 @@ recipesCrafting/zawa.zs
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
 	furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);
+	furnace.remove(<soviet:soviet_steel>);
+	furnace.addRecipe(<soviet:soviet_steel> * 2, <soviet:iron_beam_thin_vertical>, 0.3);
+	furnace.addRecipe(<soviet:soviet_steel> * 2, <soviet:iron_beam_thin>, 0.3);
+	furnace.addRecipe(<soviet:soviet_steel> * 13, <soviet:iron_beam_vertical>, 0.3);
+	furnace.addRecipe(<soviet:soviet_steel> * 13, <soviet:iron_beam>, 0.3);
 recipesMachines/thermalexpansion/phytogenicinsolator.zs
 	added and commented out poison potato recipe
 recipesMachines/thermalexpansion/redstonefurnace.zs
@@ -133,6 +141,9 @@ recipesMachines/thermalexpansion/redstonefurnace.zs
 -- Asset Changes --
 -------------------
 Lowered volume of stun grenade sounds
+Updated Misty World entry in guidebook
+Added FAQs section to guidebook
+Added link to unoffical wiki list in Getting Started section of guidebook
 
 
 

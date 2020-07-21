@@ -18,6 +18,14 @@
         {
                 "type": "text",
                 "text": "$(d)$(l)NERD ALERT$(): The $(6)Akashic Tome$() is a directory of the “mod user manuals” included in-game by mod devs. $(o)Allegedly$(), they’re filled with egghead info about certain mods, written by the mod devs themselves. The Tome works by morphing into books selected through the GUI. To unmorph, simply $(5)left-click$() the tome in air.$(br2)Or just use The Google."
+        },
+        {
+                "type": "text",
+                "text": "A big THANK YOU to Vinamin, who voluntarily is compiling this list of wikis and info pages for mods in this pack for the community. $(l:https://docs.google.com/document/d/1UWBoyWwPXFAkgvvBCFuh8R0ACdu_U1tOjhhKXRSaHbI)Click here to check it out.$(/l) Maybe you'll find something here that is helpful.$(p)This is not an officially licensed Organic OR Free-Range source, results are not guaranteed!"
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
         }
     ]
 }

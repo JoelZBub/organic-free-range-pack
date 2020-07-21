@@ -13,6 +13,7 @@ import crafttweaker.item.IIngredient;
  furnace.remove(IIngredient output, IIngredient input);
  */
 furnace.remove(<minecraft:brick:0>);
+furnace.remove(<soviet:soviet_steel>);
 
 
 /* Add
@@ -29,6 +30,10 @@ furnace.addRecipe(<minecraft:brick:0>, <minecraft:clay_ball:0>, 0.3);
 furnace.addRecipe(<minecraft:brick:0>, <mist:clay_ball:1>, 0.3);
 furnace.addRecipe(<minecraft:brick:0>, <mist:clay_ball:0>, 0.3);
 furnace.addRecipe(<mist:rubber:0>, <mist:latex:0>, 0.3);
+furnace.addRecipe(<soviet:soviet_steel> * 2, <soviet:iron_beam_thin_vertical>, 0.3);
+furnace.addRecipe(<soviet:soviet_steel> * 2, <soviet:iron_beam_thin>, 0.3);
+furnace.addRecipe(<soviet:soviet_steel> * 13, <soviet:iron_beam_vertical>, 0.3);
+furnace.addRecipe(<soviet:soviet_steel> * 13, <soviet:iron_beam>, 0.3);
 
 /* Fuel
 furnace.setFuel(IIngredient input, int burnTime);

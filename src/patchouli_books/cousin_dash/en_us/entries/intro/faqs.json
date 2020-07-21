@@ -1,0 +1,15 @@
+{
+    "name": "04 - FAQs",
+    "icon": "contenttweaker:organic_booger",
+    "category": "intro",
+    "pages": [
+        {
+                "type": "text",
+                "text": "• We know the RV would look better facing THAT way, but unfortuantely, they do not rotate due to certain items located inside.$(p)•Vanilla Mob Spawners have been set to disappear after spawning 100 mobs. Don't be surprised when it's gone. Use Tiny Mob Farms or Deep Mob Learning instead."
+        },
+        {
+                "type": "text",
+                "text": "• We know you like <Insert Mod Here>, but we didn't put it in this pack. This pack was carefully assembled, with months of work, and we do not recommend adding anything additional. If you do, we will not provide support for any issues. <3 Also, we have no plans to add more mods to this lovely crafted modpack.$(p)• The $(l:https://www.curseforge.com/minecraft/modpacks/uncle-gennys-100-organic-free-range-modpack)Curseforge Page$(/l) has more info and FAQs about performance settings. Check it out."
+        }
+    ]
+}

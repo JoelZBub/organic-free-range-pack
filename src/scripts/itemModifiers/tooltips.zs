@@ -209,6 +209,13 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	],
 	<thermalfoundation:wrench> : [
 		format.gold("The wrench you're probably looking for.")
+	],
+	<cubicvillager:villager_block_trade> : [
+		format.gold("Silk Touch to keep the same trades.")
+	],
+	<zawa:brain_coral> : [
+		format.gold("This one is NOT used for crafting."),
+		format.red("- Decoration Only -"),
 	]
 };
 
