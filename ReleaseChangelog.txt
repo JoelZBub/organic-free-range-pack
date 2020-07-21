@@ -1,59 +1,7 @@
--------------------------------------------------------------------------------  
-       	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/07/20 - 
-        Version : TBD
--------------------------------------------------------------------------------
-
--- Mod Freezes --
------------------
-Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
-Building Gadgets 2.8.3 (No needed features in update)
-BnBGamingCore 0.11.0 (No needed features in update)
-Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
-CraftTweaker 4.1.20.574 (Release branch)
-InControl 3.9.16 (No needed features in update)
-JEI (4.15.0.296) (Release branch)
-Misty World 1.2.4.7 (Just can't take more of this, mkay?)
-Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
-Topography 1.10.1 (no need to upset the cart with update.)
-
-
--- Added Mods --
-----------------
-
-
--- Updated Mods --
-------------------
-
-
--- Reverted Mods --
--------------------
-
-
---- Removed Mods ---
---------------------
-
-
--- Config Changes --
---------------------
-
-
--- Script Changes --
---------------------
-
-
--- Asset Changes --
--------------------
-
-
--- Other Changes --
-------------------- 
-
-
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/07/05 - 2020/07/19
+        Changelog - 2020/07/05 - 2020/07/21
         Version : 1.0.2
 -------------------------------------------------------------------------------
 
@@ -74,7 +22,8 @@ Topography 1.10.1 (no need to upset the cart with update.)
 -- Added Mods --
 ----------------
 Bad Wither No Cookie - Reloaded (By Kreezxil)
-PerfectSpawn (By Lumien231)
+
+Overworld Respawn (by Noobanidus)		or		PerfectSpawn (By Lumien231)
 
 
 -- Updated Mods --
@@ -84,6 +33,7 @@ Cyclops Core (1.6.4 to 1.6.5)
 DaVinci's Vessels (6.340 to 6.355)
 Integrated Dynamics (1.1.6 to 1.1.7)
 Moving World (6.342 to 6.353)
+Simply Cats (0.0.2.2 to 0.0.3.0)
 Trophies:ZAWA Addon (1.0.3 to 1.0.4)
 Xaero's Minimap (20.12.2 to 20.16.0.2)
 Xaero's World Map (1.6.2 to 1.7.4)
@@ -144,11 +94,14 @@ randomthings.cfg
 	B:EnderAnchorChunkloading=false
 reccomplex
 	lowered spawn rates further on water dragon nests.
+simplycats.cfg
+	transfer settings to new config
 tinymobfarm.cfg
 	S:"Mob Blacklist" <
 		deepmoblearning:glitch
 xaerominimap.txt
 	oldDeathpoints:true
+
 
 -- Script Changes --
 --------------------
@@ -181,8 +134,6 @@ recipesMachines/thermalexpansion/redstonefurnace.zs
 -------------------
 Lowered volume of stun grenade sounds
 
--- Other Changes --
-------------------- 
 
 
 
@@ -200,10 +151,6 @@ Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
 CraftTweaker 4.1.20.574 (Release branch)
 Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
 Topography 1.10.1 (no need to upset the cart with update.)
-
-
--- Added Mods --
-----------------
 
 
 -- Updated Mods --
