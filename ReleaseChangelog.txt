@@ -104,6 +104,8 @@ tinymobfarm.cfg
 		deepmoblearning:glitch
 xaerominimap.txt
 	oldDeathpoints:true
+ZooAndWildAnimalsRebuilt1.12.2-2.1.0/ZAWA1.12.2-2.1.0.cfg
+	I:"Worm Drop Chance"=0
 
 
 -- Script Changes --
