@@ -40,6 +40,8 @@ key_Select:157:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
 key_quark.keybind.lockBuilding:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -58,8 +60,6 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:0:NONE
 key_key.cavern.miningAssist:49:CONTROL
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:0:NONE

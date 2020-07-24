@@ -194,3 +194,4 @@ gui.xaero_open_settings
 gui.xaero_map_zoom_in
 gui.xaero_map_zoom_out
 gui.xaero_quick_confirm
+key.secretroomsmod.oneWayface
