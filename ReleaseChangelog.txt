@@ -9,7 +9,6 @@
 -----------------
 Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
 Building Gadgets 2.8.3 (No needed features in update)
-BnBGamingCore 0.11.0 (No needed features in update)
 Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
 CraftTweaker 4.1.20.574 (Release branch)
 InControl 3.9.16 (No needed features in update)
@@ -27,14 +26,19 @@ Overworld Respawn (by Noobanidus)
 
 -- Updated Mods --
 ------------------
+Common Capabilities (2.4.6 to 2.4.7)
+Corpse (1.0.7 to 1.0.8)
 Cyclic (1.20.3 to 1.20.4)
-Cyclops Core (1.6.4 to 1.6.5)
+Cyclops Core (1.6.4 to 1.6.5 to 1.6.6)
 DaVinci's Vessels (6.340 to 6.355)
+Integrated Crafting (1.0.9 to 1.0.10)
 Integrated Dynamics (1.1.6 to 1.1.7)
+Integrated Terminals (1.0.13 to 1.0.14)
+Integrated Tunnels (1.6.11 to 1.6.12)
 Moving World (6.342 to 6.353)
 Simply Cats (0.0.2.2 to 0.0.3.0)
 Trophies:ZAWA Addon (1.0.3 to 1.0.4)
-Xaero's Minimap (20.12.2 to 20.16.0.2)
+Xaero's Minimap (20.12.2 to 20.16.0.2 to 20.17.0)
 Xaero's World Map (1.6.2 to 1.7.4)
 
 
@@ -117,6 +121,8 @@ jei/categories.zs
 	mods.jei.JEI.hideCategory("jev:fluid_mixer");
 recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
+recipesCrafting/crayfishfurniture.zs
+	remove/replace log_item recipe to fix dupe bug
 recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
 recipesCrafting/rftools.zs
@@ -158,7 +164,6 @@ Added link to unoffical wiki list in New to Modded section of guidebook
 -- Mod Freezes --
 -----------------
 Athenaeum 1.18.1 (everything works, no need to start changing stuff now)
-BnBGamingCore 0.11.0 (No needed features in update)
 Caverns 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
 CraftTweaker 4.1.20.574 (Release branch)
 Soviet Era Mod 0.4.0.15 (*throws hand ups* DONE!)
