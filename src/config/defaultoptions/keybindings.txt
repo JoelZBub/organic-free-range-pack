@@ -39,9 +39,9 @@ key_Right:205:NONE
 key_Select:157:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -170,7 +170,7 @@ key_key.itemzoom.zoom.out:0:NONE
 key_key.toggleLiquids:38:CONTROL
 key_key.toggleVisible:0:NONE
 key_keybind.mist.mask_inventory:0:NONE
-key_keybind.mist.skill_inventory:0:NONE
+key_keybind.mist.skill_inventory:13:NONE
 key_key.porterNextDestination:0:NONE
 key_key.porterPrevDestination:0:NONE
 key_key.debugDumpNBTItem:0:NONE

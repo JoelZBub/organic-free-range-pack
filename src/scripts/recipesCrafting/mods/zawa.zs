@@ -11,32 +11,32 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<zawa:lion_plush:0>,
-	<zawa:orca_plush:0>,
-	<zawa:turtle_plush:0>,
-	<zawa:platypus_plush:0>,
-	<zawa:gorilla_plush:0>,
-	<zawa:elephant_plush:0>,
-	<zawa:monkey_plush:0>,
-	<zawa:tiger_plush:0>,
 	<zawa:bald_eagle_plush:0>,
-	<zawa:giraffe_plush:0>,
-	<zawa:grizzly_plush:0>,
-	<zawa:moose_plush:0>,
-	<zawa:octopus_plush:0>,
-	<zawa:red_panda_plush:0>,
 	<zawa:cockatoo_plush:0>,
 	<zawa:dolphin_plush:0>,
+	<zawa:elephant_plush:0>,
+	<zawa:giraffe_plush:0>,
+	<zawa:gorilla_plush:0>,
+	<zawa:grizzly_plush:0>,
 	<zawa:kangaroo_plush:0>,
-	<zawa:okapi_plush:0>,
-	<zawa:rhino_plush:0>,
-	<zawa:shark_plush:0>,
-	<zawa:zebra_plush:0>,
-	<zawa:zebra_rainbow_plush:0>,
+	<zawa:koala_plush:0>,
+	<zawa:lion_plush:0>,
 	<zawa:macaw_plush:0>,
 	<zawa:macaw_plush_red:0>,
-	<zawa:koala_plush:0>,
-	<zawa:steel_bars:0>
+	<zawa:monkey_plush:0>,
+	<zawa:moose_plush:0>,
+	<zawa:octopus_plush:0>,
+	<zawa:okapi_plush:0>,
+	<zawa:orca_plush:0>,
+	<zawa:platypus_plush:0>,
+	<zawa:red_panda_plush:0>,
+	<zawa:rhino_plush:0>,
+	<zawa:shark_plush:0>,
+	<zawa:steel_bars:0>,
+	<zawa:tiger_plush:0>,
+	<zawa:turtle_plush:0>,
+	<zawa:zebra_plush:0>,
+	<zawa:zebra_rainbow_plush:0>
 ];
 
 recipes.removeByRecipeName("zawa:leather_tiger");
@@ -63,19 +63,11 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<zawa:steel_bars> : {
-		"zawa_steel_bars" : [
+	<zawa:mixed_stone> * 4 : {
+		"zawa_mixed_stone" : [
 			[
-	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
-	   			[null, <ore:ingotIron>, null],
-	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]
-			]
-		]
-	},	
-	<zawa:rope> : {
-		"zawa_rope" : [
-			[
-	  			[<zawa:thin_rope>, null, <zawa:thin_rope>]
+	  			[<zawa:river_stone>, <zawa:river_stone>],
+	  			[<zawa:river_stone>, <zawa:river_stone>]
 			]
 		]
 	},
@@ -88,11 +80,28 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-	<zawa:mixed_stone> * 4 : {
-		"zawa_mixed_stone" : [
+	<zawa:rope> : {
+		"zawa_rope" : [
 			[
-	  			[<zawa:river_stone>, <zawa:river_stone>],
-	  			[<zawa:river_stone>, <zawa:river_stone>]
+	  			[<zawa:thin_rope>, null, <zawa:thin_rope>]
+			]
+		]
+	},
+	<zawa:steel_bars> : {
+		"zawa_steel_bars" : [
+			[
+	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
+	   			[null, <ore:ingotIron>, null],
+	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]
+			]
+		]
+	},
+	<zawa:zoo_cart> : {
+		"zawa_zoo_cart" : [
+			[
+				[<zawa:bench>, <minecraft:redstone_block>, <minecraft:glass>], 
+				[<minecraft:iron_block>, <minecraft:redstone>, <minecraft:iron_block>], 
+				[<zawa:tire>, null, <zawa:tire>]
 			]
 		]
 	}

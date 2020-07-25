@@ -64,6 +64,15 @@ incontrol/loot.json
 incontrol/spawn.json
 	"mob": "lcrdrfs:jet_pack_spider",
 		"amount": 5
+	"mob": "cavern:squid",
+          "amount": 60,
+	"onjoin": true,
+        "mob": [
+            "minecraft:creeper",
+            "minecraft:skeleton"
+        ],
+        "dimension": [-52,-55, -56, -57, -58, -59],
+        "result": "deny"	
 inventorypets/inventorypets.cfg
 	B:"Disable Quiver"=true
 	B:"Disable Quiver Recipe"=true
@@ -131,7 +140,7 @@ recipesCrafting/tacotuesday.zs
 	Made Tier 3 Taco (OP Taco) more difficult to craft
 recipesCrafting/zawa.zs
 	Fixed broken recipe in mod
-	Added recipes for rope, river stone, mixed stone, and mossy mixed stone
+	Added recipes for rope, river stone, mixed stone, mossy mixed stone, and zoo cart
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
 	furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);

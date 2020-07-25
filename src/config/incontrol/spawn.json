@@ -8,19 +8,28 @@
             "lcrdrfs:jet_pack_spider",
             "drones:drones.drone"
         ],
-        "dimension": [0, -50, -51, -52, -53, -54, -55, -56, -57, -58, -59, -60],
+        "dimension": [0, -50, -51, -52, -53, -54, -55, -56, -57, -58, -59],
         "result": "deny"
     },
     {
         "onjoin": true,
         "mod": "zawa",
-        "dimension": [-50, -51, -52, -53, -54, -55, -56, -57, -58, -59, -60],
+        "dimension": [-50, -51, -53, -54, -55, -56, -57, -58, -59],
         "result": "deny"
     },
     {
         "onjoin": true,
         "mod": "animania",
-        "dimension": [-50, -51, -52, -53, -54, -55, -56, -57, -58, -59, -60],
+        "dimension": [-50, -51, -52, -53, -54, -55, -56, -57, -58, -59],
+        "result": "deny"
+    },
+    {
+        "onjoin": true,
+        "mob": [
+            "minecraft:creeper",
+            "minecraft:skeleton"
+        ],
+        "dimension": [-52, -55, -56, -57, -58, -59],
         "result": "deny"
     },
     {
@@ -33,7 +42,8 @@
         "dimension": 69,
         "mob": "lcrdrfs:laser_creeper",
         "mincount": {
-          "amount": 7
+          "amount": 7,
+          "perplayer": true
         },
         "result": "deny"
     },
@@ -41,7 +51,8 @@
         "dimension": 69,
         "mob": "cyberware:cyberzombie",
         "mincount": {
-          "amount": 20
+          "amount": 20,
+          "perplayer": true
         },
         "result": "deny"
     },
@@ -49,7 +60,8 @@
         "dimension": 69,
         "mob": "lcrdrfs:robo_dino",
         "mincount": {
-          "amount": 2
+          "amount": 2,
+          "perplayer": true
         },
         "result": "deny"
     },
@@ -57,7 +69,8 @@
         "dimension": 69,
         "mob": "lcrdrfs:jet_pack_spider",
         "mincount": {
-          "amount": 5
+          "amount": 5,
+          "perplayer": true
         },
         "result": "deny"
     },
@@ -65,13 +78,23 @@
         "dimension": 69,
         "mob": "drones:drones.drone",
         "mincount": {
-          "amount": 5
+          "amount": 5,
+          "perplayer": true
         },
         "result": "deny"
     },
     {
         "dimension": 69,
         "mob": "pvj:pvj_duck",
+        "result": "deny"
+    },
+    {
+        "dimension": -52,
+        "mob": "minecraft:guardian",
+        "mincount": {
+          "amount": 8,
+          "perplayer": true
+        },
         "result": "deny"
     }
   ]
