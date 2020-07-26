@@ -42,9 +42,8 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<cavern:cave_block:3>, <minecraft:heavy_weighted_pressure_plate:0>, <minecraft:heavy_weighted_pressure_plate:0>]
 			]
 		]
-	}	
+	}
 };
-
 
 /*
 	Named Mirrored Recipes
@@ -70,7 +69,12 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 		"string_for_recipe_name" : [
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
-	}	*/	
+	}	*/
+	<fartgen:generator> : {
+		"fartgen_recycle" : [
+			[<fartgen:generator>]
+		]
+	}
 };
 
 

@@ -8,7 +8,10 @@ import crafttweaker.item.IItemStack;
 static displayNameChange as string[IItemStack] = {
 	//<modid:itemid:0>: "Display Name",
 	<arcademod:coin:0>: "Arcade Token",
+	<birdsnests:birdsnest>: "Birb's Nest",
+	<cfm:bird_bath>: "Birb Bath",
 	<cfm:toilet:0>: "Throne",
+	<coffeespawner:coffee_machine_pan:0>: "Limited Edition Gennybucks™ Coffee Maker",
 	<cyclicmagic:battery:0>: "Battery",
 	<dragonmounts:diamond_shears:0>: "Dragon Shears",
 	<hatchery:chicken_feed:0>: "Pecker Food",
@@ -19,22 +22,20 @@ static displayNameChange as string[IItemStack] = {
 	<inventorypets:cow_pet:0>: "Cow-see-um Pet",
 	<minecraft:chicken:0>: "Pecker Meat",
 	<minecraft:cooked_chicken:0>: "Cooked Pecker Meat",
+	<pvj:leaves_juniper_berried:0>: "Berried Juniper Leaves",
 	<stupidthings:rubber_chicken:0>: "Squeaky Toy Pecker",
+	<tropicraft:coral:2>: "Big Braim Coral",
+	<withercrumbs:crumb_star:0>: "BoogerStar",
 	<yoyos:diamond_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:gold_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:iron_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:stone_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
 	<yoyos:wooden_yoyo:0>: ":hermitYoYoYo: :hermitYoYoYo: :hermitYoYoYo:",
-	<withercrumbs:crumb_star:0>: "BoogerStar",
-	<coffeespawner:coffee_machine_pan:0>: "Limited Edition Gennybucks™ Coffee Maker",
-	<birdsnests:birdsnest>: "Birb's Nest",
-	<cfm:bird_bath>: "Birb Bath",
+	<zawa:bird_kibble>: "Birb Kibble",
 	<zawa:bird_meat>: "Raw Birb Meat",
 	<zawa:bird_meat_cooked>: "Cooked Birb Meat",
-	<zawa:bird_kibble>: "Birb Kibble",
-	<zawa:bird_vial>: "Birb Vial",
 	<zawa:bird_perch>: "Birb Perch",
-	<tropicraft:coral:2>: "Big Braim Coral"
+	<zawa:bird_vial>: "Birb Vial"
 };
 
 

@@ -1,1 +1,5 @@
-tile.clay_grey_cracked.name=Cracked Grey Clay - Wet
+tile.clay_grey_cracked.name=Cracked Grey Clay
+tile.acid_sand.name=Acid Sand
+
+keybind.mist.mask_inventory=Misty Mask Inventory
+keybind.mist.skill_inventory=Open Misty Skills Menu

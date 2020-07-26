@@ -121,9 +121,11 @@ ZooAndWildAnimalsRebuilt1.12.2-2.1.0/ZAWA1.12.2-2.1.0.cfg
 
 -- Script Changes --
 --------------------
+Refactored locations of a few items - check commits if you care that much
 itemModifiers/displayNames.zs
 	Renamed Tropicraft Brain Coral to help clear up confusions
 itemModifiers/tooltips.zs
+	Added tip to Cyberware Radios to note they are only effective in the Mist
 	Removed tip from Tiny Mob Farm Lasso about treating like a mob net, since it doesn't really work that way.
 	Added tip to ZAWA Brain Coral to help clear up confusion, good luck
 	Added tip about silk touching villager blocks to keep trades
@@ -133,13 +135,17 @@ itemModifiers/oreDict/woodMaterials.zs
 jei/categories.zs
 	mods.jei.JEI.hideCategory("jev:fluid_extractor");
 	mods.jei.JEI.hideCategory("jev:fluid_mixer");
+loottables/loottweaker.zs
+	// Remove Slimecube
+	LootTweaker.getTable("minecraft:chests/jungle_temple").removePool("slimecube");
+	LootTweaker.getTable("minecraft:chests/simple_dungeon").removePool("slimecube");
 recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/crayfishfurniture.zs
 	remove/replace log_item recipe to fix dupe bug
 recipesCrafting/deepmoblearning.zs
 	Get rekt noobz - Altered Glitch Chestplate, pray we do not alter it further
-recipesCrafting/zlilcritters.zs
+recipesCrafting/lilcritters.zs
 	Changed vial recipe "uncraftable potion" to water bottle
 recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
@@ -171,9 +177,36 @@ Updated Misty World entry in guidebook...A LOT
 Reformatted Armor section of guidebook
 Added FAQs section to guidebook
 Added link to unoffical wiki list in New to Modded section of guidebook
-
-
-
+oresources
+	/mist/lang/en_us.lang
+		tile.clay_grey_cracked.name=Cracked Grey Clay
+		tile.acid_sand.name=Acid Sand
+	cfm/lang/en_us.lang
+		item.ceiling_fan_fans.name=Ceiling Fan
+	cgm/lang/en_us.lang
+		item.cgm.part_chain_gun_base.name=Chain Gun Base
+	dragonmounts/lang/en_us.lang
+		item.dragon_wand.name=Dragon Wand
+	misty/lang/en_US.lang
+		keybind.mist.mask_inventory=Misty Mask Inventory
+		keybind.mist.skill_inventory=Open Misty Skills Menu
+	pvj/lang/en_us .lang
+		tile.leaves_juniper_berried.name=Berried Juniper Leaves
+		tile.baobab_door.name=Baobab Door
+		tile.willow_door.name=Willow Door
+		tile.juniper_pressure_plate.name=Juniper Pressure Plate
+		tile.jacaranda_pressure_plate.name=Jacaranda Pressure Plate
+		tile.cherry_blossom_pressure_plate.name=Cherry Blossom Pressure Plate
+	soviet/lang/en_us.lang
+		item.alm_door_item.name=Alm Door
+		item.quad_tile_small.name=Small Quad Tile
+		tile.brown_tile_crack.name=Cracked Bricks
+		item.item_dsp_panel_1.name=DSP Panel
+		item.quadtile_glass.name=Glass Quad Tile
+	tt/lang/en_us.lang
+		item.hard_torllia.name=Crunchy Tortilla
+	vehicle/lang/en_us.lang
+		entity.vehicle.dirt_bike.name=Dirt Bike
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack

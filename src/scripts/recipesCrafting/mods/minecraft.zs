@@ -28,9 +28,6 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
 ];
 
-
-recipes.removeByRecipeName("animania:name_tag");
-
 /*
 	Named Shaped Recipes
 */	
@@ -130,12 +127,7 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			"minecraft_spruce_boat" : [
 				[<minecraft:boat:0>, <minecraft:planks:1>]
 			]
-		},
-	<fartgen:generator> : {
-		"fartgen_recycle" : [
-			[<fartgen:generator>]
-		]
-	}
+		}
 };
 
 

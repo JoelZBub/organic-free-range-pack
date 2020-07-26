@@ -104,6 +104,12 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<arcademod:ticket:0>: [
 		format.gold("Redeem for Prizes!")
 	],
+	<cyberware:beacon:0>: [
+		format.gold("Effective only in The Mist")
+	],
+	<cyberware:beacon_large:0>: [
+		format.gold("Effective only in The Mist")
+	],
 	<erebus:portal_activator:0>: [
 		format.gold("If you don't make two, that's your own fault")
 	],

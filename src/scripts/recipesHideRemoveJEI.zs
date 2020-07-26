@@ -25,6 +25,7 @@ static itemRecipeRemoval as IItemStack[] = [
 // String array listing recipes we want removed by recipe name.
 static recipeNameRemoval as string[] = [
 //	"mod:itemname"
+	"animania:name_tag"
 ];
 
 static hiddenItemsJEI as IItemStack[] = [
