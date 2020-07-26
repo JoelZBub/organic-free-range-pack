@@ -1,0 +1,17 @@
+{
+    "name": "Hexcite Armor",
+    "icon": "cavern:hexcite_helmet",
+    "category": "armor",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l)$(4)Caverns Hexcite Armor Set$()$(p)$(o)Look for white ores deep in the caverns dimension.$()$(p)Set Bonus: Magnet, Haste, XP Imbue"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/hexcite.png"],
+            "border": "true"
+        }
+    ]
+}

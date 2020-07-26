@@ -102,6 +102,8 @@ mowziesmobs.cfg
                 BEACH,EXTREME HILLS
                 BEACH,EXTREME HILLS+
              >
+quark.cfg
+	B:"Disable Recipe Book"=true
 randomthings.cfg
 	B:EnderAnchorChunkloading=false
 reccomplex
@@ -124,7 +126,8 @@ itemModifiers/displayNames.zs
 itemModifiers/tooltips.zs
 	Removed tip from Tiny Mob Farm Lasso about treating like a mob net, since it doesn't really work that way.
 	Added tip to ZAWA Brain Coral to help clear up confusion, good luck
-	Aded tip about silk touching villager blocks to keep trades
+	Added tip about silk touching villager blocks to keep trades
+	Added tip for Spider T-Shirt
 itemModifiers/oreDict/woodMaterials.zs
 	Added all additional wooden trapdoors to <ore:trapdoorWood>
 jei/categories.zs
@@ -134,6 +137,8 @@ recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/crayfishfurniture.zs
 	remove/replace log_item recipe to fix dupe bug
+recipesCrafting/deepmoblearning.zs
+	Get rekt noobz - Altered Glitch Chestplate, pray we do not alter it further
 recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
 recipesCrafting/rftools.zs
@@ -159,7 +164,8 @@ recipesMachines/thermalexpansion/redstonefurnace.zs
 -- Asset Changes --
 -------------------
 Lowered volume of stun grenade sounds
-Updated Misty World entry in guidebook
+Updated Misty World entry in guidebook...A LOT
+Reformatted Armor section of guidebook
 Added FAQs section to guidebook
 Added link to unoffical wiki list in New to Modded section of guidebook
 

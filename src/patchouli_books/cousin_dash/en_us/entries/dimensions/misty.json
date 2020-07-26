@@ -5,11 +5,16 @@
     "pages": [
         {
                 "type": "text",
-                "text": "Now with more robots!$(p)Kill endermen to get the two portal frame blocks (The upper Weathered Stone and the lower Mossy Stone)$(p)Sandwich a gold block between the two frame blocks and BOOM (literally) portal opens.$(p)There's also a Skill Menu available. If you're into that kind of thing."
+                "text": "Now with more robots!$(p)Kill endermen to get the two portal frame blocks (The upper Weathered Stone and the lower Mossy Stone)$(p)Sandwich a gold block between the two frame blocks and BOOM (literally) portal opens.$(p)There's also a Skill Menu. If you're into that kind of thing. (It's the $(5)$(k:keybind.mist.skill_inventory)$() key)"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/misty.png"],
+            "border": "true"
         },
         {
                 "type": "text",
-                "text": "Exploring in the Misty World isn't safe on the surface, but is absolutely deadly when you travel below the mist. If you don't have a respirator with some filter coal in it, you won't even live long enough to find out what will kill you down there. Shift+Right-Click the respirator to insert the coal. The mask slot is accessable by a button just above your helmet slot."
+                "text": "Exploring in the Misty World isn't safe on the surface, but is absolutely deadly when you travel below the mist. $(p)If you don't have a respirator with some filter coal in it, you won't even live long enough to find out what will kill you down there. Shift+Right-Click the respirator to insert the coal.$(p)The mask slot is accessible by a button just above your helmet slot."
         },
         {
             "type": "image",
@@ -17,8 +22,21 @@
             "border": "true"
         },
         {
+            "type": "text",
+            "text": "You can only get the filter coal with a Niobium Pickaxe.$(p)Niobium is found just below the mist on the sides of the cliffs. Filter Coal ore is there too, or sometimes you can loot some.$(p)HOT TIP: The mist drops at night, so it's easier to get to the ore!"
+        },
+        {
             "type": "image",
-            "images": ["assets:guidebook/misty.png"],
+            "images": ["assets:guidebook/mistyores.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Exploring around Misty World can cause you to gain Intoxication and Chemical Pollution.$(p)Desert Lung Fish is one of the easier ways to get rid of Intoxication, but rumor has it there are other ways too.$(p)You can just clean yo self up with soap to fix pollution."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/mistybars.png"],
             "border": "true"
         }
     ]

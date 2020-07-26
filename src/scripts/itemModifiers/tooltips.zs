@@ -104,9 +104,6 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<arcademod:ticket:0>: [
 		format.gold("Redeem for Prizes!")
 	],
-	<cfm:fire_pit_on:0>: [
-		format.gold("Place a series of Chopped Logs on the ground and light on fire to create")
-	],
 	<erebus:portal_activator:0>: [
 		format.gold("If you don't make two, that's your own fault")
 	],
@@ -216,7 +213,12 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 	<zawa:brain_coral> : [
 		format.gold("This one is NOT used for crafting."),
 		format.red("- Decoration Only -"),
-	]
+	],
+	<erebus:spider_t_shirt> : [
+		format.gold("Dropped by the Tarantula Brood Mother"),
+		format.gold("Found in Erebus' Ulterior Outback biome"),
+	],
+
 };
 
 // Shift Tooltips

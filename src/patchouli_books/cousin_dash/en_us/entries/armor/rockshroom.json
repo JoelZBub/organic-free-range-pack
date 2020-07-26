@@ -1,0 +1,17 @@
+{
+    "name": "Rockshroom Armor",
+    "icon": "midnight:rockshroom_helmet",
+    "category": "armor",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l)$(4)Midnight Rockshroom Armor Set$()$(p)$(o)Hidden in the land of eternal darkness: a rare material to craft armor that turns night into day.$()$(p)Set Bonus: Night Vision, Jump Boost"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/rockshroom.png"],
+            "border": "true"
+        }
+    ]
+}

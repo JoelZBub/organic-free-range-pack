@@ -1,0 +1,17 @@
+{
+    "name": "Scale Armor",
+    "icon": "tropicraft:scale_helmet",
+    "category": "armor",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l)$(4)Tropicraft Scale Armor Set$()$(p)$(o)Finally a use for iguanas!$()$(p)Set Bonus: Poison Imbue, Leaping, Poison Resistance, Fire Resistance"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/scale.png"],
+            "border": "true"
+        }
+    ]
+}

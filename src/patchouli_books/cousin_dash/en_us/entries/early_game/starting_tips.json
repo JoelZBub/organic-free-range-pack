@@ -17,7 +17,7 @@
         },
         {
                 "type": "text",
-                "text": "• $(6)Ore Excavation$() is a simple mod that allows you to mine entire veins of ore, chop whole trees, and accidentally dig up chunks of land and wear out your best tool with ease. Simply hold the vein miner key while mining (Default: $(5)grave/tilde$() key)$(p)• P.S. there is idjit draygons and you can ride them :)"
+                "text": "• $(6)Ore Excavation$() is a simple mod that allows you to mine entire veins of ore, chop whole trees, and accidentally dig up chunks of land and wear out your best tool with ease. Simply hold the vein miner key while mining (The $(5)$(k:oreexcavation.key.excavate)$() key)$(p)• P.S. there is idjit draygons and you can ride them :)"
         },
         {
                 "type": "text",

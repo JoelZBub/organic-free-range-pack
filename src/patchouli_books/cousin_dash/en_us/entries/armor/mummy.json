@@ -1,0 +1,17 @@
+{
+    "name": "Mummy Armor",
+    "icon": "atum:mummy_helmet",
+    "category": "armor",
+    "sortnum": 3,
+    "pages": [
+        {
+                "type": "text",
+                "text": "$(l)$(4)Atum Mummy Armor Set$()$(p)$(o)Incredible mummy strength and resistance$()$(p)Set Bonus: Strength, Resistance, Resilience, Slowness"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/mummy.png"],
+            "border": "true"
+        }
+    ]
+}

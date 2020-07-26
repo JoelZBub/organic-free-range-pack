@@ -1,0 +1,17 @@
+{
+    "name": "Bamboo Armor",
+    "icon": "erebus:bamboo_helmet",
+    "category": "armor",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l)$(4)Bamboo Armor Set$()$(p)$(o)Useful, easy to make armor made out of nature’s most perfect, naturally occurring snorkel.$()$(p)Set Bonus: Swim Speed, Water Breathing, Water Walking"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/bamboo.png"],
+            "border": "true"
+        }
+    ]
+}

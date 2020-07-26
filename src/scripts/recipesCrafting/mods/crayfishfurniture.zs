@@ -28,7 +28,6 @@ static itemRecipeRemoval as IItemStack[] = [
 	<cfm:digital_clock:13>,
 	<cfm:digital_clock:14>,
 	<cfm:digital_clock:15>,
-	<cfm:item_log>
 ];
 
 /*
@@ -36,6 +35,8 @@ static itemRecipeRemoval as IItemStack[] = [
 */
 static itemRecipeRemovalJEI as IItemStack[] = [
 //	<modid:itemname:meta>,
+	<cfm:item_log>,
+	<cfm:fire_pit_on>
 ];
 
 
@@ -233,31 +234,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<cfm:item_log> * 8: {
-		"cfm_cut_log_diamond" : [
-			[<minecraft:diamond_axe>.anyDamage().transformDamage(), <ore:logWood>]
-		]
-	},
-	<cfm:item_log> * 4: {
-		"cfm_cut_log_gold" : [
-			[<minecraft:golden_axe>.anyDamage().transformDamage(), <ore:logWood>]
-		]
-	},
-	<cfm:item_log> * 6: {
-		"cfm_cut_log_iron" : [
-			[<minecraft:iron_axe>.anyDamage().transformDamage(), <ore:logWood>]
-		]
-	},
-	<cfm:item_log> * 3: {
-		"cfm_cut_log_stone" : [
-			[<minecraft:stone_axe>.anyDamage().transformDamage(), <ore:logWood>]
-		]
-	},
-	<cfm:item_log> * 2: {
-		"cfm_cut_log_wood" : [
-			[<minecraft:wooden_axe>.anyDamage().transformDamage(), <ore:logWood>]
-		]
-	}
 };
 
 

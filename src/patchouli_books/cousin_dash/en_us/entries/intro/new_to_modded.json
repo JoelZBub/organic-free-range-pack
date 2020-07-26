@@ -13,7 +13,7 @@
         },
         {
                 "type": "text",
-                "text": "You can use JEI to look up crafting recipes, find pretty blocks, discover what recipes an item is used in ($(o)did you know leather is used in 74 crafting recipes?!$()), and much more.$(br2)$(l)Pro Tip:$() Press $(5)R$() while moused over an item to see the recipe, and $(5)U$() to see uses."
+                "text": "You can use JEI to look up crafting recipes, find pretty blocks, discover what recipes an item is used in ($(o)did you know leather is used in 74 crafting recipes?!$()), and much more.$(br2)$(l)Pro Tip:$() Press $(5)$(k:jei.showRecipe)$() while moused over an item to see the recipe, and $(5)$(k:jei.showUses)$() to see uses."
         },
         {
                 "type": "text",
