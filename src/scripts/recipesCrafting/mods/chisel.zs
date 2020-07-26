@@ -146,3 +146,6 @@ Carving.addVariation("stoneBrickSlab", <quark:stonebrick_mossy_slab:0>);
 Carving.addGroup("stoneBrickStair");
 Carving.addVariation("stoneBrickStair", <minecraft:stone_brick_stairs:0>);
 Carving.addVariation("stoneBrickStair", <quark:stonebrick_mossy_stairs:0>);
+
+// Basalt
+Carving.addVariation("basalt", <pvj:basalt>);

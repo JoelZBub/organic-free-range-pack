@@ -29,6 +29,8 @@ static itemRecipeRemovalJEI as IItemStack[] = [
 ];
 
 
+recipes.removeByRecipeName("animania:name_tag");
+
 /*
 	Named Shaped Recipes
 */	
