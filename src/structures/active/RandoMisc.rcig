@@ -170,9 +170,9 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 64,
+      "max": 1,
       "item": {
-        "id": "betteranimalsplus:boarhead_3",
+        "id": "inventorypets:windows_me",
         "damage": 0,
         "count": 1
       }
@@ -198,7 +198,7 @@
       }
     },
     {
-      "weight": 0.020207388326525688,
+      "weight": 0.7087690830230713,
       "min": 1,
       "max": 1,
       "item": {
@@ -249,13 +249,13 @@
       }
     },
     {
-      "weight": 0.0976562350988388,
+      "weight": 0.7087690830230713,
       "min": 1,
-      "max": 64,
+      "max": 1,
       "item": {
-        "id": "inventorypets:windows_me",
+        "id": "minecraft:air",
         "damage": 0,
-        "count": 1
+        "count": 0
       }
     },
     {
@@ -263,9 +263,9 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "betternether:cincinnasite_pickaxe_diamond",
+        "id": "minecraft:air",
         "damage": 0,
-        "count": 1
+        "count": 0
       }
     },
     {
@@ -273,29 +273,9 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "betternether:cincinnasite_pickaxe",
+        "id": "minecraft:air",
         "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.7087690830230713,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "betternether:cincinnasite_axe",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.7087690830230713,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "betternether:cincinnasite_axe_diamond",
-        "damage": 0,
-        "count": 1
+        "count": 0
       }
     },
     {
@@ -393,9 +373,9 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "betternether:stalagnate_bowl_wart",
+        "id": "minecraft:air",
         "damage": 0,
-        "count": 1
+        "count": 0
       }
     },
     {

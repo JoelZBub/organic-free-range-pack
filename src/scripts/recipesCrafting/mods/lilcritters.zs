@@ -1,6 +1,6 @@
 /*
-	100% Organic Free-Range Deep Mob Learning Crafting Table recipes script.
-	This script is for adding and removing recipes for Deep Mob Learning.
+	100% Organic Free-Range Lil Critters Crafting Table recipes script.
+	This script is for adding and removing recipes for Lil Critters
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
@@ -11,7 +11,7 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<deepmoblearning:glitch_infused_chestplate>
+	<lilcritters:rodent_vial>
 ];
 
 /*
@@ -35,15 +35,6 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
-	<deepmoblearning:glitch_infused_chestplate> : {
-		"deepmoblearning_glitch_infused_chestplate" : [
-			[
-	  			[<deepmoblearning:glitch_infused_ingot>, <erebus:spider_t_shirt>, <deepmoblearning:glitch_infused_ingot>],
-	   			[<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
-	  			[<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>]
-			]
-		]
-	}	
 };
 
 
@@ -72,6 +63,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+	<lilcritters:rodent_vial> : {
+		"lilcritters_rodent_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <lilcritters:rodent_kibble>]
+		]
+	}
 };
 
 

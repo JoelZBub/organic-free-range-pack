@@ -39,7 +39,28 @@ static itemRecipeRemoval as IItemStack[] = [
 	<zawa:zebra_rainbow_plush:0>
 ];
 
-recipes.removeByRecipeName("zawa:leather_tiger");
+// String array listing recipes we want removed by recipe name.
+static recipeNameRemoval as string[] = [
+//	"mod:itemname"
+	"zawa:leather_tiger",
+	"zawa:ape_vial",
+	"zawa:bear_vial",
+	"zawa:bigcat_vial",
+	"zawa:bird_vial",
+	"zawa:canine_vial",
+	"zawa:crocodile_vial",
+	"zawa:frog_vial",
+	"zawa:leather_tiger",
+	"zawa:monkey_vial",
+	"zawa:pachyderm_vial",
+	"zawa:pinniped_vial",
+	"zawa:raptor_vial",
+	"zawa:shark_vial",
+	"zawa:snake_vial",
+	"zawa:tortoise_vial",
+	"zawa:unglate_vial",
+	"zawa:whale_vial"
+];
 
 /*
 	Recipe and JEI Removals by Item
@@ -133,6 +154,86 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+	<zawa:ape_vial> : {
+		"zawa_ape_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:ape_kibble>]
+		]
+	},
+	<zawa:bear_vial> : {
+		"zawa_bear_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:bear_kibble>]
+		]
+	},
+	<zawa:bigcat_vial> : {
+		"zawa_bigcat_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:big_cat_kibble>]
+		]
+	},
+	<zawa:bird_vial> : {
+		"zawa_bird_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:bird_kibble>]
+		]
+	},
+	<zawa:canine_vial> : {
+		"zawa_canine_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:canine_kibble>]
+		]
+	},
+	<zawa:crocodile_vial> : {
+		"zawa_crocodile_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:crocodile_kibble>]
+		]
+	},
+	<zawa:frog_vial> : {
+		"zawa_frog_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:frog_kibble>]
+		]
+	},
+	<zawa:monkey_vial> : {
+		"zawa_monkey_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:monkey_kibble>]
+		]
+	},
+	<zawa:pachyderm_vial> : {
+		"zawa_pachyderm_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:pachyderm_kibble>]
+		]
+	},
+	<zawa:pinniped_vial> : {
+		"zawa_pinniped_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:pinniped_kibble>]
+		]
+	},
+	<zawa:raptor_vial> : {
+		"zawa_raptor_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:raptor_kibble>]
+		]
+	},
+	<zawa:shark_vial> : {
+		"zawa_shark_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:shark_kibble>]
+		]
+	},
+	<zawa:snake_vial> : {
+		"zawa_snake_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:snake_kibble>]
+		]
+	},
+	<zawa:tortoise_vial> : {
+		"zawa_tortoise_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:tortoise_kibble>]
+		]
+	},
+	<zawa:unglate_vial> : {
+		"zawa_unglate_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:unglate_kibble>]
+		]
+	},
+	<zawa:whale_vial> : {
+		"zawa_whale_vial" : [
+			[<minecraft:potion>.withTag({Potion: "minecraft:water"}), <zawa:whale_kibble>]
+		]
+	}
 };
 
 
@@ -193,6 +294,10 @@ for item, itemRecipes in namedShapelessRecipes {
 // Remove Item Recipe for replacement
 for item in itemRecipeRemoval {
 	recipes.remove(item);
+}
+// Remove by Recipes Name
+for item in recipeNameRemoval {
+	recipes.removeByRecipeName(item);
 }
 // Remove Item Recipes from game and JEI display
 for item in itemRecipeRemovalJEI {

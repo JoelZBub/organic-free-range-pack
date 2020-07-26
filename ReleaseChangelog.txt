@@ -139,6 +139,8 @@ recipesCrafting/crayfishfurniture.zs
 	remove/replace log_item recipe to fix dupe bug
 recipesCrafting/deepmoblearning.zs
 	Get rekt noobz - Altered Glitch Chestplate, pray we do not alter it further
+recipesCrafting/zlilcritters.zs
+	Changed vial recipe "uncraftable potion" to water bottle
 recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
 recipesCrafting/rftools.zs
@@ -147,6 +149,7 @@ recipesCrafting/tacotuesday.zs
 	Made Tier 3 Taco (OP Taco) more difficult to craft
 recipesCrafting/zawa.zs
 	Fixed broken recipe in mod
+	Changed vial recipe "uncraftable potion" to water bottle
 	Added recipes for rope, river stone, mixed stone, mossy mixed stone, and zoo cart
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
