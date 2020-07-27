@@ -27,6 +27,7 @@ Overworld Respawn (by Noobanidus)
 -- Updated Mods --
 ------------------
 Common Capabilities (2.4.6 to 2.4.7)
+Content Creator Integration (1.4.10 to 1.4.11)
 Corpse (1.0.7 to 1.0.8)
 Cyclic (1.20.3 to 1.20.4)
 Cyclops Core (1.6.4 to 1.6.5 to 1.6.6)
@@ -71,7 +72,7 @@ incontrol/spawn.json
             "minecraft:creeper",
             "minecraft:skeleton"
         ],
-        "dimension": [-52,-55, -56, -57, -58, -59],
+        "dimension": [-52, -53, -55, -56, -57, -58, -59],
         "result": "deny"	
 inventorypets/inventorypets.cfg
 	B:"Disable Quiver"=true
