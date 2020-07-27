@@ -47,7 +47,14 @@ Xaero's World Map (1.6.2 to 1.7.4)
 --------------------
 animania.cfg
 	B:tamedAnimalsTeleport=false
-caverns/mirageworld-dimension.cfg
+cavern/caveland-dimension.cfg
+	I:dimension=0
+cavern/mirageworld-dimension.cfg
+	I:frostMountains=0
+	I:wideDesert=0
+	I:theVoid=0
+	I:darkForest=0
+	I:crownCliffs=0
 	I:skyland=0
 cgm.cfg	
 	deafen {
@@ -66,14 +73,7 @@ incontrol/spawn.json
 	"mob": "lcrdrfs:jet_pack_spider",
 		"amount": 5
 	"mob": "cavern:squid",
-          "amount": 60,
-	"onjoin": true,
-        "mob": [
-            "minecraft:creeper",
-            "minecraft:skeleton"
-        ],
-        "dimension": [-52, -53, -55, -56, -57, -58, -59],
-        "result": "deny"	
+          "amount": 60,	
 inventorypets/inventorypets.cfg
 	B:"Disable Quiver"=true
 	B:"Disable Quiver Recipe"=true

@@ -8,28 +8,19 @@
             "lcrdrfs:jet_pack_spider",
             "drones:drones.drone"
         ],
-        "dimension": [0, -50, -51, -52, -53, -55, -56, -57, -58, -59],
+        "dimension": [0, -50, -51, -52],
         "result": "deny"
     },
     {
         "onjoin": true,
         "mod": "zawa",
-        "dimension": [-50, -51, -53, -55, -56, -57, -58, -59],
+        "dimension": [-50, -51],
         "result": "deny"
     },
     {
         "onjoin": true,
         "mod": "animania",
-        "dimension": [-50, -51, -52, -53, -55, -56, -57, -58, -59],
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mob": [
-            "minecraft:creeper",
-            "minecraft:skeleton"
-        ],
-        "dimension": [-52, -53, -55, -56, -57, -58, -59],
+        "dimension": [-50, -51, -52],
         "result": "deny"
     },
     {
