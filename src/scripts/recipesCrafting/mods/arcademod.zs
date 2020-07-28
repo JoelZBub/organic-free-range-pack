@@ -76,18 +76,14 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 		]
 	}	*/
 	<arcademod:coin:0> : {
-		"arcademod_coin_nuggets" : [
-			[<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]
-		]
-	},
-	<arcademod:coin:0> : {
 		"arcademod_coin_thermal_coin" : [
 			[<thermalfoundation:coin:1>]
 		]
 	}
 };
 
-
+// Need another recipe, but it CT does not like two recipes for the same item in the same script, so here is a workaround.
+recipes.addShapeless(<arcademod:coin:0>, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
 
 
 // Do NOT edit below this line //
