@@ -88,6 +88,8 @@ JEI/itemBlacklist.cfg
 	dragonmounts:block_dragon_shulker
 metamorph/morphs.json
 	fixed zawa names
+dragonmounts.cfg
+	B:"can dragons despawn"=false
 mowziesmobs.cfg
 	naga {
 		spawn_data
