@@ -32,12 +32,21 @@
         },
         {
             "type": "text",
-            "text": "Exploring around Misty World can cause you to gain Intoxication and Chemical Pollution.$(p)Desert Lung Fish is one of the easier ways to get rid of Intoxication, but rumor has it there are other ways too.$(p)You can just clean yo self up with soap to fix pollution."
+            "text": "Exploring around Misty World can cause you to gain Intoxication and Chemical Pollution.$(p)Desert Lung Fish is one of the ways to get rid of Intoxication, but rumor has it there are other ways too. Pour some water over cracked clay and break the resulting virgin clay to get some fish to spawn. (Check Savannas)$(p)You can just clean yo self up with soap to fix pollution."
         },
         {
             "type": "image",
             "images": ["assets:guidebook/mistybars.png"],
             "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Also, it's said that in Soviet Russia, door wrenches you."
+        },
+        {
+            "type": "empty",
+            "draw_filler": "false"
+            
         }
     ]
 }
