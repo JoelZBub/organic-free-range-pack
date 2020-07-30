@@ -125,6 +125,8 @@ ZooAndWildAnimalsRebuilt1.12.2-2.1.0/ZAWA1.12.2-2.1.0.cfg
 -- Script Changes --
 --------------------
 Refactored locations of a few items - check commits if you care that much
+contenttweaker/fluids.zs
+	Added liquid ectoplasm
 itemModifiers/displayNames.zs
 	Renamed Tropicraft Brain Coral to help clear up confusions
 itemModifiers/tooltips.zs
@@ -154,12 +156,20 @@ recipesCrafting/openblocks.zs
 	Removed broken ".name" recipes
 recipesCrafting/rftools.zs
 	Removed custom Storage Tablet recipe due to bug, changed Storage Control Screen Module recipe to maintain intended crafting difficulty
-recipesCrafting/tacotuesday.zs
-	Made Tier 3 Taco (OP Taco) more difficult to craft
+recipesCrafting/simplestoragenetwork.zs
+	Changed Advanced Storage Remote recipe to keep compatible level of crafting difficulty as other interdimensional storage remotes
 recipesCrafting/zawa.zs
 	Fixed broken recipe in mod
 	Changed vial recipe "uncraftable potion" to water bottle
 	Added recipes for rope, river stone, mixed stone, mossy mixed stone, and zoo cart
+recipesMachines/integrateddynamics/dryingbasin.zs
+	Added recipe for ectoplasm
+recipesMachines/integrateddynamics/mechanicaldryingbasin.zs
+	Added recipe for ectoplasm
+recipesMachines/integrateddynamics/mechanicalsqueezer.zs
+	Added recipe for liquid ectoplasm
+recipesMachines/integrateddynamics/squeezer.zs
+	Added recipe for liquid ectoplasm
 recipesMachines/minecraft/furnace.zs
 	furnace.addRecipe(<zawa:dried_bamboo>, <zawa:bamboo>, 0.3);
 	furnace.addRecipe(<bamboozled:bamboo_dried:0>, <zawa:dried_bamboo>, 0.3);

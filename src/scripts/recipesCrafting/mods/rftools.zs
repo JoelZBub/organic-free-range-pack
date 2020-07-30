@@ -13,9 +13,10 @@ static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<rftools:coalgenerator:0>,
 	<rftools:endergenic:0>,
-	<rftools:storage_scanner:0>,
-	<rftools:storage_control_module>
+	<rftools:storage_scanner:0>
 ];
+
+recipes.removeByRecipeName("rftools:storage_control_module");
 
 /*
 	Recipe and JEI Removals by Item
@@ -78,9 +79,9 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<rftools:storage_control_module> : {
 		"rftools_storage_control_module" : [
 			[
-	  			[null, <ore:workbench>, null],
-	   			[<minecraft:redstone>, <mist:niobium_ingot>, <minecraft:redstone>],
-	  			[null, <ore:dyeBlack>, null]
+				[<minecraft:ender_pearl>, <mist:niobium_ingot>, <minecraft:ender_pearl>],
+                [<minecraft:purpur_block>, <erebus:materials:64>, <minecraft:purpur_block>], 
+                [<minecraft:ender_pearl>, <minecraft:blaze_rod>, <minecraft:ender_pearl>]
 			]
 		]
 	}	

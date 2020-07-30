@@ -61,7 +61,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 		"storagenetwork_remote_1" : [
 			[
 	  			[<minecraft:ender_pearl>, <minecraft:blaze_rod>, <minecraft:ender_pearl>],
-                [<minecraft:purpur_block>, <minecraft:nether_star>, <minecraft:purpur_block>], 
+                [<minecraft:purpur_block>, <erebus:materials:64>, <minecraft:purpur_block>], 
                 [<minecraft:ender_pearl>, <mist:niobium_ingot>, <minecraft:ender_pearl>]
 
 			]

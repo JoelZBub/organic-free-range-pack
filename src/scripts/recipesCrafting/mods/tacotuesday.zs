@@ -12,7 +12,6 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-<tt:super_op_taco>,
 <tt:soft_beef_taco>,
 <tt:hard_beef_taco>,
 <tt:soft_pork_taco>,
@@ -41,16 +40,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	  			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 			]
 		]
-	}	*/
-	<tt:super_op_taco> : {
-		"tt_super_op_taco" : [
-			[
-	  			[<tt:secret_spice>, <erebus:materials:64>, <tt:secret_spice>],
-	   			[<tt:op_soft_taco>, <tt:secret_spice>, <tt:op_hard_taco>],
-	  			[<tt:secret_spice>, <tt:secret_spice>, <tt:secret_spice>]
-			]
-		]
-	}	
+	}	*/	
 };
 
 

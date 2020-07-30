@@ -8,3 +8,6 @@ vegOil.register();
 
 var latex = VanillaFactory.createFluid("liquidlatex", Color.fromHex("f0f0f0"));
 latex.register();
+
+var ectoplasm = VanillaFactory.createFluid("liquidectoplasm", Color.fromHex("98b4be"));
+ectoplasm.register();

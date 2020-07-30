@@ -28,3 +28,5 @@ Squeezer.addRecipe(<mist:s_tree_block:0>, null, <liquid:liquidlatex> * 250);
 Squeezer.addRecipe(<mist:t_tree_block:0>, null, <liquid:liquidlatex> * 250);
 Squeezer.addRecipe(<mist:willow_block:0>, null, <liquid:liquidlatex> * 250);
 Squeezer.addRecipe(<mist:r_tree_block:0>, null, <liquid:liquidlatex> * 400);
+
+Squeezer.addRecipe(<randomthings:spectrelog>, null, <liquid:liquidectoplasm> * 250);
