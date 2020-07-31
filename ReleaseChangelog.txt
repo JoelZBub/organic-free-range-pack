@@ -212,7 +212,10 @@ oresources
 		tile.juniper_pressure_plate.name=Juniper Pressure Plate
 		tile.jacaranda_pressure_plate.name=Jacaranda Pressure Plate
 		tile.cherry_blossom_pressure_plate.name=Cherry Blossom Pressure Plate
+	storagenetwork/lang/en_us.lang
+		itemGroup.storagenetwork=Simple Storage Network
 	soviet/lang/en_us.lang
+		itemGroup.tabSymbols=Soviet Lab Mod: Symbols
 		item.alm_door_item.name=Alm Door
 		item.quad_tile_small.name=Small Quad Tile
 		tile.brown_tile_crack.name=Cracked Bricks
