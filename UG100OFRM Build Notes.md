@@ -2,7 +2,7 @@ Uncle Genny's 100% Organic & Free-Range Build Notes
 
 Build 1.1.0
 
-**Removed Caverns II Mirage Dimensions** - This was done to remove a bug that will crash servers and single player clients. However can potentially change your existing world save if those dimensions have been used. Any currently existing Mirage books will have no use and the Mirage portal will no longer function. If you have any items in those dimensions, be sure to remove them before updating.
+**Removed Caverns II Mirage Dimensions** - This was done to remove a bug that will crash servers and single player clients. However it can potentially change your existing world save if those dimensions have been used. Any currently existing Mirage books will have no use and the Mirage portal will no longer function. If you have any items in those dimensions, be sure to remove them before updating.
 
 Added Mods:
 * Bad Wither No Cookie - Reloaded (By Kreezxil) - Added at the request of everyone who no longer wished to pee themselves when someone on the server killed the Ender Dragon
@@ -12,7 +12,7 @@ Enhancements:
 * Added a FAQs section to the Guidebook
 * Added a LOT of information about Misty World in the Guidebook
 * Added link to community made list of mod wikis in the Guidebook
-* Disabled Animania tamed animals teleporting to own. Hopefully this helps prevent animals disappearing.
+* Disabled Animania tamed animals teleporting to owner. Hopefully this helps prevent animals disappearing.
 * Adjusted volume of the Crayfish Gun's Mod stun grenade. Thanks Satan
 * Made adjustments to default keybinds. This will only impact new installs
 * Adjusted drop rates for existing easter eggs and added a new one
@@ -36,7 +36,7 @@ Enhancements:
 * Added furnace recipe for ZAWA dried bamboo and adjusted Soviet furnace recipes to make sense
 
 Bug Fixes:
-* Fixed morphs for ZAWA mobs who had recent name changes
+* Fixed morphs for ZAWA mobs that had recent name changes
 * Fixed recipes for Arcade Mod prize counter and tokens
 * Removed Rat Nuggets from Redstone Furnace because they don't work right anymore due to change in mod
 * Fixed more broken localized names
