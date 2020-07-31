@@ -57,9 +57,9 @@ quark.emote.dab
 quark.emote.jet
 quark.emote.exorcist
 quark.emote.zombie
-quark.keybind.lockBuilding
 quark.keybind.dropoff
 quark.keybind.changeHotbar
+quark.keybind.lockBuilding
 key.cavern.miningAssist
 key.cavern.miningRecords
 key.cavern.magicBook
@@ -194,4 +194,3 @@ gui.xaero_open_settings
 gui.xaero_map_zoom_in
 gui.xaero_map_zoom_out
 gui.xaero_quick_confirm
-key.secretroomsmod.oneWayface

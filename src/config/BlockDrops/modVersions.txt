@@ -116,7 +116,6 @@
   "spawnercontrol": "1.6.3b",
   "sips": "1.0",
   "limelib": "1.7.12",
-  "recipehandler": "0.13",
   "leopardengruen37": "1.1.0",
   "bookworm": "1.12.2-2.5.2.1",
   "friendlyfire": "1.5.12",
