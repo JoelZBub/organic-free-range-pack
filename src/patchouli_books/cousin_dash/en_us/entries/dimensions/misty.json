@@ -32,7 +32,7 @@
         },
         {
             "type": "text",
-            "text": "Exploring around Misty World can cause you to gain Intoxication and Chemical Pollution.$(p)Desert Lung Fish is one of the ways to get rid of Intoxication, but rumor has it there are other ways too. Pour some water over cracked clay and break the resulting virgin clay to get some fish to spawn. (Check Savannas)$(p)You can just clean yo self up with soap to fix pollution."
+            "text": "Exploring around Misty World can cause you to gain Intoxication and Chemical Pollution.$(p)Desert Lung Fish is a great ways to remove Intoxication, but rumor has it there are other ways too. Pour some water over cracked clay and break the resulting virgin clay to get some fish to spawn. Check Savannas and bring a $(6)Tiny Mob Farm$() lasso ;)$(p)You can just clean yo self up with soap to fix pollution."
         },
         {
             "type": "image",
@@ -41,12 +41,11 @@
         },
         {
             "type": "text",
-            "text": "Also, it's said that in Soviet Russia, door wrenches you."
+            "text": "Some other ways to remove intoxication include the following:$(p)• Stone Tree Berries - From stone trees, I guess$(br)• Nightberries. They spawn on bushes. At night, duh.$(br)• Tinder Fungus - You know, fungus from trees.$(br)• Milk - It only helps a little, you dirty milk drinker.$(br)• Raw Gold and Silver Mushrooms - They do help, but eat at your own risk."
         },
         {
-            "type": "empty",
-            "draw_filler": "false"
-            
+            "type": "text",
+            "text": "Also, it's said that in Soviet Russia, door wrenches you."
         }
     ]
 }
