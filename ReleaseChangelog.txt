@@ -1,8 +1,8 @@
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/07/05 - 2020/07/21
-        Version : 1.0.2
+        Changelog - 2020/07/05 - 2020/07/30
+        Version : 1.1.0
 -------------------------------------------------------------------------------
 
 -- Mod Freezes --
@@ -37,10 +37,11 @@ Integrated Dynamics (1.1.6 to 1.1.7)
 Integrated Terminals (1.0.13 to 1.0.14)
 Integrated Tunnels (1.6.11 to 1.6.12)
 Moving World (6.342 to 6.353)
+Robotic Parts / Cyberware (0.2.11.24 to 0.2.11.25)
 Simply Cats (0.0.2.2 to 0.0.3.0)
 Trophies:ZAWA Addon (1.0.3 to 1.0.4)
-Xaero's Minimap (20.12.2 to 20.16.0.2 to 20.17.0)
-Xaero's World Map (1.6.2 to 1.7.4)
+Xaero's Minimap (20.12.2 to 20.16.0.2 to 20.17.0 to 20.18.0)
+Xaero's World Map (1.6.2 to 1.7.4 to 1.8.0)
 
 
 -- Config Changes --
@@ -99,7 +100,8 @@ mowziesmobs.cfg
             	sand
             	gravel
         	>
-			I:spawn_rate=5
+        	I:max_group_size=2
+			I:spawn_rate=3
 		biome_data
 			S:biome_type <
                 BEACH,EXTREME HILLS

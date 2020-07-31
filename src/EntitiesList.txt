@@ -1,4 +1,4 @@
-Entities List
+Entities:
 animania:buck_alpine -- animania:buck_alpine
 animania:buck_angora -- animania:buck_angora
 animania:buck_chinchilla -- animania:buck_chinchilla
@@ -454,6 +454,7 @@ lilcritters:bandedpenguin -- lilcritters.bandedpenguin
 lilcritters:boxturtle -- lilcritters.boxturtle
 lilcritters:dwarfcrocodile -- lilcritters.dwarfcrocodile
 lilcritters:opossum -- lilcritters.opossum
+lilcritters:raccoon -- lilcritters.raccoon
 lilcritters:skunk -- lilcritters.skunk
 lilcritters:smallclawedotter -- lilcritters.smallclawedotter
 lilcritters:treesquirrel -- lilcritters.treesquirrel
@@ -604,6 +605,7 @@ mowziesmobs:poison_ball -- poison_ball
 mowziesmobs:ring -- ring
 mowziesmobs:solar_beam -- solar_beam
 mowziesmobs:sunstrike -- sunstrike
+mowziesmobs:super_nova -- super_nova
 openblocks:cartographer -- openblocks.cartographer
 openblocks:glyph -- openblocks.glyph
 openblocks:golden_eye -- openblocks.golden_eye
@@ -617,7 +619,7 @@ openblocks:player_magnet -- openblocks.player_magnet
 openblocks:xp_orb_no_fly -- openblocks.xp_orb_no_fly
 openmods:block -- Block
 organicadd:boogereater -- organicadd.boogereater
-organicadd:chatbubble -- organicadd.chatbubble
+organicadd:tex -- organicadd.tex
 overlord:custom_xp_orb -- custom_xp_orb
 overlord:milk_bottle -- milk_bottle
 overlord:skeleton_baby -- skeleton_baby
@@ -815,7 +817,6 @@ yoyos:yoyo_sticky -- Sticky_YoYo
 zawa:africanelephant -- zawa.africanelephant
 zawa:africanlion -- zawa.AfricanLion
 zawa:albatross -- zawa.Albatross
-zawa:albatrossegg -- zawa.AlbatrossEgg
 zawa:amazonriverdolphin -- zawa.amazonriverdolphin
 zawa:americanbison -- zawa.americanbison
 zawa:amurleopard -- zawa.AmurLeopard
@@ -841,10 +842,11 @@ zawa:cichlid -- zawa.cichlid
 zawa:clownfish -- zawa.Clownfish
 zawa:coatimundi -- zawa.coatimundi
 zawa:cockatoo -- zawa.Cockatoo
-zawa:cockatooegg -- zawa.CockatooEgg
 zawa:coconutcrab -- zawa.coconutcrab
 zawa:commonchimpanzee -- zawa.commonchimpanzee
 zawa:echidna -- zawa.echidna
+zawa:egg -- zawa.egg
+zawa:fancy_painting -- zawa.fancy_painting
 zawa:feedtrader -- zawa.FeedTrader
 zawa:fijibandediguana -- zawa.FijiBandedIguana
 zawa:frigate -- zawa.frigate
@@ -859,17 +861,14 @@ zawa:grevyszebra -- zawa.GrevysZebra
 zawa:grizzlybear -- zawa.grizzlybear
 zawa:harpyeagle -- zawa.harpyeagle
 zawa:hawksbillseaturtle -- zawa.HawksbillSeaTurtle
-zawa:hawksbillseaturtleegg -- zawa.HawksbillSeaTurtleEgg
 zawa:humpbackwhale -- zawa.humpbackwhale
 zawa:indiangharial -- zawa.IndianGharial
 zawa:indianpangolin -- zawa.IndianPangolin
 zawa:jaguar -- zawa.jaguar
 zawa:japanesegiantsalamander -- zawa.JapaneseGiantSalamander
-zawa:japanesegiantsalamanderegg -- zawa.JapaneseGiantSalamanderEgg
 zawa:koala -- zawa.Koala
 zawa:komododragon -- zawa.komododragon
 zawa:macaw -- zawa.Macaw
-zawa:macawegg -- zawa.MacawEgg
 zawa:marineiguana -- zawa.marineiguana
 zawa:marinetang -- zawa.marinetang
 zawa:meerkat -- zawa.Meerkat
@@ -892,6 +891,7 @@ zawa:redpanda -- zawa.RedPanda
 zawa:reticulatedgiraffe -- zawa.ReticulatedGiraffe
 zawa:riflebullet -- zawa.RifleBullet
 zawa:saltlick -- zawa.saltlick
+zawa:shell -- zawa.shell
 zawa:shotgunbullet -- zawa.ShotgunBullet
 zawa:sockeyesalmon -- zawa.SockeyeSalmon
 zawa:sumatranrhinoceros -- zawa.sumatranrhinoceros
@@ -899,12 +899,12 @@ zawa:tasmaniandevil -- zawa.tasmaniandevil
 zawa:threetoedsloth -- zawa.threetoedsloth
 zawa:tigershark -- zawa.tigershark
 zawa:toucan -- zawa.Toucan
-zawa:toucanegg -- zawa.ToucanEgg
 zawa:tranquilizerdart -- zawa.TranquilizerDart
 zawa:treefrog -- zawa.TreeFrog
 zawa:westernlowlandgorilla -- zawa.WesternLowlandGorilla
 zawa:whalefloater -- zawa.whalefloater
 zawa:zebrapinata -- zawa.zebrapinata
+zawa:zoocart -- zawa.zoocart
 zawa:zookeeper -- zawa.ZooKeeper
 zawa:zoopainting -- zawa.ZooPainting
 zawa:zoosigns -- zawa.zoosigns

@@ -83,7 +83,7 @@
         "dimension": -52,
         "mob": "minecraft:guardian",
         "mincount": {
-          "amount": 8,
+          "amount": 14,
           "perplayer": true
         },
         "result": "deny"
