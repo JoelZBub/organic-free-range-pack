@@ -63,7 +63,7 @@ cgm.cfg
 		I:"Sound Fade Threshold"=50
 CustomMainMenu/mainmenu.json
 	"packTxt":
-        "text" : "Public Release Build: 1.0.2",
+        "text" : "Public Release Build: 1.1.0",
 defaultoptions/keybindings.txt
 	Adjusted default keys based on player feedback
 incontrol/loot.json
@@ -149,7 +149,7 @@ loottables/loottweaker.zs
 recipesCrafting/arcademod.zs
 	Fixed recipe for Prize Counter
 recipesCrafting/crayfishfurniture.zs
-	remove/replace log_item recipe to fix dupe bug
+	remove log_item recipe to fix dupe bug
 recipesCrafting/deepmoblearning.zs
 	Get rekt noobz - Altered Glitch Chestplate, pray we do not alter it further
 recipesCrafting/lilcritters.zs

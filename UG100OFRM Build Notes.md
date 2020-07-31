@@ -1,0 +1,43 @@
+Uncle Genny's 100% Organic & Free-Range Build Notes
+
+Build 1.1.0
+
+**Removed Caverns II Mirage Dimensions** - This was done to remove a bug that will crash servers and single player clients. However can potentially change your existing world save if those dimensions have been used. Any currently existing Mirage books will have no use and the Mirage portal will no longer function. If you have any items in those dimensions, be sure to remove them before updating.
+
+Added Mods:
+• Bad Wither No Cookie - Reloaded (By Kreezxil) - Added at the request of everyone who no longer wished to pee themselves when someone on the server killed the Ender Dragon
+• Overworld Respawn (by Noobanidus) - Custom mod added to force players to always respawn in the Overworld, fixing issues with Caverns, Atum, Tropicraft, etc.
+
+Enhancements:
+• Added a FAQs section to the Guidebook
+• Added a LOT of information about Misty World in the Guidebook
+• Added link to community made list of mod wikis in the Guidebook
+• Disabled Animania tamed animals teleporting to own. Hopefully this helps prevent animals disappearing.
+• Adjusted volume of the Crayfish Gun's Mod stun grenade. Thanks Satan
+• Made adjustments to default keybinds. This will only impact new installs
+• Adjusted drop rates for existing easter eggs and added a new one
+• Adjusted spawn rates of certain mobs (Caverns Squids, Nagas, Jet Pack Spiders)
+• Disabled the Inventory Pets Quiver Pet due to incompatibility with COFH
+• Adjusted cooldown time of Inventory Pets Juggernaut pet
+• Hid more unused items in JEI to help keep things tidy
+• Disabled despawning untamed adult dragons
+• Disabled Vanilla recipe book
+• Adjusted spawn rates of water dragon nests
+• Blacklisted Deep Mob Learning Glitch from Tiny Mob Farms
+• Set Xaero's Mini Map to show old deaths by default. Only impacts new installs.
+• Disabled ZAWA worm drops
+• Added process to create Random Things ectoplasm
+• Added a variety of tooltips to help make things easier to understand
+• Added all remaining wooden trapdoors to trapdoorWood oredict entry
+• Hid unnecessary Crayfish Vehicle JEI tabs
+• Removed Slime Cube from certain loottables to prevent oversaturation
+• Changed ZAWA and Lil' Critters vial recipes to use water bottle instead of "uncraftable potion"
+• Adjusted recipes for certain items to encourage players to explore dimensions that previously did not have specific requirements
+• Added furnace recipe for ZAWA dried bamboo and adjusted Soviet furnace recipes to make sense
+
+Bug Fixes:
+• Fixed morphs for ZAWA mobs who had recent name changes
+• Fixed recipes for Arcade Mod prize counter and tokens
+• Removed Rat Nuggets from Redstone Furnace because they don't work right anymore due to change in mod
+• Fixed more broken localized names
+• Fixed various typos in Guidebook
