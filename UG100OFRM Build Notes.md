@@ -4,11 +4,13 @@ Build 1.1.0
 
 **Removed Caverns II Mirage Dimensions** - This was done to remove a bug that will crash servers and single player clients. However it can potentially change your existing world save if those dimensions have been used. Any currently existing Mirage books will have no use and the Mirage portal will no longer function. If you have any items in those dimensions, be sure to remove them before updating.
 
-Added Mods:
+**Added Mods:**
+
 * Bad Wither No Cookie - Reloaded (By Kreezxil) - Added at the request of everyone who no longer wished to pee themselves when someone on the server killed the Ender Dragon
 * Overworld Respawn (by Noobanidus) - Custom mod added to force players to always respawn in the Overworld, fixing issues with Caverns, Atum, Tropicraft, etc.
 
-Enhancements:
+**Enhancements:**
+
 * Added a FAQs section to the Guidebook
 * Added a LOT of information about Misty World in the Guidebook
 * Added link to community made list of mod wikis in the Guidebook
@@ -19,6 +21,7 @@ Enhancements:
 * Adjusted spawn rates of certain mobs (Caverns Squids, Nagas, Jet Pack Spiders)
 * Disabled the Inventory Pets Quiver Pet due to incompatibility with COFH
 * Adjusted cooldown time of Inventory Pets Juggernaut pet
+* Adjusted cooldown and item cap of Inventory Pets Illuminati pet
 * Hid more unused items in JEI to help keep things tidy
 * Disabled despawning untamed adult dragons
 * Disabled Vanilla recipe book
@@ -34,8 +37,10 @@ Enhancements:
 * Changed ZAWA and Lil' Critters vial recipes to use water bottle instead of "uncraftable potion"
 * Adjusted recipes for certain items to encourage players to explore dimensions that previously did not have specific requirements
 * Added furnace recipe for ZAWA dried bamboo and adjusted Soviet furnace recipes to make sense
+* Added creative stage to prevent use of creative items if they happen to be obtained via Illuminati Pet or Randomite, despite best efforts to blacklist them
 
-Bug Fixes:
+**Bug Fixes:**
+
 * Fixed morphs for ZAWA mobs that had recent name changes
 * Fixed recipes for Arcade Mod prize counter and tokens
 * Removed Rat Nuggets from Redstone Furnace because they don't work right anymore due to change in mod

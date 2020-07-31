@@ -80,6 +80,8 @@ inventorypets/inventorypets.cfg
 	B:"Disable Quiver Recipe"=true
 	I:"Juggernaut Cooldown (0-10) minutes"=5
     I:"Juggernaut Cooldown (0-5) minutes"=5
+	I:"Illuminati Cooldown (0-10) minutes"=10
+	I:"Illuminati Random Item Cap Limit"=100
 JEI/itemBlacklist.cfg
 	cfm:item_drink
 	chisel:block_coal_coke
@@ -184,6 +186,10 @@ recipesMachines/thermalexpansion/phytogenicinsolator.zs
 	added and commented out poison potato recipe
 recipesMachines/thermalexpansion/redstonefurnace.zs
 	Removed script contents due to changes to Rats nuggets item IDs
+staging/creative.zs
+	Created script to stage all creative items
+staging/stages.zs
+	Added "creative" stage
 
 -- Asset Changes --
 -------------------

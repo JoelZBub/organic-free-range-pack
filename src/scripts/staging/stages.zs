@@ -12,7 +12,8 @@ global stages as Stage[string] = {};
 
 var stageNames as string[] = [
 	"gadget",
-	"soviet"
+	"soviet",
+	"creative"
 ];
 
 for stageName in stageNames {
