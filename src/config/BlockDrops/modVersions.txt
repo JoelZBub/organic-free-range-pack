@@ -64,7 +64,7 @@
   "mowziesmobs": "1.5.6",
   "bamboozled": "1.1.0",
   "cgm": "0.15.3",
-  "cyberware": "0.2.11.25",
+  "cyberware": "0.2.11.26",
   "jei": "4.15.0.296",
   "bnbgaminglib": "2.17.6",
   "custommainmenu": "2.0.9.1",
