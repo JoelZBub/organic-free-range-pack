@@ -224,6 +224,9 @@ static itemTooltipsAdd as IFormattedText[][IItemStack] = {
 		format.gold("Dropped by the Tarantula Brood Mother"),
 		format.gold("Found in Erebus' Ulterior Outback biome"),
 	],
+	<randomthings:dyeingmachine> : [
+		format.gold("Used for dyeing items, not blocks")
+	],
 
 };
 

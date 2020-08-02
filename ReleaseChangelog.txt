@@ -20,6 +20,11 @@ xpfromharvest.cfg
 	S:"Crops List"
 		simplycats:crop_catnip[age=7]
 
+-- Script Changes --
+--------------------
+itemModifiers/tooltips.zs
+	Added clarifying tip for Random Things Dyeing Machine
+
 
 
 -------------------------------------------------------------------------------  
