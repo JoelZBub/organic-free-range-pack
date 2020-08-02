@@ -13,18 +13,6 @@
     },
     {
         "onjoin": true,
-        "mod": "zawa",
-        "dimension": [-50, -51],
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
-        "mod": "animania",
-        "dimension": [-50, -51, -52],
-        "result": "deny"
-    },
-    {
-        "onjoin": true,
         "mob": "energeticsheep:energetic_sheep",
         "dimension": 69,
         "result": "deny"
