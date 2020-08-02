@@ -1,8 +1,13 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/07/05 - 2020/07/30
+        Changelog - 2020/08/01 - 2020/08/xx
         Version : 1.1.1
 -------------------------------------------------------------------------------
+
+-- Updated Mods --
+------------------
+Trophies:ZAWA Addon (1.0.4 to 1.0.5)
+
 
 -- Config Changes --
 --------------------
@@ -11,10 +16,10 @@ incontrol/spawn.json
 inventorypets/inventorypets.cfg
 	I:"Illuminati Cooldown (0-10) minutes"=5
     I:"Illuminati Cooldown (0-5) minutes"=5
+xpfromharvest.cfg
+	S:"Crops List"
+		simplycats:crop_catnip[age=7]
 
--- Updated Mods --
-------------------
-Trophies:ZAWA Addon (1.0.4 to 1.0.5)
 
 
 -------------------------------------------------------------------------------  
