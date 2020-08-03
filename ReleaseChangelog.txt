@@ -6,6 +6,7 @@
 
 -- Updated Mods --
 ------------------
+CraftPresence (1.6.5 to 1.6.6)
 Trophies:ZAWA Addon (1.0.4 to 1.0.5)
 
 
