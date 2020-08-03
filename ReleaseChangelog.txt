@@ -22,8 +22,15 @@ xpfromharvest.cfg
 
 -- Script Changes --
 --------------------
+itemModifiers/hardness.zs
+	Made Amber Preservation Block unbreakable to avoid crash
 itemModifiers/tooltips.zs
 	Added clarifying tip for Random Things Dyeing Machine
+recipesHideRemoveJEI.zs
+	static removeItemsJEI as IIngredient[] = [
+		<erebus:wand_of_preservation>
+staging/creative.zs
+	Removed Ender Utils Creative Breaking Module
 
 
 

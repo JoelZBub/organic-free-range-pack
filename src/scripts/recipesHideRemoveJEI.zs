@@ -41,7 +41,8 @@ static removeItemsJEI as IIngredient[] = [
 	<theoneprobe:gold_helmet_probe:0>,
 	<theoneprobe:iron_helmet_probe:0>,
 	<theoneprobe:probe_goggles:0>,
-	<theoneprobe:probenote:0>
+	<theoneprobe:probenote:0>,
+	<erebus:wand_of_preservation>
 ];
 
 

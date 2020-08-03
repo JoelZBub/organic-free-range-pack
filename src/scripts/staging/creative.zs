@@ -13,7 +13,6 @@ mods.ItemStages.addItemStage("creative", <cyclicmagic:battery_infinite>);
 mods.ItemStages.addItemStage("creative", <deepmoblearning:creative_model_learner>);
 mods.ItemStages.addItemStage("creative", <enderutilities:endercapacitor:3>);
 mods.ItemStages.addItemStage("creative", <enderutilities:endercapacitor:3>.withTag({EnderChargeAmount: 1000000000}));
-mods.ItemStages.addItemStage("creative", <enderutilities:enderpart:30>);
 mods.ItemStages.addItemStage("creative", <enderutilities:enderpart:81>);
 mods.ItemStages.addItemStage("creative", <integrateddynamics:creative_energy_battery>);
 mods.ItemStages.addItemStage("creative", <mowziesmobs:earth_talisman>);
