@@ -1,6 +1,6 @@
-Uncle Genny's 100% Organic & Free-Range Build Notes
+**Uncle Genny's 100% Organic & Free-Range Build Notes**
 
-Build 1.1.0
+Build 1.1.1
 
 **Updated Mods**
 CraftPresence - Discord API update
