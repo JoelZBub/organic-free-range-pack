@@ -2,6 +2,20 @@ Uncle Genny's 100% Organic & Free-Range Build Notes
 
 Build 1.1.0
 
+**Updated Mods**
+CraftPresence - Discord API update
+Trophies: ZAWA Addon - Fixed console spam issue
+
+**Enhancements**
+Added Catnip to XP From Harvest
+Made Amber Preservation Blocks unbreakable to avoid crashes
+
+**Bug Fixes**
+Reset Illuminati cooldown due to config issues
+
+
+Build 1.1.0
+
 **Removed Caverns II Mirage Dimensions** - This was done to remove a bug that will crash servers and single player clients. However it can potentially change your existing world save if those dimensions have been used. Any currently existing Mirage books will have no use and the Mirage portal will no longer function. If you have any items in those dimensions, be sure to remove them before updating.
 
 **Added Mods:**
