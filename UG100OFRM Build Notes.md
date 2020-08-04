@@ -3,15 +3,18 @@
 Build 1.1.1
 
 **Updated Mods**
-CraftPresence - Discord API update
-Trophies: ZAWA Addon - Fixed console spam issue
+* CraftPresence - Discord API update
+* Trophies: ZAWA Addon - Fixed console spam issue
 
 **Enhancements**
-Added Catnip to XP From Harvest
-Made Amber Preservation Blocks unbreakable to avoid crashes
+
+* Added Catnip to XP From Harvest
+* Made Amber Preservation Blocks unbreakable to avoid crashes
 
 **Bug Fixes**
-Reset Illuminati cooldown due to config issues
+
+* Reset Illuminati cooldown due to config issues
+
 
 
 Build 1.1.0
