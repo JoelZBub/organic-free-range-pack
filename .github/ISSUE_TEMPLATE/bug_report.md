@@ -6,7 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
 ### Describe the Bug:
 
 
@@ -28,6 +27,7 @@ Paste your crash report or log file to https://hatebin.com/ and paste the link h
 
 
 ### Please complete the following information:
+ - Have you added or removed any mods, and if so, which?:
  - Modpack Version Number :
  - Is OptiFine installed? : 
  - Does this issue affect Server, Client, or Both? :
