@@ -38,7 +38,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<deepmoblearning:glitch_infused_chestplate> : {
 		"deepmoblearning_glitch_infused_chestplate" : [
 			[
-	  			[<deepmoblearning:glitch_infused_ingot>, <erebus:spider_t_shirt>, <deepmoblearning:glitch_infused_ingot>],
+	  			[<deepmoblearning:glitch_infused_ingot>, <erebus:glider_chestplate_powered>, <deepmoblearning:glitch_infused_ingot>],
 	   			[<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>],
 	  			[<deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>]
 			]

@@ -1,3 +1,4 @@
+#norun
 /*
 	100% Organic Free-Range Item Hardness Modification script.
 	This script is for modifying item hardness for all mods.
