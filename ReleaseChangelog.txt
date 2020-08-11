@@ -37,6 +37,12 @@ itemModifiers/hardness.zs
 	Set to #norun
 recipesCrafting/deepmoblearning.zs
 	Swapped Tarantula Boss Trophy for Powered Glider in Chestplate recipe
+recipesCrafting/rftools.zs
+	Swapped Soul Crystal for Golden Date in Storage Control Screen recipe
+recipesCrafting/deepmoblearning.zs
+	Swapped Soul Crystal for Golden Date in Advanced Storage Remote recipe
+recipesMachines/centrifugalseperator.zs
+	Added recipes to convert Animania Mooshroom RFTools syringes into vanilla Mooshroom syringes
 
 
 -------------------------------------------------------------------------------  
