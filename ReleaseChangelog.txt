@@ -28,6 +28,9 @@ stupidthings.cfg
 	B:"Invisible Chestplate"=true
 	B:"Invisible Helmet"=true
 	B:"Invisible Leggings"=true
+uniquee.cfg
+	deaths_odium {
+		B:enabled=false
 
 -- Script Changes --
 --------------------
