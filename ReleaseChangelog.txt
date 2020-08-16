@@ -1,17 +1,29 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/08/05 - 2020/08/xx
-        Version : 1.?.?
+        Changelog - 2020/08/05 - 2020/08/16
+        Version : 1.2.0
 -------------------------------------------------------------------------------
 
 -- Added Mods --
 ------------------
+ErebusFix (by Noobanidus)
 
 -- Updated Mods --
 ------------------
+Controlling (3.0.9 to 3.0.10)
+CraftPresence (1.6.6 to 1.6.8)
+Misty World (1.2.4.7 to 1.2.4.14)
+Rats (3.2.13 to 3.2.14)
+Simply Cats (0.0.3.0 to 0.0.3.1)
+Sound Filters (0.12 to 0.12.1)
+The Magic Mirror (0.0.4.0 to 0.1.0.362)
+Thermal Logistics (0.2-29 to 0.3-40) See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
+Xaero's Minimap (20.18.0 to 20.20.0) See IMPORTANT note in mod changelog
 
 -- Config Changes --
 --------------------
+custommainmenu.cfg
+	bump version
 deepmoblearning.cfg
 	S:creeper <
 		cavern:cavenic_creeper
@@ -23,6 +35,18 @@ deepmoblearning.cfg
 		cavern:cavenic_witch
 	S:zombie <
 		cavern:cavenic_zombie
+fossil.cfg
+	B:"Generate Volcano Biomes"=false
+incontrol/spawn.json
+	removed pvj:pvj_duck entry (transferred to native mist.cfg)
+mist.cfg
+	backup and regenerate new config
+    S:mobsBlackList <
+    	pvj:pvj_duck>
+SimplyCats/
+	simplycats-1.12.2-0.0.3.1
+		transfer custom options from 0.0.3.0
+	remove 0.0.3.0 config
 stupidthings.cfg
 	B:"Invisible Boots"=true
 	B:"Invisible Chestplate"=true
@@ -40,13 +64,16 @@ itemModifiers/hardness.zs
 	Set to #norun
 recipesCrafting/deepmoblearning.zs
 	Swapped Tarantula Boss Trophy for Powered Glider in Chestplate recipe
+recipesCrafting/inventorypets.zs
+	fixed siamese pet recipe (incorrect chicken/pecker oredict entry)
 recipesCrafting/rftools.zs
 	Swapped Soul Crystal for Golden Date in Storage Control Screen recipe
 recipesCrafting/deepmoblearning.zs
 	Swapped Soul Crystal for Golden Date in Advanced Storage Remote recipe
 recipesMachines/centrifugalseperator.zs
 	Added recipes to convert Animania Mooshroom RFTools syringes into vanilla Mooshroom syringes
-
+seteffect/items.zs
+	added invisibility to pirate barbossa hat
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack

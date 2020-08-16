@@ -50,7 +50,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 	<inventorypets:siamese_pet:0> : {
 		"inventorypets_siamese_pet" : [
 			[
-	  			[<minecraft:baked_potato:0>, <ore:listAllcookedchicken>, <minecraft:baked_potato:0>],
+	  			[<minecraft:baked_potato:0>, <ore:listAllchickencooked>, <minecraft:baked_potato:0>],
 	   			[<minecraft:baked_potato:0>, <minecraft:diamond:0>, <minecraft:baked_potato:0>],
 	  			[<minecraft:baked_potato:0>, <ore:ingotGold>, <minecraft:baked_potato:0>]
 			]

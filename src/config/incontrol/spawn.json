@@ -63,11 +63,6 @@
         "result": "deny"
     },
     {
-        "dimension": 69,
-        "mob": "pvj:pvj_duck",
-        "result": "deny"
-    },
-    {
         "dimension": -52,
         "mob": "minecraft:guardian",
         "mincount": {
