@@ -62,13 +62,15 @@ itemModifiers/displayNames.zs
 	<zawa:waste_bin>: "Rubby Bin"
 itemModifiers/hardness.zs
 	Set to #norun
+recipesCrafting/crayfishfurniture.zs
+	Changed knife recipe to fix conflict
 recipesCrafting/deepmoblearning.zs
 	Swapped Tarantula Boss Trophy for Powered Glider in Chestplate recipe
 recipesCrafting/inventorypets.zs
 	fixed siamese pet recipe (incorrect chicken/pecker oredict entry)
 recipesCrafting/rftools.zs
 	Swapped Soul Crystal for Golden Date in Storage Control Screen recipe
-recipesCrafting/deepmoblearning.zs
+recipesCrafting/simplestoragenetwork.zs
 	Swapped Soul Crystal for Golden Date in Advanced Storage Remote recipe
 recipesMachines/centrifugalseperator.zs
 	Added recipes to convert Animania Mooshroom RFTools syringes into vanilla Mooshroom syringes
