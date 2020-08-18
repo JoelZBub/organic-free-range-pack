@@ -28,6 +28,7 @@ static itemRecipeRemoval as IItemStack[] = [
 	<cfm:digital_clock:13>,
 	<cfm:digital_clock:14>,
 	<cfm:digital_clock:15>,
+
 ];
 
 /*
@@ -222,6 +223,14 @@ static namedMirroredRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	}	*/
+	<cfm:item_knife> : {
+		"cfm_item_knife" : [
+			[
+	  			[<ore:ingotIron>, null],
+	  			[null, <minecraft:concrete:7>]
+			]
+		]
+    }
 };
 
 
