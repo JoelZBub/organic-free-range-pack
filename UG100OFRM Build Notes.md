@@ -1,8 +1,49 @@
 **Uncle Genny's 100% Organic & Free-Range Build Notes**
 
+Build 1.2.0
+
+**Note About Thermal Logistics Update** - Per the mod dev's instructions, before updating you should make sure all crafters are idle (or off) and all machines attached to crafters are empty. See the link below for more information
+
+**Note About Removal of Death's Odium curse** - This curse has been removed from the pack after discovering the only way to remove its effects is by editing playerdata files. Removal of this curse is likely to delete any item it is currently on, so we recommend removing it from an items you would like to keep prior to updating. The Disenchantment Table works well for this.
+
+**Added Mods**
+
+ErebusFix - Corrects issue with crash related to preserved amber
+
+**Updated Mods**
+
+Controlling
+CraftPresense
+MistyWorld
+Rats
+SimplyCats
+SoundFilters
+The Magic Mirror
+Thermal Logistics
+Xaero's Minimap
+
+**Enhancements**
+
+* Added Caverns mods to related Deep Mob Learning modules
+* Reenabled Invisible Armor from Stupid Things at players' request
+* Removed Death's Odium cruse
+* Changed Glitch Chestplate recipe to not use boss-based drops
+* Changed inter-dimensional remote storage recipes to not use boss-based drops
+* Added ability to convert Animania Mooshroom syringes into vanilla Mooshroom syringe
+* Added effect to Barbossa Hat
+* Disabled generation of Volcano biomes, which should have already been disabled
+
+**Bug Fixes**
+
+* Fixed recipe conflict for MrCrayfish knife
+* Fixed broken Siamese Pet recipe
+
+
+
 Build 1.1.1
 
 **Updated Mods**
+
 * CraftPresence - Discord API update
 * Trophies: ZAWA Addon - Fixed console spam issue
 
