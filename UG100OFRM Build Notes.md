@@ -37,6 +37,7 @@ Xaero's Minimap
 
 * Fixed recipe conflict for MrCrayfish knife
 * Fixed broken Siamese Pet recipe
+* Fixed broken Menril Door recipe
 
 
 

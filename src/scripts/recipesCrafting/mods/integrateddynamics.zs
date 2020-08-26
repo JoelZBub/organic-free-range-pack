@@ -12,7 +12,8 @@ import crafttweaker.item.IIngredient;
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
 	<integrateddynamics:part_entity_reader_item:0>,
-	<integrateddynamics:part_entity_writer_item:0>
+	<integrateddynamics:part_entity_writer_item:0>,
+	<integrateddynamics:menril_door>
 ];
 
 /*
@@ -82,6 +83,11 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
+	<integrateddynamics:menril_door> : {
+		"integrateddynamics_menril_door" : [
+			[<minecraft:wooden_door>, <integrateddynamics:menril_planks>]
+		]
+	}	
 };
 
 
