@@ -39,9 +39,6 @@ key_Right:205:NONE
 key_Select:157:NONE
 key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -60,6 +57,9 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
 key_key.cavern.miningAssist:49:CONTROL
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:0:NONE
@@ -92,7 +92,7 @@ key_openblocks.keybind.vario_switch:0:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_oreexcavation.key.excavate:41:NONE
-key_oreexcavation.key.shape:47:CONTROL
+key_oreexcavation.key.shape:47:NONE
 key_key.simplemobradar.scroll:42:NONE
 key_key.toastcontrol.clear:36:CONTROL
 key_walljump.key.walljump:42:NONE
