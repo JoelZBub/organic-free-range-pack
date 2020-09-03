@@ -1,24 +1,35 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/08/05 - 2020/08/16
+        Changelog - 2020/08/05 - 2020/09/02
         Version : 1.2.0
 -------------------------------------------------------------------------------
 
 -- Added Mods --
 ------------------
+Bigger Packets Please (by ElNounch) - should fix client crash related to sync/cyberware
 ErebusFix (by Noobanidus)
+TipTheScales (by Jared)
 
 -- Updated Mods --
 ------------------
+Aetheneum (1.18.1 to 1.19.1)
+Bad Wither No Cookie - Reloaded (3.3.16 to 3.4.18)
 Controlling (3.0.9 to 3.0.10)
 CraftPresence (1.6.6 to 1.6.8)
-Misty World (1.2.4.7 to 1.2.4.14)
+CraftTweaker (4.1.20.574 to 4.1.20.586)
+Critter Fights (1.0.2 to 1.0.3)
+Cyclic (1.20.4 to 1.20.5)
+Integrated Dynamics (1.1.7 to 1.1.8 to 1.1.9)
+JEI (4.15.0.296 to 4.16.1.301)
+Misty World (1.2.4.7 to 1.2.4.14 to 1.2.4.15)
+Mowzie's Mobs (1.5.6 to 1.5.7)
+MysticalLib (1.7.0 to 1.9.0)
 Rats (3.2.13 to 3.2.14)
 Simply Cats (0.0.3.0 to 0.0.3.1)
 Sound Filters (0.12 to 0.12.1)
-The Magic Mirror (0.0.4.0 to 0.1.0.362)
 Thermal Logistics (0.2-29 to 0.3-40) See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
-Xaero's Minimap (20.18.0 to 20.20.0) See IMPORTANT note in mod changelog
+Xaero's Minimap (20.18.0 to 20.20.0 to 20.20.2) See IMPORTANT note in mod changelog 
+Xaero's World Map (1.10.0 to 1.10.2)
 
 -- Config Changes --
 --------------------
@@ -35,6 +46,8 @@ deepmoblearning.cfg
 		cavern:cavenic_witch
 	S:zombie <
 		cavern:cavenic_zombie
+defaultoptions/keybindings.txt
+	ore excavation shape from ctl+v to v
 fossil.cfg
 	B:"Generate Volcano Biomes"=false
 incontrol/spawn.json
@@ -43,6 +56,8 @@ mist.cfg
 	backup and regenerate new config
     S:mobsBlackList <
     	pvj:pvj_duck>
+mowziesmobs.cfg
+	regen and transfer custom configs for update
 SimplyCats/
 	simplycats-1.12.2-0.0.3.1
 		transfer custom options from 0.0.3.0
@@ -66,6 +81,8 @@ recipesCrafting/crayfishfurniture.zs
 	Changed knife recipe to fix conflict
 recipesCrafting/deepmoblearning.zs
 	Swapped Tarantula Boss Trophy for Powered Glider in Chestplate recipe
+recipesCrafting/integrateddynamics.zs
+	fixed menril door
 recipesCrafting/inventorypets.zs
 	fixed siamese pet recipe (incorrect chicken/pecker oredict entry)
 recipesCrafting/rftools.zs
@@ -76,6 +93,11 @@ recipesMachines/centrifugalseperator.zs
 	Added recipes to convert Animania Mooshroom RFTools syringes into vanilla Mooshroom syringes
 seteffect/items.zs
 	added invisibility to pirate barbossa hat
+
+-- Asset Changes --
+-------------------
+Custom art by darkphan
+
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack

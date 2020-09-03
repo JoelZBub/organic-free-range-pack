@@ -8,24 +8,35 @@ Build 1.2.0
 
 **Added Mods**
 
+Bigger Packets Please (by ElNounch) - should fix client crash related to sync/cyberware
 ErebusFix - Corrects issue with crash related to preserved amber
+TipTheScales (by Jared)
 
 **Updated Mods**
 
-Controlling
-CraftPresense
-MistyWorld
-Rats
-SimplyCats
-SoundFilters
-The Magic Mirror
-Thermal Logistics
-Xaero's Minimap
+Aetheneum 
+Bad Wither No Cookie -Reloaded 
+Controlling 
+CraftPresence 
+CraftTweaker 
+Critter Fights  	Increases aggro range 
+Cyclic 
+Integrated Dynamics 
+JEI 
+Misty World 
+Mowzie's Mobs 
+MysticalLib 
+Rats  				Should fix pathfinding performance issues
+Simply Cats 
+Sound Filters 
+Thermal Logistics  	See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
+Xaero's Minimap  	See IMPORTANT notes in mod changelog for 20.20.0 here: https://bit.ly/MinimapChangelogNotes
+Xaero's World Map 
 
 **Enhancements**
 
 * Added Caverns mods to related Deep Mob Learning modules
-* Reenabled Invisible Armor from Stupid Things at players' request
+* Re-enabled Invisible Armor from Stupid Things at players' request
 * Removed Death's Odium cruse
 * Changed Glitch Chestplate recipe to not use boss-based drops
 * Changed inter-dimensional remote storage recipes to not use boss-based drops
@@ -38,6 +49,7 @@ Xaero's Minimap
 * Fixed recipe conflict for MrCrayfish knife
 * Fixed broken Siamese Pet recipe
 * Fixed broken Menril Door recipe
+* Fixed Ore Excavation keybind conflict
 
 
 
