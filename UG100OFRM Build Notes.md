@@ -2,9 +2,9 @@
 
 Build 1.2.0
 
-**Note About Thermal Logistics Update** - Per the mod dev's instructions, before updating you should make sure all crafters are idle (or off) and all machines attached to crafters are empty. See the link below for more information
+**Note About Thermal Logistics Update** - Per the mod dev's instructions, before updating you should make sure all crafters are idle (or off) and all machines attached to crafters are empty. See the link below for more information.
 
-**Note About Removal of Death's Odium curse** - This curse has been removed from the pack after discovering the only way to remove its effects is by editing playerdata files. Removal of this curse is likely to delete any item it is currently on, so we recommend removing it from an items you would like to keep prior to updating. The Disenchantment Table works well for this.
+**Note About Removal of Death's Odium curse** - This curse has been removed from the pack after discovering the only way to remove its effects is by editing playerdata files. Removal of this curse is likely to delete any item it is currently on, so we recommend removing it from any items you would like to keep prior to updating. The Disenchantment Table works well for this.
 
 **Added Mods**
 
@@ -43,6 +43,7 @@ Xaero's World Map
 * Added ability to convert Animania Mooshroom syringes into vanilla Mooshroom syringe
 * Added effect to Barbossa Hat
 * Disabled generation of Volcano biomes, which should have already been disabled
+* Default search focus to RFTools Search field when opening RFTools GUI
 
 **Bug Fixes**
 

@@ -124,7 +124,7 @@
   "cavern": "2.3.0",
   "clarity": "1.1",
   "cosmeticarmorreworked": "1.12.2-v5a",
-  "magic_mirror": "1.12.2-0.0.4.0",
+  "magic_mirror": "1.12.2-0.1.1.427",
   "base": "3.13.0",
   "defaultoptions": "9.2.8",
   "cannibalism": "5.6.5",

@@ -27,6 +27,7 @@ MysticalLib (1.7.0 to 1.9.0)
 Rats (3.2.13 to 3.2.14)
 Simply Cats (0.0.3.0 to 0.0.3.1)
 Sound Filters (0.12 to 0.12.1)
+The Magic Mirror (0.0.4.0 to 0.1.1.428)
 Thermal Logistics (0.2-29 to 0.3-40) See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
 Xaero's Minimap (20.18.0 to 20.20.0 to 20.20.2) See IMPORTANT note in mod changelog 
 Xaero's World Map (1.10.0 to 1.10.2)
@@ -58,6 +59,9 @@ mist.cfg
     	pvj:pvj_duck>
 mowziesmobs.cfg
 	regen and transfer custom configs for update
+rftools/rftools.cfg
+	storage
+		B:autofocusSearch=true  (Thanks to cHiLLs504)
 SimplyCats/
 	simplycats-1.12.2-0.0.3.1
 		transfer custom options from 0.0.3.0
