@@ -36,5 +36,18 @@
         "player": true,
         "item": "contenttweaker:ketchup_hotdog",
         "itemcount": "1/1-2/2-3"
+    },
+     {
+        "mob": "erebus:erebus.rhino_beetle",
+        "player": true,
+        "random": 0.1,
+        "item": "erebus:materials@36"
+    },
+    {
+        "mob": "erebus:erebus.rhino_beetle",
+        "player": true,
+        "playerhelditem": { "empty": true },
+        "random": 0.8,
+        "item": "erebus:materials@36"
     }
 ]

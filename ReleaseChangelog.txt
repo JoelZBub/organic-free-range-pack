@@ -22,15 +22,16 @@ Cyclic (1.20.4 to 1.20.5)
 Integrated Dynamics (1.1.7 to 1.1.8 to 1.1.9)
 JEI (4.15.0.296 to 4.16.1.301)
 Misty World (1.2.4.7 to 1.2.4.14 to 1.2.4.15)
-Mowzie's Mobs (1.5.6 to 1.5.7)
+Mowzie's Mobs (1.5.6 to 1.5.7 to 1.5.8)
 MysticalLib (1.7.0 to 1.9.0)
 Rats (3.2.13 to 3.2.14)
 Simply Cats (0.0.3.0 to 0.0.3.1)
 Sound Filters (0.12 to 0.12.1)
+Stupid Things (1.1.5 to 1.1.5)
 The Magic Mirror (0.0.4.0 to 0.1.1.428)
 Thermal Logistics (0.2-29 to 0.3-40) See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
-Xaero's Minimap (20.18.0 to 20.20.0 to 20.20.2) See IMPORTANT note in mod changelog 
-Xaero's World Map (1.10.0 to 1.10.2)
+Xaero's Minimap (20.18.0 to 20.20.0 to 20.20.2 to 20.20.3) See IMPORTANT note in mod changelog 
+Xaero's World Map (1.10.0 to 1.10.2 to 1.10.3)
 
 -- Config Changes --
 --------------------
@@ -117,8 +118,11 @@ Trophies:ZAWA Addon (1.0.4 to 1.0.5)
 
 -- Config Changes --
 --------------------
-incontrol/spawn.json
-	Removed ZAWA and animania denials from Caverns dimensions
+incontrol
+	/loot.json
+		Added horn drop chance to Rhino Beetle
+	/spawn.json
+		Removed ZAWA and animania denials from Caverns dimensions
 inventorypets/inventorypets.cfg
 	I:"Illuminati Cooldown (0-10) minutes"=5
     I:"Illuminati Cooldown (0-5) minutes"=5

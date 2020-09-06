@@ -9,7 +9,7 @@ Build 1.2.0
 **Added Mods**
 
 Bigger Packets Please (by ElNounch) - should fix client crash related to sync/cyberware
-ErebusFix - Corrects issue with crash related to preserved amber
+ErebusFix (by Noobanidus)- Corrects issue with crash related to preserved amber
 TipTheScales (by Jared)
 
 **Updated Mods**
@@ -29,6 +29,8 @@ MysticalLib
 Rats  				Should fix pathfinding performance issues
 Simply Cats 
 Sound Filters 
+Stupid Things
+The Magic Mirror
 Thermal Logistics  	See https://bit.ly/ThermalLogisticsUpdateCraftingNotes
 Xaero's Minimap  	See IMPORTANT notes in mod changelog for 20.20.0 here: https://bit.ly/MinimapChangelogNotes
 Xaero's World Map 
@@ -51,6 +53,7 @@ Xaero's World Map
 * Fixed broken Siamese Pet recipe
 * Fixed broken Menril Door recipe
 * Fixed Ore Excavation keybind conflict
+* Added Horn drop chance to Rhino Beetle
 
 
 
