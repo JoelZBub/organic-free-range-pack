@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/08/05 - 2020/09/02
+        Changelog - 2020/08/05 - 2020/09/11
         Version : 1.2.0
 -------------------------------------------------------------------------------
 
@@ -60,6 +60,9 @@ mist.cfg
     	pvj:pvj_duck>
 mowziesmobs.cfg
 	regen and transfer custom configs for update
+	lantern
+		spawn_data
+			I:spawn_rate=8
 rftools/rftools.cfg
 	storage
 		B:autofocusSearch=true  (Thanks to cHiLLs504)
