@@ -4,11 +4,11 @@
     "replace": "true",
     "subtitle": "organicadd.boogereater.hurt",
     "sounds": [
-      {"name": "organicadd:growl1", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:growl2", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:hurt1", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:hurt2", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:hurt3", "pitch": 0.8, "stream": "true"}
+      {"name": "organicadd:growl1", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:growl2", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:hurt1", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:hurt2", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:hurt3", "pitch": 0.8, "stream": "false"}
     ]
   },
   "booger.eater.idle": {
@@ -16,13 +16,13 @@
     "replace": "true",
     "subtitle": "organicadd.boogereater.idle",
     "sounds": [
-      {"name": "organicadd:hermitcraft", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:meee1", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:meee2", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:meee3", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:meee4", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:meeegrowl", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:server", "pitch": 0.8, "stream": "true"}
+      {"name": "organicadd:hermitcraft", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:meee1", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:meee2", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:meee3", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:meee4", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:meeegrowl", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:server", "pitch": 0.8, "stream": "false"}
     ]
   },
   "booger.eater.death": {
@@ -30,10 +30,10 @@
     "replace": "true",
     "subtitle": "organicadd.boogereater.death",
     "sounds": [
-      {"name": "organicadd:death1", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:death2", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:death3", "pitch": 0.8, "stream": "true"},
-      {"name": "organicadd:death4", "pitch": 0.8, "stream": "true"}
+      {"name": "organicadd:death1", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:death2", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:death3", "pitch": 0.8, "stream": "false"},
+      {"name": "organicadd:death4", "pitch": 0.8, "stream": "false"}
     ]
   },
   "tex.sound.0": {

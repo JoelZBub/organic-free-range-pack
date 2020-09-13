@@ -1,0 +1,812 @@
+{
+  "ambient.cockatoo": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.ambient.cockatoo",
+    "sounds": [
+      {
+        "name": "zawa:ambient.cockatoo",
+        "stream": "false"
+      }
+    ]
+  },
+  "amurleopard.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.amurleopard.ambient",
+    "sounds": [
+      {
+        "name": "zawa:amurleopard.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "amurleopard.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.amurleopard.hurt",
+    "sounds": [
+      {
+        "name": "zawa:amurleopard.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "amur_leopard.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.amur_leopard.ambient",
+    "sounds": [
+      {
+        "name": "zawa:amur_leopard.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "anaconda.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.anaconda.ambient",
+    "sounds": [
+      {
+        "name": "zawa:anaconda.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "anaconda.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.anaconda.hurt",
+    "sounds": [
+      {
+        "name": "zawa:anaconda.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "asianelephant.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.asianelephant.ambient",
+    "sounds": [
+      {
+        "name": "zawa:asianelephant.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "asianelephant.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.asianelephant.hurt",
+    "sounds": [
+      {
+        "name": "zawa:asianelephant.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "car.drive": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.car.drive",
+    "sounds": [
+      {
+        "name": "zawa:car.drive",
+        "stream": "true"
+      }
+    ]
+  },
+  "car.generic.horn": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.car.generic.horn",
+    "sounds": [
+      {
+        "name": "zawa:car.generic.horn",
+        "stream": "true"
+      }
+    ]
+  },
+  "car.start": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.car.start",
+    "sounds": [
+      {
+        "name": "zawa:car.start",
+        "stream": "false"
+      }
+    ]
+  },
+  "clicks.dolphin": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.clicks.dolphin",
+    "sounds": [
+      {
+        "name": "zawa:clicks.dolphin",
+        "stream": "false"
+      }
+    ]
+  },
+  "clicks.dolphin1": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.clicks.dolphin1",
+    "sounds": [
+      {
+        "name": "zawa:clicks.dolphin1",
+        "stream": "false"
+      }
+    ]
+  },
+  "clicks.dolphins": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.clicks.dolphins",
+    "sounds": [
+      {
+        "name": "zawa:clicks.dolphins",
+        "stream": "false"
+      }
+    ]
+  },
+  "feline.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.feline.ambient",
+    "sounds": [
+      {
+        "name": "zawa:feline.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "feline.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.feline.hurt",
+    "sounds": [
+      {
+        "name": "zawa:feline.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "frog.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.frog.ambient",
+    "sounds": [
+      {
+        "name": "zawa:frog.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "frog.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.frog.hurt",
+    "sounds": [
+      {
+        "name": "zawa:frog.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "gaur.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gaur.ambient",
+    "sounds": [
+      {
+        "name": "zawa:gaur.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "gharial.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gharial.ambient",
+    "sounds": [
+      {
+        "name": "zawa:gharial.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "gorilla.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gorilla.ambient",
+    "sounds": [
+      {
+        "name": "zawa:gorilla.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "gun.shot": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gun.shot",
+    "sounds": [
+      {
+        "name": "zawa:gun.shot",
+        "stream": "false"
+      }
+    ]
+  },
+  "hurt.dolphin": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.hurt.dolphin",
+    "sounds": [
+      {
+        "name": "zawa:hurt.dolphin",
+        "stream": "false"
+      }
+    ]
+  },
+  "indiangharial.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.indiangharial.ambient",
+    "sounds": [
+      {
+        "name": "zawa:indiangharial.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "indiangharial.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.indiangharial.hurt",
+    "sounds": [
+      {
+        "name": "zawa:indiangharial.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "jeep.acceleration.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.acceleration.2",
+    "sounds": [
+      {
+        "name": "zawa:jeep.acceleration.2",
+        "stream": "true"
+      }
+    ]
+  },
+  "jeep.acceleration": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.acceleration",
+    "sounds": [
+      {
+        "name": "zawa:jeep.acceleration",
+        "stream": "true"
+      }
+    ]
+  },
+  "jeep.driveloop.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.driveloop.2",
+    "sounds": [
+      {
+        "name": "zawa:jeep.driveloop.2",
+        "stream": "true"
+      }
+    ]
+  },
+  "jeep.driveloop": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.driveloop",
+    "sounds": [
+      {
+        "name": "zawa:jeep.driveloop",
+        "stream": "true"
+      }
+    ]
+  },
+  "jeep.startup": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.startup",
+    "sounds": [
+      {
+        "name": "zawa:jeep.startup",
+        "stream": "false"
+      }
+    ]
+  },
+  "jeep.turn.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.turn.2",
+    "sounds": [
+      {
+        "name": "zawa:jeep.turn.2",
+        "stream": "false"
+      }
+    ]
+  },
+  "jeep.turn": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jeep.turn",
+    "sounds": [
+      {
+        "name": "zawa:jeep.turn",
+        "stream": "false"
+      }
+    ]
+  },
+  "lion.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.lion.ambient",
+    "sounds": [
+      {
+        "name": "zawa:lion.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "lion.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.lion.hurt",
+    "sounds": [
+      {
+        "name": "zawa:lion.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "macaw.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.macaw.ambient",
+    "sounds": [
+      {
+        "name": "zawa:macaw.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "macaw.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.macaw.hurt",
+    "sounds": [
+      {
+        "name": "zawa:macaw.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "nilehippo.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.nilehippo.ambient",
+    "sounds": [
+      {
+        "name": "zawa:nilehippo.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "nilehippo.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.nilehippo.hurt",
+    "sounds": [
+      {
+        "name": "zawa:nilehippo.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "orca.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.orca.ambient",
+    "sounds": [
+      {
+        "name": "zawa:orca.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "orca.ambient2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.orca.ambient2",
+    "sounds": [
+      {
+        "name": "zawa:orca.ambient2",
+        "stream": "false"
+      }
+    ]
+  },
+  "orca.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.orca.hurt",
+    "sounds": [
+      {
+        "name": "zawa:orca.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "orca.hurt2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.orca.hurt2",
+    "sounds": [
+      {
+        "name": "zawa:orca.hurt2",
+        "stream": "false"
+      }
+    ]
+  },
+  "pickuptruck.acceleration.1": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.acceleration.1",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.acceleration.1",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.acceleration.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.acceleration.2",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.acceleration.2",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.driveloop.1": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.driveloop.1",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.driveloop.1",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.driveloop.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.driveloop.2",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.driveloop.2",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.driveloop.3": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.driveloop.3",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.driveloop.3",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.driveloop.4": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.driveloop.4",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.driveloop.4",
+        "stream": "true"
+      }
+    ]
+  },
+  "pickuptruck.startup.1": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.startup.1",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.startup.1",
+        "stream": "false"
+      }
+    ]
+  },
+  "pickuptruck.startup.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.startup.2",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.startup.2",
+        "stream": "false"
+      }
+    ]
+  },
+  "pickuptruck.startup.3": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.startup.3",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.startup.3",
+        "stream": "false"
+      }
+    ]
+  },
+  "pickuptruck.turn.1": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.turn.1",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.turn.1",
+        "stream": "false"
+      }
+    ]
+  },
+  "pickuptruck.turn.2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.pickuptruck.turn.2",
+    "sounds": [
+      {
+        "name": "zawa:pickuptruck.turn.2",
+        "stream": "false"
+      }
+    ]
+  },
+  "polarbear.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.polarbear.ambient",
+    "sounds": [
+      {
+        "name": "zawa:polarbear.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "polarbear.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.polarbear.hurt",
+    "sounds": [
+      {
+        "name": "zawa:polarbear.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "rhinoceros.abient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.rhinoceros.abient",
+    "sounds": [
+      {
+        "name": "zawa:rhinoceros.abient",
+        "stream": "false"
+      }
+    ]
+  },
+  "rhinoceros.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.rhinoceros.hurt",
+    "sounds": [
+      {
+        "name": "zawa:rhinoceros.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "spider_monkey.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.spider_monkey.ambient",
+    "sounds": [
+      {
+        "name": "zawa:spider_monkey.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "spider_monkey.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.spider_monkey.hurt",
+    "sounds": [
+      {
+        "name": "zawa:spider_monkey.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "tiger.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.tiger.ambient",
+    "sounds": [
+      {
+        "name": "zawa:tiger.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "tiger.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.tiger.hurt",
+    "sounds": [
+      {
+        "name": "zawa:tiger.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "toucan.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.toucan.ambient",
+    "sounds": [
+      {
+        "name": "zawa:toucan.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "toucan.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.toucan.hurt",
+    "sounds": [
+      {
+        "name": "zawa:toucan.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "zebra.ambient": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.zebra.ambient",
+    "sounds": [
+      {
+        "name": "zawa:zebra.ambient",
+        "stream": "false"
+      }
+    ]
+  },
+  "zebra.hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.zebra.hurt",
+    "sounds": [
+      {
+        "name": "zawa:zebra.hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "bear_roar": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.bear_roar",
+    "sounds": [
+      {
+        "name": "zawa:bear_roar",
+        "stream": "false"
+      }
+    ]
+  },
+  "bear_roar_2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.bear_roar_2",
+    "sounds": [
+      {
+        "name": "zawa:bear_roar_2",
+        "stream": "false"
+      }
+    ]
+  },
+  "cassowary_idle": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.cassowary_idle",
+    "sounds": [
+      {
+        "name": "zawa:cassowary_idle",
+        "stream": "false"
+      }
+    ]
+  },
+  "eagle_idle": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.eagle_idle",
+    "sounds": [
+      {
+        "name": "zawa:eagle_idle",
+        "stream": "false"
+      }
+    ]
+  },
+  "eagle_idle_2": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.eagle_idle_2",
+    "sounds": [
+      {
+        "name": "zawa:eagle_idle_2",
+        "stream": "false"
+      }
+    ]
+  },
+  "elephant_trumpet": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.elephant_trumpet",
+    "sounds": [
+      {
+        "name": "zawa:elephant_trumpet",
+        "stream": "false"
+      }
+    ]
+  },
+  "gorilla_idle": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gorilla_idle",
+    "sounds": [
+      {
+        "name": "zawa:gorilla_idle",
+        "stream": "false"
+      }
+    ]
+  },
+  "gorilla_roar": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.gorilla_roar",
+    "sounds": [
+      {
+        "name": "zawa:gorilla_roar",
+        "stream": "false"
+      }
+    ]
+  },
+  "jaguar_hurt": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jaguar_hurt",
+    "sounds": [
+      {
+        "name": "zawa:jaguar_hurt",
+        "stream": "false"
+      }
+    ]
+  },
+  "jaguar_idle": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.jaguar_idle",
+    "sounds": [
+      {
+        "name": "zawa:jaguar_idle",
+        "stream": "false"
+      }
+    ]
+  },
+  "koala": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.koala",
+    "sounds": [
+      {
+        "name": "zawa:koala",
+        "stream": "false"
+      }
+    ]
+  },
+  "leopard": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.leopard",
+    "sounds": [
+      {
+        "name": "zawa:leopard",
+        "stream": "false"
+      }
+    ]
+  },
+  "owl": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.owl",
+    "sounds": [
+      {
+        "name": "zawa:owl",
+        "stream": "false"
+      }
+    ]
+  },
+  "rattlesnake": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.rattlesnake",
+    "sounds": [
+      {
+        "name": "zawa:rattlesnake",
+        "stream": "false"
+      }
+    ]
+  },
+  "rhino": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.rhino",
+    "sounds": [
+      {
+        "name": "zawa:rhino",
+        "stream": "false"
+      }
+    ]
+  },
+  "tamarin": {
+    "category": "ambient",
+    "subtitle": "zawa.subtitle.tamarin",
+    "sounds": [
+      {
+        "name": "zawa:tamarin",
+        "stream": "false"
+      }
+    ]
+  }
+}

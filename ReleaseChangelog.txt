@@ -122,7 +122,11 @@ seteffect/items.zs
 -- Asset Changes --
 -------------------
 Custom art by darkphan
-
+oresources/
+	organicadd/sounds.json
+		change boogereater sounds to "stream": "false" for performance reasons
+	zawa/sounds.json
+		change sounds to "stream": "false" for performance reasons
 
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
