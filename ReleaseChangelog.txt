@@ -1,8 +1,17 @@
 -------------------------------------------------------------------------------  
        	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/08/05 - 2020/09/11
+        Changelog - 2020/08/05 - 2020/09/12
         Version : 1.2.0
 -------------------------------------------------------------------------------
+-- Mod Freezes --
+-----------------
+Building Gadgets - 2.8.4 (no need functionality)
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+CraftPresence - 1.6.8 (Release Branch)
+CraftTweaker 2 - 4.1.20.586 (Release Branch)
+JEI - 4.16.1.301 (Release Branch)
+Soviet Era Mod - 0.4.0.15 (too many items without recipes. don't wanna.)
+Topography - 1.10.1 (no needed functionality)
 
 -- Added Mods --
 ------------------
@@ -14,12 +23,15 @@ TipTheScales (by Jared)
 ------------------
 Aetheneum (1.18.1 to 1.19.1)
 Bad Wither No Cookie - Reloaded (3.3.16 to 3.4.18)
+Common Capabilities (2.4.7 to 2.4.8)
 Controlling (3.0.9 to 3.0.10)
 CraftPresence (1.6.6 to 1.6.8)
 CraftTweaker (4.1.20.574 to 4.1.20.586)
 Critter Fights (1.0.2 to 1.0.3)
 Cyclic (1.20.4 to 1.20.5)
-Integrated Dynamics (1.1.7 to 1.1.8 to 1.1.9)
+In Control (3.9.16 to 3.9.17)
+Integrated Dynamics (1.1.7 to 1.1.8 to 1.1.9 to 1.1.10)
+Integrated Tunnels (1.6.12 to 1.6.13)
 JEI (4.15.0.296 to 4.16.1.301)
 Misty World (1.2.4.7 to 1.2.4.14 to 1.2.4.15)
 Mowzie's Mobs (1.5.6 to 1.5.7 to 1.5.8)
@@ -75,7 +87,10 @@ stupidthings.cfg
 	B:"Invisible Chestplate"=true
 	B:"Invisible Helmet"=true
 	B:"Invisible Leggings"=true
-uniquee.cfg
+tinymobfarm.cfg
+	S:"Mob Blacklist"
+		mowziesmobs:grottol
+.cfg
 	deaths_odium {
 		B:enabled=false
 

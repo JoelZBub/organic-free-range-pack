@@ -16,12 +16,15 @@ TipTheScales (by Jared)
 
 Aetheneum 
 Bad Wither No Cookie -Reloaded 
+Common Capabilities
 Controlling 
 CraftPresence 
 CraftTweaker 
 Critter Fights  	Increases aggro range 
 Cyclic 
+In Control
 Integrated Dynamics 
+Integrated Tunnels
 JEI 
 Misty World 
 Mowzie's Mobs 
@@ -54,7 +57,8 @@ Xaero's World Map
 * Fixed broken Menril Door recipe
 * Fixed Ore Excavation keybind conflict
 * Added Horn drop chance to Rhino Beetle
-
+* Blacklist grottol in TMF lasso to prevent ticking entity crash
+* Fixed incorrect recipe in Erebus recipe book
 
 
 Build 1.1.1
