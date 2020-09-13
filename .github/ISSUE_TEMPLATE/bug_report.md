@@ -23,7 +23,7 @@ More steps...
 
 
 ### Crash Report or Game Log
-Paste your crash report or log file to https://hatebin.com/ and paste the link here.
+Paste your crash report or log file to https://gist.github.com/ and paste the link here.
 
 
 ### Please complete the following information:

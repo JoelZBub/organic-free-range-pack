@@ -11,7 +11,6 @@ import crafttweaker.item.IIngredient;
 */
 static itemRecipeRemoval as IItemStack[] = [
 //	<modid:itemname:meta>
-	<fossil:tardrop:0>
 ];
 
 /*
@@ -63,11 +62,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 			[<mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>, <mod:itemname:meta>]
 		]
 	}	*/
-	<fossil:tardrop:0> * 4 : {
-		"fossil_tardrop" : [
-			[<ore:tarBucket>]
-		]
-	}
 };
 
 
