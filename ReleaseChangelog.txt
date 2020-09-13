@@ -104,6 +104,8 @@ recipesCrafting/crayfishfurniture.zs
 	Changed knife recipe to fix conflict
 recipesCrafting/deepmoblearning.zs
 	Swapped Tarantula Boss Trophy for Powered Glider in Chestplate recipe
+recipesCrafting/fossils.zs
+	remove tardrop recipe
 recipesCrafting/integrateddynamics.zs
 	fixed menril door
 recipesCrafting/inventorypets.zs

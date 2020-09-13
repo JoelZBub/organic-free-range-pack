@@ -59,6 +59,7 @@ Xaero's World Map
 * Added Horn drop chance to Rhino Beetle
 * Blacklist grottol in TMF lasso to prevent ticking entity crash
 * Fixed incorrect recipe in Erebus recipe book
+* Fixed Tar Drop recipe
 
 
 Build 1.1.1
