@@ -1,0 +1,22 @@
+{
+    "acquiring": {
+        "prevent_ghosts": true,
+        "prevent_kill_acquire": false,
+        "acquire_immediately": false
+    },
+    "morphs": {
+        "keep_morphs": true,
+        "disable_pov": false,
+        "disable_health": false,
+        "disable_morph_animation": false,
+        "disable_morph_disguise": true,
+        "disable_first_person_hand": false,
+        "morph_in_tight_spaces": false,
+        "show_morph_idle_sounds": true,
+        "pause_gui_in_sp": true,
+        "max_recent_morphs": 20,
+        "allow_morphing_into_category_morphs": false,
+        "load_entity_morphs": true,
+        "spawn_particles_first_person": false
+    }
+}

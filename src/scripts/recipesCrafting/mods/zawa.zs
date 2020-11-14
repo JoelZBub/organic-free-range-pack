@@ -108,7 +108,7 @@ static namedShapedRecipes as IIngredient[][][][string][IItemStack] = {
 			]
 		]
 	},
-	<zawa:steel_bars> : {
+	<zawa:steel_bars> *12: {
 		"zawa_steel_bars" : [
 			[
 	  			[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
