@@ -4,12 +4,14 @@
         "primary_color": 47267,
         "enable_borders": true,
         "enable_checkbox_rendering": false,
+        "enable_trackpad_increments": true,
         "enable_grid_rendering": true,
         "user_interface_scale": 0,
         "favorite_colors": []
     },
     "tutorials": {
         "enable_mouse_rendering": false,
+        "enable_mouse_buttons_rendering": false,
         "enable_keystrokes_rendering": false,
         "keystroke_offset": 10,
         "keystroke_position": 1

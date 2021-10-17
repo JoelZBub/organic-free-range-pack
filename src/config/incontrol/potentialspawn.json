@@ -28,10 +28,10 @@
           "groupcountmax": 2
         },
         {
-            "mob": "drones:drones.drone",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 2
+          "mob": "drones:drones.drone",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 2
         }
       ]
     }

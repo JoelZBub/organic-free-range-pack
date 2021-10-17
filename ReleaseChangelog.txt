@@ -1,6 +1,62 @@
 -------------------------------------------------------------------------------  
-       	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/09/26 - 2020/xx/xx
+	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/09/26 - 2021/xx/xx
+        Version : TBD
+-------------------------------------------------------------------------------
+
+TODO:	Update version
+     		Add Soviet recipes
+     		Add Soviet Buildings and Loot to Misty
+     		Test for any weirdness in misty, make Guide entries, etc.
+     		https://www.curseforge.com/minecraft/mc-mods/onslaught
+     		Test/configure YUNG's 
+
+
+-- Updated Mods --
+------------------
+Anvil Patch - lawful (1.0.1 to 1.1.0)
+Atheneum - (1.19.1 to 1.19.3)
+BASE - (3.13.0 to 3.14.0)
+Better Mineshafts (YUNG's) - (2.2 to 2.2.1)
+Building Gadgets - (2.8.3 to 2.8.4)
+
+-- Added Mods --
+------------------
+Builder's Bags (by Tschipp)
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Mod Freezes --
+-----------------
+Animania - 1.7.3
+
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+CraftTweaker 2 - 4.1.20.586 (Stable Branch)
+Dynamic Surroundings - 3.6.1.0 (Stable Branch)
+JEI - 4.16.1.301 (Stable Branch)
+Topography - 1.10.1 (no needed feature added)
+UniDict - (3.0.3) - (no needed feature added)
+Water Strainer - 3.2.0 - (no needed feature added)
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------  
+	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/09/26 - 2021/10/16
         Version : TBD
 -------------------------------------------------------------------------------
 
@@ -10,26 +66,42 @@ TODO: 	Update version
 
 -- Updated Mods --
 ------------------
-Atum 2 - (2.0.17 to 2.0.19)
+Anvil Patch - lawful (1.0.0 to 1.0.1)
+Atum 2 - (2.0.17 to 2.0.20)
 Content  Creator Integration (1.4.11 to 1.4.12)
 Cannibalism - (5.6.5 to 5.6.6)
-Changeling - (1.2_golem to 1.2.3)
+Changeling - (1.2_golem to 1.2.5)
 Charset Lib - (0.5.6.4 to 0.5.6.5)
-CraftPresence - (1.6.8 to 1.7.5)
+CraftPresence - (1.6.8 to 1.7.6)
 Cyclic - (1.20.5 to 1.20.8)
+CyclopsCore - (1.6.6 to 1.6.7)
 Disenchanter - (1.6 to 1.7)
-DominionLib - (1.0.4 to 2.1)
+DominionLib - (1.0.4 to 2.1.3)
+FoamFix (0.10.10 to 0.10.11)
+Forge (14.23.5.2854 to 14.23.5.2855)
+Fossils & Archeology Revival - (8.0.4 to 8.0.5)
 In Control! - (3.9.17 to 3.9.18)
-Misty World - (1.2.4.15 to 1.2.5.1)
-Patchouli - (1.0-21 to 1.0-22)
-Soviet Era Mod - (0.4.0.15 to 0.4-b26)
+Integrated Dynamics - (1.1.10 to 1.1.11)
+Integrated Tunnels - (1.6.13 to 1.6.14)
+Inventory Pets - (2.0.6 to 2.0.12)
+Just Enough Vehicles (1.2 to 2.0.0)
+LLibrary (1.7.19 to 1.7.20)
+Misty World - (1.2.4.15 to 1.2.5.3)
+Patchouli - (1.0-21 to 1.0-23.6)
+Simple Storage Network (1.7.11 to 1.8.0)
+Soviet Era Mod - (0.4.0.15 to 0.5)
+Thermal Logistics - (0.3-40 to 0.3-42)
 Topography - (1.10.1 to 1.14.4)
-Xaero's Minimap - (20.20.3 to 20.27.2)
-Xaero's World Map - (1.10.3 to 1.11.0)
+UniDict - (2.9.6to 3.0.3)
+WanionLib (2.4 to 2.5)
+Xaero's Minimap - (20.20.3 to 21.3.0.2)
+Xaero's World Map - (1.10.3 to 1.12.0.2)
 
 
 -- Added Mods --
 ------------------
+Fairy Lights
+YUNG's Better Mineshafts
 
 -- Config Changes --
 --------------------
@@ -37,16 +109,21 @@ changeling/metamorph
 	transferred custom settings from config.cfg to config.json
 cyclicmagic.cfg
 	# Does this break low-hardness blocks when thrown [default: false]
-+    B:boomerang.doesBreakBlocks=false
+    B:boomerang.doesBreakBlocks=false
 disenchanter.cfg
-	B:CheckVersion=false
+	delete and regen config for new version
+fossil.cfg
+	B:"Spawn Nautilus"=true
 mist.cfg
 	D:skillFactor <
         1.0
         1.0
         1.0
      >
-
+    B:enableUseBoneMeal=true 
+ZAWASpawnConfigurations.cfg
+	poacher
+		I:"Spawn Chance"=2
 
 -- Script Changes --
 --------------------
@@ -63,14 +140,13 @@ recipesCrafting/mods/
 -----------------
 Animania - 1.7.3
 Athenaeum - 1.19.1 (no needed feature added)
-Building Gadgets - 2.8.4 (no needed feature added)
+Building Gadgets - 2.8.3 (no needed feature added)
 Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
-CraftTweaker 2 - 4.1.20.586 (Release Branch)
-Dynamic Surroundings - 3.6.1.0 (Release Branch)
-JEI - 4.16.1.301 (Release Branch)
+CraftTweaker 2 - 4.1.20.586 (Stable Branch)
+Dynamic Surroundings - 3.6.1.0 (Stable Branch)
+JEI - 4.16.1.301 (Stable Branch)
 Topography - 1.10.1 (no needed feature added)
-UniDict - 2.9.6 - (no needed feature added)
-WanionLib - 2.4 - (no needed feature added)
+UniDict - (3.0.3) - (no needed feature added)
 Water Strainer - 3.2.0 - (no needed feature added)
 
 
