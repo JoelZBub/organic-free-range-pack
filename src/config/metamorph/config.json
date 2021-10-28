@@ -17,6 +17,7 @@
         "max_recent_morphs": 20,
         "allow_morphing_into_category_morphs": false,
         "load_entity_morphs": true,
-        "spawn_particles_first_person": false
+        "spawn_particles_first_person": false,
+        "disable_player_death_sound_fix": false
     }
 }

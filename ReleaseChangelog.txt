@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------  
 	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/09/26 - 2021/xx/xx
+        Changelog - 2020/09/26 - 2021/10/28
         Version : TBD
 -------------------------------------------------------------------------------
 
@@ -14,19 +14,88 @@ TODO:	Update version
 
 -- Updated Mods --
 ------------------
+Animania - (1.7.3 to Animania Base 2.0.3.28)
 Anvil Patch - lawful (1.0.1 to 1.1.0)
 Atheneum - (1.19.1 to 1.19.3)
 BASE - (3.13.0 to 3.14.0)
 Better Mineshafts (YUNG's) - (2.2 to 2.2.1)
 Building Gadgets - (2.8.3 to 2.8.4)
+Cannibalism - (5.6.6 to 5.6.8)
+Capsule (3.3.11 to 3.4.76)
+Changeling/Metamorph - (1.2.5 to 1.2.5.2)
+Content Creator Integration - (1.4.12 to 1.4.15)
+ContentTweaker - (4.9.1 to 4.10.0)
+CraftPresence - (1.7.6 to 1.8.8)
+CraftTweaker - (4.1.20.586 to 4.1.20.666)
+Cyberware - (0.2.11.26 to 0.2.11.29)
+Cyclic - (1.20.8 to 1.20.11)
+Disenchanter - (1.7 to 1.7*)
+Dropt - (1.18.0 to 1.19.1)
+Dynamic Surroundings - (3.6.1.0 to 3.6.3)
+Erebus - (1.0.31 to 1.0.32)
+Foamfix - (0.10.11 to 0.10.14)
+Inventory Pets - (2.0.12 to 2.0.15)
+JEI - (4.16.1.301 to 4.16.1.302)
+LootTweaker - (0.2.0 to 0.3.0 with old parser)
+ModTweaker - (4.0.18 to 4.0.20.5)
+MoreTweaker -  (1.0.16 to 1.0.19)
+MouseTweaks - (2.10 to 2.10.1)
+MTLib - (3.0.6 to 3.0.7)
+Mystical Lib - (1.9.0 to 1.13.0)
+Path Under Gates - (2.2.0 to 3.0.0)
+Reborn Core - (3.19.4.529 to 3.19.5)
+Recipe Stages - (1.1.3 to 1.1.3.8)
+Simple Storage Network - (1.8.0 to 1.8.2)
+Simply Cats - (0.0.3.1 to 0.0.4.1)
+Snow Real Magic -(0.3.3 to 0.5.5)
+Thermal Logistics - (0.3-42 to 0.3-43)
+UniDict - (3.0.3 to 3.0.8)
+Unique Enchantments - (1.9 to 2.1.2.1)
+Unlimited Chisel Works - (0.3.4 to 0.3.5)
+Water Strainer - (3.2.0 to 3.3.0)
+Xaero's Minimap - (21.3.0.2 to 21.20.0)
+Xaero's World Map - (1.12.0.2 to 1.18.0)
+ZAWA - (2.1.0 to 2.1.3)
+
 
 -- Added Mods --
 ------------------
+Animania Extra Animals
+Animania Farm 
 Builder's Bags (by Tschipp)
+Unique Enchantments Base
+Unique Enchantments - Utils
+Unique Enchantments - Battle
 
 -- Config Changes --
 --------------------
-
+animania.cfg
+	transfer settings from previous config
+animania_extra
+	transfer settings from previous animania.cfg
+animania_farm
+	transfer settings from previous animania.cfg
+capsule.cfg
+	compatibility
+		B:allowBluprintMirror=false
+		B:allowStandardMirror=false
+uniquee.cfg
+	removed in place of new Unique Enchantments configs
+SimplyCats
+	/simplycats-1.12.2-0.0.4.1.cfg
+		transfer settings from 0.0.3.1 config
+UniqueEnchantments.cfg
+	deaths_odium
+		B:activated=false
+		B:enabled=false
+		B:treasure=false
+ZooAndWildAnimalsRebuilt1.12.2-2.1.3
+	/ZAWA1.12.2-2.1.3.cfg
+		transfer settings from 2.1.0 config
+	/ZAWASpawnConfigurations.cfg
+		transfer settings from 2.1.0 config
+	/ZAWAModules
+		transfer settings from 2.1.0 config
 
 -- Script Changes --
 --------------------
@@ -38,15 +107,8 @@ Builder's Bags (by Tschipp)
 
 -- Mod Freezes --
 -----------------
-Animania - 1.7.3
-
 Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
-CraftTweaker 2 - 4.1.20.586 (Stable Branch)
-Dynamic Surroundings - 3.6.1.0 (Stable Branch)
-JEI - 4.16.1.301 (Stable Branch)
-Topography - 1.10.1 (no needed feature added)
-UniDict - (3.0.3) - (no needed feature added)
-Water Strainer - 3.2.0 - (no needed feature added)
+
 
 
 
