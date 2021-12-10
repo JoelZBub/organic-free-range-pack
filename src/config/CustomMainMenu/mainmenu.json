@@ -98,24 +98,6 @@
             }
         },
 
-        "server":
-        {
-            "text" : "",
-            "hoverText" : "Go to https://cubedhost.com/unclegennys",
-            "hoverTextColor" : 10352115,
-            "textOffsetY" : -14,
-            "texture" : "custommainmenu:textures/gui/server.png",                       
-            "posX" : -260,
-            "posY" : -126,
-            "width" :257,
-            "height" : 18,
-            "alignment" : "bottom_right",
-            "action" :
-            {
-                "type" : "openLink",
-                "link" : "https://cubedhost.com/unclegennys"
-            }  
-        },
 
         "twitch":
         {
@@ -170,7 +152,7 @@
 
         "packTxt":
         {
-            "text" : "Public Release Build: 1.2.0",
+            "text" : "Private Release Build: 1.9.9",
             "posX" : -132,
             "posY" : -43,
             "color" : -256,

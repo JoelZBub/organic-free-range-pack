@@ -1,3 +1,62 @@
+
+-------------------------------------------------------------------------------  
+	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/12/04 - 
+        Version : TBD
+        Forge Version : 14.23.5.2858
+-------------------------------------------------------------------------------
+
+TODO:	Update version
+     		Add Soviet recipes
+     		Add Soviet Buildings and Loot to Misty
+     		Test for any weirdness in misty, make Guide entries, etc.
+     		https://www.curseforge.com/minecraft/mc-mods/onslaught
+     		Test/configure YUNG's 
+     		Remove Cubedhost Branding and links
+
+-- Updated Mods --
+------------------
+Atheneum - (1.19.3 to 1.19.5)
+Cannibalism - (5.6.8 to 5.6.9)
+CraftTweaker - (4.1.20.666 to 4.1.20.670)
+Disenchanter - (1.7* to 1.8)
+LootTweaker - (0.3.0 to 0.3.1)
+Snow! Real Magic - (0.5.5 to 0.6.1)
+UniDict - (3.0.8 to 3.0.10)
+Unique Enchantments - (2.1.2.1 to 2.1.3)
+Unique Enchantments Base - (1.0.2 to 1.1.0)
+Unique Enchantments Battle - (1.1.2 to 1.1.3)
+Unique Enchantments Utils  - (1.4.2 to 1.5.0)
+WanionLib  - (2.5 to 2.6)
+Xaero's Minimap - (21.20.0 to 21.22.3)
+Xaero's World Map - (1.18.0 to 1.18.4)
+
+-- Added Mods --
+------------------
+Fix Experience Bug (by MacTso)
+
+-- Config Changes --
+--------------------
+CustomMainMenu/mainmenu.json
+	removed Cubedhost button
+	set to private release 1.9.9
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Mod Freezes --
+-----------------
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+
+
+
+
+
 -------------------------------------------------------------------------------  
 	Uncle Genny's 100% Organic & Free-Range Modpack
         Changelog - 2020/09/26 - 2021/10/28
