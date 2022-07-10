@@ -31,6 +31,7 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
+key_key.craftpresence.config_keycode.name:0:NONE
 key_key.changeAccess:23:NONE
 key_Up:200:NONE
 key_Down:208:NONE
@@ -41,7 +42,6 @@ key_Jump:57:NONE
 key_keybind.baublesinventory:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.lockBuilding:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -60,9 +60,13 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.lockBuilding:0:NONE
+key_keybind.openSelectionWheel:56:NONE
+key_keybind.openBaubleBag:19:NONE
 key_key.cavern.miningAssist:49:CONTROL
 key_key.cavern.miningRecords:68:NONE
 key_key.cavern.magicBook:0:NONE
+key_key.mclib.dashboard:11:NONE
 key_key.death_history:0:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_key.davincis.up:44:NONE
@@ -95,6 +99,7 @@ key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:47:NONE
 key_key.simplemobradar.scroll:42:NONE
 key_key.toastcontrol.clear:36:CONTROL
+key_Effect Key:29:NONE
 key_walljump.key.walljump:42:NONE
 key_key.cofh.multimode:24:NONE
 key_key.jei.toggleOverlay:24:CONTROL
@@ -118,13 +123,10 @@ key_key.rotate_mirror:0:NONE
 key_key.material_list:50:SHIFT
 key_key.metamorph.action:0:NONE
 key_key.metamorph.creative_menu:0:NONE
+key_key.metamorph.selector_menu:12:NONE
 key_key.metamorph.survival_menu:0:NONE
-key_key.metamorph.morph.next:27:NONE
-key_key.metamorph.morph.prev:26:NONE
-key_key.metamorph.morph.next_var:43:NONE
-key_key.metamorph.morph.prev_var:40:NONE
-key_key.metamorph.morph.select:28:NONE
-key_key.metamorph.morph.demorph:14:NONE
+key_key.metamorph.morph_recent:28:NONE
+key_key.metamorph.demorph:52:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
 key_key.craftingtweaks.balance:0:NONE
@@ -188,6 +190,9 @@ key_gui.xaero_zoom_in:51:NONE
 key_gui.xaero_zoom_out:52:NONE
 key_gui.xaero_new_waypoint:21:NONE
 key_gui.xaero_display_all_sets:0:NONE
+key_gui.xaero_toggle_light_overlay:0:NONE
+key_gui.xaero_toggle_entity_radar:0:NONE
+key_gui.xaero_reverse_entity_radar:0:NONE
 key_gui.xaero_minimap_settings:21:SHIFT
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:50:CONTROL

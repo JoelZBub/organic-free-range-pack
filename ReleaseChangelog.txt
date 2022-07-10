@@ -1,7 +1,138 @@
+-------------------------------------------------------------------------------  
+	Uncle Genny's 150% Organic & Free-Range Modpack
+        Changelog - 2020/12/22 - 
+        Version : 1.50
+        Forge Version : 14.23.5.2860
+-------------------------------------------------------------------------------
+
+TODO:	Update version
+     		Add Soviet recipes
+     		Add Soviet Buildings and Loot to Misty
+     		Test for any weirdness in misty, make Guide entries, etc.
+     		https://www.curseforge.com/minecraft/mc-mods/onslaught
+     		Test/configure YUNG's 
+
+-- Updated Mods --
+------------------
+
+
+-- Added Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Mod Freezes --
+-----------------
+
+
+
+
+
+
+
+
+
+
 
 -------------------------------------------------------------------------------  
 	Uncle Genny's 100% Organic & Free-Range Modpack
-        Changelog - 2020/12/04 - 
+        Changelog - 2020/12/22 - 
+        Version : TBD
+        Forge Version : 14.23.5.2860
+-------------------------------------------------------------------------------
+
+TODO:	Update version
+     		Add Soviet recipes
+     		Add Soviet Buildings and Loot to Misty
+     		Test for any weirdness in misty, make Guide entries, etc.
+     		https://www.curseforge.com/minecraft/mc-mods/onslaught
+     		Test/configure YUNG's 
+
+-- Updated Mods --
+------------------
+Unique Enchantments Base - (1.1.0 to 1.1.1)
+WanionLib - (2.6 to 2.7)
+Xaeros Minimap - (21.22.3 to 21.22.6)
+Xaeros World Map - (1.18.4 to 1.18.8)
+
+-- Added Mods --
+------------------
+Chunk Animator (by Lumine231)
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Mod Freezes --
+-----------------
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+
+-------------------------------------------------------------------------------  
+	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/12/04 - 2020/12/10
+        Version : TBD
+        Forge Version : 14.23.5.2858
+-------------------------------------------------------------------------------
+
+TODO:	Update version
+     		Add Soviet recipes
+     		Add Soviet Buildings and Loot to Misty
+     		Test for any weirdness in misty, make Guide entries, etc.
+     		https://www.curseforge.com/minecraft/mc-mods/onslaught
+     		Test/configure YUNG's 
+     		Remove Cubedhost Branding and links
+
+-- Updated Mods --
+------------------
+
+
+-- Added Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+CustomMainMenu/mainmenu.json
+fossil.cfg
+	    B:"Spawn Nautilus"=false
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Mod Freezes --
+-----------------
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+
+
+
+
+-------------------------------------------------------------------------------  
+	Uncle Genny's 100% Organic & Free-Range Modpack
+        Changelog - 2020/12/04 - 2020/12/10
         Version : TBD
         Forge Version : 14.23.5.2858
 -------------------------------------------------------------------------------
