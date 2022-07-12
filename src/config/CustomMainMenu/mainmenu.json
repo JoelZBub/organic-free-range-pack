@@ -152,8 +152,8 @@
 
         "packTxt":
         {
-            "text" : "Private Release Build: 1.9.9",
-            "posX" : -132,
+            "text" : "Private Release Build: 1.5.0",
+            "posX" : -139,
             "posY" : -43,
             "color" : -256,
             "alignment" : "bottom_right"

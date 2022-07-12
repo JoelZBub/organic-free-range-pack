@@ -1,23 +1,48 @@
 -------------------------------------------------------------------------------  
 	Uncle Genny's 150% Organic & Free-Range Modpack
-        Changelog - 2020/12/22 - 
+        Changelog - 2022/7/11 - 
         Version : 1.50
         Forge Version : 14.23.5.2860
 -------------------------------------------------------------------------------
 
-TODO:	Update version
+TODO:		Pack mode -EyeCandy or Potato
      		Add Soviet recipes
      		Add Soviet Buildings and Loot to Misty
      		Test for any weirdness in misty, make Guide entries, etc.
      		https://www.curseforge.com/minecraft/mc-mods/onslaught
      		Test/configure YUNG's 
+     		Add trusted domains to furniture mod config for photo frame/tv
 
 -- Updated Mods --
 ------------------
+Anvil Patch - (1.1.0 to 1.1.1)
+Charset Lib -(0.5.6.5 to 0.5.6.6)
+Chunk Animator - (1.2 to 1.2.1)
+CraftTweaker - (4.1.20.670 to 4.1.20.675)
+Cyclic - (1.20.11 to 1.20.12)
+Dropt - (1.19.1 to 1.19.3)
 
+ModTweaker -(4.0.20.5 to 4.0.20.11)
+Simple Storage Network - (1.8.2 to 1.8.3)
+Soviet Era - (0.5 to 0.6)
+Unique Enchantments - (1.9.0 to 2.1.4)
+Unique Enchantments Base - (1.1.1 to 1.1.4)
+Unique Enchantments Battle - (1.1.3 to 1.1.6)
+Unique Enchantments Utils - (1.5.0 to 1.5.1)
+WanionLib - (2.7 to 2.9)
+Xaero's Minimap - (21.22.6 to 22.10.0)
+Xaero's World Map - (1.18.8 to 1.25.1)
 
 -- Added Mods --
 ------------------
+Landmines (by SuperMarijn642)
+SuperMartijn642's Core Lib
+SuperMartijn642's Config Lib
+
+
+-- Removed Mods --
+------------------
+ReAuth (awkward with Microsoft login)
 
 
 -- Config Changes --
@@ -34,13 +59,9 @@ TODO:	Update version
 
 -- Mod Freezes --
 -----------------
-
-
-
-
-
-
-
+Caverns 2 - 2.3.0 (https://github.com/kegare/Cavern2/issues/68)
+JustEnoughIDs - 1.0.3-55 (No need for updated features)
+MrCrayfish's Furniture Mod - (5.3.1) (6.3.2 URL whitelist breaks images in structures)
 
 
 
